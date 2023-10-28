@@ -10,9 +10,9 @@ This document describes the Playboard automation and manual services that is pro
 
 The audience for this document includes:
 
-* Mobile User who will add URLs, via Bookmark or Email, and consume RSS feeds on their iPhone device.
+* Mobile User who will send messages, via Bookmarklet or Email, and consume RSS feeds on their iPhone device.
 
-* Mac User who will add URLs, via Bookmark or Email, consume RSS feeds, and query text from an archive on their workstation.
+* Mac User who will send messages, via Bookmarklet or Email, consume RSS feeds, and query text from an archive on their workstation.
 
 * DevSecOps Engineer who will design system workflows, configure any SaaS or selfhosted services, and plan for disaster recovery.
 
@@ -22,26 +22,36 @@ The audience for this document includes:
 
 1. Previously, there wasn't a systematic workflow to send a URL of an article (message), consume and save the message, which can then be queried using a search tool. The methods of sending a message via an Email, WhatsApp or Telegram led to a message sprawl.
 
-2. As an analogy, we have a system of sending messages to one or more queues based on the Tags. A Tag represents a queue, such that a message can be tagged to one or more Tags, hence it is fanned out to multiple queues. Messages in queues can be consumed as separate RSS feeds using Tags. For example, if a message is tagged with `Github`, then it will be appended to the RSS feed with `t:Github`.
+2. As an analogy, you have a system of sending messages to one or more queues based on the Tags. A Tag represents a queue, such that a message can be tagged to one or more Tags, hence it is fanned out to multiple queues. Messages in queues can be consumed as separate RSS feeds using Tags. For example, if a message is tagged with `Github`, then it will be appended to the RSS feed with `t:Github`.
 
-3. We have two methods of sending messages, either by Email or Bookmarklet, and on different devices, such as iPhone device or Mac workstation. This flexibility allows you to be more productive as you do not need to be in front of a workstation in order to send messages.
+3. You have two methods of sending messages, either by Email or Bookmarklet, and on different devices, such as iPhone device or Mac workstation. This flexibility allows you to be more productive as you do not need to be in front of a workstation in order to send messages.
 
-4. The messages are sent to a SaaS application (**Pinboard.in**), hence we don't have to manage the server or application. However, we are still responsible for disaster recovery. The SaaS application is a paid service that has two tiers: Standard (USD $22) and Pro (USD $39). The Pro tier includes a backup of your data on their cloud server for disaster recovery.
+4. The messages are sent to a SaaS application (**Pinboard.in**), hence you don't have to manage the server or application. However, you are still responsible for disaster recovery. The SaaS application is a paid service that has two tiers: Standard (USD $22) and Pro (USD $39). The Pro tier includes a backup of your data on their cloud server for disaster recovery.
 
 5. Currently, there isn't an automated process to save pages of individual Bookmarks as a PDF file. However, as the Bookmarks are consumed from RSS feeds, it is possible to automate this process.
 
-6. In order to search the content of your PDF archive, we have to index and query the text using a MacOS application (**Recoll**). The search function is not available online as the application runs on your workstation.
+6. In order to search the content of your PDF archive, you have to index and query the text using a MacOS application (**Recoll**). The search function is not available online as the application runs on your workstation.
+
+7. For disaster recovery, you have the option Backup & Restore only, as the service relies on a third-party SaaS application. Using the 3-2-1 backup strategy, you should always have 3 copies of your data, i.e. (1) your production data on the SaaS application (**Pinboard.in**), (2) a primary backup copy on your repository (this **GitHub.com** repo), and (3) a secondary backup copy on another site (TO DO).
 
 ## 2.2. Workflow
 
 This project uses several methods and products to optimize your workflow.
-- Uses a SaaS application (**Pinboard.in**) to produce Bookmarks using a Bookmarklet or by sending an Email.
+- Uses a SaaS application (**Pinboard.in**) to add Bookmarks by either a Bookmarklet or by sending an Email.
 - Uses a SaaS application (**Pinboard.in**) to manage Bookmarks and share them as separate RSS feeds using Tags.
 - Uses a MacOS/iOS application (**NetNewsWire**) to consume individual RSS feeds and save them to a cloud storage.
 - Uses a Cloud Storage (**OneDrive.com**) to read, write and synchronise the RSS feeds.
-- Uses a SaaS application (**Instapaper.com**) to backup all Bookmarks for disaster recovery.
+- Uses a CI pipeline (**GitHub Actions**) to store a primary backup of all Bookmarks for disaster recovery.
 - Uses a Chrome extension (**PrinterFriendly**) to save pages of individual Bookmarks as a PDF file.
 - Uses a MacOS application (**Recoll**) to index and query text from your PDF archive.
+
+## 2.3. Limitations
+
+This project has several limitations that may hinder your workflow.
+- There isn't an automated process to save pages of individual Bookmarks as a PDF file from your RSS feeds.
+- The search function is not available online as the application (**Recoll**) runs on your workstation.
+- There is no secondary backup data site for disaster recovery.
+- The Recovery Point Objective (RPO) for the Backup & Restore disaster recovery plan is ONE (1) day, however you can configure the CI pipeline to run more frequently.
 
 ---
 # 3. User Personas
@@ -53,6 +63,7 @@ This project uses several methods and products to optimize your workflow.
 | Installation and Configuration | Add a Save to Pinboard Bookmarklet on the Mac workstation |             |   R,A    |           |
 |           Execution            |                 Adding a URL via Bookmark                 |     R,A     |          |           |
 |           Execution            |           Consume an RSS feed in an RSS Reader            |     R,A     |          |           |
+|       Disaster Recovery        | Configure a CI pipeline to store a primary backup of data |             |          |    R,A    |
 
 ---
 # 4. Installation and Configuration
@@ -113,6 +124,85 @@ This runbook should be performed by the Mobile User.
 4. Refer to [Pinboard.in How To](https://pinboard.in/howto/#rss) for the URL pattern types.
 
 ```sh
-https://feeds.pinboard.in/rss/secret:TOKEN/u:USERNAME/t:TAG1
-https://feeds.pinboard.in/rss/secret:TOKEN/u:USERNAME/t:TAG1/t:TAG2
+https://feeds.pinboard.in/rss/secret:SECRET_TOKEN/u:USERNAME/t:TAG1
+https://feeds.pinboard.in/rss/secret:SECRET_TOKEN/u:USERNAME/t:TAG1/t:TAG2
 ```
+
+---
+# 6. Disaster Recovery
+## 6.1. Configure a CI pipeline to store a primary backup of data
+
+This runbook should be performed by the DevSecOps Engineer.
+
+The CI pipeline runs on a scheduled job and will backup all your Bookmarks to this repository using the API method.
+
+<details>
+<summary>
+There are two methods to export all Bookmarks automatically: (1) RSS, and (2) API.
+</summary>
+
+### RSS method
+
+The RSS feed URL requires a secret token, which you can obtain by Log in to your account > Click Private menu > Click RSS button. You can format the feed as JSON by replacing `rss` with `json`, for example:
+
+`https://feeds.pinboard.in/json/secret:SECRET_TOKEN/u:USERNAME/`
+
+```json
+[{
+    "u": "https:\/\/github.com\/dlt-hub\/dlt",
+    "d": "GitHub - dlt-hub\/dlt: data load tool (dlt) is an open source Python library that makes data loading easy 🛠️",
+    "n": "",
+    "dt": "2023-10-27T15:38:40Z",
+    "a": "dennislwm",
+    "t": [
+        "github",
+        "python",
+        "mlops"
+    ]
+},{
+    "u": "https:\/\/vikunja.io\/",
+    "d": "The open-source, self-hostable to-do app | Vikunja",
+    "n": "",
+    "dt": "2023-10-27T10:42:14Z",
+    "a": "dennislwm",
+    "t": [
+        "github",
+        "kanban",
+        "selfhosted"
+    ]
+}]
+```
+
+### API method
+
+The [API](https://pinboard.in/api) endpoint `v1/posts/all` requires an authentication token. You can format the response as JSON using the `format` parameter, for example:
+
+`curl -X GET "https://api.pinboard.in/v1/posts/all?auth_token=AUTH_TOKEN&format=json`
+
+```json
+[
+  {
+    "href": "https://github.com/dlt-hub/dlt",
+    "description": "GitHub - dlt-hub/dlt: data load tool (dlt) is an open source Python library that makes data loading easy 🛠️",
+    "extended": "",
+    "meta": "1803a37c8234a7358d123fa07757de6d",
+    "hash": "e65e8ed7ea527d65cb2664968fb68606",
+    "time": "2023-10-27T15:38:40Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github python mlops"
+  },
+  {
+    "href": "https://vikunja.io/",
+    "description": "The open-source, self-hostable to-do app | Vikunja",
+    "extended": "",
+    "meta": "4bb1d6d4a8e7dbabbde237124389131d",
+    "hash": "aa129cbf485568e9781eb72975a6028d",
+    "time": "2023-10-27T10:42:14Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github kanban selfhosted"
+  }
+]
+```
+</summary>
