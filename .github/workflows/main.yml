@@ -26,14 +26,21 @@ jobs:
       # Get all bookmarks
       - name: Backup all Bookmarks
         run: |
-          curl --version
+          curl --version && jq --version
+          response_api=$( curl -X GET "{{ secrets.API_BASE_URL }}/{{ secrets.API_ENDPOINT }}?auth_token={{ secrets.API_TOKEN }}&format=json" || echo "" )
+          if ! [[ -z "${response_api}" ]]; then
+            echo "${response_api}" | jq > bookmarks_api.json
+          fi
+          cat bookmarks_api.json
 
       # Update git repository
       - name: Commit and push if changed
         run: |
-          git add .
-          git diff
+          git --version
           git config --global user.email 'github-action-bot@example.com'
           git config --global user.email 'GitHub Action Bot'
-          git commit -am "Updated bookmarks_api.json" || echo "No changes to commit"
-          git push
+          if ! [[ -z $(git status --porcelain) ]]; then
+            git commit -am "Updated bookmarks"
+          else
+            echo "No changes to commit"
+          fi
