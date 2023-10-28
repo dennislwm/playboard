@@ -29,9 +29,9 @@ jobs:
           curl --version && jq --version
           response_api=$( curl -X GET "${{ secrets.API_BASE_URL }}/${{ secrets.API_ENDPOINT }}?auth_token=${{ secrets.API_TOKEN }}&format=json" || echo "" )
           if ! [[ -z "${response_api}" ]]; then
-            echo "${response_api}" | jq > bookmarks_api.json
+            mkdir -p api
+            echo "${response_api}" | jq > api/bookmarks.json
           fi
-          cat bookmarks_api.json
 
       # Update git repository
       - name: Commit and push if changed
@@ -42,6 +42,7 @@ jobs:
           if ! [[ -z $(git status --porcelain) ]]; then
             git add .
             git commit -m "Updated bookmarks"
+            git push
           else
             echo "No changes to commit"
           fi

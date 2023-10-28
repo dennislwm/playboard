@@ -136,6 +136,68 @@ This runbook should be performed by the DevSecOps Engineer.
 
 The CI pipeline runs on a scheduled job and will backup all your Bookmarks to this repository using the API method.
 
+1. Open your web browser and navigate to your remote repository > Settings > Secrets and variables > Actions.
+
+2. Click on New repository secret for each of these keys:
+  - `API_BASE_URL`: `https://api.pinboard.in`
+  - `API_ENDPOINT`: `v1/posts/all`
+  - `API_TOKEN`: API_TOKEN
+
+3. Create a new file `.github/workflows/main.yml` with the following code:
+
+```yaml
+# This workflow will install store a primary backup of all Bookmarks in this repo for disaster recovery.
+
+name: main
+
+# Controls when the action will run. Triggers the workflow on push or pull request
+# events but only for the master branch
+# * * * * *  UTC (Convert to Singapore: +0800)
+# ┬ ┬ ┬ ┬ ┬
+# │ │ │ │ └───── day of week (0 - 7) (0 to 6 are Sunday to Saturday, or use names; 7 is Sunday, the same as 0)
+# │ │ │ └────────── month (1 - 12)
+# │ │ └─────────────── day of month (1 - 31)
+# │ └──────────────────── hour (0 - 23)
+# └───────────────────────── min (0 - 59)
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron:  '1 0 * * *'
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      # Get all bookmarks
+      - name: Backup all Bookmarks
+        run: |
+          curl --version && jq --version
+          response_api=$( curl -X GET "${{ secrets.API_BASE_URL }}/${{ secrets.API_ENDPOINT }}?auth_token=${{ secrets.API_TOKEN }}&format=json" || echo "" )
+          if ! [[ -z "${response_api}" ]]; then
+            mkdir -p api
+            echo "${response_api}" | jq > api/bookmarks.json
+          fi
+
+      # Update git repository
+      - name: Commit and push if changed
+        run: |
+          git --version
+          git config --global user.email 'github-action-bot@example.com'
+          git config --global user.name 'GitHub Action Bot'
+          if ! [[ -z $(git status --porcelain) ]]; then
+            git add .
+            git commit -m "Updated bookmarks"
+            git push
+          else
+            echo "No changes to commit"
+          fi
+```
+
+4. The CI pipeline is configured to run on a daily schedule, or a push to the `main` branch.
+
 <details>
 <summary>
 There are two methods to export all Bookmarks automatically: (1) RSS, and (2) API.
@@ -177,7 +239,7 @@ The RSS feed URL requires a secret token, which you can obtain by Log in to your
 
 The [API](https://pinboard.in/api) endpoint `v1/posts/all` requires an authentication token. You can format the response as JSON using the `format` parameter, for example:
 
-`curl -X GET "https://api.pinboard.in/v1/posts/all?auth_token=AUTH_TOKEN&format=json`
+`curl -X GET "https://api.pinboard.in/v1/posts/all?auth_token=API_TOKEN&format=json`
 
 ```json
 [
