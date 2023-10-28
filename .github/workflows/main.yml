@@ -1,0 +1,39 @@
+# This workflow will install store a primary backup of all Bookmarks in this repo for disaster recovery.
+
+name: main
+
+# Controls when the action will run. Triggers the workflow on push or pull request
+# events but only for the master branch
+# * * * * *  UTC (Convert to Singapore: +0800)
+# ┬ ┬ ┬ ┬ ┬
+# │ │ │ │ └───── day of week (0 - 7) (0 to 6 are Sunday to Saturday, or use names; 7 is Sunday, the same as 0)
+# │ │ │ └────────── month (1 - 12)
+# │ │ └─────────────── day of month (1 - 31)
+# │ └──────────────────── hour (0 - 23)
+# └───────────────────────── min (0 - 59)
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron:  '1 0 * * *'
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      # Get all bookmarks
+      - name: Backup all Bookmarks
+        run: |
+          curl --version
+
+      # Update git repository
+      - name: Commit and push if changed
+        run: |
+          git add .
+          git diff
+          git config --global user.email 'github-action-bot@example.com'
+          git config --global user.email 'GitHub Action Bot'
+          git commit -am "Updated bookmarks_api.json" || echo "No changes to commit"
+          git push
