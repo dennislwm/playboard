@@ -27,7 +27,7 @@ jobs:
       - name: Backup all Bookmarks
         run: |
           curl --version && jq --version
-          response_api=$( curl -X GET "{{ secrets.API_BASE_URL }}/{{ secrets.API_ENDPOINT }}?auth_token={{ secrets.API_TOKEN }}&format=json" || echo "" )
+          response_api=$( curl -X GET "${{ secrets.API_BASE_URL }}/${{ secrets.API_ENDPOINT }}?auth_token=${{ secrets.API_TOKEN }}&format=json" || echo "" )
           if ! [[ -z "${response_api}" ]]; then
             echo "${response_api}" | jq > bookmarks_api.json
           fi
