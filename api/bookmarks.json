@@ -1,0 +1,101 @@
+[
+  {
+    "href": "https://github.com/chasx003/Runalyze-Tools",
+    "description": "GitHub - chasx003/Runalyze-Tools: Docker sample/template for self-hosted RUNALYZE",
+    "extended": "",
+    "meta": "bf2bcadab17474d4f0005a91d32e7eaf",
+    "hash": "c2765c2d67ddc4cea3da5dba6064ba34",
+    "time": "2023-10-28T05:32:48Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github health"
+  },
+  {
+    "href": "https://securitylabs.datadoghq.com/articles/following-attackers-trail-in-aws-methodology-findings-in-the-wild/",
+    "description": "Following attackers’ (Cloud)trail in AWS: Methodology and findings in the wild | Datadog Security Labs",
+    "extended": "",
+    "meta": "511381ff8423150034514a3fcbf86daa",
+    "hash": "d3f91bfe75a1d918a57b29cf324e7b3f",
+    "time": "2023-10-28T02:18:57Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "sre"
+  },
+  {
+    "href": "https://d1.awsstatic.com/whitepapers/compliance/CSA_Cyber_Trust_mark_certification_Cloud_Companion_Guide.pdf",
+    "description": "The CSA Cyber Trust mark certification",
+    "extended": "",
+    "meta": "eb943e54aaf7675fb045fd5c924a9e1c",
+    "hash": "80334c997ea8d00999a8a5151aa289d1",
+    "time": "2023-10-28T01:37:37Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "aws"
+  },
+  {
+    "href": "https://aws.amazon.com/blogs/compute/enhancing-runtime-security-and-governance-with-the-aws-lambda-runtime-api-proxy-extension/",
+    "description": "Enhancing runtime security and governance with the AWS Lambda Runtime API proxy extension | AWS Compute Blog",
+    "extended": "",
+    "meta": "647411007bb327c3a75071127054367c",
+    "hash": "870d9a3e4a49ea04a2e0e717b4a9c08b",
+    "time": "2023-10-28T00:19:50Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "aws"
+  },
+  {
+    "href": "https://aws.amazon.com/blogs/compute/archiving-and-replaying-messages-with-amazon-sns-fifo/",
+    "description": "Archiving and replaying messages with Amazon SNS FIFO | AWS Compute Blog",
+    "extended": "",
+    "meta": "2565d39c7a043eab0ff007e8fcdefff0",
+    "hash": "7a3dcc432f8dfcb49e9e300883cfc009",
+    "time": "2023-10-28T00:05:10Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "aws"
+  },
+  {
+    "href": "https://replicate.com/blog/run-latent-consistency-model-on-mac",
+    "description": "Generate images in one second on your Mac using a latent consistency model - Replicate – Replicate",
+    "extended": "",
+    "meta": "60ef2e0b8e3e9ffa6c7b755267561307",
+    "hash": "19d2441419407469f8336e54bd247afe",
+    "time": "2023-10-28T00:01:30Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python chatbot"
+  },
+  {
+    "href": "https://github.com/dssjon/biblos",
+    "description": "GitHub - dssjon/biblos: biblos.app",
+    "extended": "",
+    "meta": "3cc0035c5bbe43defe382187d84a783f",
+    "hash": "8c25bfbae9074a46e7d9afd596b27f34",
+    "time": "2023-10-27T23:50:54Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github search"
+  },
+  {
+    "href": "https://github.com/dlt-hub/dlt",
+    "description": "GitHub - dlt-hub/dlt: data load tool (dlt) is an open source Python library that makes data loading easy 🛠️",
+    "extended": "",
+    "meta": "1803a37c8234a7358d123fa07757de6d",
+    "hash": "e65e8ed7ea527d65cb2664968fb68606",
+    "time": "2023-10-27T15:38:40Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github python mlops"
+  },
+  {
+    "href": "https://vikunja.io/",
+    "description": "The open-source, self-hostable to-do app | Vikunja",
+    "extended": "",
+    "meta": "4bb1d6d4a8e7dbabbde237124389131d",
+    "hash": "aa129cbf485568e9781eb72975a6028d",
+    "time": "2023-10-27T10:42:14Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github kanban selfhosted"
+  }
+]
