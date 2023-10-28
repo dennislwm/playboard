@@ -40,7 +40,8 @@ jobs:
           git config --global user.email 'github-action-bot@example.com'
           git config --global user.name 'GitHub Action Bot'
           if ! [[ -z $(git status --porcelain) ]]; then
-            git commit -am "Updated bookmarks"
+            git add .
+            git commit -m "Updated bookmarks"
           else
             echo "No changes to commit"
           fi
