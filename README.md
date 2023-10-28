@@ -196,7 +196,9 @@ jobs:
           fi
 ```
 
-4. The CI pipeline is configured to run on a daily schedule, or a push to the `main` branch.
+4. Enable write permissions in your remote repository > Settings > Actions > General > Workflow permissions > Select **Read and write permissions**.
+
+5. Click Save. The CI pipeline is configured to run on a daily schedule, or a push to the `main` branch.
 
 <details>
 <summary>
