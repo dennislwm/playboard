@@ -1,5 +1,60 @@
 [
   {
+    "href": "https://dev.to/domfive/key-devops-metrics-to-measure-impact-in-2023-4eim",
+    "description": "Key DevOps Metrics To Measure Impact in 2023 - DEV Community",
+    "extended": "",
+    "meta": "77578a19e668260b62ca90c0307f830d",
+    "hash": "15f818e7c8e667d9350c9c3eaa46e1eb",
+    "time": "2023-10-31T00:47:39Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "sre"
+  },
+  {
+    "href": "https://aws.amazon.com/blogs/storage/manage-event-ordering-and-duplicate-events-with-amazon-s3-event-notifications/",
+    "description": "Manage event ordering and duplicate events with Amazon S3 Event Notifications | AWS Storage Blog",
+    "extended": "",
+    "meta": "5782c85bc8ba66f60dd6c44b0507239f",
+    "hash": "ef0aee783e4ab458c42e48878ef49939",
+    "time": "2023-10-31T00:46:24Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "aws"
+  },
+  {
+    "href": "https://aws.amazon.com/blogs/compute/sending-and-receiving-webhooks-on-aws-innovate-with-event-notifications/",
+    "description": "Sending and receiving webhooks on AWS: Innovate with event notifications | AWS Compute Blog",
+    "extended": "",
+    "meta": "215e7a5f3e0ba560947ea6c75e3c4a39",
+    "hash": "e4de1e8c6b69b713f61de256ed08911f",
+    "time": "2023-10-31T00:44:58Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "aws"
+  },
+  {
+    "href": "https://github.com/AlbertRtk/marketools",
+    "description": "GitHub - AlbertRtk/marketools: Tools for stock market analysis.",
+    "extended": "",
+    "meta": "9a87be61e720dd4bcc5cb42f83e0b10d",
+    "hash": "213c5a68dfc4e216af50c11a6398a92e",
+    "time": "2023-10-30T04:43:40Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github python"
+  },
+  {
+    "href": "https://umarbutler.com/how-i-built-the-largest-open-database-of-australian-law/",
+    "description": "How I built the largest open database of Australian law",
+    "extended": "",
+    "meta": "bf96eda96a65b0fca816a4341d815445",
+    "hash": "b0d90a3a86bb11bf08c083b23148192c",
+    "time": "2023-10-30T04:25:06Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
     "href": "https://github.com/NOXCIS/Worm-Hole",
     "description": "GitHub - NOXCIS/Worm-Hole: Private Local Network and Chat via WireGuard + AdGuard/Pihole w/ Local DNS",
     "extended": "",
