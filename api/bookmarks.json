@@ -1,5 +1,148 @@
 [
   {
+    "href": "https://github.com/lldap/lldap#sample-client-configurations",
+    "description": "GitHub - lldap/lldap: Light LDAP implementation",
+    "extended": "",
+    "meta": "c99fa94765bf6084ff6bb86fd0bdea1f",
+    "hash": "6ed8106ae31e4764d3e09e3fd00da0de",
+    "time": "2023-11-02T00:53:13Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/Qovery/Replibyte",
+    "description": "GitHub - Qovery/Replibyte: Seed your development database with real data ⚡️",
+    "extended": "",
+    "meta": "fdde87308851108627fa7de8b5479725",
+    "hash": "6f8385aee156b494126d61b1113f7fdc",
+    "time": "2023-11-01T15:55:38Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/gorhill/uBlock",
+    "description": "GitHub - gorhill/uBlock: uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
+    "extended": "",
+    "meta": "ce848aa8b08b2e3990145a706e278866",
+    "hash": "a1ece9817b331b353ef7e83308e5fae2",
+    "time": "2023-11-01T10:18:38Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/mhadidg/software-architecture-books",
+    "description": "GitHub - mhadidg/software-architecture-books: A comprehensive list of books on Software Architecture.",
+    "extended": "",
+    "meta": "3fd2e74e55ecf573cac8cd3298d55054",
+    "hash": "38fea6d7cd771eaf3c59fe7cef09976b",
+    "time": "2023-11-01T10:15:59Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/ytsaurus/ytsaurus",
+    "description": "GitHub - ytsaurus/ytsaurus: YTsaurus is a scalable and fault-tolerant open-source big data platform.",
+    "extended": "",
+    "meta": "1a2c02e707d1ddf929fff326af8c18e5",
+    "hash": "badca6c019b04f14b736ff45f4f9ce9e",
+    "time": "2023-11-01T10:15:01Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/Matbabs/Docktor",
+    "description": "GitHub - Matbabs/Docktor: Docktor is a Web App that deploys an easy-to-use kit of analysis and scanning tools.",
+    "extended": "",
+    "meta": "d4b1660e3b82cb3ea112b1b046386a35",
+    "hash": "38f69b3716ced7b8cf046c21808d3d24",
+    "time": "2023-11-01T10:13:12Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/streamdal/streamdal",
+    "description": "GitHub - streamdal/streamdal: Deployment for Streamdal server",
+    "extended": "",
+    "meta": "47801428c64f21fcd8b81f0f9b09a5ec",
+    "hash": "28477b435e5185c1b7e3fa270d3d603a",
+    "time": "2023-11-01T10:12:05Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/authzed/spicedb",
+    "description": "GitHub - authzed/spicedb: Open Source, Google Zanzibar-inspired fine-grained permissions database",
+    "extended": "",
+    "meta": "7d17e7aebd39a1387a84478aff65bcbf",
+    "hash": "3b54e308167720990f80bb4eb7c169a5",
+    "time": "2023-11-01T01:58:06Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://engineering.fb.com/2023/10/31/data-infrastructure/automating-data-removal/",
+    "description": "Automating data removal - Engineering at Meta",
+    "extended": "",
+    "meta": "244e54a6474de203f6516c7baffba726",
+    "hash": "7c6c9e58c32a233857a7e3bda709a1d7",
+    "time": "2023-11-01T01:55:47Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "solution"
+  },
+  {
+    "href": "https://github.com/rioastamal/installer-vscode-for-web",
+    "description": "GitHub - rioastamal/installer-vscode-for-web: Turn your fresh cloud VM into fully functional VS Code for the web with HTTPS enabled.",
+    "extended": "",
+    "meta": "da0e1f5370097e56d76ac00da05d4f57",
+    "hash": "3eb431d47fb01e9127553954218c0a8c",
+    "time": "2023-11-01T01:47:00Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://source.opennews.org/articles/our-search-best-ocr-tool-2023/",
+    "description": "Our search for the best OCR tool in 2023, and what we found - Features - Source: An OpenNews project",
+    "extended": "",
+    "meta": "b22d0d568988f93ff497fbbbfd4e5dd5",
+    "hash": "daac13f81f3b7f5f01ffb21d596585ec",
+    "time": "2023-11-01T01:42:39Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://github.com/formbricks/formbricks",
+    "description": "GitHub - formbricks/formbricks: Open Source Survey Toolbox",
+    "extended": "",
+    "meta": "2a9ce26b4b02b598e605eb79e21b765e",
+    "hash": "4ef717abe7a74b88322771252a4dae42",
+    "time": "2023-11-01T01:39:18Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://klabsdev.com/posts/SelfhostingAnalytics/",
+    "description": "Self-Host The Ultimate Web Analytics Dashboard - Swetrix | Kulik Labs Development",
+    "extended": "",
+    "meta": "5e7c8dd5653c30cb5e24e9999ade1a82",
+    "hash": "3479f5066415729b698c530fbe23baa2",
+    "time": "2023-11-01T01:35:04Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
     "href": "https://dev.to/domfive/key-devops-metrics-to-measure-impact-in-2023-4eim",
     "description": "Key DevOps Metrics To Measure Impact in 2023 - DEV Community",
     "extended": "",
