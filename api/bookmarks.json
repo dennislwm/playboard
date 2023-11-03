@@ -1,5 +1,82 @@
 [
   {
+    "href": "https://python-bloggers.com/2023/10/custom-openai-chatbot-pt1-pdf-scanning/",
+    "description": "Custom OpenAI Chatbot Pt1: PDF scanning | Python-bloggers",
+    "extended": "",
+    "meta": "a08254c5941da0a460fb56b9663b0f73",
+    "hash": "74e29d39f33941d4eba35db06ec3f481",
+    "time": "2023-11-02T08:28:58Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
+    "href": "https://github.com/stickfigure/blog/wiki/How-to-%28and-how-not-to%29-design-REST-APIs",
+    "description": "How to (and how not to) design REST APIs · stickfigure/blog Wiki",
+    "extended": "Blog Home",
+    "meta": "1b84ec0bfeca4901c749dce144c74cea",
+    "hash": "744f19d9521cd1c6b3c68e3801af48d9",
+    "time": "2023-11-02T08:21:08Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://samc1213.github.io/2023/10/27/selfhosting/",
+    "description": "How I Save $0 a Month Hosting Open Source Software in the Cloud · Sam Blogs",
+    "extended": "",
+    "meta": "8de758bd2a55fb18bb9b3070d6ea5297",
+    "hash": "f089d031cd3798827426d2ffc07b8982",
+    "time": "2023-11-02T08:05:51Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://github.blog/2023-10-16-measuring-git-performance-with-opentelemetry/",
+    "description": "Measuring Git performance with OpenTelemetry - The GitHub Blog",
+    "extended": "",
+    "meta": "6d56af33fee0ee635c6e7e553dc13d4f",
+    "hash": "9da493ef3d5999c1882bc5b6b1d0f276",
+    "time": "2023-11-02T08:01:56Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "sre"
+  },
+  {
+    "href": "https://thenewstack.io/translating-failures-into-service-level-objectives/",
+    "description": "Translating Failures into Service-Level Objectives - The New Stack",
+    "extended": "",
+    "meta": "3382507da2821e727916ff313cfa947d",
+    "hash": "be720d1c658d05471efbbc12ce4466f2",
+    "time": "2023-11-02T07:49:11Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "sre"
+  },
+  {
+    "href": "https://github.com/MattHodge/go-teedy",
+    "description": "GitHub - MattHodge/go-teedy: A Go client library and CLI for accessing the API of Teedy.",
+    "extended": "",
+    "meta": "208208e441c0acd042b891571b3913fe",
+    "hash": "2a3ccd87da946bff45daaf712159ec4e",
+    "time": "2023-11-02T01:22:41Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/huggingface/distil-whisper",
+    "description": "GitHub - huggingface/distil-whisper",
+    "extended": "",
+    "meta": "765cf2807435bb19524e7ba4326f4dce",
+    "hash": "181e27326f1e9d314f50d850d22d7ce8",
+    "time": "2023-11-02T01:16:29Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot github"
+  },
+  {
     "href": "https://github.com/lldap/lldap#sample-client-configurations",
     "description": "GitHub - lldap/lldap: Light LDAP implementation",
     "extended": "",
