@@ -1,5 +1,82 @@
 [
   {
+    "href": "https://www.developing.dev/p/from-microsoft-intern-to-meta-staff",
+    "description": "From Microsoft Intern to Meta Staff Engineer: Raviraj Achar",
+    "extended": "",
+    "meta": "c20822636c6164242a937b8a07342bf1",
+    "hash": "e9892f9e018f42668f65f5835073ebe1",
+    "time": "2023-11-03T15:32:50Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://github.com/awesomedata/awesome-public-datasets",
+    "description": "GitHub - awesomedata/awesome-public-datasets: A topic-centric list of HQ open datasets.",
+    "extended": "",
+    "meta": "5dd3f02659f22447ba1e0d4d6219b042",
+    "hash": "63fdbcecb27edda5299851a49c1ac2b7",
+    "time": "2023-11-03T02:32:48Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/dolthub/doltgresql",
+    "description": "GitHub - dolthub/doltgresql: DoltgreSQL - Version Controlled PostgreSQL",
+    "extended": "",
+    "meta": "78ff4e59877c6c5d744bf19888f534b2",
+    "hash": "a1a30dc9e38079e1c930987f3ab65ffd",
+    "time": "2023-11-03T02:16:54Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/SentryShot/sentryshot",
+    "description": "GitHub - SentryShot/sentryshot: Video Management System. Mirror of Codeberg.",
+    "extended": "",
+    "meta": "1e08f36f49f9c0fee0b2981b21dc6678",
+    "hash": "ee72a539f54e6b0690a4cbd56bca1ea0",
+    "time": "2023-11-03T02:09:12Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://dev.to/dorneanu/documentation-as-code-for-cloud-c4-model-structurizr-1ipe",
+    "description": "Documentation as Code for Cloud - C4 Model & Structurizr - DEV Community",
+    "extended": "",
+    "meta": "35d59b229e49ba87494b51a541746aef",
+    "hash": "232649b809aac6e5e59c7d07a7531d0f",
+    "time": "2023-11-03T02:05:17Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "diagram"
+  },
+  {
+    "href": "https://dev.to/aws-heroes/how-i-used-amazon-bedrock-to-write-schedule-and-post-my-tweets-12k7",
+    "description": "How I Used Amazon Bedrock to Write, Schedule, and Post My Tweets - DEV Community",
+    "extended": "",
+    "meta": "5f2474a578b16ecb53f44b1738496190",
+    "hash": "7655e39946a2e41213be940c9dc7c0c7",
+    "time": "2023-11-03T01:57:07Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "solution"
+  },
+  {
+    "href": "https://dev.to/szymon6927/enhancing-aws-athena-efficiency-building-a-python-athena-client-5ao2",
+    "description": "Enhancing AWS Athena Efficiency - Building a Python Athena Client - DEV Community",
+    "extended": "",
+    "meta": "7c91368345e34f173f7e102e785333fb",
+    "hash": "d8d3147ea4b878d8675ac3d723dcba58",
+    "time": "2023-11-03T01:54:53Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
     "href": "https://python-bloggers.com/2023/10/custom-openai-chatbot-pt1-pdf-scanning/",
     "description": "Custom OpenAI Chatbot Pt1: PDF scanning | Python-bloggers",
     "extended": "",
