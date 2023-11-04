@@ -48,7 +48,7 @@ This project uses several methods and products to optimize your workflow.
 ## 2.3. Limitations
 
 This project has several limitations that may hinder your workflow.
-- There isn't an automated process to save pages of individual Bookmarks as a PDF file from your RSS feeds.
+- There isn't an automated process to save pages of individual Bookmarks as a PDF file from your RSS feeds. However, we can use a CLI (**wkhtmltopdf**) to facilitate this automation.
 - The search function is not available online as the application (**Recoll**) runs on your workstation.
 - There is no secondary backup data site for disaster recovery.
 - The Recovery Point Objective (RPO) for the Backup & Restore disaster recovery plan is ONE (1) day, however you can configure the CI pipeline to run more frequently.
