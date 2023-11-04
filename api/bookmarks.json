@@ -1,5 +1,115 @@
 [
   {
+    "href": "https://aws.amazon.com/blogs/security/how-to-create-an-ami-hardening-pipeline-and-automate-updates-to-your-ecs-instance-fleet/",
+    "description": "How to create an AMI hardening pipeline and automate updates to your ECS instance fleet | AWS Security Blog",
+    "extended": "solution’s repository",
+    "meta": "63d926938d46f89ff2116ab5c42e8489",
+    "hash": "b93b20250bff4777a7ce0e5ba0626d96",
+    "time": "2023-11-04T03:59:09Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "aws"
+  },
+  {
+    "href": "https://medium.com/@TalBeerySec/a-short-note-on-aws-key-id-f88cc4317489",
+    "description": "A short note on AWS KEY ID. As I was playing with AWS… | by Tal Be'ery | Oct, 2023 | Medium",
+    "extended": "",
+    "meta": "c6107452518a5e739dcc3629b51b1bbf",
+    "hash": "9658488f66a0b9c7351bb06391022485",
+    "time": "2023-11-04T03:54:33Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "aws"
+  },
+  {
+    "href": "https://www.reddit.com/r/selfhosted/comments/16y2zv9/best_practices_for_a_selfhosted_production_website/?share_id=pNdC9Zu8yrq_FHwhNiZdP&utm_name=iossmf",
+    "description": "Best practices for a self-hosted production website? : selfhosted",
+    "extended": "",
+    "meta": "9e1bbfb778c4d312c07fb2b5cb684439",
+    "hash": "c6bb39226fb335a91a80f9c49f25d37f",
+    "time": "2023-11-04T02:38:53Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://aaron-kt-berry.medium.com/creating-proxmox-templates-with-packer-7ada62474c44",
+    "description": "Creating Proxmox Templates With Packer | by Aaron Berry | Medium",
+    "extended": "",
+    "meta": "c4ac5f9f9026ac3720297ac17dfd668c",
+    "hash": "4d68c78d9a9572e144d197dd45bec590",
+    "time": "2023-11-04T02:37:09Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://github.com/benbjohnson/litestream",
+    "description": "benbjohnson/litestream: Streaming replication for SQLite.",
+    "extended": "",
+    "meta": "b0cc64399d0837f92ce924edffcc9e48",
+    "hash": "80d1e265dad1b44b7aa3782aad8db379",
+    "time": "2023-11-04T02:33:32Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://dev.to/jolo/strategies-for-a-faster-lambda-development-2eb2",
+    "description": "Strategies for a Faster Lambda Development - DEV Community",
+    "extended": "",
+    "meta": "a09d3a5213bec48d93a34181a6ca02e9",
+    "hash": "804c24238d43e7eed56ef34a9206ca8a",
+    "time": "2023-11-04T02:16:40Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "aws"
+  },
+  {
+    "href": "https://github.com/dherault/serverless-offline",
+    "description": "dherault/serverless-offline: Emulate AWS λ and API Gateway locally when developing your Serverless project",
+    "extended": "",
+    "meta": "e19cd0e73fc6e326851b54bf2fea16cc",
+    "hash": "1b681575d2fdbc8909df12b153f7e1cf",
+    "time": "2023-11-04T02:16:11Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://aws.amazon.com/blogs/opensource/create-a-managed-ffmpeg-workflow-for-your-media-jobs-using-aws-batch/",
+    "description": "Create a Managed FFmpeg Workflow for Your Media Jobs Using AWS Batch | AWS Open Source Blog",
+    "extended": "",
+    "meta": "1224e5493e93d2edafc27dfc1e00d1d9",
+    "hash": "b6d8ef4b47519a27bcf64d5a70bef9d7",
+    "time": "2023-11-04T02:15:13Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "aws"
+  },
+  {
+    "href": "https://dev.to/edgarroman/workflow-for-transcribing-audio-in-aws-2h1a",
+    "description": "Workflow for transcribing audio in AWS - DEV Community",
+    "extended": "",
+    "meta": "5f4aa6aedc344d8e8ebdca949fcdb28c",
+    "hash": "abef1e2bf50c219a1ef3fac576ad7fd7",
+    "time": "2023-11-04T02:12:16Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "aws"
+  },
+  {
+    "href": "https://dev.to/mrwormhole/localstack-with-terraform-and-docker-for-running-aws-locally-3a6d",
+    "description": "Localstack with Terraform and Docker for running AWS locally - DEV Community",
+    "extended": "",
+    "meta": "a888a1237bc14f904f233e9f21cb5691",
+    "hash": "feb60e7fa2ae5397413e820e4b3a6393",
+    "time": "2023-11-04T02:07:08Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "aws"
+  },
+  {
     "href": "https://www.developing.dev/p/from-microsoft-intern-to-meta-staff",
     "description": "From Microsoft Intern to Meta Staff Engineer: Raviraj Achar",
     "extended": "",
