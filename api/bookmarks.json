@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://github.com/pyppeteer/pyppeteer",
+    "description": "pyppeteer/pyppeteer: Headless chrome/chromium automation library (unofficial port of puppeteer)",
+    "extended": "",
+    "meta": "b40ed4308c70d5c2db34966340ee559e",
+    "hash": "0e57d08831ee48eeef0bc613fb2bdd7a",
+    "time": "2023-11-04T06:45:25Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://itnext.io/which-kubernetes-distribution-should-you-choose-lessons-from-my-failure-2ba35e505a19",
+    "description": "Which Kubernetes Distribution Should You Choose? Lessons From My Failure. | by Matthew Duong | ITNEXT",
+    "extended": "",
+    "meta": "5d4a834297068d5b87baf2e585be0bd5",
+    "hash": "4c69a2ffa8ad7bc7485040629bb696b2",
+    "time": "2023-11-04T06:42:21Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "kubernetes"
+  },
+  {
+    "href": "https://garutilorenzo.github.io/deploy-kubernetes-for-free-oracle-cloud/",
+    "description": "Deploy a Kubernetes cluster for free, using k3s and Oracle Cloud always free resources. – Lorenzo Garuti – GitHub Pages Site",
+    "extended": "",
+    "meta": "88d4d856eedcc2822578b523e4a1a8c8",
+    "hash": "d712021654a4388bdfcbb752ec2d6e3b",
+    "time": "2023-11-04T06:40:16Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "kubernetes"
+  },
+  {
     "href": "https://aws.amazon.com/blogs/security/how-to-create-an-ami-hardening-pipeline-and-automate-updates-to-your-ecs-instance-fleet/",
     "description": "How to create an AMI hardening pipeline and automate updates to your ECS instance fleet | AWS Security Blog",
     "extended": "solution’s repository",
