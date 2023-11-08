@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://github.com/PeerDB-io/peerdb",
+    "description": "GitHub - PeerDB-io/peerdb: Postgres first ETL/ELT, enabling 10x faster data movement in and out of Postgres 🐘 🚀",
+    "extended": "",
+    "meta": "ddd937f6cc859a5cb91693b6b5672f1b",
+    "hash": "58dda6c7a20e2cecdaa0bed2c8e39544",
+    "time": "2023-11-07T01:33:05Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/IgnisDa/ryot",
     "description": "GitHub - IgnisDa/ryot: Roll your own tracker!",
     "extended": "",
