@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://github.com/ghik/kubernetes-the-harder-way",
+    "description": "GitHub - ghik/kubernetes-the-harder-way: Kubernetes the Hard Way, but harder and lengthier",
+    "extended": "",
+    "meta": "93bd0a7c403319198bf5caae326e7f11",
+    "hash": "cfa2bf036b4934c018adfbd852ce47d3",
+    "time": "2023-11-10T02:16:08Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/Cicada-Software/cicada",
+    "description": "GitHub - Cicada-Software/cicada: A FOSS, cross-platform version of GitHub Actions and Gitlab CI",
+    "extended": "",
+    "meta": "d3f9cf3125d31b049bb5ad5b170b4456",
+    "hash": "6d4364805e4f9fd0c0d5a50a6901ffc5",
+    "time": "2023-11-10T02:10:25Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/usebruno/bruno",
+    "description": "GitHub - usebruno/bruno: Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)",
+    "extended": "",
+    "meta": "d1ce3ecd437f9b506028a1b4b1e67f89",
+    "hash": "b0b4a8a9f655c2739b4b5f8a8c6c046e",
+    "time": "2023-11-10T02:07:42Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/warrant-dev/warrant",
+    "description": "GitHub - warrant-dev/warrant: Warrant is a highly scalable, centralized authorization service based on Google Zanzibar, used for defining, querying, and auditing application authorization models and access control rules.",
+    "extended": "",
+    "meta": "9eb492982508beb740daafd08edfebd7",
+    "hash": "d145e513bb4ef1200ad0d369dfb9d130",
+    "time": "2023-11-10T01:47:58Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://dev.to/katiel/testing-using-pytest-bei",
     "description": "Testing using Pytest! - DEV Community",
     "extended": "",
