@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://github.com/aws/res",
+    "description": "GitHub - aws/res: Research and Engineering Studio (RES) is an AWS supported open source product that enables IT administrators to provide an easy-to-use web portal for scientists and engineers to run technical computing workloads on AWS.",
+    "extended": "",
+    "meta": "cc68e852e95ea9dcad1fa344d77074d2",
+    "hash": "18b96e64672a42139ee88a7666530676",
+    "time": "2023-11-15T05:17:02Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/noborus/xlsxsql",
+    "description": "GitHub - noborus/xlsxsql: Execute SQL on xlsx file.",
+    "extended": "",
+    "meta": "1b7a3f5c76f94cdea9accedc868b048c",
+    "hash": "84f4a337978f2c0570824eeb2de2f7bc",
+    "time": "2023-11-15T05:15:39Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/erev0s/VAmPI",
+    "description": "GitHub - erev0s/VAmPI: Vulnerable REST API with OWASP top 10 vulnerabilities for security testing",
+    "extended": "",
+    "meta": "5e26a068f82d9dec36859138ac92a435",
+    "hash": "18de35019a25f96582b9a5c2e6649fcb",
+    "time": "2023-11-15T04:56:16Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/transcriptionstream/transcriptionstream",
+    "description": "GitHub - transcriptionstream/transcriptionstream: simple transcription and diarization with docker for offline use",
+    "extended": "",
+    "meta": "192cfcc95662b4408b395945b5f163ee",
+    "hash": "b23c5e1d3ed9a3f3160a1a0152b972df",
+    "time": "2023-11-15T04:53:45Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/fsndzomga/yc-startup-generator",
     "description": "GitHub - fsndzomga/yc-startup-generator: yc-startup-generator",
     "extended": "",
