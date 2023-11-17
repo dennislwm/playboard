@@ -1,5 +1,148 @@
 [
   {
+    "href": "https://github.com/google/blockly",
+    "description": "google/blockly: The web-based visual programming editor.",
+    "extended": "",
+    "meta": "02e56dd1d5dc05c10554c4abcc8f85e3",
+    "hash": "85aa0939e3478459e771cc9ca96a95eb",
+    "time": "2023-11-16T14:10:01Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://blog.frankel.ch/opentelemetry-collector/",
+    "description": "Exploring the OpenTelemetry Collector",
+    "extended": "",
+    "meta": "44372e4eb0bb067103535a743989b68b",
+    "hash": "33ac7dec5f7a6de5fb2483eaab7b78e2",
+    "time": "2023-11-16T12:47:25Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "sre"
+  },
+  {
+    "href": "https://github.com/nkaz001/hftbacktest",
+    "description": "GitHub - nkaz001/hftbacktest: A high-frequency trading and market-making backtesting tool accounts for limit orders, queue positions, and latencies, utilizing full tick data for trades and order books.",
+    "extended": "",
+    "meta": "7946228dac30aa0e93d6b65b436cbcf1",
+    "hash": "a7805c9b07b1f73fac53f160d5f5cbd1",
+    "time": "2023-11-16T10:34:43Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/nullpo-head/WSL-Hello-sudo",
+    "description": "GitHub - nullpo-head/WSL-Hello-sudo: Let's sudo by face recognition of Windows Hello on Windows Subsystem for Linux (WSL). It runs on both WSL 1 and WSL 2. This is a PAM module for Linux on WSL.",
+    "extended": "",
+    "meta": "8d4fdeae22c14ea1c379fc9c90e3665d",
+    "hash": "e72e9d2d3968f3a58c0537ff40ae93ee",
+    "time": "2023-11-16T10:34:08Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://stetsed.xyz/posts/email-notifications-with-ntfy-and-mailrise/",
+    "description": "'Email' Notifications With Ntfy and Mailrise | Stetsed's Guides",
+    "extended": "",
+    "meta": "6668efdf276d65dde67c4567b684b1d2",
+    "hash": "5f5486d71a9dd3cb1a1aa14555f4730f",
+    "time": "2023-11-16T10:23:55Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://dev.to/nfrankel/exploring-the-opentelemetry-collector-ldc",
+    "description": "Exploring the OpenTelemetry Collector - DEV Community",
+    "extended": "",
+    "meta": "b8e3092f73aa79973d7ee4fdc3938ecc",
+    "hash": "519bab38ea65028ce044c99b9b1450ca",
+    "time": "2023-11-16T10:14:22Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "sre"
+  },
+  {
+    "href": "https://github.com/tldraw/tldraw",
+    "description": "GitHub - tldraw/tldraw: a very good whiteboard",
+    "extended": "",
+    "meta": "74c5602f23b70a09d5b5975e559d1de0",
+    "hash": "aa95635afb712b7efffc57122223246f",
+    "time": "2023-11-16T10:04:43Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/KillianLucas/open-interpreter",
+    "description": "GitHub - KillianLucas/open-interpreter: OpenAI's Code Interpreter in your terminal, running locally",
+    "extended": "",
+    "meta": "f25431e051c8eabffac86791bf26f6e2",
+    "hash": "633564843ac9c546cce8884278cc7476",
+    "time": "2023-11-16T04:57:54Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/chrisvel/tududi",
+    "description": "GitHub - chrisvel/tududi: tu|du|di is a task and project management web application built with Sinatra",
+    "extended": "",
+    "meta": "b7db801e7b466ac0dad33b26da90ff1f",
+    "hash": "19caa80637d1090865723131b7ae3777",
+    "time": "2023-11-16T04:56:24Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/stas00/ml-engineering",
+    "description": "GitHub - stas00/ml-engineering: Machine Learning Engineering Guides and Tools",
+    "extended": "",
+    "meta": "5202f78e275b5bdf2c4aa2ef71a99072",
+    "hash": "272c083cdfe36549a2fc491adf31d14f",
+    "time": "2023-11-16T04:37:51Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/TBosak/ability",
+    "description": "GitHub - TBosak/ability: Ability is a browser extension that helps people with varying degrees of ability have more control over their browsing experience.",
+    "extended": "",
+    "meta": "5ecd1575903eb8f813cb1d32397f653e",
+    "hash": "99b3a348b5164117bfc1d4260ad50582",
+    "time": "2023-11-16T04:26:45Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/nedbat/dinghy",
+    "description": "nedbat/dinghy: A GitHub activity digest tool",
+    "extended": "something like this",
+    "meta": "1ec65fa69094a958e5070e4844bbb145",
+    "hash": "415a0ce19ae1fc9ed33b6d04a0dc5c2d",
+    "time": "2023-11-16T03:26:51Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://aws.amazon.com/blogs/compute/introducing-instance-maintenance-policy-for-amazon-ec2-auto-scaling/",
+    "description": "Introducing instance maintenance policy for Amazon EC2 Auto Scaling | AWS Compute Blog",
+    "extended": "",
+    "meta": "1fbd3e427ab619ed18ede63d1baf61cc",
+    "hash": "dfa0623c5b989e9889face04f3ca9d02",
+    "time": "2023-11-16T03:21:27Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "aws"
+  },
+  {
     "href": "https://github.com/aws/res",
     "description": "GitHub - aws/res: Research and Engineering Studio (RES) is an AWS supported open source product that enables IT administrators to provide an easy-to-use web portal for scientists and engineers to run technical computing workloads on AWS.",
     "extended": "",
