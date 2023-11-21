@@ -1,5 +1,82 @@
 [
   {
+    "href": "https://github.com/appsmithorg/appsmith",
+    "description": "appsmithorg/appsmith: Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.",
+    "extended": "",
+    "meta": "eb6e424dfcb123b45bbe467fa0e83541",
+    "hash": "c8abdaddab176cc0140462f3c49744e6",
+    "time": "2023-11-21T01:11:19Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://aws.amazon.com/blogs/devops/introducing-amazon-codewhisperer-for-command-line/",
+    "description": "Introducing Amazon CodeWhisperer for command line | AWS DevOps Blog",
+    "extended": "",
+    "meta": "e53c542f44f4f4a321f3579762c77cb4",
+    "hash": "bf3a2f559f52641c61af04df285f9149",
+    "time": "2023-11-21T01:08:13Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://github.com/charmbracelet/mods",
+    "description": "charmbracelet/mods: AI on the command line",
+    "extended": "",
+    "meta": "190463eec1aab43de699e3b4d64ff9d0",
+    "hash": "d7cab0ad626931a698ab74609909c3bd",
+    "time": "2023-11-21T00:36:41Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github chatbot"
+  },
+  {
+    "href": "https://aws.amazon.com/blogs/security/how-to-use-multiple-instances-of-aws-iam-identity-center/",
+    "description": "How to use multiple instances of AWS IAM Identity Center | AWS Security Blog",
+    "extended": "",
+    "meta": "7e13b45b766b4ebf9d36e18958540018",
+    "hash": "801c4e3d116e7e2f6152bebf01d7ceb8",
+    "time": "2023-11-21T00:26:53Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "aws"
+  },
+  {
+    "href": "https://github.com/typst/typst",
+    "description": "typst/typst: A new markup-based typesetting system that is powerful and easy to learn.",
+    "extended": "",
+    "meta": "1f6b87db466e5149a1b4899fad47103f",
+    "hash": "45afc6ae536e7b2328790731d836a570",
+    "time": "2023-11-21T00:10:03Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/canonical/microcloud",
+    "description": "GitHub - canonical/microcloud: Automated private cloud based on LXD, Ceph and OVN",
+    "extended": "",
+    "meta": "e56229f60aa1610a7b92a0f1ddfae1ba",
+    "hash": "95cc8df9b2f315cc124c6eab011f83ac",
+    "time": "2023-11-20T01:44:30Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/TheR1D/shell_gpt",
+    "description": "GitHub - TheR1D/shell_gpt: A command-line productivity tool powered by GPT-3 and GPT-4, will help you accomplish your tasks faster and more efficiently.",
+    "extended": "",
+    "meta": "234dee3e73431017ff89c036e602b4b4",
+    "hash": "1368410ac09aaa6206cf538de0247770",
+    "time": "2023-11-20T01:33:54Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/bridgecrewio/yor",
     "description": "bridgecrewio/yor: Extensible auto-tagger for your IaC files. The ultimate way to link entities in the cloud back to the codified resource which created it.",
     "extended": "",
