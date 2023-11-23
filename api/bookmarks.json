@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://github.com/ellite/Wallos",
+    "description": "ellite/Wallos: Wallos: Open-Source Personal Subscription Tracker",
+    "extended": "",
+    "meta": "f071f082eb16c180fa85cf442c19d19a",
+    "hash": "b1a0e927036c7f27491393d873189c76",
+    "time": "2023-11-22T09:52:08Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://itnext.io/the-inner-workings-of-https-encryption-authentication-and-security-layers-fe0fad4f426e",
+    "description": "The Inner Workings of HTTPS: Encryption, Authentication, and Security Layers | by Dwen | Nov, 2023 | ITNEXT",
+    "extended": "",
+    "meta": "69e976db706928f96781c0d05e12e592",
+    "hash": "3fde5b74584698eed09b5a74967b7156",
+    "time": "2023-11-22T07:35:09Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "security"
+  },
+  {
     "href": "https://github.com/appsmithorg/appsmith",
     "description": "appsmithorg/appsmith: Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.",
     "extended": "",
