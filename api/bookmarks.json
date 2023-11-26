@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://ln.hixie.ch/?start=1700627373&count=1",
+    "description": "Hixie's Natural Log: Reflecting on 18 years at Google",
+    "extended": "",
+    "meta": "5dbd1a16fea4a9b2dc9b423c07bbe4bf",
+    "hash": "4fff6ffbef8545ac947a9c50ff84c8aa",
+    "time": "2023-11-25T04:37:36Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://www.nngroup.com/articles/AI-conversation-types/",
+    "description": "The 6 Types of Conversations with Generative AI",
+    "extended": "",
+    "meta": "06006925f6b0a3b812e5f312ab15fe36",
+    "hash": "df226a55da06e882c5b8b62d50acfb4e",
+    "time": "2023-11-25T04:06:05Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://dev.to/remotesynth/building-a-virtual-events-site-4h2f",
+    "description": "Building a (Virtual) Events Site - DEV Community",
+    "extended": "",
+    "meta": "7bc72a40e819fb429ca5064820011194",
+    "hash": "2cd0cdd69d97da64478e3fb77812ef66",
+    "time": "2023-11-25T03:30:47Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
     "href": "https://github.com/ellite/Wallos",
     "description": "ellite/Wallos: Wallos: Open-Source Personal Subscription Tracker",
     "extended": "",
