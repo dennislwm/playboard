@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://github.com/pipelight/pipelight",
+    "description": "pipelight/pipelight: Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.",
+    "extended": "",
+    "meta": "bc6aefebf5f3c0b483b943f687c86e3f",
+    "hash": "8c86861715c5402f8a05923ad89652cc",
+    "time": "2023-11-27T00:46:22Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/jordan-cutler/path-to-senior-engineer-handbook",
+    "description": "jordan-cutler/path-to-senior-engineer-handbook: All the resources you need to get to Senior Engineer and beyond",
+    "extended": "",
+    "meta": "f28cbfced5f9f585815c78585f7636bd",
+    "hash": "dbccc6a847495f3dedf3c2d0c781a423",
+    "time": "2023-11-27T00:07:47Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://www.jonashietala.se/blog/2023/11/25/writing_lessons_learned_after_writing_a_book/",
+    "description": "Jonas Hietala: Writing lessons learned after writing a book",
+    "extended": "",
+    "meta": "286fcdf655f3b98c3667b36ddca48def",
+    "hash": "c580aac939508cb6b2217065c9002447",
+    "time": "2023-11-26T05:32:56Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "productivity"
+  },
+  {
     "href": "https://ln.hixie.ch/?start=1700627373&count=1",
     "description": "Hixie's Natural Log: Reflecting on 18 years at Google",
     "extended": "",
