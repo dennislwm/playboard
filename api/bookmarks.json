@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://aws.amazon.com/blogs/database/optimize-cost-and-boost-performance-of-rds-for-mysql-using-amazon-elasticache-for-redis/",
+    "description": "Optimize cost and boost performance of RDS for MySQL using Amazon ElastiCache for Redis | AWS Database Blog",
+    "extended": "",
+    "meta": "0210e9ae048718a427843c1188816aab",
+    "hash": "367de266d0a2daf8dbc0d09937ac8191",
+    "time": "2023-11-27T01:42:53Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "aws"
+  },
+  {
+    "href": "https://github.com/kevinSuttle/macOS-Defaults",
+    "description": "kevinSuttle/macOS-Defaults: A centralized place for the awesome work started by @mathiasbynens on .macos",
+    "extended": "",
+    "meta": "34e3740b131a095998a8c393d8900de8",
+    "hash": "863096daa29687af340a201fe0be8d32",
+    "time": "2023-11-27T01:39:56Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/hay-kot/homebox",
+    "description": "hay-kot/homebox: Homebox is the inventory and organization system built for the Home User",
+    "extended": "",
+    "meta": "b96571f1934195b77ebe29cf87ce8719",
+    "hash": "8f879f1039ddd54ce854b2c292c71404",
+    "time": "2023-11-27T01:35:49Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/pipelight/pipelight",
     "description": "pipelight/pipelight: Tiny automation pipelines. Bring CI/CD to the smallest projects. Self-hosted, Lightweight, CLI only.",
     "extended": "",
