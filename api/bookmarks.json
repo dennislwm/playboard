@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://martinfowler.com/articles/exploring-gen-ai.html#memo-08",
+    "description": "Exploring Generative AI",
+    "extended": "",
+    "meta": "8b951ed32c0ac71915bd3d7a8c3ac87c",
+    "hash": "4aaecf17d94c329670b6698b0901674a",
+    "time": "2023-11-30T00:52:22Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://docs.aws.amazon.com/wellarchitected/latest/saas-lens/saas-lens.html",
+    "description": "SaaS Lens - SaaS Lens",
+    "extended": "",
+    "meta": "be7b8be5a6e7acac5724483c1f8aeb7b",
+    "hash": "6a5ae6fd8e1f0c36e28f9f76d7741b3e",
+    "time": "2023-11-29T10:57:36Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "aws"
+  },
+  {
+    "href": "https://github.com/danswer-ai/danswer",
+    "description": "GitHub - danswer-ai/danswer: Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.",
+    "extended": "",
+    "meta": "e4c09fbbaa7762b5aa34236c9856648a",
+    "hash": "5b7d80b792396c6c1a8bd766130e2dac",
+    "time": "2023-11-29T10:48:14Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://aws.amazon.com/blogs/database/optimize-cost-and-boost-performance-of-rds-for-mysql-using-amazon-elasticache-for-redis/",
     "description": "Optimize cost and boost performance of RDS for MySQL using Amazon ElastiCache for Redis | AWS Database Blog",
     "extended": "",
