@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://github.com/AmrDeveloper/GQL",
+    "description": "AmrDeveloper/GQL: Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions",
+    "extended": "",
+    "meta": "e4763d46fc82d3ce088ad2619bf222a3",
+    "hash": "25dd73007a148e9f6885dde854e9b4f1",
+    "time": "2023-12-03T01:44:56Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://catalog.workshops.aws/complete-aws-sam/en-US",
     "description": "The Complete AWS SAM Workshop",
     "extended": "",
