@@ -1,5 +1,82 @@
 [
   {
+    "href": "https://blog.roblox.com/2023/12/making-robloxs-infrastructure-efficient-resilient/",
+    "description": "How We’re Making Roblox’s Infrastructure More Efficient and Resilient - Roblox Blog",
+    "extended": "",
+    "meta": "ee0a93877e96ddf551f94f047c69b69d",
+    "hash": "afe3a62b08564a8ce4347003eebf9725",
+    "time": "2023-12-12T08:25:44Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "sre"
+  },
+  {
+    "href": "https://github.com/oobabooga/text-generation-webui",
+    "description": "GitHub - oobabooga/text-generation-webui: A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.",
+    "extended": "",
+    "meta": "a9c004677468b7eb1982248a54d481d1",
+    "hash": "38d0fdcb6673c2e1aaf51984b0a753a2",
+    "time": "2023-12-12T08:19:08Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/jeffdapaz/VisualChatGPTStudio",
+    "description": "GitHub - jeffdapaz/VisualChatGPTStudio: Add chatGPT functionalities directly on Visual Studio",
+    "extended": "",
+    "meta": "488053ef040a0a7fb7ea4118d4a8e7bc",
+    "hash": "20f659e509e182626d2e3182dd0ee0dd",
+    "time": "2023-12-12T08:12:39Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/aws-samples/personalized-travel-itinerary-planner",
+    "description": "GitHub - aws-samples/personalized-travel-itinerary-planner: A Generative AI Chatbot application to provide personalized travel recommendations using Amazon Redshift and Amazon Bedrock",
+    "extended": "",
+    "meta": "5544cfcd999bab015145ddca740d8c29",
+    "hash": "67c7dac725bf9dba6caa224c0512c799",
+    "time": "2023-12-12T08:08:54Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://dev.to/carterbryden/how-to-allow-end-user-custom-domains-in-your-app-4hm0",
+    "description": "How to allow end-user custom domains in your app - DEV Community",
+    "extended": "",
+    "meta": "8b1e5b7a36774399d3d71d7a51764d49",
+    "hash": "fc490876c8555176c249031e06cb559c",
+    "time": "2023-12-12T07:50:35Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "solution"
+  },
+  {
+    "href": "https://github.com/charmbracelet/huh",
+    "description": "GitHub - charmbracelet/huh: A simple, powerful library for forms and prompts in the terminal 🤷🏻‍♀️",
+    "extended": "",
+    "meta": "05884263c09246a8899c71c3605c3a44",
+    "hash": "58a8a3455526f343e3e8b8b9df571362",
+    "time": "2023-12-12T07:34:57Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/syncany/syncany",
+    "description": "GitHub - syncany/syncany: Syncany is a cloud storage and filesharing application with a focus on security and abstraction of storage.",
+    "extended": "",
+    "meta": "e5ec87137275fe87ad5c0d03903c5eb8",
+    "hash": "4357ee4d191530fd2efb7ce10dd496be",
+    "time": "2023-12-12T07:24:27Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/AmrDeveloper/GQL",
     "description": "AmrDeveloper/GQL: Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions",
     "extended": "",
