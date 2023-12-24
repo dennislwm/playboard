@@ -1,5 +1,60 @@
 [
   {
+    "href": "https://github.com/syncthing/syncthing",
+    "description": "syncthing/syncthing: Open Source Continuous File Synchronization",
+    "extended": "",
+    "meta": "4a7e63efef24808413c66a08e81aeac9",
+    "hash": "e0b852e0e19ee3db27beaf233a65fc5b",
+    "time": "2023-12-23T08:16:29Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://monzo.com/documents/engineering-progression-framework-v3-0.pdf",
+    "description": "Engineering Progression Framework v3.0",
+    "extended": "",
+    "meta": "3d2032bc1b73719889e819ed953dd7c5",
+    "hash": "11afc6af6df8cfa2a7b8af987caaf35e",
+    "time": "2023-12-23T08:09:19Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://www.datadoghq.com/blog/kubernetes-cpu-requests-limits/",
+    "description": "A Deep Dive Into CPU Requests and Limits in Kubernetes | Datadog",
+    "extended": "",
+    "meta": "bf0307f9ef1218e93cf347283b4e47cb",
+    "hash": "82bd39473dcc3f0b1dcf1e1a870f3459",
+    "time": "2023-12-23T07:55:44Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "kubernetes"
+  },
+  {
+    "href": "https://www.ranthebuilder.cloud/post/2023-summary-come-write-with-me",
+    "description": "2023 Summary & Come Write With Me!",
+    "extended": "",
+    "meta": "fcee8f130686f2dae1df7496def963ce",
+    "hash": "8e9332b121f252fd9da70115f0149db6",
+    "time": "2023-12-23T07:43:52Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "aws"
+  },
+  {
+    "href": "https://github.com/heyman/heynote/",
+    "description": "heyman/heynote: A dedicated scratchpad for developers",
+    "extended": "heynote.com",
+    "meta": "80aea2298bc88a3bd1cddcd8cb2927d6",
+    "hash": "51162af02dd65c8e89497ee4d8f81c42",
+    "time": "2023-12-23T06:41:12Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://minimaxir.com/2023/12/chatgpt-structured-data/",
     "description": "Pushing ChatGPT's Structured Data Support To Its Limits | Max Woolf's Blog",
     "extended": "",
