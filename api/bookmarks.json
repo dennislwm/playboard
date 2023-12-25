@@ -1,5 +1,60 @@
 [
   {
+    "href": "https://dongknows.com/how-synology-snapshot-keeps-your-data-safe/",
+    "description": "Synology Snapshot: Keeping Data 100% Safe | Dong Knows Tech",
+    "extended": "",
+    "meta": "8b51d14dd72ad3adc7ebf0dc7923fa71",
+    "hash": "42069d24454611253e8a775e9bf9306b",
+    "time": "2023-12-24T14:38:56Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://grafana.com/blog/2023/12/11/open-source-log-monitoring-the-concise-guide-to-grafana-loki/",
+    "description": "The concise guide to Grafana Loki for log monitoring",
+    "extended": "",
+    "meta": "f49dc232b75b1a4ac0dd1a89b5ac375a",
+    "hash": "cfd52a87a9f7ba0cc5f85e7bbca9321a",
+    "time": "2023-12-24T14:05:34Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "sre"
+  },
+  {
+    "href": "https://vadimkravcenko.com/shorts/managing-bad-engineers/",
+    "description": "Managing difficult software engineers",
+    "extended": "",
+    "meta": "7921aba229866f93eb169377f0bdea09",
+    "hash": "3589777186053ad76ac258df24e1e664",
+    "time": "2023-12-24T13:53:35Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://vadimkravcenko.com/shorts/habits-of-great-software-engineers/",
+    "description": "Habits of great software engineers",
+    "extended": "",
+    "meta": "7618193ee9f636bdb47c4818b86511fd",
+    "hash": "a1d072ae495443303767fb8ae9b447ec",
+    "time": "2023-12-24T13:53:29Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://jacobpadilla.com/articles/Git-Bisect",
+    "description": "Efficiently Debug Your Code With Git Bisect",
+    "extended": "",
+    "meta": "a5d0bb43200c95dc3099e3ec04a032d3",
+    "hash": "7cba438ae30cb2bbe58b39197f742088",
+    "time": "2023-12-24T04:00:48Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "productivity"
+  },
+  {
     "href": "https://github.com/syncthing/syncthing",
     "description": "syncthing/syncthing: Open Source Continuous File Synchronization",
     "extended": "",
