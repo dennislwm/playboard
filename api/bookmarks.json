@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://mattias.engineer/posts/terraform-testing-and-validation/",
+    "description": "A Comprehensive Guide to Testing in Terraform: Keep your tests, validations, checks, and policies in order :: mattias.engineer a blog about cloud architecture and development",
+    "extended": "",
+    "meta": "b25b7f4f0ecc5717dcce9b855d9e958d",
+    "hash": "599f22e69fa62f3fd216394d0d58da20",
+    "time": "2023-12-26T10:32:44Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "tdd"
+  },
+  {
+    "href": "https://aws.amazon.com/blogs/security/governance-at-scale-enforce-permissions-and-compliance-by-using-policy-as-code/",
+    "description": "Governance at scale: Enforce permissions and compliance by using policy as code | AWS Security Blog",
+    "extended": "",
+    "meta": "2a32cccd5da0a5a62331b8eb4d22b067",
+    "hash": "298aa057cd17a26275e44468fa3e0b6a",
+    "time": "2023-12-26T10:16:37Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "aws"
+  },
+  {
+    "href": "https://developers.cloudflare.com/email-routing/get-started/enable-email-routing/",
+    "description": "Enable Email Routing · Cloudflare Email Routing docs",
+    "extended": "",
+    "meta": "47547d5585609f078cd04d0023db5d41",
+    "hash": "27cad9a073df9d2a7825fc7ebdacecf5",
+    "time": "2023-12-26T09:47:41Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "autoresponder"
+  },
+  {
     "href": "https://dongknows.com/how-synology-snapshot-keeps-your-data-safe/",
     "description": "Synology Snapshot: Keeping Data 100% Safe | Dong Knows Tech",
     "extended": "",
