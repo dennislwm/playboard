@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://github.com/anordal/shellharden",
+    "description": "anordal/shellharden: The corrective bash syntax highlighter",
+    "extended": "",
+    "meta": "e9d70df3b0742481f57b911cb6c15247",
+    "hash": "fe135192c3b30803993a161cf96616a9",
+    "time": "2023-12-27T14:02:45Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/fonoster/goodtok",
+    "description": "fonoster/goodtok: A better shopping experience 🤙",
+    "extended": "",
+    "meta": "3219590019e127b715880c01e5eb26f1",
+    "hash": "08ed74cf0d3fceb2da8829869b425953",
+    "time": "2023-12-27T13:45:12Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/SecureAI-Tools/SecureAI-Tools",
+    "description": "SecureAI-Tools/SecureAI-Tools: Private and secure AI tools for everyone's productivity.",
+    "extended": "",
+    "meta": "998f22e516cc879f3391c626c3fede50",
+    "hash": "a4d4d357af867b871e5a6d775743c933",
+    "time": "2023-12-27T13:31:25Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://github.com/juspay/hyperswitch",
+    "description": "juspay/hyperswitch: An open source payments switch written in Rust to make payments fast, reliable and affordable",
+    "extended": "",
+    "meta": "cf95bbef9ff2acb0005fe2ed0f3926fb",
+    "hash": "fdb5f946bb904c29119ac3fca44b70d3",
+    "time": "2023-12-27T12:51:18Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://mattias.engineer/posts/terraform-testing-and-validation/",
     "description": "A Comprehensive Guide to Testing in Terraform: Keep your tests, validations, checks, and policies in order :: mattias.engineer a blog about cloud architecture and development",
     "extended": "",
