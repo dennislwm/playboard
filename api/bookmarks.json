@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://www.ranthebuilder.cloud/post/aws-re-invent-2023-serverless-takeaways",
+    "description": "AWS re:Invent 2023: My Serverless Takeaways",
+    "extended": "",
+    "meta": "5ee16c3357d23ab72e36000f0f184e3e",
+    "hash": "7060c8c77bbb59851611add7aa61c22e",
+    "time": "2023-12-30T02:49:35Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "aws"
+  },
+  {
+    "href": "https://www.canva.dev/blog/engineering/end-to-end-tracing/",
+    "description": "End-to-end Tracing - Canva Engineering Blog",
+    "extended": "",
+    "meta": "a4c51b0855207dfa0943eb4a7ef12946",
+    "hash": "170059719d3e4d5fb88ccc09090ab611",
+    "time": "2023-12-30T02:35:07Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "sre"
+  },
+  {
+    "href": "https://github.com/getsops/sops",
+    "description": "getsops/sops: Simple and flexible tool for managing secrets",
+    "extended": "",
+    "meta": "675473838581b4bd51016c6073b6a6cc",
+    "hash": "8b8e42fae2c243de7a680b2174900076",
+    "time": "2023-12-30T02:20:13Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://www.schneier.com/blog/archives/2023/12/ai-and-trust.html",
+    "description": "AI and Trust - Schneier on Security",
+    "extended": "",
+    "meta": "40c4ef1e3e05586052a19855ea0a3d46",
+    "hash": "abac00bf6150ce6a56c2615ab47fc0cb",
+    "time": "2023-12-30T02:08:42Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://github.com/leafac/kill-the-newsletter",
     "description": "leafac/kill-the-newsletter: Convert email newsletters into Atom feeds",
     "extended": "",
