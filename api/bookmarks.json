@@ -1,5 +1,60 @@
 [
   {
+    "href": "https://www.readysetcloud.io/blog/allen.helton/json-to-working-api-in-seconds/",
+    "description": "Using AI To Go From JSON to API in Seconds | Ready, Set, Cloud!",
+    "extended": "",
+    "meta": "9d10f7c8637952c98a3004043f2db2c9",
+    "hash": "8beda99345737c06eb6283bf359e9c4a",
+    "time": "2023-12-31T04:20:11Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "solution"
+  },
+  {
+    "href": "https://dev.to/kshyun28/a-developers-journal-simplifying-the-twelve-factor-app-25o",
+    "description": "A Developer's Journal: Simplifying the Twelve-Factor App - DEV Community",
+    "extended": "",
+    "meta": "c6cf34717a2022b6c2474c5fafad443e",
+    "hash": "dc2883ee92ab66ae41ff4d964f27d0f5",
+    "time": "2023-12-31T04:17:35Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "solution"
+  },
+  {
+    "href": "https://kevinhock.github.io/2023/11/26/preventing-accidental-internet-exposure-of-aws-resources-part-1-vpc.html",
+    "description": "Preventing Accidental Internet-Exposure of AWS Resources (Part 1: VPC) | Security",
+    "extended": "",
+    "meta": "445f6f9a9b73050405cfa679e2918174",
+    "hash": "ed0eeac163c830d9d96aae715bdb7f69",
+    "time": "2023-12-31T04:15:17Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "aws"
+  },
+  {
+    "href": "https://abstraction.blog/2023/11/22/intuitive-documentation-strategy",
+    "description": "An intuitive documentation strategy | Abstraction.blog",
+    "extended": "",
+    "meta": "a444a7de5206b4db7f3f1f1ecd6ca93d",
+    "hash": "0e6e9beba3384bb6cbc196446a8ef288",
+    "time": "2023-12-31T04:14:31Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "solution"
+  },
+  {
+    "href": "https://towardsdatascience.com/how-i-won-singapores-gpt-4-prompt-engineering-competition-34c195a93d41",
+    "description": "How I Won Singapore’s GPT-4 Prompt Engineering Competition | by Sheila Teo | Dec, 2023 | Towards Data Science",
+    "extended": "",
+    "meta": "b745d7cc464588d4ad9afeb3017a46e5",
+    "hash": "79220c49cdbfe6dc537771a405c0f280",
+    "time": "2023-12-31T03:19:05Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://www.ranthebuilder.cloud/post/aws-re-invent-2023-serverless-takeaways",
     "description": "AWS re:Invent 2023: My Serverless Takeaways",
     "extended": "",
