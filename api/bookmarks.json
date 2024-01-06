@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://www.chestergrant.com/summary-thinking-in-bets-by-annie-duke",
+    "description": "Summary: Thinking in Bets by Annie Duke - Chester Grant",
+    "extended": "",
+    "meta": "a4f504c5f4a8ca91ce1c8ee17d97b9d9",
+    "hash": "284353abe0b470f7750664fe2a4590e5",
+    "time": "2024-01-05T05:48:53Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://github.com/chris-short/chkcerts",
+    "description": "chris-short/chkcerts: A Go program to display certificate chains simply and quickly with an easy to remember syntax",
+    "extended": "",
+    "meta": "d8870be7fe01d03ffc6672f3d2f6fca8",
+    "hash": "d1fcde81ae9fbfc0b28e7ce3ef709c11",
+    "time": "2024-01-05T05:31:01Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://blog.greg.technology/2024/01/02/how-do-you-ocr-on-a-mac.html",
+    "description": "how do you ocr on a mac using the cli or just python for free | the greg technology blog",
+    "extended": "",
+    "meta": "efceb619e6bd4af7b45288cc25ce442e",
+    "hash": "a5f3ea86dbff1056c402df46cc50bcdd",
+    "time": "2024-01-05T05:27:32Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "productivity"
+  },
+  {
+    "href": "https://www.doczilla.app/",
+    "description": "Effortlessly create PDFs and screenshots - Doczilla",
+    "extended": "",
+    "meta": "a46d9c85dab1cdc452535c99eebfb501",
+    "hash": "4d0f5e036d25d8b9baf9fe8e2d2e1cf2",
+    "time": "2024-01-05T05:24:40Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "productivity"
+  },
+  {
     "href": "https://www.readysetcloud.io/blog/allen.helton/json-to-working-api-in-seconds/",
     "description": "Using AI To Go From JSON to API in Seconds | Ready, Set, Cloud!",
     "extended": "",
