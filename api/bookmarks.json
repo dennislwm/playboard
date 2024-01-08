@@ -1,5 +1,82 @@
 [
   {
+    "href": "https://ryan-schachte.com/blog/boring_tunnel/",
+    "description": "Create your own boring tunnel with Wireguard",
+    "extended": "",
+    "meta": "ad8dd8d8f458a8d8ea09766856f2ddfc",
+    "hash": "fa7c560c7743117e5cc756bed52c4146",
+    "time": "2024-01-08T01:08:08Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://github.com/fail2ban/fail2ban",
+    "description": "fail2ban/fail2ban: Daemon to ban hosts that cause multiple authentication errors",
+    "extended": "",
+    "meta": "589fc1deb9606b16683b8fb9db323c27",
+    "hash": "cd494a2d951be3103d40f5c0a17e7207",
+    "time": "2024-01-08T01:05:33Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/atuinsh/atuin",
+    "description": "atuinsh/atuin: ✨ Magical shell history",
+    "extended": "",
+    "meta": "368db2edad90633c8d78e24604c76ece",
+    "hash": "72afd2892af40042ced6e67a375a6c48",
+    "time": "2024-01-07T08:40:57Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://jacobian.org/2024/jan/4/diverse-hiring-playbook/",
+    "description": "My Diverse Hiring Playbook - Jacob Kaplan-Moss",
+    "extended": "",
+    "meta": "92fb24fb3653c26b2cac3be4d9f01246",
+    "hash": "d3805746509accc3c8ccec848bb416ee",
+    "time": "2024-01-07T08:35:00Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://papereditor.app/dev",
+    "description": "9 years of Apple text editor solo dev",
+    "extended": "",
+    "meta": "4e24a86b34995242f3d85565e4c0b555",
+    "hash": "210a27deb6e306888ac3e42b62d8f78d",
+    "time": "2024-01-07T08:34:32Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://blog.alexewerlof.com/p/tech-debt-day",
+    "description": "We invested 10% to pay back tech debt; Here's what happened",
+    "extended": "",
+    "meta": "ccde864134d094ece282358fc8b5171e",
+    "hash": "86d5e8b965304aaddfd3ba6f038d7635",
+    "time": "2024-01-07T08:33:04Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "productivity"
+  },
+  {
+    "href": "https://github.com/casey/just",
+    "description": "casey/just: 🤖 Just a command runner",
+    "extended": "",
+    "meta": "819244aeb28fc0ee5f5f69e664460f20",
+    "hash": "89a6eb50520882a2994f32d8e49aee5a",
+    "time": "2024-01-07T08:32:28Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://www.chestergrant.com/summary-thinking-in-bets-by-annie-duke",
     "description": "Summary: Thinking in Bets by Annie Duke - Chester Grant",
     "extended": "",
