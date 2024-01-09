@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://github.com/comfyanonymous/ComfyUI",
+    "description": "comfyanonymous/ComfyUI: The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.",
+    "extended": "",
+    "meta": "bab3ae836b5ddfb80484e090e566ae37",
+    "hash": "a57008edf30af53a1a523e87f0945b0b",
+    "time": "2024-01-08T06:45:11Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://marclou.beehiiv.com/p/7-lessons-from-building-9-startups-as-a-solopreneur",
+    "description": "7 lessons from building 9 startups as a solopreneur",
+    "extended": "",
+    "meta": "01c744632d5929e2a579f40d0071cb7f",
+    "hash": "09e97c722f8ee13368bd97d4441825b9",
+    "time": "2024-01-08T01:57:01Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "seo"
+  },
+  {
+    "href": "https://rafichaudhury.com/site/blog/Folderbase",
+    "description": "Building a Personal Internet from Markdown Files - Rafi's Website",
+    "extended": "",
+    "meta": "33a00e262355d0e8deae2d468e339f21",
+    "hash": "9739ed8f447474a9f056667a7e36c98d",
+    "time": "2024-01-08T01:53:48Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
     "href": "https://ryan-schachte.com/blog/boring_tunnel/",
     "description": "Create your own boring tunnel with Wireguard",
     "extended": "",
