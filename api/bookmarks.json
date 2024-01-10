@@ -1,5 +1,115 @@
 [
   {
+    "href": "https://www.fabianzeindl.com/posts/the-codequality-pyramid",
+    "description": "The code quality pyramid",
+    "extended": "",
+    "meta": "e30f1d5db13ef5e62b39e4e2bf0e27ac",
+    "hash": "055eb32a660c7fe20fa5f381c01d6f50",
+    "time": "2024-01-10T01:10:20Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "tdd"
+  },
+  {
+    "href": "https://shopify.engineering/technical-debt-25-percent-rule",
+    "description": "The 25 Percent Rule for Tackling Technical Debt (2024)",
+    "extended": "",
+    "meta": "30d4cab146eaf61d64881be2d7988a59",
+    "hash": "114ee423857732f18892df488eb2dc35",
+    "time": "2024-01-10T01:08:39Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "solution"
+  },
+  {
+    "href": "https://aws.amazon.com/builders-library/automating-safe-hands-off-deployments/?did=ba_card&trk=ba_card",
+    "description": "Automating safe, hands-off deployments",
+    "extended": "",
+    "meta": "30a67e554e2cd6ee6602177420d6bfba",
+    "hash": "e2e7b9d83d3c6bd6f0a443989741690c",
+    "time": "2024-01-10T01:07:11Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "aws"
+  },
+  {
+    "href": "https://github.com/PKHarsimran/UniversalWebTracker",
+    "description": "GitHub - PKHarsimran/UniversalWebTracker: 🔍 Effortlessly monitor any website with our versatile Python script, originally designed for tracking Cortex agent version updates. Stay informed with prompt alerts whenever there are updates or changes, ensuri",
+    "extended": "",
+    "meta": "a71d640030f42432dafb53a9f5b04259",
+    "hash": "e10e6ee62a7a16fe721e97787b22a4c6",
+    "time": "2024-01-09T10:20:14Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/linkwarden/linkwarden",
+    "description": "GitHub - linkwarden/linkwarden: ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages.",
+    "extended": "",
+    "meta": "0a3f77e7f2290cf739a9baa2ec40cd57",
+    "hash": "9560f19b30b64fbe233eb18c3bf02700",
+    "time": "2024-01-09T10:17:33Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/louislam/demo-kuma",
+    "description": "GitHub - louislam/demo-kuma",
+    "extended": "",
+    "meta": "36ff82eda16fc47a4676a4406ef5f5e0",
+    "hash": "f4c1fd6f3421a11d612df57dbf280170",
+    "time": "2024-01-09T10:12:34Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://johnnydecimal.com/20-29-communication/22-blog/22.00.0025-systems-data-knowledge/",
+    "description": "22.00.0025 Systems, data, and knowledge║J•D",
+    "extended": "",
+    "meta": "0621fad5d97fc0df404e98792914bd6c",
+    "hash": "5e74551f2fd5fb561b4256f6ac027285",
+    "time": "2024-01-09T10:02:16Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "productivity"
+  },
+  {
+    "href": "https://www.wiz.io/blog/how-to-set-secure-defaults-on-aws",
+    "description": "Setting secure AWS defaults and avoiding misconfigurations | Wiz Blog",
+    "extended": "",
+    "meta": "f9ada78a8156ab4037f304db9fc81000",
+    "hash": "329a90dbd1270560c9263d7790417785",
+    "time": "2024-01-09T09:59:40Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "aws"
+  },
+  {
+    "href": "https://github.com/negrel/bulkcompress.photos",
+    "description": "GitHub - negrel/bulkcompress.photos: Bulk compress photos.",
+    "extended": "",
+    "meta": "dc05eb747489d256b5e3f25674fe3f9a",
+    "hash": "66c54346079a3a680e24732bcccfbad7",
+    "time": "2024-01-09T09:55:46Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/quickwit-oss/quickwit",
+    "description": "GitHub - quickwit-oss/quickwit: Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.",
+    "extended": "",
+    "meta": "79eda78e87c2e01cbcf31948cf586c23",
+    "hash": "335d7b2c8a79014da17479ffdb092f30",
+    "time": "2024-01-09T09:54:26Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/comfyanonymous/ComfyUI",
     "description": "comfyanonymous/ComfyUI: The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.",
     "extended": "",
