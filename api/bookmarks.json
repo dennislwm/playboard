@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://github.com/maybe-finance/maybe",
+    "description": "GitHub - maybe-finance/maybe: Personal finance and wealth management app",
+    "extended": "",
+    "meta": "346ff311b4437a3fe503ee84ceecc0a6",
+    "hash": "ab037be3a81d7b6b7078c833039fa259",
+    "time": "2024-01-13T02:56:19Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/marimo-team/marimo",
+    "description": "GitHub - marimo-team/marimo: A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.",
+    "extended": "",
+    "meta": "19497ca18f0c8a71f9580665301745e6",
+    "hash": "90029e484931d010df57b2d31f289abc",
+    "time": "2024-01-13T02:51:17Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/charyan/gbak",
+    "description": "GitHub - charyan/gbak: gbak : GitHub Repository Backup Script",
+    "extended": "",
+    "meta": "769b59d8d3aed419455571941bb34404",
+    "hash": "f64dba35de13135d123b999a12753e9c",
+    "time": "2024-01-13T02:48:32Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://www.fabianzeindl.com/posts/the-codequality-pyramid",
     "description": "The code quality pyramid",
     "extended": "",
