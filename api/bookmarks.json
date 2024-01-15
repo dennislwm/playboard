@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://loshadki.app/shellhistory/",
+    "description": "ShellHistory | Loshadki Apps",
+    "extended": "",
+    "meta": "c22d583b5fbf00f874b2ddf7b1074982",
+    "hash": "bf4aeadc535f0f6b523a6953406f35b8",
+    "time": "2024-01-14T05:27:09Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/openhue/openhue-cli",
+    "description": "GitHub - openhue/openhue-cli: OpenHue CLI is a command-line interface for interacting with Philips Hue smart lighting systems.",
+    "extended": "",
+    "meta": "3cab098284bb8bbd06c0f97e4093691d",
+    "hash": "bfb9bd21c30542673898a63f926b1d16",
+    "time": "2024-01-14T03:50:53Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/mag37/dockcheck",
+    "description": "GitHub - mag37/dockcheck: A script checking updates for docker images without pulling - then selectively auto-update some/all containers.",
+    "extended": "",
+    "meta": "c771763f77ad07ba11839acceaacc18e",
+    "hash": "5e0a695f15398179ed6b44f2341eff48",
+    "time": "2024-01-14T03:48:26Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/maybe-finance/maybe",
     "description": "GitHub - maybe-finance/maybe: Personal finance and wealth management app",
     "extended": "",
