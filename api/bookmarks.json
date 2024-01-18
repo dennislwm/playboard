@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://simonwillison.net/2024/Jan/16/python-lib-pypi/",
+    "description": "Publish Python packages to PyPI with my python-lib cookiecutter template and GitHub Actions",
+    "extended": "",
+    "meta": "9c40ccc187ebb2a43cef7cc6c1095acb",
+    "hash": "b5995793727df5e41af274b2349780ca",
+    "time": "2024-01-17T10:40:19Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
+    "href": "https://taras.glek.net/post/github-to-sops-lighter-weight-secret-management/",
+    "description": "github-to-sops: Easy way to manage passwords/keys with Github and SOPS - Taras' Blog on AI, Perf, Hacks",
+    "extended": "",
+    "meta": "7525b1b923d3cf38a46cf95a39614028",
+    "hash": "804e8a6979de18e4de1343eec8716faf",
+    "time": "2024-01-17T10:31:45Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "configenv"
+  },
+  {
     "href": "https://nixcademy.com/2024/01/15/nix-on-macos/",
     "description": "Setting up Nix on macOS",
     "extended": "",
