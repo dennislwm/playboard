@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://blog.bramp.net/post/2015/08/01/hugo-makefile/",
+    "description": "Hugo Makefile",
+    "extended": "",
+    "meta": "c33cf73f3e07d1d2e149f4f472143b55",
+    "hash": "17a8db6cad3968e425002315dd5afb2d",
+    "time": "2024-01-18T06:08:54Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "productivity"
+  },
+  {
+    "href": "https://kevinquinn.fun/blog/creating-pages-from-data-programmatically-for-hugo/",
+    "description": "Creating Pages from Data Programmatically for Hugo | Kevin Quinn",
+    "extended": "",
+    "meta": "2ed1c75b0fe0c4f19f3e4e939d7889db",
+    "hash": "b86672bca86d3a33093b6b1f0bd37155",
+    "time": "2024-01-18T06:07:53Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "productivity"
+  },
+  {
     "href": "https://simonwillison.net/2024/Jan/16/python-lib-pypi/",
     "description": "Publish Python packages to PyPI with my python-lib cookiecutter template and GitHub Actions",
     "extended": "",
