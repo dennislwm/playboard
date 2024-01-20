@@ -1,5 +1,82 @@
 [
   {
+    "href": "https://norvig.com/lispy.html",
+    "description": "(How to Write a (Lisp) Interpreter (in Python))",
+    "extended": "",
+    "meta": "47e5f2917dc947ed6ba62c99ccb3675b",
+    "hash": "43ad363a2797dccb27691521b3c101e5",
+    "time": "2024-01-19T09:45:51Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
+    "href": "https://norvig.com/lispy2.html",
+    "description": "(An ((Even Better) Lisp) Interpreter (in Python))",
+    "extended": "",
+    "meta": "1485c146d293bc48bf6cd497e4fa7033",
+    "hash": "96b601874ebdfc0bcbaaf1beddc1e9e0",
+    "time": "2024-01-19T09:45:43Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
+    "href": "https://norvig.com/spell-correct.html",
+    "description": "How to Write a Spelling Corrector",
+    "extended": "",
+    "meta": "d29b89f24be8fd3d918908d0c71b966f",
+    "hash": "1dfb6bbce6d357c939b6ad6e2775abbf",
+    "time": "2024-01-19T09:44:55Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
+    "href": "https://norvig.com/sudoku.html",
+    "description": "Solving Every Sudoku Puzzle",
+    "extended": "",
+    "meta": "3ff828aa125246499dba9117d2bcfd16",
+    "hash": "b6fb68896ea05bc16869be85d4ecffe0",
+    "time": "2024-01-19T09:43:52Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
+    "href": "https://norvig.com/python-iaq.html",
+    "description": "Python IAQ: Infrequently Answered Questions",
+    "extended": "",
+    "meta": "5f4f54667a667164c2f8bd6c315c9f1a",
+    "hash": "7defb47c942f4b3c44cca339c28be0f1",
+    "time": "2024-01-19T09:41:53Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
+    "href": "https://www.bitdoze.com/slash-docker-deploy/",
+    "description": "How to Deploy Your Link Shortener with Slash, Docker, and Dockge",
+    "extended": "Slash",
+    "meta": "1d47453103c29f959a9f9df95d3cdbe1",
+    "hash": "a8c695ecd2bbe2fe36a946a18fa596dc",
+    "time": "2024-01-19T09:32:32Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://dev.to/rowy/how-to-generate-seo-friendly-technical-blogs-from-youtube-videos-n74",
+    "description": "How to Generate SEO-Friendly Technical Blogs from YouTube Videos - DEV Community",
+    "extended": "buildship.com",
+    "meta": "0e26f5c62070a10277a37e1159e5c8c1",
+    "hash": "e87d67755cbdcfa6c5186e502d370bf5",
+    "time": "2024-01-19T06:06:12Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "productivity"
+  },
+  {
     "href": "https://blog.bramp.net/post/2015/08/01/hugo-makefile/",
     "description": "Hugo Makefile",
     "extended": "",
