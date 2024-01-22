@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://github.com/siph/resume-md",
+    "description": "siph/resume-md: Use markdown to generate a stylized resume in PDF and HTML and deploy a static site using GitHub Pages.",
+    "extended": "siph.github.io/resume-md/",
+    "meta": "3adbfe7431e9e97ddda19ab7521c1fac",
+    "hash": "15d195e18c35aa335a54db7b606a2576",
+    "time": "2024-01-21T03:54:07Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://bas.codes/posts/github-actions-resume",
+    "description": "Build An Online Resume with an Auto-Updating PDF Version Using GitHub Actions - Bas codes",
+    "extended": "resume.bas.work",
+    "meta": "6101d2851faa15cbe714797f00d0254c",
+    "hash": "83ea51f387d15256488c34d598fe01c9",
+    "time": "2024-01-21T03:53:43Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://www.buildfolio.io/",
+    "description": "Buildfolio | Developer Portfolio Platform",
+    "extended": "",
+    "meta": "7d659e9796c836f66348e27b97f38ea8",
+    "hash": "2662573e5eaaa0aa61811afebe1edba6",
+    "time": "2024-01-21T03:45:03Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://github.com/acrlakshman/profileio",
+    "description": "acrlakshman/profileio: Static site and resume generator from YAML based profile for students and researchers. Generates ready to deploy branches via github actions.",
+    "extended": "Generated Résumé",
+    "meta": "a1095288480a07a45d94289660eb8ef8",
+    "hash": "76dfe3642956e80113541177c50b86e6",
+    "time": "2024-01-21T03:41:37Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "productivity"
+  },
+  {
     "href": "https://norvig.com/lispy.html",
     "description": "(How to Write a (Lisp) Interpreter (in Python))",
     "extended": "",
