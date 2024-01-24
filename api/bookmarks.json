@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://aws.amazon.com/blogs/security/how-to-build-a-unified-authorization-layer-for-identity-providers-with-amazon-verified-permissions/",
+    "description": "How to build a unified authorization layer for identity providers with Amazon Verified Permissions | AWS Security Blog",
+    "extended": "",
+    "meta": "bcc2719915d318e87dce5573ba9eb215",
+    "hash": "d71e79fac617cd300528208c3c40365c",
+    "time": "2024-01-23T01:31:15Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "aws"
+  },
+  {
     "href": "https://github.com/siph/resume-md",
     "description": "siph/resume-md: Use markdown to generate a stylized resume in PDF and HTML and deploy a static site using GitHub Pages.",
     "extended": "siph.github.io/resume-md/",
