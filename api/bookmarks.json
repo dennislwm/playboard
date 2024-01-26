@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://lknuth.dev/writings/design_technical_interview/",
+    "description": "Design a Technical Interview | Lukas Knuth // Developer",
+    "extended": "",
+    "meta": "97262bcb46f95bf6128715131c244972",
+    "hash": "3d990319ed992058be49a0e321121a67",
+    "time": "2024-01-26T00:56:09Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://github.com/aio-libs/yarl",
+    "description": "aio-libs/yarl: Yet another URL library",
+    "extended": "",
+    "meta": "f340a7147523106fef14f4fce751ad3a",
+    "hash": "e7c576297d43a5505a95cbd975456f3b",
+    "time": "2024-01-26T00:54:36Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/hugapi/hug",
+    "description": "hugapi/hug: Embrace the APIs of the future. Hug aims to make developing APIs as simple as possible, but no simpler.",
+    "extended": "",
+    "meta": "e1af7303745daabe06f47eba869b02fb",
+    "hash": "fb6377a64d21781fb12b3105ba4c2167",
+    "time": "2024-01-26T00:54:22Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/AkashKarnatak/ytgpt",
+    "description": "AkashKarnatak/ytgpt: YTGPT is a Google Chrome extension that leverages the power of \"ChatGPT Anywhere\" to provide concise summaries of YouTube videos. Designed for users who want to grasp the key points of lengthy videos without spending a lot of time, YT",
+    "extended": "",
+    "meta": "4c8b367bc1376c20feff7220ccb35c2a",
+    "hash": "a492cffefaf9e06d65f5d1b070175518",
+    "time": "2024-01-26T00:39:16Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://aws.amazon.com/blogs/security/how-to-build-a-unified-authorization-layer-for-identity-providers-with-amazon-verified-permissions/",
     "description": "How to build a unified authorization layer for identity providers with Amazon Verified Permissions | AWS Security Blog",
     "extended": "",
