@@ -1,5 +1,60 @@
 [
   {
+    "href": "https://leebriggs.co.uk/blog/2019/02/07/why-are-we-templating-yaml",
+    "description": "Why the fuck are we templating yaml? | lbr.",
+    "extended": "",
+    "meta": "669274dfd99948f3ed124a7eafa1d2d3",
+    "hash": "65aff6a3bc61f214da433a945a065757",
+    "time": "2024-01-26T08:32:31Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "kubernetes"
+  },
+  {
+    "href": "https://chriswarrick.com/blog/2024/01/15/python-packaging-one-year-later/",
+    "description": "Python Packaging, One Year Later: A Look Back at 2023 in Python Packaging | Chris Warrick",
+    "extended": "",
+    "meta": "7d4af554f8f6722195f7836a7e74bc98",
+    "hash": "021de75c701f094627f53735164c48c7",
+    "time": "2024-01-26T08:31:40Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
+    "href": "https://dev.to/annaspies/generative-aiac-in-the-ide-with-application-composer-cfh",
+    "description": "Generative (A)IaC in the IDE with Application Composer - DEV Community",
+    "extended": "",
+    "meta": "2c6f9dfb4315806f731e086f7b35106b",
+    "hash": "47a98e323758090dc12ac389660cfcf9",
+    "time": "2024-01-26T08:31:31Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "aws"
+  },
+  {
+    "href": "https://python-bloggers.com/2024/01/python-security-audit/",
+    "description": "Python Security Audit | Python-bloggers",
+    "extended": "",
+    "meta": "68e310669b8c4f3385505d183a169887",
+    "hash": "08d4b63d4bcdbb669343c20fe8294475",
+    "time": "2024-01-26T01:10:56Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "tdd"
+  },
+  {
+    "href": "https://dev.to/amburi/most-commonly-used-git-command-shortcuts-nck",
+    "description": "Most commonly used Git command shortcuts - DEV Community",
+    "extended": "",
+    "meta": "78af6ef8943fb7099eda03ed2893938c",
+    "hash": "614f6b4e58309dd811b1f671a1bcd696",
+    "time": "2024-01-26T01:10:13Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "productivity"
+  },
+  {
     "href": "https://lknuth.dev/writings/design_technical_interview/",
     "description": "Design a Technical Interview | Lukas Knuth // Developer",
     "extended": "",
