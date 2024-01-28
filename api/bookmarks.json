@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://pyimagesearch.com/2020/08/10/opencv-sudoku-solver-and-ocr/",
+    "description": "OpenCV Sudoku Solver and OCR - PyImageSearch",
+    "extended": "",
+    "meta": "87b89605e270615826febb4e51ec837a",
+    "hash": "b70a47193c8910d373f346981d01e789",
+    "time": "2024-01-27T07:49:01Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
+    "href": "https://gitlab.com/christosangel/sudoku-solver-ocr",
+    "description": "Christos Angelopoulos / sudoku-solver-ocr · GitLab",
+    "extended": "",
+    "meta": "7fd3caf21ecdb176f25c57a0e1b31975",
+    "hash": "674a7b4e33e9d9c9089489dc324cd11e",
+    "time": "2024-01-27T07:48:54Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://pypi.org/project/sudoku-cli/",
+    "description": "sudoku-cli · PyPI",
+    "extended": " Stars: 0",
+    "meta": "9157282e0ff920afa2c810bf0c5e2194",
+    "hash": "05645fa55dd7a1911f609fb25bea8fdb",
+    "time": "2024-01-27T07:34:11Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
     "href": "https://leebriggs.co.uk/blog/2019/02/07/why-are-we-templating-yaml",
     "description": "Why the fuck are we templating yaml? | lbr.",
     "extended": "",
