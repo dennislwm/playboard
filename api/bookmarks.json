@@ -1,5 +1,104 @@
 [
   {
+    "href": "https://github.com/PierreBeucher/novops",
+    "description": "PierreBeucher/novops: Cross-platform secret & config manager for development and CI environments",
+    "extended": "",
+    "meta": "5dc962efea145f848d7b0d7f41bf74da",
+    "hash": "01f37e7e3ac476ae5eebedb19eaf5c28",
+    "time": "2024-01-29T01:04:13Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/open-nomie/nomie6-oss",
+    "description": "open-nomie/nomie6-oss: Opensource version of Nomie 6",
+    "extended": "",
+    "meta": "4f3b9df5b962059d1567dc08164fa925",
+    "hash": "d24003b14775dbca0f5295fa061dac52",
+    "time": "2024-01-29T01:00:39Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://itnext.io/decoding-network-policies-in-kubernetes-6fa480eb04eb",
+    "description": "Decoding Network Policies in Kubernetes | by Patrick Kalkman | Jan, 2024 | ITNEXT",
+    "extended": "",
+    "meta": "3a02faad5d4bbe07699767bc7978eb9b",
+    "hash": "c8d3dd31e4ca2ea6ef73812e0f61084f",
+    "time": "2024-01-29T01:00:16Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "kubernetes"
+  },
+  {
+    "href": "https://www.shownotes.io/",
+    "description": "Shownotes",
+    "extended": "",
+    "meta": "d33d0f648f6cc3245d970358a9e7878d",
+    "hash": "7071f8a3b63a794764ef040319d87b67",
+    "time": "2024-01-29T00:51:54Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "productivity"
+  },
+  {
+    "href": "https://ben.balter.com/2023/01/10/manage-like-an-engineer/",
+    "description": "Manage like an engineer | Ben Balter",
+    "extended": "",
+    "meta": "be152158108c0ba6b3c7b284b76d333f",
+    "hash": "a9c35e14d8122d14ff63485b7ef3d854",
+    "time": "2024-01-29T00:19:27Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://github.com/schlagmichdoch/PairDrop",
+    "description": "schlagmichdoch/PairDrop: PairDrop: Local file sharing in your browser. Inspired by Apple's AirDrop. Fork of Snapdrop.",
+    "extended": "",
+    "meta": "c82f86ac92ed1b798b5399664b48b307",
+    "hash": "c18ed31b7f9a0338e0711046731671d7",
+    "time": "2024-01-29T00:16:06Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://aws.amazon.com/blogs/training-and-certification/jan-2024-new-offerings/",
+    "description": "New courses and and certification offerings from AWS Training and Certification in January 2024 | AWS Training and Certification Blog",
+    "extended": "",
+    "meta": "d09b766466287b64141c4a47925a7177",
+    "hash": "15ae16c3c24787a75d3f82c1b58b7a64",
+    "time": "2024-01-28T02:00:04Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "aws"
+  },
+  {
+    "href": "https://blog.while-true-do.io/systemd-systemctl/?ref=selfh.st",
+    "description": "Systemd - systemctl (including Cheat Sheet)",
+    "extended": "",
+    "meta": "96b969379065267778fe1c0b3b916dfe",
+    "hash": "097b80d4ed9fd54854b1b18bd470435f",
+    "time": "2024-01-28T01:57:53Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "productivity"
+  },
+  {
+    "href": "https://willcrichton.net/notes/portable-epubs/",
+    "description": "Portable EPUBs",
+    "extended": "",
+    "meta": "7a7ab59f697a857294acb5383613b55a",
+    "hash": "ffaf50bf5d5e4cf870a618b518ee5ba7",
+    "time": "2024-01-28T01:55:04Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "solution"
+  },
+  {
     "href": "https://pyimagesearch.com/2020/08/10/opencv-sudoku-solver-and-ocr/",
     "description": "OpenCV Sudoku Solver and OCR - PyImageSearch",
     "extended": "",
