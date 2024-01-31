@@ -1,5 +1,71 @@
 [
   {
+    "href": "https://github.com/JakeSteam/Mermaid",
+    "description": "JakeSteam/Mermaid: A collection of cheatsheets for using Mermaid diagrams on GitHub and elsewhere",
+    "extended": "",
+    "meta": "644ab512e7fa778b25ed8430adf25cfd",
+    "hash": "6d4b9405d52138840a05ca9fad2388a9",
+    "time": "2024-01-31T01:02:10Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/xataio/pgroll",
+    "description": "xataio/pgroll: PostgreSQL zero-downtime migrations made easy",
+    "extended": "",
+    "meta": "e82554e7334dcc7914b8a082f21cc59e",
+    "hash": "78aa89eda65afa376dbed6d5371b6675",
+    "time": "2024-01-31T00:59:54Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/theonedev/onedev",
+    "description": "theonedev/onedev: Lightweight and performant GitLab alternative. Ultra easy to set up and maintain.",
+    "extended": "",
+    "meta": "16008f73e7c4ec5671f99d6cc0d4b831",
+    "hash": "12cd9f45c4806267954f7a826fe6e036",
+    "time": "2024-01-31T00:58:38Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/CISOfy/lynis",
+    "description": "CISOfy/lynis: Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.",
+    "extended": "",
+    "meta": "53d771c4343bc7433256ac3b46ff5bfc",
+    "hash": "521b1ff86a6cbe6c0bf015fa62125f98",
+    "time": "2024-01-31T00:57:47Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://pypi.org/project/apple-ocr/",
+    "description": "apple-ocr · PyPI",
+    "extended": "",
+    "meta": "8826de2c99551a3e0c66ccd1ed49393b",
+    "hash": "7cf13d65cd11948a2c971f553863aa05",
+    "time": "2024-01-31T00:57:12Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
+    "href": "https://sudhir.io/the-big-little-guide-to-message-queues",
+    "description": "sudhir.io/the-big-little-guide-to-message-queues",
+    "extended": "",
+    "meta": "e2a91472f5d55f1ec0f5f9bb812b2993",
+    "hash": "3c238bd2ba52b8573e4b2df255ecf809",
+    "time": "2024-01-31T00:53:17Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "aws"
+  },
+  {
     "href": "https://github.com/PierreBeucher/novops",
     "description": "PierreBeucher/novops: Cross-platform secret & config manager for development and CI environments",
     "extended": "",
