@@ -1,5 +1,82 @@
 [
   {
+    "href": "https://github.com/alexmojaki/snoop",
+    "description": "alexmojaki/snoop: A powerful set of Python debugging tools, based on PySnooper",
+    "extended": "futurecoder",
+    "meta": "53df2fc98d338976d1f9072071a0cd6b",
+    "hash": "90e64a118b52b83081b22d588955e599",
+    "time": "2024-02-01T00:49:31Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/benvinegar/counterscale",
+    "description": "benvinegar/counterscale: Scalable web analytics you run yourself on Cloudflare",
+    "extended": "",
+    "meta": "940b5ad6ca3737464155267c4ea25ae2",
+    "hash": "f3a238cc2b578c4d964989ca3dc03675",
+    "time": "2024-01-31T06:16:47Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://aws.amazon.com/blogs/architecture/how-zurich-insurance-group-built-their-scalable-account-vending-process-using-aws-account-factory-for-terraform/",
+    "description": "How Zurich Insurance Group built their Scalable Account Vending process using AWS Account Factory for Terraform | AWS Architecture Blog",
+    "extended": "",
+    "meta": "e03538231cea92161195263c088e7822",
+    "hash": "9329aed13f1d93f2c92c7155cdfea35f",
+    "time": "2024-01-31T01:19:23Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "aws"
+  },
+  {
+    "href": "https://wso2.com/whitepapers/towards-a-precise-definition-of-microflows-distinguishing-short-lived-orchestration-from-workflows/",
+    "description": "Towards a Precise Definition of Microflows: Distinguishing Short-Lived Orchestration from Workflows",
+    "extended": "",
+    "meta": "48751822c6b90739bde3a9cd0c43e339",
+    "hash": "fe3ac86a7747e4b28139cfa0f9994c29",
+    "time": "2024-01-31T01:17:59Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "solution"
+  },
+  {
+    "href": "https://martinfowler.com/articles/continuousIntegration.html",
+    "description": "Continuous Integration",
+    "extended": "",
+    "meta": "b79559f1f45e0c95448ff254b800f793",
+    "hash": "153ee6d14853911ceb9b76a3d98c4e05",
+    "time": "2024-01-31T01:17:13Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "solution"
+  },
+  {
+    "href": "https://slack.engineering/the-scary-thing-about-automating-deploys/",
+    "description": "The Scary Thing About Automating Deploys - Slack Engineering",
+    "extended": "",
+    "meta": "5ca9d39cfd1699aabbc0090789b31e27",
+    "hash": "0f482a4ff9ef6dcfeb61986f5dde5293",
+    "time": "2024-01-31T01:16:18Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "sre"
+  },
+  {
+    "href": "https://dzone.com/articles/enhancing-resiliency-implementing-the-circuit-brea",
+    "description": "Enhancing Resiliency: Implementing the Circuit Breaker Pattern for Strong Serverless Architecture on AWS - DZone",
+    "extended": "",
+    "meta": "dfedaab131bfced90546aa94f6e07e9e",
+    "hash": "8c8a0aa4950dad34cab778231bc5bdf0",
+    "time": "2024-01-31T01:13:37Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "solution"
+  },
+  {
     "href": "https://github.com/JakeSteam/Mermaid",
     "description": "JakeSteam/Mermaid: A collection of cheatsheets for using Mermaid diagrams on GitHub and elsewhere",
     "extended": "",
