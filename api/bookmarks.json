@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://jvns.ca/blog/2024/02/01/dealing-with-diverged-git-branches/",
+    "description": "Dealing with diverged git branches",
+    "extended": "",
+    "meta": "6d204331650ef9284f278abc3bbef37e",
+    "hash": "abaf041bb4e01fbe2439e342039c7ce2",
+    "time": "2024-02-02T00:28:28Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "productivity"
+  },
+  {
     "href": "https://github.com/alexmojaki/snoop",
     "description": "alexmojaki/snoop: A powerful set of Python debugging tools, based on PySnooper",
     "extended": "futurecoder",
