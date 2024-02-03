@@ -1,5 +1,82 @@
 [
   {
+    "href": "https://tonym.us/wsl2-backup-to-onedrive-cloud.html",
+    "description": "tonym.us – WSL2 Backup to OneDrive Cloud",
+    "extended": "",
+    "meta": "a59d5ea97c5d32f25232361dca686406",
+    "hash": "d2c862bfcb7f771edaafa7a8278dda74",
+    "time": "2024-02-03T01:01:58Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://www.chainguard.dev/chainguard-images",
+    "description": "Chainguard Images: Reduce your attack surface",
+    "extended": "",
+    "meta": "d64cbe02536c42cd72f8efc1e8b5c5b0",
+    "hash": "dc0728b8468ef9d272d7ef11e1a19b14",
+    "time": "2024-02-02T05:44:30Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://www.micahlerner.com/2024/01/23/xfaas-hyperscale-and-low-cost-serverless-functions-at-meta.html",
+    "description": "XFaaS: Hyperscale and Low Cost Serverless Functions at Meta",
+    "extended": "",
+    "meta": "96f8dd294b8548dce8d6bf2e3a53cfa8",
+    "hash": "033fddb9a19e3c9dcf7f80a49bd76ff8",
+    "time": "2024-02-02T05:42:00Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "solution"
+  },
+  {
+    "href": "https://dev.to/greptime/research-paper-sharing-exploiting-cloud-object-storage-for-high-performance-analytics-4g52",
+    "description": "Research Paper Sharing - Exploiting Cloud Object Storage for High-Performance Analytics - DEV Community",
+    "extended": "",
+    "meta": "5a0515deb4faad8349bec8b415e0f796",
+    "hash": "e6fb16f096c8c29403753e2a89f4f3b5",
+    "time": "2024-02-02T05:31:20Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "aws"
+  },
+  {
+    "href": "https://once.com/campfire",
+    "description": "ONCE — Campfire",
+    "extended": "",
+    "meta": "d7165f0ec133bff9961f691069ba9cb8",
+    "hash": "5122ae1d430a7414c092c05216b57440",
+    "time": "2024-02-02T05:23:48Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://jfrog.com/community/download-artifactory-oss/",
+    "description": "Download Artifactory OSS | JFrog",
+    "extended": "",
+    "meta": "16dc50eb6c5cf46ad1262c2b5bea823f",
+    "hash": "7dd43025743d369a573f65957d7b856e",
+    "time": "2024-02-02T05:23:34Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://kasmweb.com/",
+    "description": "Kasm Workspaces | The Container Streaming Platform",
+    "extended": "",
+    "meta": "763b40aedd158b86106e7f2a6446080b",
+    "hash": "2984945ee0ddc61148e548266c3d7f9b",
+    "time": "2024-02-02T05:22:01Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
     "href": "https://jvns.ca/blog/2024/02/01/dealing-with-diverged-git-branches/",
     "description": "Dealing with diverged git branches",
     "extended": "",
