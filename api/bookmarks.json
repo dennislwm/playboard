@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://github.com/apple/pkl",
+    "description": "GitHub - apple/pkl: A configuration as code language with rich validation and tooling.",
+    "extended": "",
+    "meta": "0951970a95738752166c9c471af5db2f",
+    "hash": "1cb5e3b83d4f59ee99e4e0962d05a26b",
+    "time": "2024-02-07T06:07:43Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/argmaxinc/WhisperKit",
+    "description": "GitHub - argmaxinc/WhisperKit: Swift native on-device speech recognition with Whisper for iOS and macOS",
+    "extended": "",
+    "meta": "4b696608bd66a3780b989e969271eddc",
+    "hash": "ef1d3a1ceb46a650efb65874a6480121",
+    "time": "2024-02-07T06:06:51Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/aidenybai/million",
     "description": "aidenybai/million: Optimize React performance and make your React 70% faster in minutes, not months.",
     "extended": "",
