@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://chibisafe.moe/",
+    "description": "Home - chibisafe",
+    "extended": "",
+    "meta": "9fe72abac894031adcfb87994151b9eb",
+    "hash": "53f269b939d8703c112709c1bc792fd2",
+    "time": "2024-02-11T01:12:20Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/vrtmrz/obsidian-livesync",
     "description": "vrtmrz/obsidian-livesync",
     "extended": "",
