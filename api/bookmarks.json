@@ -1,5 +1,82 @@
 [
   {
+    "href": "https://gokanban.io/80f253c3e5",
+    "description": "gokanban.io",
+    "extended": "",
+    "meta": "670c446579f1e1626e4b2611919ce8ed",
+    "hash": "6948d90c2da9e28d5f6703bb664f4b70",
+    "time": "2024-02-11T06:33:08Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://github.com/mattermost/focalboard",
+    "description": "mattermost/focalboard: Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.",
+    "extended": "www.focalboard.com",
+    "meta": "c3b4b2ac74525970e0f941b5cf0a3ed2",
+    "hash": "8febff2884d2a785c87f8e3afc9165f7",
+    "time": "2024-02-11T06:23:56Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/AppFlowy-IO/AppFlowy",
+    "description": "AppFlowy-IO/AppFlowy: AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.",
+    "extended": "",
+    "meta": "70685293f41d709ad88ef78c93564931",
+    "hash": "82c6be0a960bb394d67ed7bc890b8e3d",
+    "time": "2024-02-11T06:16:30Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/kyon-eth/podcast-summarizer",
+    "description": "kyon-eth/podcast-summarizer: Summarises podcasts from Youtube or Spotify using the new Whisper and GPT3 chat APIs from OpenAI",
+    "extended": "",
+    "meta": "325cfd6042a8e7955aa99fb11ce30f64",
+    "hash": "3cd09f09694762a08db4f3965e344ee7",
+    "time": "2024-02-11T01:41:07Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/miso-belica/sumy",
+    "description": "miso-belica/sumy: Module for automatic summarization of text documents and HTML pages.",
+    "extended": "",
+    "meta": "81e7ec9685dc53b6566114ab351359a2",
+    "hash": "c36614e0af05e1812d0eda40a51234e9",
+    "time": "2024-02-11T01:37:41Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/edubey/text-summarizer",
+    "description": "edubey/text-summarizer: Understand Text Summarization and create your own summarizer in python",
+    "extended": "",
+    "meta": "8639f43d4260349cd0e3f213faf761d4",
+    "hash": "431a6ea209b3a66ecec79d1334ffc391",
+    "time": "2024-02-11T01:37:21Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/AkashKarnatak/chatgpt-anywhere",
+    "description": "AkashKarnatak/chatgpt-anywhere: ChatGPT Anywhere is a browser extension skeleton for seamless ChatGPT integration, interacting directly with the ChatGPT's browser API and offering developers a cost-efficient solution by eliminating the need for OpenAI's p",
+    "extended": "",
+    "meta": "3c3b1e4ee8ae271b6bb3bc5d8d49094e",
+    "hash": "22a43f9e67325977f8850b0a7af6dc96",
+    "time": "2024-02-11T01:34:45Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://chibisafe.moe/",
     "description": "Home - chibisafe",
     "extended": "",
@@ -707,7 +784,7 @@
     "href": "https://github.com/AkashKarnatak/ytgpt",
     "description": "AkashKarnatak/ytgpt: YTGPT is a Google Chrome extension that leverages the power of \"ChatGPT Anywhere\" to provide concise summaries of YouTube videos. Designed for users who want to grasp the key points of lengthy videos without spending a lot of time, YT",
     "extended": "",
-    "meta": "4c8b367bc1376c20feff7220ccb35c2a",
+    "meta": "4ec1251f9a19a3c3135ba14602cc7cfb",
     "hash": "a492cffefaf9e06d65f5d1b070175518",
     "time": "2024-01-26T00:39:16Z",
     "shared": "no",
