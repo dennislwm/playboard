@@ -1,5 +1,115 @@
 [
   {
+    "href": "https://github.com/straussmaximilian/ocrmac",
+    "description": "straussmaximilian/ocrmac: A python wrapper to extract text from images on a mac system. Uses the vision framework from Apple.",
+    "extended": "",
+    "meta": "f866134c2fd8709b3b888c29504df036",
+    "hash": "0f146b92d90706312555fc0caa0e3c4f",
+    "time": "2024-02-16T01:03:47Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/decaporg/decap-cms",
+    "description": "decaporg/decap-cms: A Git-based CMS for Static Site Generators",
+    "extended": "",
+    "meta": "bdb48bc2ff29da260f1a21b2c9782282",
+    "hash": "dea3f592b81caa9026ee13c129244350",
+    "time": "2024-02-16T01:02:44Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://decapcms.org/",
+    "description": "Decap CMS | Open-Source Content Management System",
+    "extended": "",
+    "meta": "c83c8ee95999a64ae90412a1c5e1b30f",
+    "hash": "b59597f6478bf0bf79689567fb1ca823",
+    "time": "2024-02-16T01:02:28Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://martinfowler.com/articles/engineering-practices-llm.html",
+    "description": "Engineering Practices for LLM Application Development",
+    "extended": "",
+    "meta": "465e6fb76433d6d66d48c5c1db1984fd",
+    "hash": "940aceaf3cc7d4c05202005500b60e2b",
+    "time": "2024-02-16T01:02:03Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://developer.valvesoftware.com/wiki/SteamCMD",
+    "description": "SteamCMD - Valve Developer Community",
+    "extended": "",
+    "meta": "91fcf38805c39bf3c3818c7907a7f92b",
+    "hash": "770333f005aa7990e982eae886ddcff7",
+    "time": "2024-02-16T00:56:20Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://www.pcloadletter.dev/blog/rss/",
+    "description": "RSS is still pretty great",
+    "extended": "",
+    "meta": "97ba600f01a7047384486e766d8756aa",
+    "hash": "efe2553ae6db7f12dc3ff3848c70de50",
+    "time": "2024-02-16T00:55:33Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://blog.miguelgrinberg.com/post/microdot-yet-another-python-web-framework",
+    "description": "Microdot: Yet Another Python Web Framework - miguelgrinberg.com",
+    "extended": "",
+    "meta": "2a618efcacc761702c898ed0460273cc",
+    "hash": "20e2ea61391d57443410e19c37728233",
+    "time": "2024-02-16T00:53:11Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
+    "href": "https://cse.buffalo.edu/~rapaport/howtostudy.html",
+    "description": "HOW TO STUDY",
+    "extended": "",
+    "meta": "3ff0025cb9f100720a829843a03064c3",
+    "hash": "d013d31cfcb2314eb2c647ead51a12bf",
+    "time": "2024-02-16T00:50:51Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "productivity"
+  },
+  {
+    "href": "https://blog.apiad.net/p/chat-with-your-pdf",
+    "description": "Chat with your PDF - by Alejandro Piad Morffis",
+    "extended": "",
+    "meta": "35989ae3a71ef4559d2140d03aea1478",
+    "hash": "5387adc6142ac9f102a79b0148660339",
+    "time": "2024-02-15T09:12:10Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://medium.com/theburningmonk-com/first-impressions-of-cloudformations-iac-generator-and-cdk-migrate-d2d0ed20966e",
+    "description": "First impressions of CloudFormation IaC generator and CDK migrate command | by Yan Cui | theburningmonk.com | Feb, 2024 | Medium",
+    "extended": "",
+    "meta": "ee96d26a6137093acf7109d24c6de91b",
+    "hash": "f642e77859aa0f4347283e84c0fbc0bf",
+    "time": "2024-02-15T09:04:17Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "aws"
+  },
+  {
     "href": "https://github.com/dennislwm/MT4-Telegram-Bot-Recon",
     "description": "dennislwm/MT4-Telegram-Bot-Recon: Building a Telegram Chat with a MT4 Forex Trading Expert Advisor",
     "extended": "",
