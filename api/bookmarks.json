@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://github.com/openai/openai-python",
+    "description": "openai/openai-python: The official Python library for the OpenAI API",
+    "extended": "",
+    "meta": "c6c0fef1814abe14de32bce6d4dfd0f3",
+    "hash": "b71fa8aa8b519216f2790f797a34fcfe",
+    "time": "2024-02-17T00:49:10Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/astral-sh/uv",
+    "description": "astral-sh/uv: An extremely fast Python package installer and resolver, written in Rust.",
+    "extended": "",
+    "meta": "e1c87ac7b14521e6788b497d05b388c1",
+    "hash": "11604bd2a851951ed3c601a8cb090b07",
+    "time": "2024-02-16T05:15:10Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/straussmaximilian/ocrmac",
     "description": "straussmaximilian/ocrmac: A python wrapper to extract text from images on a mac system. Uses the vision framework from Apple.",
     "extended": "",
