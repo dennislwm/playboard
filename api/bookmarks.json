@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://shkspr.mobi/blog/feed/atom/",
+    "description": "RSS Feed | Terence Eden’s Blog",
+    "extended": "",
+    "meta": "f4df4cf0cfba87d3434daaf070a519b0",
+    "hash": "3502359fd8894c87f5951524ab02405a",
+    "time": "2024-02-19T01:04:16Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://github.com/theOGognf/finagg",
+    "description": "theOGognf/finagg: A Python package for aggregating historical data from popular and free financial APIs, and for transforming that data into features for AI/ML.",
+    "extended": "",
+    "meta": "ab5785cfcde209a993dbae47a2fc7338",
+    "hash": "5fb7a558b6a3e40ffc2fc6d86ce81fb8",
+    "time": "2024-02-18T07:48:42Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://du.nkel.dev/blog/2024-02-10_keycloak-docker-compose-nginx/?ref=selfh.st",
     "description": "Keycloak SSO with docker compose and nginx - du.nkel.dev",
     "extended": "",
