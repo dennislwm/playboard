@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://platform.openai.com/docs/guides/text-generation/json-mode",
+    "description": "Text generation - OpenAI API",
+    "extended": "",
+    "meta": "c4dc1bb3a69717c6e564c0f045872908",
+    "hash": "b3209ccfdf9cd7a49f9f1f9f61a00913",
+    "time": "2024-02-21T08:40:21Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://getdeploying.com/reference/data-egress",
+    "description": "Data Egress: What is it and how much does it cost?",
+    "extended": "",
+    "meta": "99a2b27500a0c1dcd34733f26df492ec",
+    "hash": "a9d740e391387ad555585da55fb53b80",
+    "time": "2024-02-21T08:36:37Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "analyst"
+  },
+  {
+    "href": "https://github.com/facetoe/zenpy",
+    "description": "facetoe/zenpy: Python wrapper for the Zendesk API",
+    "extended": "",
+    "meta": "915dc50c6a64f64197e0716b6525f45a",
+    "hash": "4bcf695e39398a257e1971682abacdf5",
+    "time": "2024-02-21T01:37:34Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://samwho.dev/bloom-filters/",
+    "description": "Bloom Filters",
+    "extended": "",
+    "meta": "f3f306f8faaef60851b2761e8d626512",
+    "hash": "fd55cb824a8753b73177d4b78ad2b10c",
+    "time": "2024-02-21T01:20:39Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
     "href": "https://cliffy-gardens.medium.com/identifying-the-most-accessible-singapore-hotel-with-geospatial-data-26a83d3ded7b",
     "description": "Identifying the most accessible Singapore hotel with (geospatial) data | by Cliff Chew | Feb, 2024 | Medium",
     "extended": "",
