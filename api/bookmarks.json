@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://github.com/flameshot-org/flameshot#macos",
+    "description": "flameshot-org/flameshot: Powerful yet simple to use screenshot software :camera_flash:",
+    "extended": "",
+    "meta": "8a5abe7371be40fd5212d864915c393e",
+    "hash": "e918f399a40c7001df3ef6cd0de559ab",
+    "time": "2024-02-24T00:15:33Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://levelup.gitconnected.com/create-a-web-scraping-pipeline-with-python-using-data-contracts-281a30440442",
+    "description": "Create a web scraping pipeline with Python using data contracts | by Stephen David-Williams | Feb, 2024 | Level Up Coding",
+    "extended": "",
+    "meta": "55688457807c23c269b2b375434080bd",
+    "hash": "43e850b1f0559b80349d9ebbb14674cc",
+    "time": "2024-02-23T09:15:40Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
+    "href": "https://becca.ooo/blog/so-you-want-to-ship-a-command-line-tool-for-macos/",
+    "description": "So You Want to Ship a Command-Line Tool for macOS @ rebecca®",
+    "extended": "",
+    "meta": "5f4f7bc4b6102aee5d042b68a02eb89b",
+    "hash": "c845ee5aa5695ceda2ea4ca3c106f2d1",
+    "time": "2024-02-23T09:12:31Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "productivity"
+  },
+  {
     "href": "https://platform.openai.com/docs/guides/text-generation/json-mode",
     "description": "Text generation - OpenAI API",
     "extended": "",
