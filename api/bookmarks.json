@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://github.com/daveshap/RecursiveSummarizer",
+    "description": "daveshap/RecursiveSummarizer",
+    "extended": "",
+    "meta": "9961386256a73bfc5016dbc2343bb4cd",
+    "hash": "79f244fd6821d834679e35d0adc51427",
+    "time": "2024-02-24T04:23:31Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/flameshot-org/flameshot#macos",
     "description": "flameshot-org/flameshot: Powerful yet simple to use screenshot software :camera_flash:",
     "extended": "",
