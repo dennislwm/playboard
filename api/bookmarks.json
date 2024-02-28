@@ -1,5 +1,82 @@
 [
   {
+    "href": "https://blog.6nok.org/how-i-use-nix-on-macos/",
+    "description": "How I use Nix on macOS | Fatih's Personal Blog",
+    "extended": "",
+    "meta": "d84551459c052364eaf7ffe7f438c68b",
+    "hash": "cf6e6e9fb7a8be8e2fc49c297d8a020e",
+    "time": "2024-02-27T09:05:33Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "productivity"
+  },
+  {
+    "href": "https://dev.to/giuliano1993/have-you-ever-developed-a-vs-code-extension-2k7h",
+    "description": "Have you ever developed a VS Code Extension? - DEV Community",
+    "extended": "",
+    "meta": "74115569a9f856e0fddf905d4add8fe5",
+    "hash": "f739610742a684d0a71bd5f4e88b2440",
+    "time": "2024-02-27T03:26:52Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "productivity"
+  },
+  {
+    "href": "https://github.com/temporalio/temporal",
+    "description": "temporalio/temporal: Temporal service",
+    "extended": "",
+    "meta": "c68fb9103e3150c19fb6cca8022d15f5",
+    "hash": "f76472fb8131363164c840f64fc2db8f",
+    "time": "2024-02-27T03:07:58Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/JaidedAI/EasyOCR",
+    "description": "JaidedAI/EasyOCR: Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.",
+    "extended": "",
+    "meta": "2a07f32031961b2eb561da97c087144a",
+    "hash": "cd9803e7c15852e0d25ebd8a6d521cf5",
+    "time": "2024-02-27T03:07:40Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/scrapy/scrapy",
+    "description": "scrapy/scrapy: Scrapy, a fast high-level web crawling & scraping framework for Python.",
+    "extended": "",
+    "meta": "0b8ba8f739131c271ee3b2d9704a0a3e",
+    "hash": "0c90caaf25369f14b503a3d3725ea2fd",
+    "time": "2024-02-27T03:07:23Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/MechanicalSoup/MechanicalSoup",
+    "description": "MechanicalSoup/MechanicalSoup: A Python library for automating interaction with websites.",
+    "extended": "",
+    "meta": "eca6590486e4af526c7c7fabb0c8c733",
+    "hash": "6466a6e546239963d6ee19ed472fc33c",
+    "time": "2024-02-27T03:07:14Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/dockur/windows",
+    "description": "dockur/windows: Windows in a Docker container.",
+    "extended": "",
+    "meta": "c65a5441de2b478aa157410ef1f1c405",
+    "hash": "b8c418b93987c5611f148ce253270021",
+    "time": "2024-02-27T03:06:54Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://chat.openai.com/g/g-jhxlsNnmv-video-summarizer-2024-for-free",
     "description": "ChatGPT - Video Summarizer 2024 for FREE",
     "extended": "",
