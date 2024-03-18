@@ -1,5 +1,60 @@
 [
   {
+    "href": "https://www.dannyguo.com/blog/making-make-a-readme",
+    "description": "Making Make a README",
+    "extended": "",
+    "meta": "e90f7d43158904b8953f59d4d8e8b660",
+    "hash": "6266472c07c5b0fe6b98ae9c92f2cebb",
+    "time": "2024-03-17T04:14:29Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "seo"
+  },
+  {
+    "href": "https://blog.owulveryck.info/2024/03/09/after-the-byod-byoc-bringing-your-own-cloud-a-journey-from-home-to-the-world.html",
+    "description": "After the BYOD, BYOC (bringing your own cloud): a journey from Home to the World - Unladen swallow - Olivier Wulveryck",
+    "extended": "",
+    "meta": "9c7e1e63500465272e66a1298750b808",
+    "hash": "3309c6ef5bed817227b59c351952f0d1",
+    "time": "2024-03-17T03:45:02Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://github.com/yusufcanb/tlm",
+    "description": "yusufcanb/tlm: Local CLI Copilot, powered by CodeLLaMa. 💻🦙",
+    "extended": "",
+    "meta": "dfe49e7ceb796be8db709508795145b6",
+    "hash": "fbbdacd3a2882a6cb58461d90d72662e",
+    "time": "2024-03-17T03:43:41Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://www.yieldcode.blog/post/the-curse-of-the-senior-engineer/",
+    "description": "The Curse of the Senior Software Engineer - Dmitry Kudryavtsev",
+    "extended": "",
+    "meta": "d8b15076186c7bbcee48aa4d0079c47a",
+    "hash": "e7bbca7d7af748a3cf825bf5483c15a5",
+    "time": "2024-03-17T03:41:36Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://dev.to/aws-builders/grilled-cheese-and-service-control-policies-scps-3mkh",
+    "description": "Grilled Cheese and Service Control Policies (SCPs) - DEV Community",
+    "extended": "24",
+    "meta": "d95c1ab3a9eeb9e02b8dfd0e34b8363a",
+    "hash": "69aed078bdcdae577975dee85eda8850",
+    "time": "2024-03-17T03:20:30Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "aws"
+  },
+  {
     "href": "https://github.com/devenjarvis/sundew",
     "description": "devenjarvis/sundew: Making Python testing easy, enjoyable, and effective ☀️",
     "extended": "",
