@@ -1,5 +1,82 @@
 [
   {
+    "href": "https://milelion.com/2024/03/23/review-uob-visa-signature-card/",
+    "description": "Review: UOB Visa Signature Card - The MileLion",
+    "extended": "",
+    "meta": "180810339c572d91b0e094735c00b9fd",
+    "hash": "4bd2d7d8e3fa70a5243cbcb514330034",
+    "time": "2024-03-30T02:51:22Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "reward"
+  },
+  {
+    "href": "https://assets.ctfassets.net/fzn2n1nzq965/1gMd12owbzJaSe4Y560OEJ/2a1dd409beabd1b4796a907554425b45/Stripe_2023_annual_letter.pdf",
+    "description": "Stripe_2023_annual_letter.pdf",
+    "extended": "",
+    "meta": "4a59f60a78b529a45525c47cfceddbfb",
+    "hash": "9ee8342c825e2f9f500392717cf5362f",
+    "time": "2024-03-30T02:50:03Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "finance"
+  },
+  {
+    "href": "https://github.com/cooperspencer/gickup",
+    "description": "cooperspencer/gickup",
+    "extended": "",
+    "meta": "7026763faad8a0c88a34e5678b85acb8",
+    "hash": "9b92c1ccf38727e5d54ff5ad852bd398",
+    "time": "2024-03-30T02:46:05Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://handbook.gitlab.com/handbook/company/culture/all-remote/asynchronous/",
+    "description": "How to embrace asynchronous communication for remote work | The GitLab Handbook",
+    "extended": "",
+    "meta": "b27a58d9fb3901907ad9a9c67a3a7dd1",
+    "hash": "6f39f569febc0c947b8f179d0f51de2c",
+    "time": "2024-03-30T02:37:46Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://blog.jcoglan.com/2017/02/12/the-myers-diff-algorithm-part-1/",
+    "description": "The Myers diff algorithm: part 1 – The If Works",
+    "extended": "",
+    "meta": "de8e45e3301856921d173b20a9c80aaf",
+    "hash": "d79ff9aa42fce23aa2e0ec309d80d2bb",
+    "time": "2024-03-30T02:37:30Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://spreadsheets-are-all-you-need.ai/index.html#watch-the-lessons",
+    "description": "Spreadsheets are all you need.ai – A low-code way to learn AI",
+    "extended": "",
+    "meta": "4d0d4ca6e94ff0e03af925bbefb36272",
+    "hash": "930caa821c97bee392b02f1815b79b82",
+    "time": "2024-03-30T02:35:54Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://annas-blog.org/blog-how-to-become-a-pirate-archivist.html",
+    "description": "How to become a pirate archivist - Anna’s Blog",
+    "extended": "",
+    "meta": "d15707a8ce25de2d60bbb36057992971",
+    "hash": "ba72cc0d2717b9a92c4de6aeb548be87",
+    "time": "2024-03-30T02:34:05Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
     "href": "https://brianchristner.io/how-to-build-a-competitor-analysis-tool-using-chatgpt/",
     "description": "How to Build a competitor analysis tool using ChatGPT",
     "extended": "https://docs.google.com/spreadsheets/d/1RIYOwFmMVDecQ32RrearZBwMBxNuKgFsO2twNW-u7ic/edit?usp=sharing",
