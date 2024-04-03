@@ -1,5 +1,60 @@
 [
   {
+    "href": "https://www.wired.com/story/xz-backdoor-everything-you-need-to-know/",
+    "description": "The XZ Backdoor: Everything You Need to Know | WIRED",
+    "extended": "",
+    "meta": "9805047ddfb84c858fe0ccfc3911e9f0",
+    "hash": "fce659b365de059dda24bea14d6f54fb",
+    "time": "2024-04-03T01:03:16Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "security"
+  },
+  {
+    "href": "https://motionrecruitment.com/hubfs/TSG-24/IT-Salary-Guide-2024-Ad-Response.pdf",
+    "description": "",
+    "extended": "",
+    "meta": "550a8a3a225274a217e050776a5788ce",
+    "hash": "9a757100807639640f950232e0499e0f",
+    "time": "2024-04-03T00:54:01Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://blog.cloudflare.com/python-workers",
+    "description": "Bringing Python to Workers using Pyodide and WebAssembly",
+    "extended": "",
+    "meta": "00b2c9286ebda9d5d10e35802d947886",
+    "hash": "5ad20768e638aa10b5cea266adafa2c3",
+    "time": "2024-04-03T00:52:02Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
+    "href": "https://www.schneier.com/blog/archives/2024/04/xz-utils-backdoor.html",
+    "description": "Xz Utils Backdoor - Schneier on Security",
+    "extended": "",
+    "meta": "719dc1ca35e48db5e691b5beea26d3ab",
+    "hash": "c475cc0c32e498bb3704ae61c7a1f253",
+    "time": "2024-04-03T00:48:27Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "security"
+  },
+  {
+    "href": "https://research.swtch.com/xz-script",
+    "description": "research!rsc: The xz attack shell script",
+    "extended": "",
+    "meta": "df8cfe285ece0aee6db980df49f7b531",
+    "hash": "edce5547b69d65187ed594b0dde893b0",
+    "time": "2024-04-03T00:35:41Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "security"
+  },
+  {
     "href": "https://lethain.com/ex-technology-companies/",
     "description": "Ex-technology companies. | Irrational Exuberance",
     "extended": "",
