@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://dev.to/derlin/introducing-mantelo-the-best-keycloak-admin-client-for-python-347m",
+    "description": "Introducing Mantelo - The Best Keycloak Admin Client for Python - DEV Community",
+    "extended": "",
+    "meta": "8c709dc1e59e45fb3bd7d2831550e30e",
+    "hash": "dacb98b1ec72a23ea3d2f0b0df4b5bed",
+    "time": "2024-04-03T01:23:19Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
+    "href": "https://research.swtch.com/xz-timeline",
+    "description": "research!rsc: Timeline of the xz open source attack",
+    "extended": "",
+    "meta": "b6ba048f6d9bab1a50b2ac35900babbd",
+    "hash": "cb84672c6d06802c59441e8e6acb8319",
+    "time": "2024-04-03T01:12:29Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "security"
+  },
+  {
+    "href": "https://www.breakneck.dev/blog/no-tech-cofounder",
+    "description": "Why you won't find a technical co-founder",
+    "extended": "",
+    "meta": "581cbb93c5c3e1aab697e46594560352",
+    "hash": "d53db94745f37152a893b803f727f8e0",
+    "time": "2024-04-03T01:11:54Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
     "href": "https://www.wired.com/story/xz-backdoor-everything-you-need-to-know/",
     "description": "The XZ Backdoor: Everything You Need to Know | WIRED",
     "extended": "",
