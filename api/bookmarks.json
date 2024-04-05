@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://lwn.net/SubscriberLink/967192/6c39d47b5f299a23/",
+    "description": "How the XZ backdoor works [LWN.net]",
+    "extended": "",
+    "meta": "9264ca204832d7003d6cc8060a16a890",
+    "hash": "1c374ad9271aa440d65744f19b3a2bb7",
+    "time": "2024-04-04T09:21:28Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "security"
+  },
+  {
     "href": "https://dev.to/derlin/introducing-mantelo-the-best-keycloak-admin-client-for-python-347m",
     "description": "Introducing Mantelo - The Best Keycloak Admin Client for Python - DEV Community",
     "extended": "",
