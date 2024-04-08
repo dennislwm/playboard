@@ -1,5 +1,104 @@
 [
   {
+    "href": "https://github.com/princeton-nlp/SWE-agent",
+    "description": "GitHub - princeton-nlp/SWE-agent: SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.29% of bugs in the SWE-bench evaluation set and takes just 1.5 minutes to run.",
+    "extended": "",
+    "meta": "a54994aced02ef41162a4557aca3bf89",
+    "hash": "fb33b3e43a6f419dff61b7790f7f176d",
+    "time": "2024-04-08T00:55:30Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://www.linkedin.com/pulse/high-agency-its-importance-how-cultivate-shreyas-doshi/",
+    "description": "High Agency: what is it, why it is important, and how to cultivate it",
+    "extended": "",
+    "meta": "203382a000a2893f71d64392a9ea99b4",
+    "hash": "5312cfc13d98c741d8b926c395de354e",
+    "time": "2024-04-08T00:46:16Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://lauratacho.com/blog/using-metrics-to-measure-individual-developer-performance/",
+    "description": "Using Metrics to Measure Individual Developer Performance — Laura Tacho",
+    "extended": "",
+    "meta": "64dfe15843481706904177f26713c341",
+    "hash": "b147487b8e8b234928f7fcc1bb75dae4",
+    "time": "2024-04-08T00:44:42Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "sre"
+  },
+  {
+    "href": "https://blog.jasony.me/system/cache/2023/06/24/fifo-lru",
+    "description": "FIFO is Better than LRU: the Power of Lazy Promotion and Quick Demotion",
+    "extended": "",
+    "meta": "53208753a53e41ee5e20a4dcab58480c",
+    "hash": "5df281af9f9ff6175f24535effdfb582",
+    "time": "2024-04-08T00:43:14Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "solution"
+  },
+  {
+    "href": "https://sourcegraph.com/blog/the-lifecycle-of-a-code-ai-completion",
+    "description": "The lifecycle of a code AI completion",
+    "extended": "",
+    "meta": "e7057fa7e553f941e39c9518c79578cf",
+    "hash": "49bc5fe9bbc1cc8e2d7fca8d19d695be",
+    "time": "2024-04-08T00:37:56Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://xemu.app/",
+    "description": "xemu: Original Xbox Emulator",
+    "extended": "",
+    "meta": "072881aae1c3cc17320bbde864f6de9f",
+    "hash": "64e83a0ea25f7499fb8c732a258119af",
+    "time": "2024-04-08T00:26:35Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://www.turtleinvestor.net/redeem-hsbc-rewards-points-krisflyer-miles/",
+    "description": "How To Redeem HSBC Rewards Points For KrisFlyer Miles | Turtle Investor",
+    "extended": "",
+    "meta": "206c0c8a00157fc33823677377f423ce",
+    "hash": "4cb9d8cbc5026fd95ab556510e4f0687",
+    "time": "2024-04-07T01:44:16Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "reward"
+  },
+  {
+    "href": "https://www.turtleinvestor.net/hsbc-mileage-programme-online/",
+    "description": "How To Sign Up For HSBC Mileage Programme Online | Turtle Investor",
+    "extended": "",
+    "meta": "ce2d4514c575bd5cc96140259884c832",
+    "hash": "794a6fbb1b1580582d2e40c9f39567c9",
+    "time": "2024-04-07T01:43:36Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "reward"
+  },
+  {
+    "href": "https://www.turtleinvestor.net/three-credit-cards-air-miles-strategy/",
+    "description": "How I Earn 100,000 Air Miles Every Year With 3 Credit Cards (2024) | Turtle Investor",
+    "extended": "",
+    "meta": "a9b47fbb17ec0968e24bf8801e055b24",
+    "hash": "ddbd47f5a8e16e9f759bb65188491c56",
+    "time": "2024-04-07T01:42:04Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "reward"
+  },
+  {
     "href": "https://hivekit.io/blog/how-weve-saved-5000-percent-in-cloud-costs-by-writing-our-own-database/",
     "description": "How we’ve saved 98% in cloud costs by writing our own database",
     "extended": "",
