@@ -1,5 +1,126 @@
 [
   {
+    "href": "https://developer.hashicorp.com/terraform/language/style",
+    "description": "Style Guide - Configuration Language | Terraform | HashiCorp Developer",
+    "extended": "",
+    "meta": "279774f504c97ab563aee224ac8ff499",
+    "hash": "eafdf22e081c7fe384fe8c73f8d6aa5f",
+    "time": "2024-04-09T01:08:00Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "tdd"
+  },
+  {
+    "href": "https://simonwillison.net/2024/Apr/8/files-to-prompt/",
+    "description": "Building files-to-prompt entirely using Claude 3 Opus",
+    "extended": "",
+    "meta": "49ab39a6dccf16c26048ca14522fdf7a",
+    "hash": "9a73b4ea1abedd78ada7d7dde45b17c8",
+    "time": "2024-04-09T00:52:01Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
+    "href": "https://www.henrikkarlsson.xyz/p/go",
+    "description": "After AI beat them, professional go players got better and more creative",
+    "extended": "",
+    "meta": "179aa5d175a1c748f8b03145ecde0ae0",
+    "hash": "777744ac486d1b5ff223b10d31a4f4a5",
+    "time": "2024-04-09T00:50:19Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://blog.osm-ai.net/2024/04/01/hn-part-1.html",
+    "description": "Hacker News (HN) - Part 1: analysis | Open Tech",
+    "extended": "",
+    "meta": "ae99bdbf9b3885f1a4cc7dc159cf985f",
+    "hash": "f483107597030237d381937c73ec399f",
+    "time": "2024-04-09T00:43:22Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "analyst"
+  },
+  {
+    "href": "https://github.com/noborus/trdsql",
+    "description": "GitHub - noborus/trdsql: CLI tool that can execute SQL queries on CSV, LTSV, JSON, YAML and TBLN. Can output to various formats.",
+    "extended": "",
+    "meta": "d3d6644c99837b3f9481da7c0a2b250b",
+    "hash": "21511d87d8a36f12ab58dd551d4a9e4b",
+    "time": "2024-04-08T14:22:33Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/cloudflare/cf-terraforming",
+    "description": "GitHub - cloudflare/cf-terraforming: A command line utility to facilitate terraforming your existing Cloudflare resources.",
+    "extended": "",
+    "meta": "11bb847f865859ff27edf463b58722f8",
+    "hash": "8238aef65b737ec1367b1b807ee0c72f",
+    "time": "2024-04-08T01:37:54Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://tuji.app/",
+    "description": "Tuji - Screenshot, annotate, and beautify all in one",
+    "extended": "",
+    "meta": "83f172914d79ad1f101a1fbdaabfe2cb",
+    "hash": "d184621d488c10efea77e690c01b3594",
+    "time": "2024-04-08T01:34:34Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/JerBouma/FinanceDatabase",
+    "description": "GitHub - JerBouma/FinanceDatabase: This is a database of 300.000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cryptocurrencies and Money Markets.",
+    "extended": "",
+    "meta": "2439341f1dd06ec6be3745af73c4c431",
+    "hash": "f2c3f420f279108544f1c436d5c1bf09",
+    "time": "2024-04-08T01:32:10Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/nardew/talipp",
+    "description": "GitHub - nardew/talipp: talipp - incremental technical analysis library for python",
+    "extended": "",
+    "meta": "5a7f2b6e1967673feb9bb4068a4ddd38",
+    "hash": "a1efc5baa0f75982b05c5ac7eb546ca2",
+    "time": "2024-04-08T01:30:48Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://panora.dev/",
+    "description": "Panora - Open-Source Unified API. Add integrations to your SaaS now",
+    "extended": "",
+    "meta": "ae106db426f25d8b6f60d1aba646ffc4",
+    "hash": "ddb5aee587cd7422e83920f9079ae933",
+    "time": "2024-04-08T01:28:50Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://receiptwrangler.io/",
+    "description": "Documentation | Receipt Wrangler",
+    "extended": "",
+    "meta": "384a0a9117c7cf3a83c800c0b1aab05c",
+    "hash": "320c15939408a8baed427abf45a3d987",
+    "time": "2024-04-08T01:28:00Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/princeton-nlp/SWE-agent",
     "description": "GitHub - princeton-nlp/SWE-agent: SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.29% of bugs in the SWE-bench evaluation set and takes just 1.5 minutes to run.",
     "extended": "",
