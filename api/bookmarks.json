@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://github.com/nus-apr/auto-code-rover",
+    "description": "GitHub - nus-apr/auto-code-rover: Autonomous program improvement",
+    "extended": "",
+    "meta": "658099f50451f8052d9b4a037d4e2ca6",
+    "hash": "ffdb63b09468a8638458a2c542c6f707",
+    "time": "2024-04-09T09:20:38Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/Filimoa/open-parse",
+    "description": "GitHub - Filimoa/open-parse: PDF Layout Chunking for LLMs",
+    "extended": "",
+    "meta": "2d55d4e9785ecca5cbb886e36a5a32d2",
+    "hash": "023e31956ee0bf8e23c2f657900cf6e5",
+    "time": "2024-04-09T01:12:20Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://developer.hashicorp.com/terraform/language/style",
     "description": "Style Guide - Configuration Language | Terraform | HashiCorp Developer",
     "extended": "",
@@ -2412,12 +2434,12 @@
     "href": "https://leebriggs.co.uk/blog/2019/02/07/why-are-we-templating-yaml",
     "description": "Why the fuck are we templating yaml? | lbr.",
     "extended": "",
-    "meta": "669274dfd99948f3ed124a7eafa1d2d3",
+    "meta": "0d22cbfa55bd2db2ddf1b7341b5f1113",
     "hash": "65aff6a3bc61f214da433a945a065757",
     "time": "2024-01-26T08:32:31Z",
     "shared": "no",
     "toread": "no",
-    "tags": "kubernetes"
+    "tags": "kubernetes configenv"
   },
   {
     "href": "https://chriswarrick.com/blog/2024/01/15/python-packaging-one-year-later/",
