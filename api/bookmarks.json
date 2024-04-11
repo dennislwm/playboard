@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://blog.terramate.io/create-and-orchestrate-terraform-stacks-with-terramate-6a2197fb5c28?gi=9be5ec0a4116",
+    "description": "Create and orchestrate Terraform Stacks with Terramate | by Annu Singh | Mar, 2024 | Terramate Blog",
+    "extended": "",
+    "meta": "726c734bb53a4280660d55b91cc5ecaf",
+    "hash": "c5f780405034d877b7e1179247b725c7",
+    "time": "2024-04-11T00:42:48Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "productivity"
+  },
+  {
+    "href": "https://dev.to/tidelift/the-roi-of-paying-open-source-maintainers-in-light-of-the-xz-utils-backdoor-5252",
+    "description": "The ROI of paying open source maintainers (in light of the xz utils backdoor) - DEV Community",
+    "extended": "",
+    "meta": "273d9803ba99b539a06c59d700207a2e",
+    "hash": "32bd6fbf6c4c086f7a2c402d23110c67",
+    "time": "2024-04-10T01:11:37Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "security"
+  },
+  {
+    "href": "https://github.com/netbox-community/netbox",
+    "description": "GitHub - netbox-community/netbox: The premier source of truth powering network automation. Open source under Apache 2. Public demo: https://demo.netbox.dev",
+    "extended": "",
+    "meta": "09a03f1f86fbfca59b67e372132cbb40",
+    "hash": "c8dd304f9e39a8659d9e0e0c7a0f5fae",
+    "time": "2024-04-10T01:08:57Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/nus-apr/auto-code-rover",
     "description": "GitHub - nus-apr/auto-code-rover: Autonomous program improvement",
     "extended": "",
