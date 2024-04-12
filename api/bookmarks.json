@@ -1,5 +1,104 @@
 [
   {
+    "href": "https://www.gemini.com/blog/gemini-foundation-academy-an-introduction-to-perpetual-futures",
+    "description": "Gemini Foundation Academy: An Introduction to Perpetual Futures | Gemini",
+    "extended": "",
+    "meta": "9c5674e84c36bda97487de73bc07fc2e",
+    "hash": "7872fd4ea2195ab0d3c29686008f904f",
+    "time": "2024-04-12T00:04:58Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "finance"
+  },
+  {
+    "href": "https://lethain.com/mental-model-for-how-to-use-llms-in-products/",
+    "description": "Notes on how to use LLMs in your product. | Irrational Exuberance",
+    "extended": "",
+    "meta": "7fe214684d1d27c368c8664f715e0ed0",
+    "hash": "1a916f5a8bf39b0b4ec157eee4a2b11f",
+    "time": "2024-04-11T02:31:57Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://dev.to/aws-builders/a-guide-for-deploying-cloudformation-with-cli-using-rain-4fg6",
+    "description": "A guide for deploying CloudFormation with CLI using Rain - DEV Community",
+    "extended": "",
+    "meta": "56cff6ac06c794f481741e0ddb1f0112",
+    "hash": "5100a33caba3c0e9e09def2c924f199a",
+    "time": "2024-04-11T02:19:19Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://simonwillison.net/2024/Apr/10/weeknotes-llm-releases/",
+    "description": "Three major LLM releases in 24 hours (plus weeknotes)",
+    "extended": "",
+    "meta": "ab6c32642d9a24fc1a0054a5cd417c67",
+    "hash": "9f680f536b8103395b2aa4f1c8a6f506",
+    "time": "2024-04-11T02:14:21Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://aider.chat/2024/04/09/gpt-4-turbo.html",
+    "description": "GPT-4 Turbo with Vision is a step backwards for coding | aider",
+    "extended": "",
+    "meta": "1d371f543d07cb02cd4c2f66b3017112",
+    "hash": "5bd1c03fd249183fd28c8204c5f14403",
+    "time": "2024-04-11T02:09:46Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://bashvm.com/",
+    "description": "bashvm",
+    "extended": "",
+    "meta": "e48dd828ed1168cb96edc329db736f71",
+    "hash": "569551589420896b482c710e4250d13b",
+    "time": "2024-04-11T01:58:18Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://csvbase.com/blog/7",
+    "description": "Client libraries are better when they have no API",
+    "extended": "",
+    "meta": "c13e0a740901944dc9b47571f4e77fbf",
+    "hash": "9bf9b1a3f0551d364b846c7182ca1433",
+    "time": "2024-04-11T01:33:37Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
+    "href": "https://www.jvoderho.com/blog.html?blogid=Transformer%20as%20a%20general%20purpose%20computer",
+    "description": "Johannes Voderholzer blog",
+    "extended": "",
+    "meta": "39ad83f563819c0bb959932eb3325214",
+    "hash": "639cbcccc63e24bb18810070078e115b",
+    "time": "2024-04-11T01:22:45Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://www.theguardian.com/sport/2024/mar/31/ronda-rousey-i-never-wanted-to-talk-about-concussion-it-felt-like-a-weakness",
+    "description": "Ronda Rousey: ‘I never wanted to talk about concussion. It felt like a weakness’ | Ronda Rousey | The Guardian",
+    "extended": "",
+    "meta": "66f3e328189b8a3cbd1a31f3e8e0dca4",
+    "hash": "d59f73cfb961b4b9f93c57982d978855",
+    "time": "2024-04-11T01:16:40Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "health"
+  },
+  {
     "href": "https://blog.terramate.io/create-and-orchestrate-terraform-stacks-with-terramate-6a2197fb5c28?gi=9be5ec0a4116",
     "description": "Create and orchestrate Terraform Stacks with Terramate | by Annu Singh | Mar, 2024 | Terramate Blog",
     "extended": "",
