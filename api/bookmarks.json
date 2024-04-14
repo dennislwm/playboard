@@ -1,5 +1,60 @@
 [
   {
+    "href": "https://doppio.sh/",
+    "description": "HTML to PDF API | HTML to PNG API - Doppio.sh - Doppio",
+    "extended": "",
+    "meta": "ae8c8df669098192c75f32f0209782a2",
+    "hash": "6921c99770f2f19ae23e260dd5993843",
+    "time": "2024-04-13T02:17:31Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "productivity"
+  },
+  {
+    "href": "https://medium.com/airbnb-engineering/chronon-airbnbs-ml-feature-platform-is-now-open-source-d9c4dba859e8",
+    "description": "Chronon, Airbnb’s ML Feature Platform, Is Now Open Source | by Varant Zanoyan | The Airbnb Tech Blog | Apr, 2024 | Medium",
+    "extended": "",
+    "meta": "f235830600222c10010b1fd53ad1209b",
+    "hash": "82b89d47f14320d0897f42330fb9a5b5",
+    "time": "2024-04-13T02:15:45Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://www.zerosheets.com/",
+    "description": "Zero Sheets",
+    "extended": "",
+    "meta": "f11bdf9494aef80e4ad37d80c373cc40",
+    "hash": "e2b2e8ba663e3d8ef3f7545ca6ee5497",
+    "time": "2024-04-13T02:01:39Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://kill-the-newsletter.com/alternates/zf23tszvk9vy7prr.html",
+    "description": "The LionGlobal APAC Financials Dividend Plus ETF Won’t Give Singapore Investors 5% Dividend Yield Always. Further personal thoughts (with some data). - Investment Moats",
+    "extended": "",
+    "meta": "26471287b5794577e0137d67efa1eeb5",
+    "hash": "7126aefccf4de296e9f856809983d4fb",
+    "time": "2024-04-13T01:54:27Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "finance"
+  },
+  {
+    "href": "https://www.iocbc.com/products-and-solutions/etf/lion-ocbc-apac-dividend-etf",
+    "description": "Lion-OCBC Securities APAC Financials Dividend Plus ETF | OCBC Securities",
+    "extended": "",
+    "meta": "e7092134e977425b7aea80a926268bfa",
+    "hash": "f40d2bd58968872f9883671ac835d7c8",
+    "time": "2024-04-13T01:51:05Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "finance"
+  },
+  {
     "href": "https://opentofu.org/blog/our-response-to-hashicorps-cease-and-desist/",
     "description": "Our Response to Hashicorp's Cease and Desist Letter | OpenTofu",
     "extended": "",
