@@ -1,5 +1,82 @@
 [
   {
+    "href": "https://thisisimportant.net/posts/docs-as-code-broken-promise/",
+    "description": "Docs as code is a broken promise | This is important",
+    "extended": "",
+    "meta": "2e88a42053f6c67cf5811f34a8419fa6",
+    "hash": "3476c0f3b9a009e4e387d5b46c383d6b",
+    "time": "2024-04-15T00:50:12Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://github.com/PR-Pilot-AI/smart-actions",
+    "description": "GitHub - PR-Pilot-AI/smart-actions: Easy-to-use Github Actions with AI Capabilities for Powerful Automations",
+    "extended": "",
+    "meta": "57195bb537bb7a39141254280454a0c1",
+    "hash": "33d3c29eca81bdc823b493ef211ab6f9",
+    "time": "2024-04-15T00:39:25Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://kanboard.org/",
+    "description": "Kanban Project Management Software - Kanboard",
+    "extended": "",
+    "meta": "b378d23cdac997fc43c2d9bbfe7a6a08",
+    "hash": "5f703de768785bae00413d08aca496e9",
+    "time": "2024-04-15T00:33:12Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "kanban"
+  },
+  {
+    "href": "https://wonderplan.ai/",
+    "description": "Wonderplan - Best AI Trip Planner, AI Travel Planner",
+    "extended": "",
+    "meta": "69b8e57da9610d8fe4d5d592b8d9caeb",
+    "hash": "99f899b802f11e274d80120d02dbc9f5",
+    "time": "2024-04-14T02:53:00Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://blog.allegro.tech/2024/04/ten-years-microservices.html",
+    "description": "Ten Years and Counting: My Affair with Microservices · allegro.tech",
+    "extended": "",
+    "meta": "65aeee8a5e0ed164ddcf65a8aade2262",
+    "hash": "ff4a1ba2a1808d2dc41e968b4fa89702",
+    "time": "2024-04-14T02:49:54Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://securelist.com/xz-backdoor-story-part-1/112354/",
+    "description": "Kaspersky analysis of the backdoor in XZ | Securelist",
+    "extended": "",
+    "meta": "5f7d2b3bdb8b45b3d834665c6569c59f",
+    "hash": "85ff6c3119ce7a4dde532a9a8516a568",
+    "time": "2024-04-14T02:28:57Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "security"
+  },
+  {
+    "href": "https://harper.blog/2024/04/12/i-accidentally-built-a-meme-search-engine/",
+    "description": "I accidentally built a meme search engine | Harper Reed's Blog",
+    "extended": "",
+    "meta": "b0e147a2296221019569518348d67fcc",
+    "hash": "309449cb4c5186a85bcd00530f418006",
+    "time": "2024-04-14T02:12:25Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
     "href": "https://doppio.sh/",
     "description": "HTML to PDF API | HTML to PNG API - Doppio.sh - Doppio",
     "extended": "",
