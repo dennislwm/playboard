@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://itnext.io/why-and-how-i-conduct-personal-post-mortems-0c539f77385c",
+    "description": "Why (and How) I Conduct Personal Post-Mortems | ITNEXT",
+    "extended": "",
+    "meta": "bed64fdfbfb31ce52411444da11742a6",
+    "hash": "c089588f616a98143022815ae881eab6",
+    "time": "2024-04-16T01:06:50Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://betterstack.com/community/guides/logging/aws-lambda-logging/",
+    "description": "The Missing Guide to AWS Lambda Logs | Better Stack Community",
+    "extended": "",
+    "meta": "c3255d369e0e2acff9e015399045277e",
+    "hash": "0e482ac9d091b8a267d80a795a5b1596",
+    "time": "2024-04-16T01:00:17Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "aws"
+  },
+  {
     "href": "https://thisisimportant.net/posts/docs-as-code-broken-promise/",
     "description": "Docs as code is a broken promise | This is important",
     "extended": "",
