@@ -1,5 +1,93 @@
 [
   {
+    "href": "https://snipman.io/",
+    "description": "Snipman.io",
+    "extended": "",
+    "meta": "5c15b4f586a7540233187dc922596944",
+    "hash": "8f773e8d159f8fd58cc8c3fe683f76d7",
+    "time": "2024-04-17T01:03:32Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://aliramadhan.me/2024/03/31/trillion-rows.html",
+    "description": "Building a weather data warehouse part I: Loading a trillion rows of weather data into TimescaleDB",
+    "extended": "",
+    "meta": "0056222521e1639a6972e3a64773b94b",
+    "hash": "81057d98cb55ce1b9e1ebacda3ce1585",
+    "time": "2024-04-17T01:02:05Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "dbsql"
+  },
+  {
+    "href": "https://github.com/janhq/awesome-local-ai",
+    "description": "GitHub - janhq/awesome-local-ai: An awesome repository of local AI tools",
+    "extended": "",
+    "meta": "1dcb19790d2969f1ea59b212e51fdd47",
+    "hash": "1cb4f96ea08dd19c61bc319218d0238c",
+    "time": "2024-04-17T00:54:54Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://www.termtyper.com/",
+    "description": "Term Typer - Improve typing and vocabulary",
+    "extended": "",
+    "meta": "3907a9deda07f35efe1e612381b5b2c7",
+    "hash": "ff140162d8740505843bcba407f2b1a3",
+    "time": "2024-04-17T00:35:54Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://milelion.com/credit-cards/guide/",
+    "description": "What card do I use for... - The MileLion",
+    "extended": "",
+    "meta": "bafb9d9e4a5725a12e6889e59112ad64",
+    "hash": "413192c9fac52197de0795efa637bac2",
+    "time": "2024-04-16T13:15:08Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "reward"
+  },
+  {
+    "href": "https://milelion.com/2023/08/22/review-amex-krisflyer-ascend/",
+    "description": "Review: AMEX KrisFlyer Ascend - The MileLion",
+    "extended": "",
+    "meta": "f09b9c8d77198d3defa5812969b7b34c",
+    "hash": "da9126206a6f72b6e0fd88c3b7bd5c81",
+    "time": "2024-04-16T13:10:55Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "reward"
+  },
+  {
+    "href": "https://milelion.com/2024/03/18/best-cards-for-overseas-spending/",
+    "description": "2024 Edition: Best Cards for Overseas Spending - The MileLion",
+    "extended": "",
+    "meta": "f5b46c59810de3981031ee94d70a116f",
+    "hash": "c70ed7663885bc71a3297534f3f89372",
+    "time": "2024-04-16T02:43:45Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "reward"
+  },
+  {
+    "href": "https://github.com/wireviz/WireViz",
+    "description": "GitHub - wireviz/WireViz: Easily document cables and wiring harnesses.",
+    "extended": "",
+    "meta": "b74c6a0b66a9988c0e377fe7555619ef",
+    "hash": "7003c07ab2ab1d40d2aea41e4be774ab",
+    "time": "2024-04-16T01:29:50Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://itnext.io/why-and-how-i-conduct-personal-post-mortems-0c539f77385c",
     "description": "Why (and How) I Conduct Personal Post-Mortems | ITNEXT",
     "extended": "",
