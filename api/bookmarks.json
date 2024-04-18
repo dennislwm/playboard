@@ -1,5 +1,104 @@
 [
   {
+    "href": "https://github.com/GreenmaskIO/greenmask",
+    "description": "GitHub - GreenmaskIO/greenmask: PostgreSQL database anonymization tool",
+    "extended": "",
+    "meta": "16b751adeba50234cf540a4938d4b728",
+    "hash": "16a934a11624f8d69a71a510b74870dc",
+    "time": "2024-04-18T01:07:52Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/Clivern/Lynx",
+    "description": "GitHub - Clivern/Lynx: 🐺 A Fast, Secure and Reliable Terraform Backend, Set up in Minutes.",
+    "extended": "",
+    "meta": "bd6e45433c8bacd3e2b47aadd2de6a42",
+    "hash": "5a946edb74605fe1a22a8a2b7c032052",
+    "time": "2024-04-18T01:00:07Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://aws.amazon.com/blogs/devops/terraform-ci-cd-and-testing-on-aws-with-the-new-terraform-test-framework/",
+    "description": "Terraform CI/CD and testing on AWS with the new Terraform Test Framework | AWS DevOps Blog",
+    "extended": "",
+    "meta": "15626401294625a80c86e322afd2ff7a",
+    "hash": "33ecd1cf3660e54df2cb93d400ea75aa",
+    "time": "2024-04-18T00:56:13Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "tdd"
+  },
+  {
+    "href": "https://www.massdriver.cloud/blogs/generating-infrastructure-as-code-from-existing-cloud-resources",
+    "description": "Generating Infrastructure-as-Code From Existing Cloud Resources | Massdriver Blog",
+    "extended": "",
+    "meta": "5c4f5a3008724bb319f7aa96ee79202f",
+    "hash": "d07fef142b3dcede4ddb5a0516f446dd",
+    "time": "2024-04-18T00:54:11Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "aws"
+  },
+  {
+    "href": "https://bigcapital.ly/",
+    "description": "Bigcapital | Financial accounting software for medium and small businesses.",
+    "extended": "",
+    "meta": "24029910baf0505c89d944a09cc5080c",
+    "hash": "8fcae6cc85c1c4667653bf4da4aa2261",
+    "time": "2024-04-18T00:45:08Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://simonwillison.net/",
+    "description": "Simon Willison’s Weblog",
+    "extended": "",
+    "meta": "4dff63e4fcf83be2791fe1b0358bc4ab",
+    "hash": "6be8a91fceb2f3ced9e64230e0d050dc",
+    "time": "2024-04-18T00:41:27Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://milelion.com/2024/01/01/the-milelions-2024-credit-card-strategy/",
+    "description": "The MileLion’s 2024 Credit Card Strategy - The MileLion",
+    "extended": "",
+    "meta": "a52cd63f15da06340b83accf364d1cb2",
+    "hash": "7f991323fc1e5879390ef0b5dbd2b3c3",
+    "time": "2024-04-17T23:54:43Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "reward"
+  },
+  {
+    "href": "https://milelion.com/2024/03/13/how-to-change-mccs-to-earn-more-credit-card-rewards/",
+    "description": "How to change MCCs to earn more credit card rewards - The MileLion",
+    "extended": "",
+    "meta": "4963f4143e38262e2ca01e92cc11e7f8",
+    "hash": "ad7be8f1255c9fb7a4050c5bfade4179",
+    "time": "2024-04-17T23:53:56Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "reward"
+  },
+  {
+    "href": "https://milelion.com/2023/11/13/how-to-check-merchant-category-codes-mccs-before-making-a-purchase/",
+    "description": "How to check Merchant Category Codes (MCCs) before making a purchase - The MileLion",
+    "extended": "",
+    "meta": "4e40bb96d7f052686a2a02fd0af25667",
+    "hash": "3c3ec2aafebda92f18911b51b1f25159",
+    "time": "2024-04-17T23:53:30Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "reward"
+  },
+  {
     "href": "https://snipman.io/",
     "description": "Snipman.io",
     "extended": "",
@@ -47,7 +146,7 @@
     "href": "https://milelion.com/credit-cards/guide/",
     "description": "What card do I use for... - The MileLion",
     "extended": "",
-    "meta": "bafb9d9e4a5725a12e6889e59112ad64",
+    "meta": "cd126c93505216f6bb9c57a83500e8ba",
     "hash": "413192c9fac52197de0795efa637bac2",
     "time": "2024-04-16T13:15:08Z",
     "shared": "no",
