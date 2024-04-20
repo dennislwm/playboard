@@ -1,5 +1,93 @@
 [
   {
+    "href": "https://github.com/Permify/permify",
+    "description": "GitHub - Permify/permify: Permify is an open-source authorization service inspired by Google Zanzibar.",
+    "extended": "",
+    "meta": "9251a9230efa0bd0b5af4b1b796b35d9",
+    "hash": "4668d2c6f3c39c986e522fef643581b2",
+    "time": "2024-04-19T15:19:33Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/flox/flox",
+    "description": "GitHub - flox/flox: Developer environments you can take with you",
+    "extended": "",
+    "meta": "340b2a0660b41faac0dbbbef860ea682",
+    "hash": "04380301ece2a488b13351fc3a796226",
+    "time": "2024-04-19T02:38:54Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://media.defense.gov/2024/Apr/15/2003439257/-1/-1/0/CSI-DEPLOYING-AI-SYSTEMS-SECURELY.PDF",
+    "description": "",
+    "extended": "",
+    "meta": "edcb5a603c8b7fa5eac53b1081c8960c",
+    "hash": "c9640bddfacaf2df6bc5f7ae87160d53",
+    "time": "2024-04-19T02:35:58Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "security"
+  },
+  {
+    "href": "https://www.googlecloudcommunity.com/gc/Community-Blog/Implementing-a-Modern-Detection-Engineering-Workflow-Part-1/ba-p/735755",
+    "description": "Implementing a Modern Detection Engineering Workflow (Part 1)",
+    "extended": "",
+    "meta": "0ac5239dce9cea1c591348055318c96d",
+    "hash": "ada27427e6196346b4a9d9fc83caf1f0",
+    "time": "2024-04-19T02:34:33Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "security"
+  },
+  {
+    "href": "https://www.chainguard.dev/unchained/the-end-of-github-pats-you-cant-leak-what-you-dont-have",
+    "description": "The end of GitHub PATs: You can’t leak what you don’t have",
+    "extended": "",
+    "meta": "38ab22911eeef4f433bfd7e70e8a0674",
+    "hash": "48f53e4ad094c43b3fdd89435bab8ceb",
+    "time": "2024-04-19T02:33:01Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "security"
+  },
+  {
+    "href": "https://www.datadoghq.com/state-of-devsecops/",
+    "description": "State of DevSecOps | Datadog",
+    "extended": "",
+    "meta": "6ad6db4f2d2e9a2ca5af8c63a385f908",
+    "hash": "7539e6802e82732e56db333e2b3990cb",
+    "time": "2024-04-19T02:31:04Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "security"
+  },
+  {
+    "href": "https://www.musicdonna.com/?id=b2eeaba0-0775-4edd-83f2-38713ff921bf",
+    "description": "Donna - AI Song & Music Maker",
+    "extended": "",
+    "meta": "413de80aa410cf6877ce94886b02759c",
+    "hash": "d0637b85cd4e390ef2444ee9413e7205",
+    "time": "2024-04-19T02:18:48Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://gloo.top/",
+    "description": "Gloo.top | Link Shortener & Text Storage with your own Ad codes!",
+    "extended": "",
+    "meta": "1948d1891f45fa11d1fb1d59170b0148",
+    "hash": "758945301e89697d633df4014a94831e",
+    "time": "2024-04-19T02:07:20Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "seo"
+  },
+  {
     "href": "https://github.com/lapce/tiron",
     "description": "GitHub - lapce/tiron: Reasonable Automation Engine",
     "extended": "",
