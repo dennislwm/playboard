@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://github.com/emcf/thepipe",
+    "description": "GitHub - emcf/thepipe: Feed PDFs, docs, slides, web pages and more into GPT-4-Vision in one line of code ⚡",
+    "extended": "",
+    "meta": "d7fd64fa4a929fb9e1022f456fd94415",
+    "hash": "cbf3572fe76093869de1b6ca2f07e15c",
+    "time": "2024-04-20T15:40:44Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://www.arjancodes.com/blog/best-practices-for-securing-python-applications/",
+    "description": "ArjanCodes | Best Python Security Practices for Web Developers",
+    "extended": "",
+    "meta": "5bfb85fd4ad32568ba8a7f5f86c79288",
+    "hash": "2ad23c2ecfffacebcfa955af20f115c0",
+    "time": "2024-04-20T02:22:12Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
+    "href": "https://astral.sh/blog/ruff-v0.4.0",
+    "description": "Ruff v0.4.0: a hand-written recursive descent parser for Python",
+    "extended": "",
+    "meta": "481199abc609097e6d542b33040d9db6",
+    "hash": "073cd6c8c6badef5fa14aaca1cf99733",
+    "time": "2024-04-20T02:14:35Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
+    "href": "https://github.com/rknightuk/echo",
+    "description": "GitHub - rknightuk/echo: Post RSS feeds to Micro.blog and Mastodon",
+    "extended": "",
+    "meta": "83f7220e6867ca959eabfa141b9cdb75",
+    "hash": "2c0a5c381069604fdb2d2fba217446b5",
+    "time": "2024-04-20T01:59:44Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/Permify/permify",
     "description": "GitHub - Permify/permify: Permify is an open-source authorization service inspired by Google Zanzibar.",
     "extended": "",
