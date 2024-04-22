@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://www.spakhm.com/updates-howto",
+    "description": "How to send progress updates - Slava Akhmechet",
+    "extended": "",
+    "meta": "1fddd186c245d4a8b455a10e538f4183",
+    "hash": "06756431b8ee253930bee683be7973b3",
+    "time": "2024-04-22T00:54:56Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://blog.kellybrazil.com/2021/12/03/tips-on-adding-json-output-to-your-cli-app/",
+    "description": "Tips on Adding JSON Output to Your CLI App - Brazil's Blog",
+    "extended": "",
+    "meta": "b8a9c5f510ceba1a20d927531d78d11e",
+    "hash": "15bcdc77f4404fc7cba39e705d312875",
+    "time": "2024-04-21T02:40:53Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "configenv"
+  },
+  {
     "href": "https://github.com/emcf/thepipe",
     "description": "GitHub - emcf/thepipe: Feed PDFs, docs, slides, web pages and more into GPT-4-Vision in one line of code ⚡",
     "extended": "",
