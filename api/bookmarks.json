@@ -1,5 +1,137 @@
 [
   {
+    "href": "https://huggingface.co/microsoft/Phi-3-mini-4k-instruct-gguf",
+    "description": "microsoft/Phi-3-mini-4k-instruct-gguf · Hugging Face",
+    "extended": "",
+    "meta": "1a6ad0b9989888ba5cfb5eaa5b2c1eeb",
+    "hash": "1242a23bc7316c47636fd01dacb4e349",
+    "time": "2024-04-24T01:09:20Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://gitlabform.github.io/gitlabform/",
+    "description": "GitLabForm",
+    "extended": "",
+    "meta": "c56ac9d9f463e678c92106c9acff75f7",
+    "hash": "f273bb6a49cab1db9a0e6cf8f508d7ea",
+    "time": "2024-04-24T01:07:15Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://newsletter.pragmaticengineer.com/p/bluesky",
+    "description": "Building Bluesky: a Distributed Social Network (Real-World Engineering Challenges)",
+    "extended": "",
+    "meta": "9f3234e8c4127c9bb9a3bec9cd641a44",
+    "hash": "e97fbc908bf96c77120200586fdaf916",
+    "time": "2024-04-24T01:00:57Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "solution"
+  },
+  {
+    "href": "https://www.ftc.gov/news-events/news/press-releases/2024/04/ftc-announces-rule-banning-noncompetes",
+    "description": "FTC Announces Rule Banning Noncompetes | Federal Trade Commission",
+    "extended": "",
+    "meta": "12a38adb1e79161008b5ad6e1db861da",
+    "hash": "085fbd3d54ac56136739dde134b9802b",
+    "time": "2024-04-24T00:56:29Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://www.meganmariemyers.com/",
+    "description": "Work | Megan Marie Myers",
+    "extended": "",
+    "meta": "858049d90c03b3e2561f6edb3dff8442",
+    "hash": "643fdd8195bde289f19a86b19e1111ec",
+    "time": "2024-04-24T00:46:54Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "productivity"
+  },
+  {
+    "href": "https://frontendmasters.com/guides/front-end-handbook/2024/",
+    "description": "The (Frontend||UI||UX) Developer/Engineer Handbook 2024",
+    "extended": "",
+    "meta": "d6c50a9399a7ed71021e5bc05bee62f3",
+    "hash": "99f3a67be94018ccef658793875843c3",
+    "time": "2024-04-23T23:55:26Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://readeck.org/en/",
+    "description": "Home - Readeck",
+    "extended": "",
+    "meta": "b879f326a4ff3f775fa17fdb7aab643e",
+    "hash": "76bcfcb0fcf144ee453d44503242c3db",
+    "time": "2024-04-23T06:31:31Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/langgenius/dify",
+    "description": "GitHub - langgenius/dify: Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to p",
+    "extended": "",
+    "meta": "a67be98ff33786937ffa0ac658438503",
+    "hash": "24dc2be717a3b284668816e9ddc2065b",
+    "time": "2024-04-23T06:22:12Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/picosh/pico",
+    "description": "GitHub - picosh/pico: hacker labs - open source and managed web services leveraging SSH",
+    "extended": "",
+    "meta": "56e0ccb16b1c96ea6ccf503d52a2a098",
+    "hash": "c7dbd886adddb199df13b3a055ef02a2",
+    "time": "2024-04-23T02:21:28Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://campedersen.com/rip-rubberduck/",
+    "description": "RIP RubberDuck - Cam Pedersen",
+    "extended": "",
+    "meta": "e0b796c295c5c419bd4799f2c7cfa544",
+    "hash": "c06c63cc6bb06ef6f60c9ccdcdb06f18",
+    "time": "2024-04-23T02:08:46Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://www.theregister.com/2024/04/17/gpt4_can_exploit_real_vulnerabilities/",
+    "description": "GPT-4 can exploit real vulnerabilities by reading advisories • The Register",
+    "extended": "",
+    "meta": "5fc66a95f389bde5044a29fd19f2da6a",
+    "hash": "dc980744e8d6074c6639a98dbffd417f",
+    "time": "2024-04-23T01:17:07Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "security"
+  },
+  {
+    "href": "https://wasmer.io/posts/py2wasm-a-python-to-wasm-compiler",
+    "description": "Announcing py2wasm: A Python to Wasm compiler · Blog · Wasmer",
+    "extended": "",
+    "meta": "437c21e074ba3d08bc170665507d7902",
+    "hash": "e2a12110e03762d06cb93bc505e8d09b",
+    "time": "2024-04-23T01:11:02Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
     "href": "https://www.elysian.press/p/no-one-buys-books",
     "description": "No one buys books - by Elle Griffin - The Elysian",
     "extended": "",
