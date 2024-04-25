@@ -1,5 +1,82 @@
 [
   {
+    "href": "https://github.com/danielmiessler/fabric",
+    "description": "GitHub - danielmiessler/fabric: fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+    "extended": "",
+    "meta": "fb523561b0c4637cbec7f76c8ecfad46",
+    "hash": "8b99bebc502a41fe6209c154f0734fb8",
+    "time": "2024-04-24T06:08:56Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/phidatahq/phidata",
+    "description": "GitHub - phidatahq/phidata: Build AI Assistants with memory, knowledge and tools.",
+    "extended": "",
+    "meta": "b77647c97b8de4ef72c7bacc63130fdc",
+    "hash": "08349f1235e0f2885c493d4d2d3f69f1",
+    "time": "2024-04-24T02:11:42Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://lethain.com/mental-model-for-how-to-use-llms-in-products/?ref=review.firstround.com",
+    "description": "Notes on how to use LLMs in your product. | Irrational Exuberance",
+    "extended": "",
+    "meta": "842cffc1fad15af1975192cfce91b5dd",
+    "hash": "69582aa9a1f54d6dd5fc5955569d6cdc",
+    "time": "2024-04-24T02:08:26Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://surfingcomplexity.blog/2024/03/26/the-problem-with-invariants-is-that-they-change-over-time/",
+    "description": "The problem with invariants is that they change over time – Surfing Complexity",
+    "extended": "",
+    "meta": "c358fd53112936e0d54922a1b27c8b0d",
+    "hash": "c7c2fd90ae106028133adf183a0efd12",
+    "time": "2024-04-24T01:57:30Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://github.com/ingig/FoodDiaryApp",
+    "description": "GitHub - ingig/FoodDiaryApp: Simple food diary app, written in Plang",
+    "extended": "",
+    "meta": "7fd8d42d78ed4ff39f0c674ea0ea3d1e",
+    "hash": "f9791f58638d75f1ddf8fef8d72de765",
+    "time": "2024-04-24T01:24:03Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/stateful/runme",
+    "description": "GitHub - stateful/runme: DevOps Workflows Built with Markdown",
+    "extended": "",
+    "meta": "1c4b4a1ca2919448a9f71413d0d27c01",
+    "hash": "97fe85cb885a09dc33d8dbca58893ac8",
+    "time": "2024-04-24T01:17:28Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://www.muledesign.com/blog/on-surveys",
+    "description": "On Surveys — Mule Design",
+    "extended": "",
+    "meta": "a60f061ea1f0ce9dbdad3bb76dd6a98f",
+    "hash": "4ca4929bd187311bb5ccddf9a171d2fd",
+    "time": "2024-04-24T01:11:52Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "seo"
+  },
+  {
     "href": "https://huggingface.co/microsoft/Phi-3-mini-4k-instruct-gguf",
     "description": "microsoft/Phi-3-mini-4k-instruct-gguf · Hugging Face",
     "extended": "",
