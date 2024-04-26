@@ -1,5 +1,93 @@
 [
   {
+    "href": "https://github.com/rajtilakjee/simone",
+    "description": "GitHub - rajtilakjee/simone: Repurpose your YouTube videos by converting them into blog posts.",
+    "extended": "",
+    "meta": "81547853351f1d6ff1e75a07c767231d",
+    "hash": "e582ab6861bbae75193ee76c3faf195d",
+    "time": "2024-04-25T07:11:16Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://countercraft.substack.com/p/no-most-books-dont-sell-only-a-dozen",
+    "description": "No, Most Books Don't Sell Only a Dozen Copies",
+    "extended": "",
+    "meta": "d7b49009219dc687a7cd6576681d2a64",
+    "hash": "0c9630876a8c9abd79fa9c1d99c9497b",
+    "time": "2024-04-25T05:31:13Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://milelion.com/2024/04/25/review-uob-preferred-platinum-visa-card/",
+    "description": "Review: UOB Preferred Platinum Visa Card - The MileLion",
+    "extended": "",
+    "meta": "0645b25baa452a4025a993a5a1014382",
+    "hash": "a957d32772b7e2cc65c8397bfa1de757",
+    "time": "2024-04-25T04:12:31Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "reward"
+  },
+  {
+    "href": "https://docs.aws.amazon.com/lambda/latest/dg/python-logging.html",
+    "description": "AWS Lambda function logging in Python - AWS Lambda",
+    "extended": "",
+    "meta": "29589da86fa9a5b5519c856423cb5978",
+    "hash": "e54ce503865d86b5e0a8979f50b06b2f",
+    "time": "2024-04-25T02:41:30Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "aws"
+  },
+  {
+    "href": "https://docs.aws.amazon.com/lambda/latest/dg/runtimes-logs-api.html",
+    "description": "Lambda Logs API - AWS Lambda",
+    "extended": "",
+    "meta": "d1cdd11062df9b6e4511733acf39f255",
+    "hash": "30a8fad57c122c98484e46881b353a71",
+    "time": "2024-04-25T02:38:44Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "aws"
+  },
+  {
+    "href": "https://stackoverflow.com/questions/56742529/how-to-print-the-most-recent-cloudwatch-log-for-a-certain-lambda-function-from-t",
+    "description": "amazon web services - How to print the most recent Cloudwatch log for a certain Lambda function from the AWS CLI? - Stack Overflow",
+    "extended": "",
+    "meta": "bd8d1827866e8f1841e262e37d1d2fbb",
+    "hash": "88d53ae019cd18e35f773dfef45f149a",
+    "time": "2024-04-25T02:31:50Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "aws"
+  },
+  {
+    "href": "https://www.mostlypython.com/django-from-first-principles/",
+    "description": "Django from first principles",
+    "extended": "",
+    "meta": "a3eb685427634a50d600cc78af9dbc5f",
+    "hash": "7fba593f854ec5fe8c4d1ad6abb9389b",
+    "time": "2024-04-25T01:43:30Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
+    "href": "https://dev.to/panilo/boto3-and-python-unittestmock-5hji",
+    "description": "Boto3 and Python unittest.mock - DEV Community",
+    "extended": "",
+    "meta": "46ef0707e9e87878d13ff36901a13700",
+    "hash": "347be7f68bd4bd5c4f4672652f978ace",
+    "time": "2024-04-25T01:31:13Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "tdd"
+  },
+  {
     "href": "https://github.com/danielmiessler/fabric",
     "description": "GitHub - danielmiessler/fabric: fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
     "extended": "",
