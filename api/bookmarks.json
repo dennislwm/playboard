@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://github.com/snyk/driftctl",
+    "description": "GitHub - snyk/driftctl: Detect, track and alert on infrastructure drift",
+    "extended": "",
+    "meta": "18620093b8f861252cb66fcc823324ed",
+    "hash": "d7328fea36491ead33dce71357441c91",
+    "time": "2024-04-27T02:06:53Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/siyuan-note/siyuan",
+    "description": "GitHub - siyuan-note/siyuan: A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.",
+    "extended": "",
+    "meta": "1eca7ae611b5e9edf3e3ac718fb09254",
+    "hash": "25607f756555c6371e01d6c9441e1440",
+    "time": "2024-04-27T01:44:24Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/chekuhakim/paperweight",
+    "description": "GitHub - chekuhakim/paperweight: Paperweight: Open-Source PDF Compression Self Hosted",
+    "extended": "",
+    "meta": "c6d1ee0064aef78f76a7eb9df4b7ed7f",
+    "hash": "5778fb45acab90b575dcc0a9c1d0455f",
+    "time": "2024-04-27T01:43:31Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://radicle.xyz/",
+    "description": "Radicle: the sovereign forge",
+    "extended": "",
+    "meta": "cdaf69210ad5f43e35af521a522eea3c",
+    "hash": "6bf88cd5c900870059b7956e3dea1a7b",
+    "time": "2024-04-27T01:41:37Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://medium.datadriveninvestor.com/quick-simple-macro-dashboard-for-germany-in-python-48ccf33086cc",
     "description": "Quick & Simple Macro Dashboard for Germany in Python | by Nikolay Kolarov, CFA | Apr, 2024 | DataDrivenInvestor",
     "extended": "",
