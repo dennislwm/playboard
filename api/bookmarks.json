@@ -1,5 +1,104 @@
 [
   {
+    "href": "https://zed.dev/blog/zed-decoded-rope-sumtree",
+    "description": "Zed Decoded: Rope & SumTree",
+    "extended": "",
+    "meta": "73ddf3f75abcb4d8e318bc8c2500b158",
+    "hash": "99a06f3540b54b0798af52a9ff0cef17",
+    "time": "2024-04-29T01:11:11Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://vadimkravcenko.com/shorts/10x-engineers/",
+    "description": "10x Engineers",
+    "extended": "",
+    "meta": "28b59ea6ea6ad2acab66517cef183579",
+    "hash": "ea79687c0c0d4449e1d331c88fb53c5c",
+    "time": "2024-04-29T00:56:16Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://www.canva.dev/blog/engineering/scaling-to-count-billions/",
+    "description": "Scaling to Count Billions - Canva Engineering Blog",
+    "extended": "",
+    "meta": "1e87bc229cb04c8d72ca47e0b2566301",
+    "hash": "d4a14f245abd8ff4d7b4c14a9c611642",
+    "time": "2024-04-29T00:52:17Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "solution"
+  },
+  {
+    "href": "https://read.engineerscodex.com/p/4-software-design-principles-i-learned",
+    "description": "4 Software Design Principles I Learned the Hard Way",
+    "extended": "",
+    "meta": "3aa6983c9c0ab2eb246d6adc59f38ef6",
+    "hash": "2a1057fc00a964ba0628c2816ecd6b77",
+    "time": "2024-04-29T00:48:08Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://arxiv.org/abs/2402.05636",
+    "description": "[2402.05636] The Impact of AI Tool on Engineering at ANZ Bank An Empirical Study on GitHub Copilot within Corporate Environment",
+    "extended": "",
+    "meta": "5ee7168341835063c5781843d2568daf",
+    "hash": "59198fb8951e8a0e9bece133d5201512",
+    "time": "2024-04-29T00:43:14Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://blog.stackblitz.com/posts/flow-state/",
+    "description": "Flow state: Why fragmented thinking is worse than any interruption",
+    "extended": "",
+    "meta": "240d1923513be2301dafeddc32d490bf",
+    "hash": "232331a2654ce5f421cd1db28f06e79e",
+    "time": "2024-04-29T00:40:29Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/danielbrendel/dnyAquaShell",
+    "description": "GitHub - danielbrendel/dnyAquaShell: AquaShell is a scripting shell for Windows that uses the dnyScript language. It can be used to automate tedious tasks in scripts. The shell is extendable via native plugins.",
+    "extended": "",
+    "meta": "e075deb5f50e0d260e7ff26d06eddd0c",
+    "hash": "28292575e9da9db695fdba07dbe1235a",
+    "time": "2024-04-28T07:47:22Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://theluddite.org/#!post/google-ads",
+    "description": "The Luddite",
+    "extended": "",
+    "meta": "637735a40bce4e14c6e2bcb785e58a1e",
+    "hash": "3e7d250da58fe6a3a3dcd47382d2599d",
+    "time": "2024-04-28T07:38:52Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "seo"
+  },
+  {
+    "href": "https://gagor.pro/2024/02/how-i-stopped-worrying-and-loved-makefiles/",
+    "description": "How I stopped worrying and loved Makefiles | Tom's Blog",
+    "extended": "",
+    "meta": "3845f99d2136fecb2d6370c19552a606",
+    "hash": "5616e905c9b7e6d477a8606578e29980",
+    "time": "2024-04-28T07:32:30Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "configenv"
+  },
+  {
     "href": "https://github.com/snyk/driftctl",
     "description": "GitHub - snyk/driftctl: Detect, track and alert on infrastructure drift",
     "extended": "",
