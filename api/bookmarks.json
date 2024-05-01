@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://www.ilograph.com/blog/posts/generate-aws-diagrams-with-resource-explorer-and-ilograph/",
+    "description": "How to Generate AWS Diagrams with Resource Explorer and Ilograph | Ilograph Blog",
+    "extended": "",
+    "meta": "389674e026168b753138182bff74ee2a",
+    "hash": "19083e11288dbe85c106074d175a0a6d",
+    "time": "2024-04-30T01:12:55Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "aws"
+  },
+  {
     "href": "https://medium.com/@fintanr/on-ibm-acquiring-hashicorp-c9c73a40d20c",
     "description": "On IBM acquiring HashiCorp. On April 24th, 2024, IBM confirmed they… | by Fintan Ryan | Apr, 2024 | Medium",
     "extended": "",
@@ -3798,7 +3809,7 @@
     "href": "https://leebriggs.co.uk/blog/2019/02/07/why-are-we-templating-yaml",
     "description": "Why the fuck are we templating yaml? | lbr.",
     "extended": "",
-    "meta": "0d22cbfa55bd2db2ddf1b7341b5f1113",
+    "meta": "bd0c10c762e43047aa3ca554dea79e64",
     "hash": "65aff6a3bc61f214da433a945a065757",
     "time": "2024-01-26T08:32:31Z",
     "shared": "no",
