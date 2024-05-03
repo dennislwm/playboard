@@ -1,5 +1,137 @@
 [
   {
+    "href": "https://mindtrip.ai/?ref=producthunt",
+    "description": "Mindtrip: AI-powered travel, personalized to you.",
+    "extended": "",
+    "meta": "879c4f562b011ae5c6e1b07fc28b61d5",
+    "hash": "bd12ddd404fdfe6d26bc0cdcd550e42a",
+    "time": "2024-05-03T01:13:46Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://github.com/wilson090/k8sAI",
+    "description": "GitHub - wilson090/k8sAI: k8sAI is a RAG-enabled GPT for working with k8s",
+    "extended": "",
+    "meta": "84ab99c9a72b7c09c9adbb3cd1a4e330",
+    "hash": "587ca0b7a10aa60fd154da71df9f586e",
+    "time": "2024-05-03T01:11:40Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://crypto.stanford.edu/~dabo/courses/OnlineCrypto/",
+    "description": "Online Cryptography Course by Dan Boneh",
+    "extended": "",
+    "meta": "b7f04047dcacd6c8230c7cc9ccf08d53",
+    "hash": "1043ba43edff68800546149c71cfce9b",
+    "time": "2024-05-03T01:07:06Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://kyju.org/blog/piccolo-a-stackless-lua-interpreter/",
+    "description": "kyju.org",
+    "extended": "",
+    "meta": "0097437d91359433042dc58288d8ce7b",
+    "hash": "31347f7ea8b1703e5fdd1ab41ce8d882",
+    "time": "2024-05-03T00:48:17Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://medium.com/decathlondigital/incident-management-at-major-sporting-goods-e-commerce-dd27d12c6d20",
+    "description": "Incident management in sports e-commerce | Decathlon Digital",
+    "extended": "",
+    "meta": "651a6733c542a38ad0ebb8530901a874",
+    "hash": "e05ed1af1a9da298b966d5d377b7cee7",
+    "time": "2024-05-02T02:30:34Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "sre"
+  },
+  {
+    "href": "https://www.cvanalyst.com/",
+    "description": "CV Analyst: Career Catalyst",
+    "extended": "",
+    "meta": "4a394f37f42af9f91b6d0b9d32a7108e",
+    "hash": "61becf59e086a6f7a196b9299f32a295",
+    "time": "2024-05-02T02:17:57Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://github.com/zotify-dev/zotify",
+    "description": "GitHub - zotify-dev/zotify: A fast and customizable music and podcast downloader.",
+    "extended": "",
+    "meta": "2ad875b3a867e0988b555c19fba26f53",
+    "hash": "a9f89fe21e5f792bd71bc6cb2b0c8158",
+    "time": "2024-05-02T02:16:41Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/ntnj/tunwg",
+    "description": "GitHub - ntnj/tunwg: Secure private tunnel to your local servers",
+    "extended": "",
+    "meta": "f8eefbed087c819ec1b098f45ca80005",
+    "hash": "9457ebb1df577103fba0d854ae6aed78",
+    "time": "2024-05-02T02:16:02Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://pinggy.io/",
+    "description": "Pinggy - Simple Localhost Tunnels",
+    "extended": "",
+    "meta": "4254e811e83744c957f4490b471b9957",
+    "hash": "3c7d1ee751858f3bd49c0b4bbdb59ed6",
+    "time": "2024-05-02T02:15:20Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://storydiffusion.github.io/",
+    "description": "StoryDiffusion: Consistent Self-Attention for Long-Range Image and Video Generation",
+    "extended": "",
+    "meta": "82b11ecf913034c05572e2a9731c12fe",
+    "hash": "9d9f4c85294e47ead3ac6ef745acd853",
+    "time": "2024-05-02T02:08:04Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://joachim8675309.medium.com/docker-the-terraform-way-a7c16b5f59ed",
+    "description": "Docker the Terraform Way. Orchestrating Docker Containers with… | by Joaquín Menchaca (智裕) | Medium",
+    "extended": "",
+    "meta": "46949bf3b844ca8ba76cc0c56621a4ca",
+    "hash": "56dedb5afcd409f6055b7daa24e13da8",
+    "time": "2024-05-02T01:57:03Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "productivity"
+  },
+  {
+    "href": "https://github.com/Lissy93/portainer-templates",
+    "description": "GitHub - Lissy93/portainer-templates: 🚢 500+ 1-click Portainer app templates",
+    "extended": "",
+    "meta": "4d6b5b60b336cd81814572d8a1d279bf",
+    "hash": "648cb4d0bdac44adafc2232de3881597",
+    "time": "2024-05-02T01:52:29Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://evershop.io/",
     "description": "Open source NodeJS ecommerce platform - EverShop",
     "extended": "",
