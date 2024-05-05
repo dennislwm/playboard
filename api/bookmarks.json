@@ -1,5 +1,82 @@
 [
   {
+    "href": "https://github.com/colossus06/CKA-CKAD-Study-Group-2024",
+    "description": "GitHub - colossus06/CKA-CKAD-Study-Group-2024: n node cluster-setup, decentralized voting app, simple 3 tier php app deployment on Kubernetes",
+    "extended": "",
+    "meta": "2b0e3853e07442f209abc56790eccf32",
+    "hash": "2f321aeea51a520a4560cfa0e4268b23",
+    "time": "2024-05-05T00:10:47Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://bjsm.bmj.com/content/58/10/556",
+    "description": "Cardiorespiratory fitness is a strong and consistent predictor of morbidity and mortality among adults: an overview of meta-analyses representing over 20.9 million observations from 199 unique cohort studies | British Journal of Sports Medicine",
+    "extended": "",
+    "meta": "9c2409a8fe492064050da11b8b011dd1",
+    "hash": "c5d1c912c6d49f3c97530780b1d96df7",
+    "time": "2024-05-04T02:28:39Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "health"
+  },
+  {
+    "href": "https://www.corbado.com/blog/passkey-implementation-pitfalls-misconceptions-unknowns",
+    "description": "Why Passkey Implementation is 100x Harder Than You Think – Misconceptions, Pitfalls and Unknown Unknowns",
+    "extended": "",
+    "meta": "5b094e196a98810edc983a44088e07c1",
+    "hash": "7b5a448be76ffbe32e55ae48163553eb",
+    "time": "2024-05-04T02:27:43Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "security"
+  },
+  {
+    "href": "https://github.com/tobychui/zoraxy",
+    "description": "GitHub - tobychui/zoraxy: General purpose (reverse) proxy and forwarding tool for networking noobs. Now written in Go!",
+    "extended": "",
+    "meta": "64e5c22fd00e3ae831dd86d195fc3857",
+    "hash": "84278b467d2e6581389d7c855ca42c55",
+    "time": "2024-05-04T02:21:12Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://karelvo.com/blog/selfhosting-forms-the-sane-way?ref=selfh.st",
+    "description": "karelvo | Self-hosting forms, the sane way",
+    "extended": "",
+    "meta": "bd7942aeb55bc057c99e071e0a559558",
+    "hash": "5bb7f81be2b3437e7a57a287e51aff6a",
+    "time": "2024-05-04T02:19:22Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://bump.sh/blog/how-to-use-json-path",
+    "description": "How to use JSON Path · Bump.sh",
+    "extended": "",
+    "meta": "c75fc75925286faed4344d296b4350ef",
+    "hash": "e5e96a2f969856206b07ad357356300f",
+    "time": "2024-05-04T02:17:01Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "configenv"
+  },
+  {
+    "href": "https://github.com/Dokploy/dokploy",
+    "description": "GitHub - Dokploy/dokploy: Open Source Alternative to Vercel, Netlify and Heroku.",
+    "extended": "",
+    "meta": "09560d347353c4498475b1bfba251c45",
+    "hash": "4593fe1583dcc018dae3339fde2cd712",
+    "time": "2024-05-04T02:13:33Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://www.singaporeair.com/saar5/pdf/krisplus/BonusEarnPartners_2404_R1.pdf",
     "description": "",
     "extended": "",
