@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://github.com/litestar-org/litestar",
+    "description": "GitHub - litestar-org/litestar: Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs",
+    "extended": "",
+    "meta": "419452e0dae935f2b5c112703fc1186e",
+    "hash": "e8ef01ebda8c12948d649e9141695cf4",
+    "time": "2024-05-06T00:53:13Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://openssf.org/blog/2024/04/15/open-source-security-openssf-and-openjs-foundations-issue-alert-for-social-engineering-takeovers-of-open-source-projects/",
+    "description": "Open Source Security (OpenSSF) and OpenJS Foundations Issue Alert for Social Engineering Takeovers of Open Source Projects – Open Source Security Foundation",
+    "extended": "",
+    "meta": "13acbf5e0a19d0d94095bcd8feac7457",
+    "hash": "1798fd17baaad3f424eaaed4d96ead4e",
+    "time": "2024-05-06T00:34:04Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "security"
+  },
+  {
+    "href": "https://richarddas.com/blog/turning-airpods-into-fitness-trackers-to-fight-cancer/",
+    "description": "Turning AirPods into a Fitness Tracker to Fight Cancer - Richard Das",
+    "extended": "",
+    "meta": "548e81d562a9e5e9398962552adf06dc",
+    "hash": "99e4b56ffada67d749659816105a1e70",
+    "time": "2024-05-06T00:31:05Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "makerwork"
+  },
+  {
     "href": "https://github.com/colossus06/CKA-CKAD-Study-Group-2024",
     "description": "GitHub - colossus06/CKA-CKAD-Study-Group-2024: n node cluster-setup, decentralized voting app, simple 3 tier php app deployment on Kubernetes",
     "extended": "",
