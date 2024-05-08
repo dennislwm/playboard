@@ -1,5 +1,60 @@
 [
   {
+    "href": "https://www.wikimatrix.org/",
+    "description": "Compare Them All | WikiMatrix",
+    "extended": "",
+    "meta": "bb8fc79bd6bb09e04fa649db02002d1c",
+    "hash": "9f05afa95747b590f54be3aeee4ac57d",
+    "time": "2024-05-08T00:30:21Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://medium.datadriveninvestor.com/if-you-cant-beat-them-steal-their-idea-creating-a-better-algotrading-system-d5fc5bd24658",
+    "description": "If you can’t beat them… steal their idea. Creating a better algotrading system | by Austin Starks | Apr, 2024 | DataDrivenInvestor",
+    "extended": "",
+    "meta": "7b72569514d1dd5ad9ab7a70bb1cbf74",
+    "hash": "cbca5f9d37cb7491463805d6d6019463",
+    "time": "2024-05-07T02:18:46Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "finance"
+  },
+  {
+    "href": "https://passo.uno/pros-cons-markdown/",
+    "description": "The pros and cons of using Markdown | passo.uno :: Fabrizio Ferri-Benedetti on Technical Writing",
+    "extended": "",
+    "meta": "44d5682d67b66c7f07955acada128b88",
+    "hash": "d16307ff41570a09bcb7c99690eb05ae",
+    "time": "2024-05-07T01:27:35Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "productivity"
+  },
+  {
+    "href": "https://promptadvance.club/chatgpt-prompts/finance/investing",
+    "description": "ChatGPT Prompts for Investing | Prompt Advance",
+    "extended": "",
+    "meta": "cc87cbb6ba987fe2c5b7c3d478d3e73a",
+    "hash": "6fb0fb642c929a9fde5c3f0a489c7b4e",
+    "time": "2024-05-07T01:17:13Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://jeroenjanssens.com/dsatcl/",
+    "description": "Welcome | Data Science at the Command Line, 2e",
+    "extended": "",
+    "meta": "06cac8a86e46c3b4c8f3777bfb8ed341",
+    "hash": "04f2503d3891fdfcbcc2dcb4413779e2",
+    "time": "2024-05-07T01:12:59Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://keygen.sh/blog/your-14-day-free-trial-aint-gonna-cut-it/",
     "description": "Your 14-Day Free Trial Ain't Gonna Cut It",
     "extended": "",
@@ -6438,7 +6493,7 @@
     "href": "https://github.com/PeerDB-io/peerdb",
     "description": "GitHub - PeerDB-io/peerdb: Postgres first ETL/ELT, enabling 10x faster data movement in and out of Postgres 🐘 🚀",
     "extended": "",
-    "meta": "ddd937f6cc859a5cb91693b6b5672f1b",
+    "meta": "9954444f1db7222f6c952d33ae792ac4",
     "hash": "58dda6c7a20e2cecdaa0bed2c8e39544",
     "time": "2023-11-07T01:33:05Z",
     "shared": "no",
