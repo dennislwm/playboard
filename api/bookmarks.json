@@ -1,5 +1,93 @@
 [
   {
+    "href": "https://milelion.com/2024/04/03/hilton-honors-selling-points-with-100-bonus/",
+    "description": "Hilton Honors selling points with 100% bonus - The MileLion",
+    "extended": "",
+    "meta": "35dd04e3318cd988625b89261bafac43",
+    "hash": "2ffcfd27ef7049824855268db57702e5",
+    "time": "2024-05-10T02:06:22Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "reward"
+  },
+  {
+    "href": "https://milelion.com/2024/03/01/citi-prestige-card-cuts-welcome-offer-to-50000-bonus-miles/",
+    "description": "Citi Prestige Card cuts welcome offer to 50,000 bonus miles - The MileLion",
+    "extended": "",
+    "meta": "2097e2219abb61d7d1365ac573e348c7",
+    "hash": "82403392f51f8861f13e9921e12e8331",
+    "time": "2024-05-10T02:04:09Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "reward"
+  },
+  {
+    "href": "https://milelion.com/2024/05/10/dbs-amex-cards-add-mobile-wallet-support-get-s10-cashback-per-card/",
+    "description": "DBS AMEX cards add mobile wallet support; get S$10 cashback per card - The MileLion",
+    "extended": "",
+    "meta": "9b76af15c2c6ec1796147005692a6f8a",
+    "hash": "d7a5fddf17a4c8b6ca86f132d74e866d",
+    "time": "2024-05-10T02:02:13Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "reward"
+  },
+  {
+    "href": "https://milelion.com/2024/03/11/hsbc-travelone-card-cuts-minimum-spend-for-20000-miles-welcome-offer-to-s500/",
+    "description": "HSBC TravelOne Card cuts minimum spend for 20,000 miles welcome offer to S$500 - The MileLion",
+    "extended": "",
+    "meta": "4a7de12b1fa28a28c82f57fa250f438d",
+    "hash": "99857c442e491997955df3b72ccc4a7e",
+    "time": "2024-05-10T02:01:45Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "reward"
+  },
+  {
+    "href": "https://github.com/context-labs/mactop?ref=console.dev",
+    "description": "GitHub - context-labs/mactop at console.dev",
+    "extended": "",
+    "meta": "1af39d6d211ed3cd73dc4ad5b8ee3ad1",
+    "hash": "f3fc2c35ea5bddce8f21831b27d4adea",
+    "time": "2024-05-10T01:52:27Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://devenv.sh/?ref=console.dev",
+    "description": "Fast, Declarative, Reproducible, and Composable Developer Environments - devenv",
+    "extended": "",
+    "meta": "346a03dd6d711ab5203058b5b101d941",
+    "hash": "c3f3dd5e14bf6994ca9128281b563f99",
+    "time": "2024-05-10T01:51:05Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "configenv"
+  },
+  {
+    "href": "https://www.feelmuddy.com/",
+    "description": "Muddy",
+    "extended": "",
+    "meta": "9e7bfae8a926ddb8ab4ad6582b37a51b",
+    "hash": "9467d5fb2910f50ae867ae45e592c977",
+    "time": "2024-05-10T01:35:26Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://simonwillison.net/2024/May/9/experimental-phi3-webgpu/",
+    "description": "experimental-phi3-webgpu",
+    "extended": "",
+    "meta": "a62926e31b213098f84a454a59417949",
+    "hash": "6ac7be01c8d915bbed895e2df2e6a34b",
+    "time": "2024-05-10T01:27:41Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://github.com/google-research/timesfm",
     "description": "GitHub - google-research/timesfm: TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
     "extended": "",
