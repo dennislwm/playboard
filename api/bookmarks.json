@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://mobinetai.com/science-journals-are-flooded-chatgpt-fake-research/",
+    "description": "\"Sure, I can generate that for you”: Science journals are flooded with ChatGPT fake “research\"",
+    "extended": "",
+    "meta": "942c8fcd319f7f16071020f1b438f0fb",
+    "hash": "0c1e77d37b1e95cace656c95b5b03357",
+    "time": "2024-05-11T02:10:58Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://www.cs.utexas.edu/~gdurrett/courses/online-course/materials.html",
+    "description": "CS388",
+    "extended": "",
+    "meta": "214dc3404014dbcaaf7ff92ca2483bf3",
+    "hash": "3b119de5ad750d242ed86ec7acd56a61",
+    "time": "2024-05-11T01:40:04Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://blog.wilsonl.in/hackerverse/",
+    "description": "Exploring Hacker News by mapping and analyzing 40 million posts and comments for fun | Wilson Lin",
+    "extended": "",
+    "meta": "51ac2502037a63b1545ef2854b8bdb72",
+    "hash": "e065162906d711729d38676c70425ef8",
+    "time": "2024-05-11T01:38:48Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://github.com/MHNightCat/superfile",
+    "description": "GitHub - MHNightCat/superfile: Pretty fancy and modern terminal file manager",
+    "extended": "",
+    "meta": "e9c50f002a1b1fb0a2471318be7223f1",
+    "hash": "9139b9fe1a3fbd40fc499b36d6df3f2a",
+    "time": "2024-05-11T01:35:32Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://milelion.com/2024/04/03/hilton-honors-selling-points-with-100-bonus/",
     "description": "Hilton Honors selling points with 100% bonus - The MileLion",
     "extended": "",
@@ -6273,7 +6317,7 @@
     "href": "https://github.com/ellite/Wallos",
     "description": "ellite/Wallos: Wallos: Open-Source Personal Subscription Tracker",
     "extended": "",
-    "meta": "f071f082eb16c180fa85cf442c19d19a",
+    "meta": "fa634d581e8854b003215b6d9bf0ddc2",
     "hash": "b1a0e927036c7f27491393d873189c76",
     "time": "2023-11-22T09:52:08Z",
     "shared": "no",
