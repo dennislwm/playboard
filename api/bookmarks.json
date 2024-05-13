@@ -1,5 +1,38 @@
 [
   {
+    "href": "http://nsl.com/papers/idioms_K3.pdf",
+    "description": "",
+    "extended": "",
+    "meta": "1e640a97b541d607f36a5657a1b64df3",
+    "hash": "f171688b5235f092e8b8fea98da6075d",
+    "time": "2024-05-13T01:08:40Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://www.fabianzeindl.com/posts/the-api-database-architecture",
+    "description": "The API database architecture - Stop writing HTTP-GET endpoints",
+    "extended": "",
+    "meta": "74172232305ae61ac3635f762bb1a020",
+    "hash": "345214da47ed4ceac1fc046151f64027",
+    "time": "2024-05-12T02:41:39Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "dbsql"
+  },
+  {
+    "href": "https://github.com/sickmz/microw",
+    "description": "GitHub - sickmz/microw: microw is a telegram bot designed to track expenses",
+    "extended": "",
+    "meta": "3376543494bde742305a3e0ced4632bd",
+    "hash": "49004a5766e0f642e04cfb23a14a279e",
+    "time": "2024-05-12T02:27:11Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://mobinetai.com/science-journals-are-flooded-chatgpt-fake-research/",
     "description": "\"Sure, I can generate that for you”: Science journals are flooded with ChatGPT fake “research\"",
     "extended": "",
