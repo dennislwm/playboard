@@ -1,5 +1,93 @@
 [
   {
+    "href": "https://mzucker.github.io/2016/08/15/page-dewarping.html",
+    "description": "Page dewarping",
+    "extended": "",
+    "meta": "10cb7e4d0541c15e4450350131048c74",
+    "hash": "0f4e7c5aa7c95fd16721d81baedc13d0",
+    "time": "2024-05-13T09:18:13Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://milelion.com/2024/05/13/understanding-the-krisflyer-redemption-nominee-system/",
+    "description": "How does KrisFlyer's redemption nominee system work? - The MileLion",
+    "extended": "",
+    "meta": "ac96761099c87982ce7263a262fc024e",
+    "hash": "b8bce6e8f2bc914966e8470753d8fadc",
+    "time": "2024-05-13T04:50:09Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "reward"
+  },
+  {
+    "href": "https://surfingcomplexity.blog/2024/05/04/the-perils-of-outcome-based-analysis/",
+    "description": "The perils of outcome-based analysis – Surfing Complexity",
+    "extended": "",
+    "meta": "6a551e74a56b56b17f7dd81813f41372",
+    "hash": "b5bf706cee425a8c89c4831aebaf6ea2",
+    "time": "2024-05-13T02:37:54Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://securitycafe.ro/2024/05/08/aws-cloudquarry-digging-for-secrets-in-public-amis/",
+    "description": "AWS CloudQuarry: Digging for Secrets in Public AMIs – Security Café",
+    "extended": "",
+    "meta": "c2e747725aedb10418e92f3cf3220bc7",
+    "hash": "d5d2081629049291e3e2b829590766ee",
+    "time": "2024-05-13T02:18:17Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "aws"
+  },
+  {
+    "href": "https://github.com/Technion-Kishony-lab/data-to-paper",
+    "description": "GitHub - Technion-Kishony-lab/data-to-paper: data-to-paper: AI-driven scientific research",
+    "extended": "",
+    "meta": "d033d2c11ad2eb155195799530e23e8b",
+    "hash": "5a98ebedda5cacf79b1c14cd7ee1d5e4",
+    "time": "2024-05-13T02:11:10Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/tmccombs/hcl2json",
+    "description": "GitHub - tmccombs/hcl2json: Convert hcl2 to json",
+    "extended": "",
+    "meta": "ac86d0870966df6dfa9d58ee8fdfc9be",
+    "hash": "b788a199316efff3030dc45e5dc4a8b3",
+    "time": "2024-05-13T01:39:09Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/paololazzari/terraform-repl",
+    "description": "GitHub - paololazzari/terraform-repl: A terraform console wrapper for a better REPL experience",
+    "extended": "",
+    "meta": "3a7d08cbf00b0612209b5172a2c88994",
+    "hash": "75e82dda5e644d34a832deee23d05799",
+    "time": "2024-05-13T01:37:26Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/Cognation/darwin",
+    "description": "GitHub - Cognation/darwin",
+    "extended": "",
+    "meta": "8c3136e1f5adc48d5f9283f715b54974",
+    "hash": "3bfd35a2841ccadeb06843247cc54f71",
+    "time": "2024-05-13T01:26:44Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "http://nsl.com/papers/idioms_K3.pdf",
     "description": "",
     "extended": "",
