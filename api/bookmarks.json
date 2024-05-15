@@ -1,5 +1,93 @@
 [
   {
+    "href": "https://dev.to/danielgtaylor/a-cli-for-rest-apis-part-1-104b",
+    "description": "A CLI for REST APIs - DEV Community",
+    "extended": "",
+    "meta": "7e5e5d55001f8241f21e546180288b39",
+    "hash": "c021369023e4d5a891875f6f6b7bdfa6",
+    "time": "2024-05-15T01:00:00Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
+    "href": "https://github.com/danielgtaylor/restish",
+    "description": "GitHub - danielgtaylor/restish: Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in",
+    "extended": "",
+    "meta": "7cc1a2ca308b02761786fa168078d05a",
+    "hash": "22a8c610015b1b9d89af39221beabe66",
+    "time": "2024-05-15T00:58:08Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://www.timpaul.co.uk/posts/using-ai-to-generate-web-forms-from-pdfs/",
+    "description": "Tim Paul | Using AI to generate web forms from PDFs",
+    "extended": "",
+    "meta": "015f1bcccee7e721a118ba2f8818a65e",
+    "hash": "234bd85f77787c89f005cfec88fee95f",
+    "time": "2024-05-15T00:55:38Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://www.acadian-asset.com/investment-insights/owenomics/stupidity-is-our-destiny-historic-closed-end-fund-overpricing",
+    "description": "Stupidity is our destiny: Historic closed-end fund overpricing| Acadian Asset Management",
+    "extended": "",
+    "meta": "8df8e7bbe4eaa603a6d728f05099c3f3",
+    "hash": "6656c30f1f0a7b8c43c99020deed88c5",
+    "time": "2024-05-15T00:39:49Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "finance"
+  },
+  {
+    "href": "https://martinfowler.com/articles/data-fetch-spa.html",
+    "description": "Data Fetching Patterns in Single-Page Applications",
+    "extended": "",
+    "meta": "e57a4f7e0ea69a8aa00d7ed5102e87b6",
+    "hash": "7efa4edfe98d3ee4529eff0c286481dd",
+    "time": "2024-05-15T00:37:58Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://github.com/middlewarehq/middleware",
+    "description": "GitHub - middlewarehq/middleware: ✨ Open-source dev productivity platform for engineering teams ✨",
+    "extended": "",
+    "meta": "26bd99719cf2a22f6d1d5d0d61fdb261",
+    "hash": "1ddb5057f2f9052f1925db0896df7144",
+    "time": "2024-05-15T00:35:37Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/AnMnv/eBook",
+    "description": "GitHub - AnMnv/eBook: LaTeX book with examples, open-source eBook",
+    "extended": "",
+    "meta": "b4e83cb522befeacbb724b1c26a08ee6",
+    "hash": "2b0579da8d1470720dc14d93cbf12696",
+    "time": "2024-05-15T00:27:15Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/LibreBooking/app",
+    "description": "GitHub - LibreBooking/app: Repository for the last open source version of Booked Scheduler. The \"develop\" branch contains the most current working code of the project and should be considered beta. The \"master\" branch is the most current stable release of",
+    "extended": "",
+    "meta": "c94fe1aedecebdd6ede846885fa44331",
+    "hash": "010dd00dccdfdf341c33dc7143e85411",
+    "time": "2024-05-15T00:24:54Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://mzucker.github.io/2016/08/15/page-dewarping.html",
     "description": "Page dewarping",
     "extended": "",
