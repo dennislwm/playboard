@@ -1,5 +1,82 @@
 [
   {
+    "href": "https://www.aisnakeoil.com/p/ai-leaderboards-are-no-longer-useful",
+    "description": "AI leaderboards are no longer useful. It's time to switch to Pareto curves.",
+    "extended": "",
+    "meta": "26cc48629b601dbe0f55615743372f09",
+    "hash": "607884afef21c43dba4c909fb822fdae",
+    "time": "2024-05-16T00:59:30Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://blogs.vmware.com/teamfusion/2024/05/fusion-pro-now-available-free-for-personal-use.html",
+    "description": "VMware Fusion Pro: Now Available Free for Personal Use - VMware Fusion Blog",
+    "extended": "",
+    "meta": "13b40a239ce0109195a4784b6b23d098",
+    "hash": "5adac74ffb75b3ecc6f95523d60f1eed",
+    "time": "2024-05-16T00:57:24Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/reworkd/tarsier",
+    "description": "GitHub - reworkd/tarsier: Vision utilities for web interaction agents 👀",
+    "extended": "",
+    "meta": "04b941e76dc5cdbc690e1b91ac8760e2",
+    "hash": "4c57ab468624fefe2a5144f242061fb6",
+    "time": "2024-05-16T00:39:40Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://blog.roboflow.com/paligemma-multimodal-vision/",
+    "description": "PaliGemma: Open Source Multimodal Model by Google",
+    "extended": "",
+    "meta": "37f4174a320ee95be728d015af534989",
+    "hash": "5d1a589bae99a25eb33c3e179ce76853",
+    "time": "2024-05-16T00:36:29Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://github.com/quarylabs/quary",
+    "description": "GitHub - quarylabs/quary: Open-source BI for engineers",
+    "extended": "",
+    "meta": "f41f8ae8c96c2f2fd56005db2060a4e5",
+    "hash": "58132bb0cf3daa3f80e7a23335e515eb",
+    "time": "2024-05-16T00:35:26Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://docs.rememberizer.ai/",
+    "description": "Why Rememberizer? | English | Rememberizer Docs",
+    "extended": "",
+    "meta": "d046846345ed561e46926356ede78489",
+    "hash": "98f88178f93cf53fca11fb1b3ffc5b69",
+    "time": "2024-05-15T01:45:16Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://aws.amazon.com/blogs/opensource/flowpipe-a-cloud-scripting-engine-for-devops-workflows/",
+    "description": "Flowpipe: A Cloud Scripting Engine for DevOps Workflows | AWS Open Source Blog",
+    "extended": "",
+    "meta": "abc42914b9a6bea1790b78a49ca7a2ff",
+    "hash": "d99a8b6a906372949984460202dc6c10",
+    "time": "2024-05-15T01:40:29Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "aws"
+  },
+  {
     "href": "https://dev.to/danielgtaylor/a-cli-for-rest-apis-part-1-104b",
     "description": "A CLI for REST APIs - DEV Community",
     "extended": "",
