@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://github.com/savedra1/terraform-aws-simple-site",
+    "description": "GitHub - savedra1/terraform-aws-simple-site: Terraform module for easily spinning up a static website hosted in S3 with HTTPS support.",
+    "extended": "",
+    "meta": "c0931a7488451ee3e1df450a71afdaba",
+    "hash": "e4c60f302d532dcc6e0817700f8321dc",
+    "time": "2024-05-18T00:52:04Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://thepointsguy.com/guide/hotel-elite-status-match-challenge/",
+    "description": "Hotel elite status match and challenge offers for 2024 - The Points Guy",
+    "extended": "",
+    "meta": "3f1da755f9815b1349f7c48ba17965e8",
+    "hash": "44088562e432d372ee2688d548809000",
+    "time": "2024-05-17T08:11:13Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "reward"
+  },
+  {
     "href": "https://amitness.com/posts/fastapi-vs-flask",
     "description": "FastAPI for Flask Users",
     "extended": "",
@@ -399,7 +421,7 @@
     "href": "https://milelion.com/2024/03/01/citi-prestige-card-cuts-welcome-offer-to-50000-bonus-miles/",
     "description": "Citi Prestige Card cuts welcome offer to 50,000 bonus miles - The MileLion",
     "extended": "",
-    "meta": "2097e2219abb61d7d1365ac573e348c7",
+    "meta": "f7062f029c358a9290361f02fc5e498f",
     "hash": "82403392f51f8861f13e9921e12e8331",
     "time": "2024-05-10T02:04:09Z",
     "shared": "no",
