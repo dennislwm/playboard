@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://github.com/virattt/financial-datasets",
+    "description": "GitHub - virattt/financial-datasets: Financial datasets for LLMs 🧪",
+    "extended": "",
+    "meta": "c988b0a3025b35afbd619ff5f3162a00",
+    "hash": "9eb77586fb60773ab46bea230fb25be6",
+    "time": "2024-05-19T01:08:56Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://www.openproject.org/",
+    "description": "OpenProject - Open Source Project Management Software",
+    "extended": "",
+    "meta": "1dbff56b545eea5e92992e9a38300d91",
+    "hash": "0e47e6c38b0b31a544bd28eb462c2b42",
+    "time": "2024-05-19T00:55:14Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/orhun/flawz",
+    "description": "GitHub - orhun/flawz: A Terminal UI for browsing security vulnerabilities (CVEs)",
+    "extended": "",
+    "meta": "307c8ce7afbcd4cf8f14bc83c2267628",
+    "hash": "4397c0c86e6f76d98d5a8a4243cfcabe",
+    "time": "2024-05-18T23:56:09Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://milelion.com/2024/05/18/head-to-head-uob-preferred-platinum-visa-vs-uob-visa-signature/",
+    "description": "Head-to-head: UOB Preferred Platinum Visa vs UOB Visa Signature - The MileLion",
+    "extended": "",
+    "meta": "149d2e03bb9b822439f88abb797a6af3",
+    "hash": "1500000245c54828619735c9e4f06883",
+    "time": "2024-05-18T03:21:19Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/savedra1/terraform-aws-simple-site",
     "description": "GitHub - savedra1/terraform-aws-simple-site: Terraform module for easily spinning up a static website hosted in S3 with HTTPS support.",
     "extended": "",
