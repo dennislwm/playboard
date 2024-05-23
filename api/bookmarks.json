@@ -1,5 +1,82 @@
 [
   {
+    "href": "https://maven.com/parlance-labs/fine-tuning",
+    "description": "Mastering LLMs: A Conference For Developers & Data Scientists by Dan Becker and Hamel Husain on Maven",
+    "extended": "",
+    "meta": "ed76a4e3563d7281f7bcc8324ca75f2f",
+    "hash": "e90009859dc52b3d158472d778a52a30",
+    "time": "2024-05-23T00:23:53Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://amber-lang.com/",
+    "description": "Amber",
+    "extended": "",
+    "meta": "971641cddb2a135804106d315d74d4c9",
+    "hash": "0979118d057c76594b6a73185d481448",
+    "time": "2024-05-23T00:20:32Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://milelion.com/2024/05/22/whats-the-best-credit-card-to-use-for-simplygo-and-public-transport/",
+    "description": "2024 Edition: Best Credit Cards for Public Transport (SimplyGo) - The MileLion",
+    "extended": "",
+    "meta": "84aaa55ad146b81d4a249ab03a832785",
+    "hash": "fd8b5099768f5efb9d72302e6d419688",
+    "time": "2024-05-22T04:41:41Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "reward"
+  },
+  {
+    "href": "https://submanager.app/",
+    "description": "SubManager",
+    "extended": "",
+    "meta": "098a55faa1c5156848b9c59b0095a02a",
+    "hash": "6542bf3f2eb1dba4b4d423e60e322c94",
+    "time": "2024-05-22T02:36:06Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://www.tanyongsheng.net/note/self-hosting-different-open-source-services-my-docker-containers-collection-with-traefik/",
+    "description": "Self hosting different Open Source Services: my Docker Containers Collection with Traefik - Tan Yong Sheng",
+    "extended": "",
+    "meta": "ebd9cc9a18246d8cc06cedda2526d352",
+    "hash": "00334461ddf22db2d227bd6940781e85",
+    "time": "2024-05-22T02:33:10Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://github.com/RoseSecurity/Terramaid",
+    "description": "GitHub - RoseSecurity/Terramaid: A utility for generating Mermaid diagrams from Terraform plans",
+    "extended": "",
+    "meta": "b6caa651871d3c4489b4b2b7144efcbd",
+    "hash": "8dde1ae2d7f3bcd6d6914b0b365c01bd",
+    "time": "2024-05-22T02:16:07Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/Openpanel-dev/openpanel",
+    "description": "GitHub - Openpanel-dev/openpanel: All the goodies from both Mixpanel and Plausible combined into one tool.",
+    "extended": "",
+    "meta": "87d8f778bf41e9089f458fb153882826",
+    "hash": "4126c13fef3242c996aa7d77ae3ff1c9",
+    "time": "2024-05-22T01:56:00Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/engineerapart/TheRemoteFreelancer",
     "description": "GitHub - engineerapart/TheRemoteFreelancer: Listing of community-curated resources to find topical remote freelance & contract work for software developers, web designers, and more!",
     "extended": "",
