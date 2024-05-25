@@ -1,5 +1,71 @@
 [
   {
+    "href": "https://github.com/brisktest/brisk",
+    "description": "GitHub - brisktest/brisk: Brisk is a complete Continuous Integration tool for executing your test suites. It is designed around speed and outperforms all other CI tools - primarily by only rebuilding the test env when necessary. It can be run either from ",
+    "extended": "",
+    "meta": "71752190ca140c3888b7f234e909a41b",
+    "hash": "d1d2448c00b76c2dbf981649c3157d3a",
+    "time": "2024-05-25T01:12:04Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/cnoe-io",
+    "description": "CNOE · GitHub",
+    "extended": "",
+    "meta": "b697758132f1ab47a9b82438e54cfe9c",
+    "hash": "4882b1f39b25f19f8dcfd008341f3f65",
+    "time": "2024-05-24T06:58:28Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/jdepoix/youtube-transcript-api",
+    "description": "GitHub - jdepoix/youtube-transcript-api: This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless browser, like o",
+    "extended": "",
+    "meta": "d14566b36e28006288f73ce914a78611",
+    "hash": "287d4ce9e69a04cb3ddb8609c4d0f41b",
+    "time": "2024-05-24T06:35:53Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://ai.plainenglish.io/finally-got-small-company-running-with-100-ai-agents-part-3-34fa2f91b943",
+    "description": "Finally Got Small Company Running with 100% AI Agents : Part 3 | by Aniket Hingane | May, 2024 | Artificial Intelligence in Plain English",
+    "extended": "",
+    "meta": "b98430de5dbaf00b7621f62485d02907",
+    "hash": "1641fac39970e6bb325c811e76a09a20",
+    "time": "2024-05-24T05:46:26Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://github.com/nvnivs/terraform-module-template",
+    "description": "GitHub - nvnivs/terraform-module-template: A template to create Terraform module Repositories.",
+    "extended": "",
+    "meta": "0103c1a1b4a8ccb1e0894a2eb34000ba",
+    "hash": "bcf5f7cb386263af080aae7d00934e4c",
+    "time": "2024-05-24T02:00:09Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/containers/skopeo",
+    "description": "GitHub - containers/skopeo: Work with remote images registries - retrieving information, images, signing content",
+    "extended": "",
+    "meta": "4ff3922c53b4aa46327d9e46f538a55d",
+    "hash": "6c5aa3ec48a905aea2ec5daea9f89fc3",
+    "time": "2024-05-24T01:54:33Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://maven.com/parlance-labs/fine-tuning",
     "description": "Mastering LLMs: A Conference For Developers & Data Scientists by Dan Becker and Hamel Husain on Maven",
     "extended": "",
