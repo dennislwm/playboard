@@ -1,5 +1,104 @@
 [
   {
+    "href": "https://github.com/mzucker/page_dewarp",
+    "description": "GitHub - mzucker/page_dewarp: Text page dewarping using a \"cubic sheet\" model",
+    "extended": "",
+    "meta": "9b82285dc0c942c8d6451679d310d8f1",
+    "hash": "6e8e50ea55165e5ad311b2621d059123",
+    "time": "2024-05-25T02:52:48Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/kestra-io/kestra",
+    "description": "GitHub - kestra-io/kestra: Infinitely scalable, event-driven, language-agnostic orchestration and scheduling platform to manage millions of workflows declaratively in code.",
+    "extended": "",
+    "meta": "abbfebfb93d2b917138d9cef68683427",
+    "hash": "828d6f8e78c8488fd7a62b216565a35c",
+    "time": "2024-05-25T02:05:57Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/zitadel/zitadel",
+    "description": "GitHub - zitadel/zitadel: ZITADEL - Identity infrastructure, simplified for you.",
+    "extended": "",
+    "meta": "84097ad62cf3cfb9d406e48f23e030a1",
+    "hash": "b59b016bc9cc0f0eda21c2eb039f9ef1",
+    "time": "2024-05-25T02:01:10Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/kanidm/kanidm",
+    "description": "GitHub - kanidm/kanidm: Kanidm: A simple, secure and fast identity management platform",
+    "extended": "",
+    "meta": "23209de7b5c78b18fa8b46d2d7be9f65",
+    "hash": "3ebf0571e18a62059e5ee1c262ca4d18",
+    "time": "2024-05-25T02:00:17Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/casdoor/casdoor",
+    "description": "GitHub - casdoor/casdoor: An open-source UI-first Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, RADIUS, Google Workspace, Active Directory ",
+    "extended": "",
+    "meta": "e30dc758ec7312a973f66eccd657fd02",
+    "hash": "611c816c4042fdf4b37023ba09cb60d8",
+    "time": "2024-05-25T01:59:06Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://worklenz.com/?ref=selfh.st",
+    "description": "Worklenz - Free and Open Source Agency Management Tool",
+    "extended": "",
+    "meta": "b06fc050ed0d2dd2b2c096f237c46c99",
+    "hash": "893c73c0b8c56c2a2fa022b9b866c9fd",
+    "time": "2024-05-25T01:57:40Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/fabriziosalmi/UglyFeed",
+    "description": "GitHub - fabriziosalmi/UglyFeed: Retrieve, aggregate, filter, evaluate, rewrite and serve RSS feeds using Large Language Models for fun, research and learning purposes.",
+    "extended": "",
+    "meta": "9d2febe227233488e1a54333d8dfa093",
+    "hash": "bad3cf48be612c2803ea688cea9c6db6",
+    "time": "2024-05-25T01:55:59Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/piccolo-orm/piccolo_admin",
+    "description": "GitHub - piccolo-orm/piccolo_admin: A powerful web admin for your database.",
+    "extended": "",
+    "meta": "ba7f662b56d19777a93a8690e9a56372",
+    "hash": "05c33ea9d8e6e121dbf6a7883fd583a0",
+    "time": "2024-05-25T01:49:09Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://www.mp3tag.de/en/",
+    "description": "Mp3tag - the universal Tag Editor (ID3v2, MP4, OGG, FLAC, ...)",
+    "extended": "",
+    "meta": "16594e62ed963eea090f151b31db79e1",
+    "hash": "8d9db400bad6e5530b6c5ab5ebd35742",
+    "time": "2024-05-25T01:13:25Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/brisktest/brisk",
     "description": "GitHub - brisktest/brisk: Brisk is a complete Continuous Integration tool for executing your test suites. It is designed around speed and outperforms all other CI tools - primarily by only rebuilding the test env when necessary. It can be run either from ",
     "extended": "",
