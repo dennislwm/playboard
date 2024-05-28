@@ -1,5 +1,82 @@
 [
   {
+    "href": "https://www.sheshbabu.com/posts/react-like-composition-using-go-html-template/",
+    "description": "Implementing React-like Composition using Go's html/template",
+    "extended": "",
+    "meta": "d80c79e2f98e153f252a495005063684",
+    "hash": "814f040c93e0439da4ee8682ddd267dd",
+    "time": "2024-05-28T01:00:57Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://www.racktables.org/",
+    "description": "RackTables",
+    "extended": "",
+    "meta": "ccf269e6aa2be206691c3ecc3ce69983",
+    "hash": "2ef848f9849970dff122c493d3e435cb",
+    "time": "2024-05-27T10:11:07Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://milelion.com/2024/05/27/2024-edition-the-120k-credit-card-showdown/",
+    "description": "2024 Edition: The $120K Credit Card Showdown - The MileLion",
+    "extended": "",
+    "meta": "400941a37e6446948bcc243329f27c02",
+    "hash": "2ae5a48891d75f4e53da87e63a402b9b",
+    "time": "2024-05-27T09:35:00Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "reward"
+  },
+  {
+    "href": "https://www.reddit.com/r/TokyoDisneySea/comments/1d0283g/disneyland_vacation_package_too_many_options_for/",
+    "description": "Reddit - Dive into anything",
+    "extended": "",
+    "meta": "657f8b6382bcc78c554771cb2371baa4",
+    "hash": "953232bfcd5568c9083cfcc2f2bc951e",
+    "time": "2024-05-27T01:26:45Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "reward"
+  },
+  {
+    "href": "https://wickstrom.tech/2024-05-23-statically-typed-functional-programming-python-312.html",
+    "description": "Statically Typed Functional Programming with Python 3.12",
+    "extended": "",
+    "meta": "77a9b82609252721b7a631dce3052dd4",
+    "hash": "4e9ff4766dafda5c610ddfbd6ce84207",
+    "time": "2024-05-27T01:21:45Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
+    "href": "https://dev.to/tevindeale/enhancing-aws-vpc-security-accessing-your-network-with-a-private-jumpbox-using-tailscale-1k83",
+    "description": "Enhancing AWS VPC Security: Accessing Your Network with a Private Jumpbox using Tailscale - DEV Community",
+    "extended": "",
+    "meta": "a6aca7fcffc82b70501850d84602a10e",
+    "hash": "e494fa7884a965883a6208b0eae3f680",
+    "time": "2024-05-27T01:19:33Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "aws"
+  },
+  {
+    "href": "https://www.reddit.com/r/TokyoDisneySea/comments/1d0vdoi/is_a_half_day_worth_it_at_disneysea/",
+    "description": "Is a half day worth it at Disneysea? : r/TokyoDisneySea",
+    "extended": "",
+    "meta": "9a973efd8e3e1b9a08bfb4e877cbcda0",
+    "hash": "5cf56d8e64c3e3e4311083eaa77ec74a",
+    "time": "2024-05-27T01:18:13Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "reward"
+  },
+  {
     "href": "https://renjithvr11.medium.com/gitlab-ci-cd-catalog-components-cd5a14fe3689",
     "description": "GitLab CI/CD Catalog & Components | by Renjith Ravindranathan | May, 2024 | Medium",
     "extended": "",
