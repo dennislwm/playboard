@@ -1,5 +1,60 @@
 [
   {
+    "href": "https://www.nikolasgoebel.com/2024/05/28/duckdb-doesnt-need-data.html",
+    "description": "DuckDB Doesn’t Need Data To Be a Database",
+    "extended": "",
+    "meta": "2f0f0697319037fd0ac814b3168e10c9",
+    "hash": "7e0a7da513822d5b735d8d77d3d7393d",
+    "time": "2024-05-30T00:59:03Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "dbsql"
+  },
+  {
+    "href": "https://www.wiz.io/blog/wiz-and-hugging-face-address-risks-to-ai-infrastructure",
+    "description": "Hugging Face works with Wiz to strengthen AI cloud security | Wiz Blog",
+    "extended": "",
+    "meta": "53b1cdd689964a5bb5fd860d09882967",
+    "hash": "2821516f5d609d2f2ace56c37e262b6f",
+    "time": "2024-05-30T00:04:36Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://www.peach.wiz.io/",
+    "description": "PEACH - Tenant Isolation Framework for Cloud Apps",
+    "extended": "",
+    "meta": "5a6b0c9e6de3e710a7858ae7c74431bd",
+    "hash": "bcdfd6c1131a5b2ee23e530c8e352fcd",
+    "time": "2024-05-30T00:03:11Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "security"
+  },
+  {
+    "href": "https://www.wiz.io/blog/wiz-research-discovers-critical-vulnerability-in-replicate",
+    "description": "Wiz Research team discovers a major risk to AI systems | Wiz Blog",
+    "extended": "",
+    "meta": "065d458d7ab6c21314b95b65e57b25f0",
+    "hash": "399fb7e09ee5b73bfd4fa6ba7a0f1f07",
+    "time": "2024-05-29T23:57:57Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "security"
+  },
+  {
+    "href": "https://ipullrank.com/google-algo-leak",
+    "description": "Secrets from the Algorithm: Google Search’s Internal Engineering Documentation Has Leaked",
+    "extended": "",
+    "meta": "a32263bd59c0a018ca1ae7f1a62c8c29",
+    "hash": "622df06ce91fece32934bce55e488358",
+    "time": "2024-05-29T23:36:46Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "seo"
+  },
+  {
     "href": "https://github.com/dlvhdr/gh-dash",
     "description": "GitHub - dlvhdr/gh-dash: A beautiful CLI dashboard for GitHub 🚀",
     "extended": "",
