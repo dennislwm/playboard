@@ -1,5 +1,93 @@
 [
   {
+    "href": "https://seriot.ch/projects/parsing_json.html",
+    "description": "Parsing JSON is a Minefield",
+    "extended": "",
+    "meta": "648c50d1ede749d0ed9daccaef778e98",
+    "hash": "a559f56c301e50fb37a052f7b18db2ff",
+    "time": "2024-06-03T01:13:04Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "configenv"
+  },
+  {
+    "href": "https://danluu.com/corp-eng-blogs/",
+    "description": "How (some) good corporate engineering blogs are written",
+    "extended": "",
+    "meta": "e0c58c23d0e9537ca1c5efa2d85e36ba",
+    "hash": "d88792847570473fb10d480887f922d7",
+    "time": "2024-06-02T02:15:54Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://unit.nginx.org/",
+    "description": "Universal web app server — NGINX Unit",
+    "extended": "",
+    "meta": "82cd5da8fd07a4bcd6445624fe4193e6",
+    "hash": "9991a901acf66aefb5ab465e3c42d1ce",
+    "time": "2024-06-02T02:11:54Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://blog.luden.io/what-do-i-think-about-lua-after-shipping-a-project-with-60-000-lines-of-code-bf72a1328733?gi=55c58bd90fcb",
+    "description": "What do I think about Lua after shipping a project with 60,000 lines of code? | by Oleg Chumakov | May, 2024 | Luden.io",
+    "extended": "",
+    "meta": "db98dfe745863a4d773dd98e1040fc60",
+    "hash": "905b88efbc94af8598886c894c5885ac",
+    "time": "2024-06-02T01:57:53Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "makerwork"
+  },
+  {
+    "href": "https://github.com/bin123apple/AutoCoder",
+    "description": "GitHub - bin123apple/AutoCoder: We introduced a new model designed for the Code generation task. Its test accuracy on the HumanEval base dataset surpasses that of GPT-4 Turbo (April 2024) and GPT-4o.",
+    "extended": "",
+    "meta": "d2f4117a9c2c4b78b133e840472162a0",
+    "hash": "d1115fd07c9d2dd88f43f717be453715",
+    "time": "2024-06-02T01:54:58Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/defold/defold",
+    "description": "GitHub - defold/defold: Defold is a completely free to use game engine for development of desktop, mobile and web games.",
+    "extended": "",
+    "meta": "1915d8e1c8cf77a6ebdd54cc3eb10ceb",
+    "hash": "8533786954d28e14055903e2a6940496",
+    "time": "2024-06-02T01:46:24Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/meonkeys/shb",
+    "description": "GitHub - meonkeys/shb: Source code for an awesome book about self-hosting.",
+    "extended": "",
+    "meta": "8c082677279a30ea5cd0073d14c0d797",
+    "hash": "58712b9547af499f643fb9c5f08d41d5",
+    "time": "2024-06-02T01:42:14Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://notes.dsebastien.net/50+Resources/56+Obsidian+Publish/README",
+    "description": "README - DeveloPassion",
+    "extended": "",
+    "meta": "75d3bc6f0dc7130e6b24abb7e92deee1",
+    "hash": "60e7b59bc88d280509cf9af3c98c72b3",
+    "time": "2024-06-02T01:33:35Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "productivity"
+  },
+  {
     "href": "https://milelion.com/2024/06/02/citi-prestige-card-cuts-welcome-offer-to-50000-bonus-miles/",
     "description": "Extended: Citi Prestige Card 50,000 bonus miles welcome offer - The MileLion",
     "extended": "",
