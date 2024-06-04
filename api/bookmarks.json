@@ -1,5 +1,60 @@
 [
   {
+    "href": "https://www.timestored.com/qstudio/release-version-3",
+    "description": "qStudio Release Version 3.0 » qStudio",
+    "extended": "",
+    "meta": "b12a4686716eb063ae3cc37cb834a46c",
+    "hash": "f4245af3ad3c3aacf491b2ce4acb0a27",
+    "time": "2024-06-04T00:57:40Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "dbsql"
+  },
+  {
+    "href": "https://github.com/muxcraftserver/MuxSystem",
+    "description": "GitHub - muxcraftserver/MuxSystem: Das originale MuxCraft System, v10.",
+    "extended": "",
+    "meta": "1a28f0b589698bc5f5470687c32cdcc6",
+    "hash": "151005eb4f4e83d6d091752d51753e63",
+    "time": "2024-06-04T00:38:12Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://karlstoney.com/incident-summaries-using-llms/",
+    "description": "Incident Summaries using LLMs",
+    "extended": "",
+    "meta": "b80c4fb39f9e2c53fcf6152ec411f947",
+    "hash": "fe519ef5a6f13244dcbc38331538c2a1",
+    "time": "2024-06-03T05:37:02Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://www2.city.kyoto.lg.jp/kotsu/webguide/en/bus/limited_express.html",
+    "description": "Kyoto City Bus & Subway Information Guide:Sightseeing Limited Express Bus",
+    "extended": "",
+    "meta": "77e3407c7a9eeaeab91027a1f41a3721",
+    "hash": "8fe31dae9bd8bf8f1b1d25556e1f31b1",
+    "time": "2024-06-03T05:30:16Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "reward"
+  },
+  {
+    "href": "https://faq.tokyodisneyresort.jp/tdr/en/faq_detail.html?id=22025",
+    "description": "[Official] | [Standby Pass] How many time… | Tokyo Disney Resort App | FAQ | Tokyo Disney Resort",
+    "extended": "",
+    "meta": "96bc51ce55de0f7a2df0eac4e5d1f917",
+    "hash": "8310cfdf88ed1065054090b96d243f86",
+    "time": "2024-06-03T01:52:36Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "reward"
+  },
+  {
     "href": "https://seriot.ch/projects/parsing_json.html",
     "description": "Parsing JSON is a Minefield",
     "extended": "",
