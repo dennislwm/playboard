@@ -1,5 +1,60 @@
 [
   {
+    "href": "https://www.zufallsheld.de/2024/06/03/working-with-the-gitlab-cli/",
+    "description": "Working with Gitlab on the CLI",
+    "extended": "",
+    "meta": "3d68e54f55900cd6dad4fd753ed24ee7",
+    "hash": "454d2869ae72d895fd0c14821625d8a1",
+    "time": "2024-06-05T01:13:47Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://github.com/mockoon/mockoon",
+    "description": "GitHub - mockoon/mockoon: Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.",
+    "extended": "",
+    "meta": "2cba13d678d1af60380dc1ce2df38006",
+    "hash": "8728dfca2c1908dbecdcddd31597fad4",
+    "time": "2024-06-05T01:08:34Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/andyk/ht",
+    "description": "GitHub - andyk/ht: headless terminal - wrap any binary with a terminal interface for easy programmatic access.",
+    "extended": "",
+    "meta": "cef9c177bbf6fe5ac6cb34036c6d7ded",
+    "hash": "5d968d61623903e440a5c278f4160674",
+    "time": "2024-06-05T01:05:42Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://pieces.app/",
+    "description": "Pieces for Developers | AI-Enabled Developer Productivity",
+    "extended": "",
+    "meta": "7fa60958e5dbc23d9b0214c00022da31",
+    "hash": "b4d480be2283587f38b0b48157d5fb27",
+    "time": "2024-06-05T00:57:01Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://www.mlexpert.io/blog/autogen-build-ai-agents?source=post_page-----426cc50ef720--------------------------------",
+    "description": "AutoGen - Build Powerful AI Agents with ChatGPT/GPT-4 | MLExpert - Get Shit Done with AI Bootcamp",
+    "extended": "",
+    "meta": "dd37a6863465aa5ff7240dd9bcb9d68e",
+    "hash": "90bc69c841103099417871e18a6bbdd8",
+    "time": "2024-06-04T02:24:16Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://www.timestored.com/qstudio/release-version-3",
     "description": "qStudio Release Version 3.0 » qStudio",
     "extended": "",
