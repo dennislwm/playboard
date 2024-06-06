@@ -1,5 +1,71 @@
 [
   {
+    "href": "https://google.github.io/mesop/",
+    "description": "Mesop",
+    "extended": "",
+    "meta": "0cee6e81d0fc038f849946a7bfd73760",
+    "hash": "d04b765d6e54733d45bb546481116b55",
+    "time": "2024-06-06T01:01:23Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://getunblocked.com/blog/chissl",
+    "description": "HTTPS Reverse Tunnel, now without the pain and cost",
+    "extended": "",
+    "meta": "4b4a68f7b03bf4a5b70a03a191b6364d",
+    "hash": "ad8df2f36291c0e4d495170d32e8c145",
+    "time": "2024-06-06T00:57:00Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://github.com/papercups-io/papercups",
+    "description": "GitHub - papercups-io/papercups: Open-source live customer chat",
+    "extended": "",
+    "meta": "8c8d5f9bf6980509759765bcaa29f761",
+    "hash": "7f63174c1591c89bd7554a1b8a9b5379",
+    "time": "2024-06-05T15:42:31Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://www.flownote.ai/",
+    "description": "Flownote: AI Meeting Transcription and Summarization App",
+    "extended": "",
+    "meta": "7091c12f22d725a9735ae5f798dcea5f",
+    "hash": "29da0c9b37b8a831ac2317ae57d9a8ba",
+    "time": "2024-06-05T02:23:16Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/fiddyschmitt/File-Tunnel",
+    "description": "GitHub - fiddyschmitt/File-Tunnel: Tunnel TCP connections through a file",
+    "extended": "",
+    "meta": "042ff033967bf64d51c4e7f610628a26",
+    "hash": "d0108dc1e36a9faee69eef853ef5422b",
+    "time": "2024-06-05T02:17:16Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://packagemain.tech/p/software-architecture-diagrams-c4",
+    "description": "Software Architecture Diagrams with C4 Model",
+    "extended": "",
+    "meta": "fb8cb0ef3205132e9607a429f99f6ec3",
+    "hash": "949c928b6c304fb6babdcf20ad719b1a",
+    "time": "2024-06-05T01:38:01Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "productivity"
+  },
+  {
     "href": "https://www.zufallsheld.de/2024/06/03/working-with-the-gitlab-cli/",
     "description": "Working with Gitlab on the CLI",
     "extended": "",
