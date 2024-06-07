@@ -1,5 +1,60 @@
 [
   {
+    "href": "https://github.com/mfts/papermark",
+    "description": "GitHub - mfts/papermark: Papermark is the open-source DocSend alternative with built-in analytics and custom domains.",
+    "extended": "",
+    "meta": "56733467aed0927b99e12a79f7b919ba",
+    "hash": "f6ed4a13baf9d33614ed7376d067f767",
+    "time": "2024-06-07T00:51:10Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://every.to/the-crazy-ones/the-misfit-who-built-the-ibm-pc",
+    "description": "The Misfit Who Built the IBM PC",
+    "extended": "",
+    "meta": "7b9873d5b2923c712ba59b8c83dd9e2b",
+    "hash": "f9a2f0fde52645019bf3e9a7c521a97f",
+    "time": "2024-06-07T00:38:33Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://github.com/lintnet/lintnet",
+    "description": "GitHub - lintnet/lintnet: General purpose linter for structured configuration data powered by Jsonnet. Support various formats such as JSON, YAML, HCL, etc. You can reuse and distribute lint rules easily",
+    "extended": "",
+    "meta": "8885c3009c6b2a9615c57ff2e0181111",
+    "hash": "be93faf9bdb709e9fe85bd90df56224c",
+    "time": "2024-06-06T02:19:49Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/anchore/syft",
+    "description": "GitHub - anchore/syft: CLI tool and library for generating a Software Bill of Materials from container images and filesystems",
+    "extended": "",
+    "meta": "587245ced8e7450d3668115816296d6e",
+    "hash": "f9c02a6918fde6caad1c519ad0a4ec03",
+    "time": "2024-06-06T02:11:23Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/bigcapitalhq/bigcapital",
+    "description": "GitHub - bigcapitalhq/bigcapital: 💵 Bigcapital is financial accounting with intelligent reporting for faster decision-making, an open-source alternative to Quickbooks, Xero, etc.",
+    "extended": "",
+    "meta": "5d39e5c1af811cf8f31ae118640a2a6e",
+    "hash": "ec287b629cd2f832f00372a0f03bbd14",
+    "time": "2024-06-06T02:09:11Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://google.github.io/mesop/",
     "description": "Mesop",
     "extended": "",
