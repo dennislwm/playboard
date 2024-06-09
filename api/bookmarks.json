@@ -1,5 +1,82 @@
 [
   {
+    "href": "https://github.com/jordanbaird/Ice",
+    "description": "GitHub - jordanbaird/Ice: Powerful menu bar manager for macOS",
+    "extended": "",
+    "meta": "01a3a3fe4f94edc52dc33c7a92fd55eb",
+    "hash": "088718e7da4b33de2a1d33b3f76d92bd",
+    "time": "2024-06-08T03:07:01Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://xpipe.io/",
+    "description": "XPipe",
+    "extended": "",
+    "meta": "cf0a2036b4e47cf5b9f3a192f1c02aa1",
+    "hash": "a1c1a0ccbc92c586ed0ba22b69f345e3",
+    "time": "2024-06-08T03:06:15Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://ukgovernmentbeis.github.io/inspect_ai/",
+    "description": "Inspect",
+    "extended": "",
+    "meta": "f48b6410b36d595163ce9f336be13cc0",
+    "hash": "5439d93f15e151d5c6d815a5ac573ddd",
+    "time": "2024-06-08T03:05:41Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/HiEventsDev/hi.events",
+    "description": "GitHub - HiEventsDev/hi.events: Self-hosted event management and ticket selling platform 🎟️",
+    "extended": "",
+    "meta": "d947a0cbfcb7de5f3dd233f32f64df3c",
+    "hash": "002661efaa87af1449bb0dd0fb714c1d",
+    "time": "2024-06-08T02:19:27Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://www.reddit.com/r/TokyoDisneySea/comments/1daee9w/fantasy_springs_megathread/",
+    "description": "Fantasy Springs Megathread : r/TokyoDisneySea",
+    "extended": "",
+    "meta": "f220f0953c9da87f3893b2a3f1c85755",
+    "hash": "7ba2b03ab4c3a2efde115d81fdb71250",
+    "time": "2024-06-08T02:16:47Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "reward"
+  },
+  {
+    "href": "https://blogs.windows.com/windowsexperience/2024/06/07/update-on-the-recall-preview-feature-for-copilot-pcs/",
+    "description": "Update on the Recall preview feature for Copilot+ PCs | Windows Experience Blog",
+    "extended": "",
+    "meta": "cd738bded0c0655ebf1bcc5e4fe66c06",
+    "hash": "028d7f32be474c34eed117feeb603562",
+    "time": "2024-06-08T02:13:30Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://github.com/jreisinger/checkip",
+    "description": "GitHub - jreisinger/checkip: Get (security) info about IP addresses",
+    "extended": "",
+    "meta": "1dfc64419b517b8770ce48db61c054ec",
+    "hash": "4469bc7c9c773c4b667166e62c3fe521",
+    "time": "2024-06-08T02:06:44Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/mfts/papermark",
     "description": "GitHub - mfts/papermark: Papermark is the open-source DocSend alternative with built-in analytics and custom domains.",
     "extended": "",
