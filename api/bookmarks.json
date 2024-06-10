@@ -1,5 +1,60 @@
 [
   {
+    "href": "https://hydephp.com/",
+    "description": "HydePHP - Elegant and Powerful Static Site Generator",
+    "extended": "",
+    "meta": "c936c68fcc14543442c06fc9118737a2",
+    "hash": "d47270dcc0de2c5e915e78c8b3aedaad",
+    "time": "2024-06-09T02:45:05Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/TrimVis/butlarr",
+    "description": "GitHub - TrimVis/butlarr: Telegram bot to interact with various arr services. Created with extensibility in mind.",
+    "extended": "",
+    "meta": "89f53ac99f417aae10f08737a4d1052d",
+    "hash": "700fdf98a96ef96d967801febdc4c79f",
+    "time": "2024-06-09T02:32:51Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://dgreenheck.github.io/tree-js/",
+    "description": "Tree.js",
+    "extended": "",
+    "meta": "e72be3e1797a9b06679eb0db239948df",
+    "hash": "e08edf1d6c60486ed135a6439035726f",
+    "time": "2024-06-09T02:30:32Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://stackoverflow.blog/2024/06/06/breaking-up-is-hard-to-do-chunking-in-rag-applications/",
+    "description": "Breaking up is hard to do: Chunking in RAG applications - Stack Overflow",
+    "extended": "",
+    "meta": "9a423bc9f7d86328309001a7c1156d4f",
+    "hash": "47972d4de79b53517485af86e4fafe4f",
+    "time": "2024-06-09T02:28:42Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://github.com/Quinta0/ObsidianSetup",
+    "description": "GitHub - Quinta0/ObsidianSetup",
+    "extended": "",
+    "meta": "31e7db4dff4edcc17d41a2c7d361ae46",
+    "hash": "d4b6aef11da3b55cc8b5c60e5db1f816",
+    "time": "2024-06-09T02:25:02Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/jordanbaird/Ice",
     "description": "GitHub - jordanbaird/Ice: Powerful menu bar manager for macOS",
     "extended": "",
