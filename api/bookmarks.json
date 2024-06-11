@@ -1,5 +1,137 @@
 [
   {
+    "href": "https://lowendbox.com/blog/silicom-network-lifetime-shared-and-reseller-plans-back-in-stock-for-germany-singapore-and-the-usa/",
+    "description": "Silicom Network: Lifetime Shared and Reseller Plans Back in Stock for Germany, Singapore, and the USA! - LowEndBox",
+    "extended": "",
+    "meta": "713302c9c22109b1365600845ccab5c6",
+    "hash": "334ba1f7c4f7d17e30e60b83e8823940",
+    "time": "2024-06-11T00:41:42Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://blog.plerion.com/things-you-wish-you-didnt-need-to-know-about-s3/",
+    "description": "Things you wish you didn't need to know about S3",
+    "extended": "",
+    "meta": "1f23903f096ff8d116b4dcfc4cd3bb8f",
+    "hash": "fe33639e7ed704e4c672fb5fb022a1eb",
+    "time": "2024-06-10T09:05:04Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "aws"
+  },
+  {
+    "href": "https://github.com/thereisnotime/SheLLM",
+    "description": "GitHub - thereisnotime/SheLLM: Shell wrapper that integrates LLMs assistance. Let the AI in your terminal",
+    "extended": "",
+    "meta": "72d6d157e3968981dd1cdee8d9f4230a",
+    "hash": "e0776f547ef42b3a2da943c4aa2d5bdc",
+    "time": "2024-06-10T06:08:10Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/fixie-ai/ultravox",
+    "description": "GitHub - fixie-ai/ultravox",
+    "extended": "",
+    "meta": "f99d1dfd030b9449f90f10b9ba4d8f74",
+    "hash": "8ff2ac4c8fa9afbf0e99e1fa17d75afd",
+    "time": "2024-06-10T06:05:59Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/google/mesop",
+    "description": "GitHub - google/mesop",
+    "extended": "",
+    "meta": "7b9e021f4fac889be47344e6f1f1ff44",
+    "hash": "c8b9f8de46632a2395818b4eda01180b",
+    "time": "2024-06-10T05:45:10Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://milelion.com/2024/01/29/what-are-the-perks-of-a-world-elite-mastercard/",
+    "description": "What are the perks of a World Elite Mastercard? - The MileLion",
+    "extended": "",
+    "meta": "cc0cf9deafba859a12f554d5403c5437",
+    "hash": "b7293a33ce759a71a2ff7c661060f36d",
+    "time": "2024-06-10T02:52:43Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "reward"
+  },
+  {
+    "href": "https://milelion.com/2024/06/10/review-hsbc-travelone-card/",
+    "description": "Review: HSBC TravelOne Card - The MileLion",
+    "extended": "",
+    "meta": "c052a9efd2f4ab2f17e1c87d68f3ff59",
+    "hash": "59e3fdbb98f6d9b00d7c4e4c8d7a6261",
+    "time": "2024-06-10T02:50:44Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "reward"
+  },
+  {
+    "href": "https://milelion.com/2024/06/10/best-credit-cards-for-hotels/",
+    "description": "2024 Edition: Best Credit Cards for Hotels - The MileLion",
+    "extended": "",
+    "meta": "4ced8b7d8d92e30c9768538cf6b3b845",
+    "hash": "bb4000d4c49ce7ded8f35daded594b21",
+    "time": "2024-06-10T02:47:47Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "reward"
+  },
+  {
+    "href": "https://ieeexplore.ieee.org/document/9520328",
+    "description": "Garbage Collect Your Technical Debt | IEEE Journals & Magazine | IEEE Xplore",
+    "extended": "",
+    "meta": "91ceae32480bc91edca634e1f23e537c",
+    "hash": "dac990247cb7a1db5b8b2f7f698b8728",
+    "time": "2024-06-10T01:58:43Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://github.com/teodevgroup/teo",
+    "description": "GitHub - teodevgroup/teo: Schema-driven web server framework.",
+    "extended": "",
+    "meta": "5fee7ad2b511f4fbd77906735d52adc0",
+    "hash": "b312e61ad192f0d2d7b422a83367cdbf",
+    "time": "2024-06-10T01:49:06Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://itnext.io/master-command-orchestration-16f4a117ce05",
+    "description": "Master Command Orchestration with Just | Piotr Zaniewski | ITNEXT",
+    "extended": "",
+    "meta": "6dd9b334f12858f34c6208ae9e67bc2a",
+    "hash": "2f65af0e514cc5a0d652f94a5915747d",
+    "time": "2024-06-10T01:45:00Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "configenv"
+  },
+  {
+    "href": "https://substack.com/home/post/p-145060390",
+    "description": "Is Ticketmaster Telling the Truth About Its Finances?",
+    "extended": "",
+    "meta": "9e8ef0f9ef594f9e5e2a9d5b79f04978",
+    "hash": "578987005106a192e80fb1c91befb568",
+    "time": "2024-06-10T01:32:37Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "finance"
+  },
+  {
     "href": "https://hydephp.com/",
     "description": "HydePHP - Elegant and Powerful Static Site Generator",
     "extended": "",
