@@ -1,5 +1,93 @@
 [
   {
+    "href": "https://atscaleconference.com/mobile-configuration-at-meta-the-key-to-mobile-agile-development-at-scale/",
+    "description": "Mobile Configuration at Meta: The Key to Mobile Agile Development at Scale  | At Scale Conferences",
+    "extended": "",
+    "meta": "c3808a32dfa4b8c37602eed791d30c88",
+    "hash": "311da09b5aa23083357cce13e87ee846",
+    "time": "2024-06-12T01:14:48Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "configenv"
+  },
+  {
+    "href": "https://static.xtremeownage.com/blog/2024/backup-strategies/#how-do-i-handle-irreparable-things",
+    "description": "Backup Strategies - XtremeOwnage.com",
+    "extended": "",
+    "meta": "2686d591e38c962295b19f5b6d0523dc",
+    "hash": "2ebfca2d3bd661aa02dd0635b3c1fd32",
+    "time": "2024-06-11T23:58:32Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://milelion.com/2024/06/11/which-travel-insurance-policy-covers-miles-and-points-bookings/",
+    "description": "Which travel insurance policies cover miles and points bookings? - The MileLion",
+    "extended": "",
+    "meta": "18d0c66499554978e97d844ea885df6e",
+    "hash": "1961dd124355cb7175e656a69bb4b484",
+    "time": "2024-06-11T05:49:02Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "reward"
+  },
+  {
+    "href": "https://dev.to/aws-builders/reducing-aws-lambda-cold-starts-3eea",
+    "description": "Reducing AWS Lambda Cold Starts - DEV Community",
+    "extended": "",
+    "meta": "2a19cacca0092017b1518d279a5fe0da",
+    "hash": "6eba1d68a933d922318c57a5d9e8f8eb",
+    "time": "2024-06-11T02:21:02Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
+    "href": "https://github.com/beam-cloud/beta9",
+    "description": "GitHub - beam-cloud/beta9: The open-source serverless GPU container runtime.",
+    "extended": "",
+    "meta": "75f21ce9c378773967d51d7ada2039f9",
+    "hash": "d60c7a985f135c252748e9ad665a4da8",
+    "time": "2024-06-11T02:11:22Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://omakub.org/",
+    "description": "Omakub — An Omakase Developer Setup for Ubuntu 24.04 by DHH",
+    "extended": "",
+    "meta": "55dc652c8223befb24997bf1575a112f",
+    "hash": "d5d84eabdfcf6be3884056aca2b303ad",
+    "time": "2024-06-11T01:38:08Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://engineering.fb.com/2024/06/10/data-infrastructure/serverless-jupyter-notebooks-bento-meta/",
+    "description": "Serverless Jupyter Notebooks at Meta - Engineering at Meta",
+    "extended": "",
+    "meta": "85859c91e6ef9b24438dc2a151a72ec0",
+    "hash": "f4ffcb2e7c3e08cac73cdd1a8c307201",
+    "time": "2024-06-11T01:32:22Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://security.apple.com/blog/private-cloud-compute/",
+    "description": "Blog - Private Cloud Compute: A new frontier for AI privacy in the cloud - Apple Security Research",
+    "extended": "",
+    "meta": "11d7dd5a8f19bf7e44b1bc79049712eb",
+    "hash": "2f8c4516ab217b525176e2fc211ccf2c",
+    "time": "2024-06-11T01:26:24Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
     "href": "https://lowendbox.com/blog/silicom-network-lifetime-shared-and-reseller-plans-back-in-stock-for-germany-singapore-and-the-usa/",
     "description": "Silicom Network: Lifetime Shared and Reseller Plans Back in Stock for Germany, Singapore, and the USA! - LowEndBox",
     "extended": "",
