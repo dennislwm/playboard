@@ -1,5 +1,93 @@
 [
   {
+    "href": "https://clipbook.app/",
+    "description": "ClipBook | Clipboard history for macOS",
+    "extended": "",
+    "meta": "e860e5f11789264a55270646229e2d71",
+    "hash": "7ec2e857a5ed1e23c61cfc9e1a9db3c7",
+    "time": "2024-06-12T10:57:17Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/paulgessinger/swift-paperless",
+    "description": "GitHub - paulgessinger/swift-paperless: Native iOS app for interacting with a Paperless-ngx installation to manage documents",
+    "extended": "",
+    "meta": "6631e89f07507de7fd0403b19a6dcefd",
+    "hash": "39b2706b83b13d327ffdb78d19619ff9",
+    "time": "2024-06-12T10:39:19Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://ragflow.io/docs/dev/deploy_local_llm",
+    "description": "Deploy a local LLM | RAGFlow",
+    "extended": "",
+    "meta": "37a3d26e03bc21d7437f96ce7405973b",
+    "hash": "32fcc78cd8ae9e4a70fe9e5c02894928",
+    "time": "2024-06-12T09:04:10Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://dev.to/berk/running-ollama-and-open-webui-self-hosted-4ih5",
+    "description": "Running Ollama and Open WebUI Self-Hosted With AMD GPU - DEV Community",
+    "extended": "",
+    "meta": "1d940a13c716b54af30781149c69170a",
+    "hash": "4c295698ed1e7c2c38bb9eac17070a60",
+    "time": "2024-06-12T08:58:07Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://python.langchain.com/v0.1/docs/guides/development/local_llms/",
+    "description": "Run LLMs locally | 🦜️🔗 LangChain",
+    "extended": "",
+    "meta": "400db36e5574c530b66a48d6011947ce",
+    "hash": "c57abefaa10404d72db1e16f1dc201c8",
+    "time": "2024-06-12T08:04:04Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://milelion.com/2024/06/12/roundup-credit-card-sign-up-bonuses-june-2024/",
+    "description": "Roundup: Credit Card Sign-up Bonuses (June 2024) - The MileLion",
+    "extended": "",
+    "meta": "8ea069537a884c8d1ac8ead4b7e70fef",
+    "hash": "e053847fa2d2a942cd6b033280bb801d",
+    "time": "2024-06-12T07:32:52Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "reward"
+  },
+  {
+    "href": "https://ollama.com/",
+    "description": "Ollama",
+    "extended": "",
+    "meta": "c336b5c412ae19737b6a448d317839a6",
+    "hash": "6536b422328060d3ecb739ed14133336",
+    "time": "2024-06-12T07:28:52Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/overmindtech/cli",
+    "description": "GitHub - overmindtech/cli: Identify the blast radius and risks for Terraform changes in real time",
+    "extended": "",
+    "meta": "0c931062f79fd5c92ce1446fc8815aec",
+    "hash": "eeb713acdc5bee677ac56dbceb0a2d0a",
+    "time": "2024-06-12T01:19:30Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://atscaleconference.com/mobile-configuration-at-meta-the-key-to-mobile-agile-development-at-scale/",
     "description": "Mobile Configuration at Meta: The Key to Mobile Agile Development at Scale  | At Scale Conferences",
     "extended": "",
