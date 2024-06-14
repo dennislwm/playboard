@@ -1,5 +1,93 @@
 [
   {
+    "href": "https://restate.dev/",
+    "description": "Restate",
+    "extended": "",
+    "meta": "94cb21cdcac95521904e740e58a68118",
+    "hash": "1d6ca1fd9eabc8d7cd1b70b73ef27fd2",
+    "time": "2024-06-13T14:23:23Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/germanbrew/terraform-provider-dotenv",
+    "description": "GitHub - germanbrew/terraform-provider-dotenv: A utility Terraform provider for .env files",
+    "extended": "",
+    "meta": "141287cbb52c3c826d09944ccf44bbae",
+    "hash": "67561c3278bb5a3a0776562b9478d1b0",
+    "time": "2024-06-13T13:38:06Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "configenv"
+  },
+  {
+    "href": "https://www.reddit.com/r/TokyoDisneySea/comments/1de9i6o/another_report_for_disneysea/?share_id=oxnX3EScF8r6b2wUXq0I3&utm_name=iossmf&rdt=35305",
+    "description": "Another report for DisneySea! : r/TokyoDisneySea",
+    "extended": "",
+    "meta": "eb536af25257f7e5227146e640be7ce1",
+    "hash": "dae7e3347c12d5477aec367b21848ec9",
+    "time": "2024-06-13T10:44:31Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "reward"
+  },
+  {
+    "href": "https://simonwillison.net/2024/Jun/13/pdf-to-podcast/",
+    "description": "PDF to Podcast",
+    "extended": "",
+    "meta": "81d6015781011eab689ec635b9486b35",
+    "hash": "769591eb4f3d5f15f8b45dadc2203d3d",
+    "time": "2024-06-13T08:57:01Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://chat.lmsys.org/?leaderboard",
+    "description": "Chat with Open Large Language Models",
+    "extended": "",
+    "meta": "329d0822aa18ee348a71be9cfacd888e",
+    "hash": "e46966cef1a469d279530f5ca7f9ca0d",
+    "time": "2024-06-13T08:54:39Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://www.getares.ai/almanac",
+    "description": "Almanac | Pantheon Technologies",
+    "extended": "",
+    "meta": "3e8a7b04d3524b80a02fa4fd6132ecfe",
+    "hash": "f50d5a9214891e32fa6431adb4fb523d",
+    "time": "2024-06-13T08:53:39Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://github.com/quickwit-oss/tantivy-cli",
+    "description": "GitHub - quickwit-oss/tantivy-cli",
+    "extended": "",
+    "meta": "0257b07ef3d3a5669ff8928a0a30bd72",
+    "hash": "51f61d1e6b4bb1a38d328d51abf42983",
+    "time": "2024-06-13T08:44:19Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://milelion.com/2024/06/13/hsbc-revolution-nerfs-4-mpd-for-contactless-payments-and-travel-transactions/",
+    "description": "HSBC Revolution nerfs 4 mpd for contactless payments and travel transactions - The MileLion",
+    "extended": "",
+    "meta": "e9410ee953556fa989fd0a307aca3fd9",
+    "hash": "132057f19e6fa48707e3ca146b3077b6",
+    "time": "2024-06-13T07:29:14Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "reward"
+  },
+  {
     "href": "https://clipbook.app/",
     "description": "ClipBook | Clipboard history for macOS",
     "extended": "",
