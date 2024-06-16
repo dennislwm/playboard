@@ -1,5 +1,60 @@
 [
   {
+    "href": "https://selfhostbook.com/",
+    "description": "Steadfast Self-Hosting - 📖 Home",
+    "extended": "",
+    "meta": "064b56a48ca7bcb1197554dabffc4fb9",
+    "hash": "16c275e74c675a7755b404f7e50d249d",
+    "time": "2024-06-15T02:20:31Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://github.com/kieraneglin/pinchflat",
+    "description": "GitHub - kieraneglin/pinchflat: Your next YouTube media manager",
+    "extended": "",
+    "meta": "ef7a0591fa99383e2a3416c769ffb77f",
+    "hash": "54e56e508be4f11e6f5454512277a7bb",
+    "time": "2024-06-15T02:05:32Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/CopywriterPro-ai/copywriterproai-backend",
+    "description": "GitHub - CopywriterPro-ai/copywriterproai-backend: World’s first Open Source AI content writing platform that empowers users to create SEO-friendly blog posts, ad copy for social media, website landing pages, and more.",
+    "extended": "",
+    "meta": "5887a409540d35c365d52ed8409a2e43",
+    "hash": "3c2d667e2e0ae24584372c1d470300e2",
+    "time": "2024-06-15T02:04:40Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://zoriya.dev/blogs/transcoder/",
+    "description": "The challenge of writing a on-demand transcoder · Zoe's blog",
+    "extended": "",
+    "meta": "517e5e525b792ba764baff168b4952e9",
+    "hash": "fd333037558db37e29c7bef53e9533c0",
+    "time": "2024-06-15T02:00:53Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "solution"
+  },
+  {
+    "href": "https://blog.lytix.co/posts/self-hosting-llama-3",
+    "description": "Cost Of Self Hosting Llama-3 8B-Instruct",
+    "extended": "",
+    "meta": "34f3bdd41fa5fdbb7531d87081b1a89b",
+    "hash": "ef8e9e91468b613e72685dcb87aa65d5",
+    "time": "2024-06-15T01:56:36Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://playit.gg/",
     "description": "playit.gg",
     "extended": "",
