@@ -1,5 +1,60 @@
 [
   {
+    "href": "https://github.com/chrisvanmeer/at-hashi-demo",
+    "description": "GitHub - chrisvanmeer/at-hashi-demo: Demonstration environment for the HashiCorp products",
+    "extended": "",
+    "meta": "726202020155dd710b077d6cd396574c",
+    "hash": "c03b98a0d1f87d2c8cf177659b328995",
+    "time": "2024-06-16T06:29:05Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://www.structurizr.com/",
+    "description": "Structurizr",
+    "extended": "",
+    "meta": "e9ac3ec562485bd60f3af27c291df3ac",
+    "hash": "b21e37250885be75d68089112b57d9ac",
+    "time": "2024-06-16T04:44:04Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/ICRAR/ijson",
+    "description": "ICRAR/ijson: Iterative JSON parser with Pythonic interfaces",
+    "extended": "",
+    "meta": "7399e99bc979c165a57a7f7006b956fb",
+    "hash": "be1552e568b8738bc7d5b27017f87daf",
+    "time": "2024-06-16T04:34:34Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://blog.brunk.io/posts/similarity-search-with-duckdb/",
+    "description": "Using DuckDB for Embeddings and Vector Search",
+    "extended": "",
+    "meta": "61e46aae0b8e9e243e186c0fcaa5efff",
+    "hash": "fac61c823eedc588edea0bacd549aafc",
+    "time": "2024-06-16T02:31:54Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "dbsql"
+  },
+  {
+    "href": "https://github.com/SamurAIGPT/Text-To-Video-AI",
+    "description": "GitHub - SamurAIGPT/Text-To-Video-AI: Generate video from text using AI",
+    "extended": "",
+    "meta": "cd45e9ca25046cbb08a9fdba455e7ec2",
+    "hash": "78c62955b45e2c37f099ec888043e1bc",
+    "time": "2024-06-16T02:30:48Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://selfhostbook.com/",
     "description": "Steadfast Self-Hosting - 📖 Home",
     "extended": "",
