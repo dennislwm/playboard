@@ -1,5 +1,104 @@
 [
   {
+    "href": "https://stratechery.com/2024/an-interview-with-amd-ceo-lisa-su-about-solving-hard-problems/",
+    "description": "An Interview with AMD CEO Lisa Su About Solving Hard Problems – Stratechery by Ben Thompson",
+    "extended": "",
+    "meta": "a2ce090ca26fbbaaa0b0627a2fbdccf0",
+    "hash": "3766b35ae785c29374efccf4a6a98ac1",
+    "time": "2024-06-17T14:57:16Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://www.extensiontotal.com/",
+    "description": "ExtensionTotal | Analyze suspicious IDE extensions",
+    "extended": "",
+    "meta": "7b351251ffa1577b236ca2953bbf297e",
+    "hash": "03bd18a38ceb2869cde2c56a80c00ed5",
+    "time": "2024-06-17T05:36:03Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/hashicorp/microservices-architecture-on-aws",
+    "description": "GitHub - hashicorp/microservices-architecture-on-aws",
+    "extended": "",
+    "meta": "d888cd367c925b142dcd698601e37041",
+    "hash": "42742d90d901c2c8cdfc4d7a5a9d552c",
+    "time": "2024-06-17T05:33:23Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/bclavie/RAGatouille",
+    "description": "GitHub - bclavie/RAGatouille: Easily use and train state of the art late-interaction retrieval methods (ColBERT) in any RAG pipeline. Designed for modularity and ease-of-use, backed by research.",
+    "extended": "",
+    "meta": "5c1e1798b4c7956b092322407d62d5cd",
+    "hash": "4181e9ff9d53eec212a742b8a9db830c",
+    "time": "2024-06-17T05:30:55Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://milelion.com/2024/06/17/hsbc-revolution-a-designated-survivor-guide/",
+    "description": "HSBC Revolution: A designated survivor guide - The MileLion",
+    "extended": "",
+    "meta": "e9df9975d954b864433bfe388d763b4d",
+    "hash": "389b75b16fdb27b0a9cd86fffa393f42",
+    "time": "2024-06-17T03:08:45Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "reward"
+  },
+  {
+    "href": "https://registry.terraform.io/modules/mycarrysun/policy-actions/aws/latest",
+    "description": "mycarrysun/policy-actions/aws | Terraform Registry",
+    "extended": "",
+    "meta": "30e50d28069e2144001fcb6a4a002432",
+    "hash": "1b7f10a603f469ace4a1ceb42e78bf76",
+    "time": "2024-06-17T02:29:05Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://erikbern.com/2023/12/13/simple-sabotage-for-software.html",
+    "description": "Simple sabotage for software · Erik Bernhardsson",
+    "extended": "",
+    "meta": "a912f53653cbdea4a2c8f56953f5f7f3",
+    "hash": "4e82e566f4bbc709afc055f270cd4763",
+    "time": "2024-06-17T02:19:55Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://github.com/ReconXSecurityHQ/highlight",
+    "description": "GitHub - ReconXSecurityHQ/highlight: highlight is a script to detect and highlight patterns such as URLs, domains, IPv4 addresses, IPv6 addresses, subnets, ports, categories, HTML tags, and more.",
+    "extended": "",
+    "meta": "862216f20d24beef878aff7832840dd2",
+    "hash": "1585144134c2b51dfcf1de61e3d8f32a",
+    "time": "2024-06-17T02:15:15Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://simonwillison.net/2024/Jun/16/jina-ai-reader/",
+    "description": "Jina AI Reader",
+    "extended": "",
+    "meta": "bd54c713af70644e372f3a7cd9cf2d85",
+    "hash": "864f29d442076baa42a4066870bcc813",
+    "time": "2024-06-17T02:12:22Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://github.com/chrisvanmeer/at-hashi-demo",
     "description": "GitHub - chrisvanmeer/at-hashi-demo: Demonstration environment for the HashiCorp products",
     "extended": "",
