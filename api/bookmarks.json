@@ -1,5 +1,82 @@
 [
   {
+    "href": "https://blog.lambda.cx/posts/freecad-and-git/",
+    "description": "Versioning FreeCAD files with git - lambda.cx blog",
+    "extended": "",
+    "meta": "eb42765fd3fe19a8b05f88de04535e63",
+    "hash": "076fce4fa7024b1823d4c729b7a2ccb9",
+    "time": "2024-06-19T01:00:25Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://nightingaledvs.com/ive-stopped-using-box-plots-should-you/",
+    "description": "I’ve Stopped Using Box Plots. Should You? | Nightingale",
+    "extended": "",
+    "meta": "f4eaa53ea7ead9846913095edf2af7e2",
+    "hash": "e472e93decc2a3e497334bba4a06f1f6",
+    "time": "2024-06-19T00:59:13Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "solution"
+  },
+  {
+    "href": "https://www.ranthebuilder.cloud/post/amazon-cloudformation-custom-resources-best-practices-with-cdk-and-python-examples",
+    "description": "Amazon CloudFormation Custom Resources Best Practices with CDK and Python Examples",
+    "extended": "",
+    "meta": "2049e81d484f006049578c480128a80d",
+    "hash": "9b854c298306b0d0d765e5ebacc4fe61",
+    "time": "2024-06-18T10:03:25Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "aws"
+  },
+  {
+    "href": "https://newsletter.simpleaws.dev/p/dynamodb-database-design",
+    "description": "Database Design in Amazon DynamoDB",
+    "extended": "",
+    "meta": "dc80fe0598c49d566afad8eb166011be",
+    "hash": "9030c2f1c0bea65c3c1562364986be55",
+    "time": "2024-06-18T05:19:45Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "solution"
+  },
+  {
+    "href": "https://www.reddit.com/r/TokyoDisneySea/comments/1deieb3/tokyo_disneysea_fantasy_springs_vacation_package/?share_id=EhoZqeYT-h3IygPaaEFvM&utm_name=ioscss",
+    "description": "Tokyo DisneySea Fantasy Springs Vacation Package Experience : r/TokyoDisneySea",
+    "extended": "",
+    "meta": "96eaf21a11110485847e45476729eaa3",
+    "hash": "4efe04339472c024ad23021b048e626b",
+    "time": "2024-06-18T02:36:59Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "reward"
+  },
+  {
+    "href": "https://simonwillison.net/2024/Jun/17/cli-language-models/",
+    "description": "Language models on the command-line",
+    "extended": "",
+    "meta": "bafe39c6505b027229b195adf0b6beae",
+    "hash": "cc7f6fd481245563bacc43ec6f17b699",
+    "time": "2024-06-18T01:43:59Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://pubs.acs.org/doi/abs/10.1021/acs.est.1c03924",
+    "description": "Analysis of Microplastics in Human Feces Reveals a Correlation between Fecal Microplastics and Inflammatory Bowel Disease Status | Environmental Science & Technology",
+    "extended": "",
+    "meta": "4163a3f8dc834203dabc15fd657c9e58",
+    "hash": "c62d00586cd1eee6763374e4c3224807",
+    "time": "2024-06-18T01:35:43Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "health"
+  },
+  {
     "href": "https://stratechery.com/2024/an-interview-with-amd-ceo-lisa-su-about-solving-hard-problems/",
     "description": "An Interview with AMD CEO Lisa Su About Solving Hard Problems – Stratechery by Ben Thompson",
     "extended": "",
