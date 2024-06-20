@@ -1,5 +1,60 @@
 [
   {
+    "href": "https://github.com/Appsilon/tapyr-template",
+    "description": "GitHub - Appsilon/tapyr-template: Tapyr template for PyShiny applications",
+    "extended": "",
+    "meta": "5d635e7aeb37ca5c08dddfb373707457",
+    "hash": "25a097e4c5e4bf7436a721a06f9c267a",
+    "time": "2024-06-20T01:02:41Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/niedev/RTranslator",
+    "description": "GitHub - niedev/RTranslator: RTranslator is the world's first open source real-time translation app.",
+    "extended": "",
+    "meta": "c3e2c02ad8ca72f59af542ede2aa4ded",
+    "hash": "94b2a0093647c0810e3ca36970e80a0a",
+    "time": "2024-06-20T00:57:15Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://engineering.fb.com/2024/06/19/data-infrastructure/parameter-vulnerability-factor-pvf-ai-silent-data-corruption/",
+    "description": "PVF: A novel metric for understanding AI systems’ vulnerability against SDCs in model parameters - Engineering at Meta",
+    "extended": "",
+    "meta": "fcbc24d86074fd248554295e43f0e4d4",
+    "hash": "f9a0a460044bf21118861b7438d7910d",
+    "time": "2024-06-20T00:41:41Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://www.radius.to/",
+    "description": "Discover, Organize and Connect Through Events | Radius",
+    "extended": "",
+    "meta": "2ff11bfa2edac6669fe08eb50f69b6e8",
+    "hash": "491b708f390fa168d16d3073ed57d958",
+    "time": "2024-06-20T00:36:32Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://docs.anthropic.com/en/docs/build-with-claude/develop-tests",
+    "description": "Create strong empirical evaluations - Anthropic",
+    "extended": "",
+    "meta": "3be0f6927d1a8b631f18d73c2e1ac8b9",
+    "hash": "138993182c245cda0aa929a1b612bfaf",
+    "time": "2024-06-19T01:17:30Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://blog.lambda.cx/posts/freecad-and-git/",
     "description": "Versioning FreeCAD files with git - lambda.cx blog",
     "extended": "",
