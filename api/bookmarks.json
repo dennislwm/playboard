@@ -1,5 +1,71 @@
 [
   {
+    "href": "https://www.windmill.dev/",
+    "description": "Windmill | Open-source developer platform and workflow engine",
+    "extended": "",
+    "meta": "6636a94c68da42a013d1be91f49cb770",
+    "hash": "a32a2f58b0805701df3bdbd31f4d5e6e",
+    "time": "2024-06-21T13:54:53Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://www.gibney.org/web_app_from_scratch",
+    "description": "Web App From Scratch",
+    "extended": "",
+    "meta": "df1c3af7f3bb677a327ffa5697199fc2",
+    "hash": "669d3c2a80047a534458efeaa96176e8",
+    "time": "2024-06-21T05:28:16Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://github.com/MrKai77/Loop",
+    "description": "GitHub - MrKai77/Loop: Window management made elegant.",
+    "extended": "",
+    "meta": "b99cfaef10a7a75371f757f2cd15dbf2",
+    "hash": "0dec809c3be556efe08d3b1e7c2c1224",
+    "time": "2024-06-21T03:54:08Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://www.dsebastien.net/how-i-synchronize-and-backup-my-obsidian-notes/",
+    "description": "How I synchronize and backup my Obsidian Notes",
+    "extended": "",
+    "meta": "da5de5b301b58ef77a8a07c1177b77b1",
+    "hash": "e0c38c76fb3ea9a02735b5566cacd543",
+    "time": "2024-06-21T03:40:41Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://dev.to/gbhorwood/amber-writing-bash-scripts-in-amber-instead-pt-2-loops-and-ifs-1694",
+    "description": "amber: writing bash scripts in amber instead. pt. 2: loops and ifs - DEV Community",
+    "extended": "",
+    "meta": "20b975c218312f1f61aade60f91caa2b",
+    "hash": "013b91fe3dc55af1ccc67bc27d742149",
+    "time": "2024-06-21T03:38:40Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "productivity"
+  },
+  {
+    "href": "https://www.reddit.com/r/TokyoDisneySea/comments/1dkfu3l/price_tag_comparison_fantasy_spring_vacation/?utm_name=iossmf",
+    "description": "Price Tag Comparison - Fantasy Spring Vacation Package vs Normal Hotel + Normal Tickets : r/TokyoDisneySea",
+    "extended": "",
+    "meta": "adc0b980abba54f6f16823ccb0477d64",
+    "hash": "0f54381f4e857a510447e02721c696ff",
+    "time": "2024-06-21T03:33:48Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "reward"
+  },
+  {
     "href": "https://www.epa.gov/ozone-pollution-and-your-patients-health/health-effects-ozone-general-population",
     "description": "Health Effects of Ozone in the General Population | US EPA",
     "extended": "",
@@ -2621,7 +2687,7 @@
     "href": "https://grocy.info/",
     "description": "Grocy - ERP beyond your fridge",
     "extended": "",
-    "meta": "d1c03932573539d48c5cc19526f27b7a",
+    "meta": "ffc5fa61213280adcf5db1ffbd15c9df",
     "hash": "fed5b2e58fa1d7d06174b9d12e206f24",
     "time": "2024-05-08T02:15:33Z",
     "shared": "no",
