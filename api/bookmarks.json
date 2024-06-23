@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://notes.eatonphil.com/writing-a-simple-json-parser.html",
+    "description": "Writing a simple JSON parser | notes.eatonphil.com",
+    "extended": "",
+    "meta": "a4cf050c96dddd24fb53ef29f209a152",
+    "hash": "f8b5d890d22a1bd12e695afb3baaead5",
+    "time": "2024-06-22T07:29:12Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "configenv"
+  },
+  {
+    "href": "https://unixdigest.com/tutorials/choosing-a-new-backup-solution-duplicity-rdiff-backup-or-rsnapshot.html",
+    "description": "Choosing a new backup solution, Duplicity, rdiff-backup or Rsnapshot",
+    "extended": "",
+    "meta": "20966b2448f743d27c4a7ea545ce8ba5",
+    "hash": "cc3df6c416b3f6232640eab77c253de1",
+    "time": "2024-06-22T07:26:18Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://simonwillison.net/2024/Jun/21/search-based-rag/",
+    "description": "Building search-based RAG using Claude, Datasette and Val Town",
+    "extended": "",
+    "meta": "6e8a225beb1c9648bfedf8237c904860",
+    "hash": "333d7540d35a9010292f3b7b1dab8393",
+    "time": "2024-06-22T01:27:39Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://www.windmill.dev/",
     "description": "Windmill | Open-source developer platform and workflow engine",
     "extended": "",
@@ -498,7 +531,7 @@
     "href": "https://chat.lmsys.org/?leaderboard",
     "description": "Chat with Open Large Language Models",
     "extended": "",
-    "meta": "329d0822aa18ee348a71be9cfacd888e",
+    "meta": "c2acc3236a69502af78605802aafc654",
     "hash": "e46966cef1a469d279530f5ca7f9ca0d",
     "time": "2024-06-13T08:54:39Z",
     "shared": "no",
