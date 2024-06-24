@@ -1,5 +1,71 @@
 [
   {
+    "href": "https://github.com/i365dev/LetterDrop",
+    "description": "GitHub - i365dev/LetterDrop: LetterDrop is a secure and efficient newsletter management service powered by Cloudflare Workers, enabling easy creation, distribution, and subscription management of newsletters.",
+    "extended": "",
+    "meta": "224faf31287991bb1e507b5eb9da7035",
+    "hash": "831caaaeb7f5be57354c90e672e221eb",
+    "time": "2024-06-24T01:14:53Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://fuglede.github.io/llama.ttf/",
+    "description": "llama.ttf",
+    "extended": "",
+    "meta": "9c3d54958a74f25ad7039bfc9d81d929",
+    "hash": "2baf10898fe12feb4375b851de54364b",
+    "time": "2024-06-24T01:01:26Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://blog.brandonaccessmemory.io/selfhosted-photo-backup-with-immich/",
+    "description": "Selfhosted Photo Backup with Immich",
+    "extended": "",
+    "meta": "b27565bdf9e884201312769bd96cde82",
+    "hash": "82bf7bc7a819170f2e4dc8e97cf4a3f0",
+    "time": "2024-06-24T00:46:46Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://ngrok.com/docs/using-ngrok-with/minecraft/",
+    "description": "Minecraft | ngrok documentation",
+    "extended": "",
+    "meta": "70a565714469bb07ad41baef7f96ec8e",
+    "hash": "3ad94702b27e2580d564c9519280c032",
+    "time": "2024-06-24T00:45:36Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://www.fivefilters.org/",
+    "description": "FiveFilters.org - FiveFilters.org",
+    "extended": "",
+    "meta": "756aa9bbc3b7fd6163f38ea3f6237882",
+    "hash": "20120ec12620686d0ed38f69b91d5373",
+    "time": "2024-06-23T01:37:16Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/neuml/txtai",
+    "description": "GitHub - neuml/txtai: 💡 All-in-one open-source embeddings database for semantic search, LLM orchestration and language model workflows",
+    "extended": "",
+    "meta": "6d133dcfa3831902f528f6e52fe2102b",
+    "hash": "3ff16d6f9b961479a81179dcd9e47782",
+    "time": "2024-06-23T01:32:08Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://notes.eatonphil.com/writing-a-simple-json-parser.html",
     "description": "Writing a simple JSON parser | notes.eatonphil.com",
     "extended": "",
