@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://dotenvx.com/blog/2024/06/24/dotenvx-next-generation-config-management.html",
+    "description": "From dotenv to dotenvx: Next Generation Config Management | dotenvx",
+    "extended": "",
+    "meta": "bc22f72a0a9ac1f352dff50dd3a72e0b",
+    "hash": "6fca4c1c9ad644b4b24eebb2e080bc0b",
+    "time": "2024-06-26T00:44:43Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "configenv"
+  },
+  {
+    "href": "https://github.com/aspen-cloud/triplit",
+    "description": "GitHub - aspen-cloud/triplit: A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid, Vue, Svelte).",
+    "extended": "",
+    "meta": "621077696ed2c580e41e235249cb8687",
+    "hash": "3cee4c5b5d3882c0270850b325a55dc2",
+    "time": "2024-06-26T00:39:48Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://commoncog.com/c/cases/aw-jones-hedge-fund/",
+    "description": "The First Hedge Fund - Commoncog Case Library",
+    "extended": "",
+    "meta": "07a9fe022b5130222187d5a54a83aafc",
+    "hash": "462fb4413b22105664f3503fb39f3db8",
+    "time": "2024-06-26T00:39:02Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "finance"
+  },
+  {
+    "href": "https://jaywhy13.hashnode.dev/automated-telemetry-capture-via-python-bytecode-modification",
+    "description": "Automating Telemetry Capture in Python using Bytecode",
+    "extended": "",
+    "meta": "e0ce0f234d8cb88b8486c079a5aea003",
+    "hash": "62244fe897ff9413ea1dd15f0c1af477",
+    "time": "2024-06-25T07:14:25Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
     "href": "https://github.com/i365dev/LetterDrop",
     "description": "GitHub - i365dev/LetterDrop: LetterDrop is a secure and efficient newsletter management service powered by Cloudflare Workers, enabling easy creation, distribution, and subscription management of newsletters.",
     "extended": "",
