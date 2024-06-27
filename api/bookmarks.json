@@ -1,5 +1,60 @@
 [
   {
+    "href": "https://control-plane.io/posts/abusing-vscode-from-malicious-extensions-to-stolen-credentials-part-2/",
+    "description": "ControlPlane | Abusing VSCode: From Malicious Extensions to Stolen Credentials (Part 2)",
+    "extended": "",
+    "meta": "86ac0e6e032756a9752380b925f18ab1",
+    "hash": "e5b56a3a7bbcc89b52a3015993930be6",
+    "time": "2024-06-27T00:49:40Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "security"
+  },
+  {
+    "href": "https://www.dolthub.com/blog/2024-06-21-channel-three-ways/",
+    "description": "Three Ways To Think About Channels | DoltHub Blog",
+    "extended": "",
+    "meta": "a20a4aec03e7decab8ce3a167e2faeb0",
+    "hash": "847efbda23f2abcdec1f94db9ec607af",
+    "time": "2024-06-27T00:39:55Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://github.com/Revisto/minecraft-telegram-bot",
+    "description": "GitHub - Revisto/minecraft-telegram-bot: a telegram bot for your Minecraft server",
+    "extended": "",
+    "meta": "5d291ebb46abcc9921f51874b75e393f",
+    "hash": "f68e3490a622eaac23f2aa5e053415ce",
+    "time": "2024-06-27T00:25:49Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://reasonableapproximation.net/2019/05/05/hindley-milner.html",
+    "description": "A reckless introduction to Hindley-Milner type inference",
+    "extended": "",
+    "meta": "6b1865ec8d8ecf5c06e53bbfa45c94d5",
+    "hash": "762d459208447614d00baa53c3f599c2",
+    "time": "2024-06-26T04:48:16Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://pinboard.in/add?next=same&url=https%3A%2F%2Freasonableapproximation.net%2F2019%2F05%2F05%2Fhindley-milner.html&description=&title=A%20reckless%20introduction%20to%20Hindley-Milner%20type%20inference",
+    "description": "Pinboard - Save a Bookmark",
+    "extended": "",
+    "meta": "2bb1c02f525df3f99405b42ded1e3e4a",
+    "hash": "1ef20f316db6fc63c90cdd331c38b455",
+    "time": "2024-06-26T04:48:00Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
     "href": "https://dotenvx.com/blog/2024/06/24/dotenvx-next-generation-config-management.html",
     "description": "From dotenv to dotenvx: Next Generation Config Management | dotenvx",
     "extended": "",
@@ -1081,7 +1136,7 @@
     "href": "https://github.com/HiEventsDev/hi.events",
     "description": "GitHub - HiEventsDev/hi.events: Self-hosted event management and ticket selling platform 🎟️",
     "extended": "",
-    "meta": "d947a0cbfcb7de5f3dd233f32f64df3c",
+    "meta": "961c0fbe1b1b2a9ca73b64719a20dd19",
     "hash": "002661efaa87af1449bb0dd0fb714c1d",
     "time": "2024-06-08T02:19:27Z",
     "shared": "no",
