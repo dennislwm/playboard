@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://github.com/hatchet-dev/hatchet",
+    "description": "GitHub - hatchet-dev/hatchet: A distributed, fault-tolerant task queue",
+    "extended": "",
+    "meta": "c6584da46dd9153f10831362afa952fb",
+    "hash": "6a3218732e1f489bf620f40db7282c20",
+    "time": "2024-06-28T01:03:34Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/formkiq/formkiq-core",
+    "description": "GitHub - formkiq/formkiq-core: A full-featured Document Layer for your application, providing the functionality of a flexible document management system, including storage, discovery, processing, and retrieval. Deploys directly into your Amazon Web Servic",
+    "extended": "",
+    "meta": "100291e611398f193f044e0eada73f07",
+    "hash": "225ed21b4f31376fdb0c869da080b28d",
+    "time": "2024-06-28T00:55:15Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://pketh.org/open-sourcing-kinopio.html",
+    "description": "Making the Kinopio Source Code Public",
+    "extended": "",
+    "meta": "58814b5141c8e946b9f2e622eff9eddf",
+    "hash": "a530b80bcb89e4c1eea12ed42a25876b",
+    "time": "2024-06-28T00:44:39Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://olano.dev/blog/from-rss-to-my-kindle",
+    "description": "From RSS to my Kindle | olano.dev",
+    "extended": "",
+    "meta": "d21a5cbd73a6636b2c1a8d244fb34c88",
+    "hash": "b5102c44fd3446a1f47636d70f27d02c",
+    "time": "2024-06-27T07:47:10Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "productivity"
+  },
+  {
     "href": "https://control-plane.io/posts/abusing-vscode-from-malicious-extensions-to-stolen-credentials-part-2/",
     "description": "ControlPlane | Abusing VSCode: From Malicious Extensions to Stolen Credentials (Part 2)",
     "extended": "",
