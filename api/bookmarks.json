@@ -1,5 +1,137 @@
 [
   {
+    "href": "https://www.nature.com/articles/s41598-021-83787-9",
+    "description": "Bi-directional association between allergic rhinitis and diabetes mellitus from the national representative data of South Korea | Scientific Reports",
+    "extended": "",
+    "meta": "cb139e77ce4546ec681f67f4a9d98acd",
+    "hash": "daf274eaf02ba29df2e0337664d5b9ad",
+    "time": "2024-06-28T13:06:57Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "health"
+  },
+  {
+    "href": "https://http-docs.thetadata.us/docs/theta-data-rest-api-v2/cnvclxwnk5hym-eod-report",
+    "description": "EOD Report | Theta Data V2 REST API",
+    "extended": "",
+    "meta": "1aa041e43e8485e9eba83306b5c4f322",
+    "hash": "3eecdefa579b357f232670feda25478b",
+    "time": "2024-06-28T12:06:57Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://llamaedge.com/",
+    "description": "An all-in-one CLI app to run LLMs locally",
+    "extended": "",
+    "meta": "7a7b28ea34e76208d9cda1f707757f91",
+    "hash": "4ae49a439e84e0f7f8a0a0964709cd21",
+    "time": "2024-06-28T11:42:47Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/TitleOS/mkdocize",
+    "description": "GitHub - TitleOS/mkdocize: An agnostic DockerImage for building, hosting, and serving a mkdocs git repo. (With Push updates!)",
+    "extended": "",
+    "meta": "ceb0a991b38cac36d19228383491ae1c",
+    "hash": "72e6263284e7408bd3a365075e5ca83a",
+    "time": "2024-06-28T11:39:06Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/oracle-terraform-modules/terraform-oci-compute-instance",
+    "description": "GitHub - oracle-terraform-modules/terraform-oci-compute-instance: Terraform Module for creating Oracle Cloud Infrastructure compute instances",
+    "extended": "",
+    "meta": "e2294403e0d0e85cc0f2733158238b67",
+    "hash": "304d45919143a2ccc68dd09aacc265aa",
+    "time": "2024-06-28T11:27:44Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/corcel/corcel",
+    "description": "GitHub - corcel/corcel: Use WordPress backend with Laravel or any PHP application",
+    "extended": "",
+    "meta": "11480f79ee7c5c89fb4b465bfe5f439e",
+    "hash": "b2d5e9f82cafc8c6f1e7865e61b4d5e1",
+    "time": "2024-06-28T11:24:22Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://imbue.com/research/70b-infrastructure/",
+    "description": "From bare metal to a 70B model: infrastructure set-up and scripts - imbue",
+    "extended": "",
+    "meta": "57d6cc4609607d850e5924aeab7dccc8",
+    "hash": "e664226e4366ef98e769b5dbc901d120",
+    "time": "2024-06-28T11:19:59Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "mlops"
+  },
+  {
+    "href": "https://git-cliff.org/",
+    "description": "A highly customizable changelog generator ⛰️ | git-cliff",
+    "extended": "",
+    "meta": "ced46659add326378b5e4afa3a77e144",
+    "hash": "f430adb1c63466944217f06e43a16e07",
+    "time": "2024-06-28T11:19:07Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/posit-dev/positron",
+    "description": "GitHub - posit-dev/positron: Positron™, a next-generation data science IDE",
+    "extended": "",
+    "meta": "02833e8ea433f4f1000c721a123eb3a5",
+    "hash": "961878250524a56c0e9d95183bc4aa75",
+    "time": "2024-06-28T04:48:56Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/zackees/transcribe-anything",
+    "description": "GitHub - zackees/transcribe-anything: Input a local file or url and this service will transcribe it using Whisper AI. Completely private and Free 🤯🤯🤯",
+    "extended": "",
+    "meta": "ddf1738e7eefe0cf45a72297f334b7b3",
+    "hash": "e11cabb1c3a7d196bdb5a01a48126301",
+    "time": "2024-06-28T02:01:00Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://www.reddit.com/r/TokyoDisneySea/comments/1dq7gyl/first_time_at_disney_sea_hope_it_helps/?share_id=69VIedVahgwUHhxNg6r6B&utm_name=ioscss",
+    "description": "First Time at Disney Sea (Hope it helps) : r/TokyoDisneySea",
+    "extended": "",
+    "meta": "dddcc13381342b87ca845c83a5de66a6",
+    "hash": "b2dd33b9a35849cc6201ea13844fabfb",
+    "time": "2024-06-28T01:59:33Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "reward"
+  },
+  {
+    "href": "https://simonwillison.net/2024/Jun/27/ai-worlds-fair/",
+    "description": "Open challenges for AI engineering",
+    "extended": "",
+    "meta": "4f7f486d2cfe26ab4e83bad4cd422d36",
+    "hash": "3810ee5973b3b4f9a4d23b264993dec1",
+    "time": "2024-06-28T01:26:46Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://github.com/hatchet-dev/hatchet",
     "description": "GitHub - hatchet-dev/hatchet: A distributed, fault-tolerant task queue",
     "extended": "",
