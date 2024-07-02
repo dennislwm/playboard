@@ -1,5 +1,60 @@
 [
   {
+    "href": "https://r2r-docs.sciphi.ai/quickstart",
+    "description": "Quickstart - The best open source AI powered answer engine.",
+    "extended": "",
+    "meta": "d6e608ff8832921be5b9236b1646dbc7",
+    "hash": "7afbc11c764fee8c3fd9d4e3ca7e6da6",
+    "time": "2024-07-02T01:05:59Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://pycon-assets.s3.amazonaws.com/2024/media/presentation_slides/41/2024-05-08T23%3A38%3A41.030747/Build_a_cross_platform_GUI_app_with_Be_NscyZ66.pdf",
+    "description": "",
+    "extended": "",
+    "meta": "d67204f76f20505c8441826acefaeebe",
+    "hash": "0291bfb47114bd8d1561e4cb9f2117bf",
+    "time": "2024-07-02T00:56:25Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
+    "href": "https://sillycross.github.io/2023/05/12/2023-05-12/",
+    "description": "Building a baseline JIT for Lua automatically |",
+    "extended": "",
+    "meta": "34b3c47e1d339f1e7563b92cb3f4bc4a",
+    "hash": "42951af0fd8921386693c669df476464",
+    "time": "2024-07-01T10:48:33Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://www.pipes.digital/docs",
+    "description": "Documentation | Pipes",
+    "extended": "",
+    "meta": "bdd0d9083a72facad034bc18d6f63ce4",
+    "hash": "028010b99c733f17dea253f50a239a5f",
+    "time": "2024-07-01T09:51:07Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/mendableai/firecrawl",
+    "description": "GitHub - mendableai/firecrawl: 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.",
+    "extended": "",
+    "meta": "a32e6cd020facf2fea7da6bc130f9109",
+    "hash": "b45a3674a9b1601b40eadc1d53a5e159",
+    "time": "2024-07-01T03:23:47Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://echo.rknight.me/",
     "description": "Echo - RSS Cross Poster",
     "extended": "",
