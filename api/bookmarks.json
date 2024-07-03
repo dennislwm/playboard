@@ -1,5 +1,115 @@
 [
   {
+    "href": "https://github.com/aws-samples/amazon-bedrock-audio-summarizer",
+    "description": "GitHub - aws-samples/amazon-bedrock-audio-summarizer: An automated way to transcribe and summarize media files using Amazon S3, AWS Lambda, Amazon Transcribe, and Amazon Bedrock.",
+    "extended": "",
+    "meta": "a1e59cf41139887b0bd2ca36e3901d81",
+    "hash": "52fd374ae215c8c43da6234289e2c862",
+    "time": "2024-07-03T01:08:59Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/awslabs/distill-cli",
+    "description": "GitHub - awslabs/distill-cli",
+    "extended": "",
+    "meta": "e4f05ff6058b3ea1546b30144e1916d5",
+    "hash": "4389c4f16c4409e1352ce1a72ff27653",
+    "time": "2024-07-03T01:08:20Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://gist.github.com/simonw/9d7cbe02d448812f48070e7de13a5ae5?permalink_comment_id=5109044#gistcomment-5109044",
+    "description": "https://static.simonwillison.net/static/2024/compare-pdfs.html inspired by https://news.ycombinator.com/item?id=40854319 · GitHub",
+    "extended": "",
+    "meta": "5530ef97f050acea2f5df2304cd0feff",
+    "hash": "3beb28fb8a1f61e99b05a309ee2af89d",
+    "time": "2024-07-03T01:03:17Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://github.com/FluffyStuff/riichi-mahjong-tiles",
+    "description": "GitHub - FluffyStuff/riichi-mahjong-tiles: Vector graphics of riichi mahjong tiles",
+    "extended": "",
+    "meta": "84fa974c1a36fd83edbc112706cfaced",
+    "hash": "3add5cc80bd5654a6725bae36aca8233",
+    "time": "2024-07-02T12:27:48Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://pdfsam.org/",
+    "description": "Split and merge PDF files. Free and open source - PDFsam",
+    "extended": "",
+    "meta": "cec54e1aeb7ff388f20821b3a83fedbc",
+    "hash": "e82786018377dcbaf252e7ddb655e478",
+    "time": "2024-07-02T08:05:31Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/coroot/coroot",
+    "description": "GitHub - coroot/coroot: Coroot is an open-source APM & Observability tool, a DataDog and NewRelic alternative 📊, 🖥️, 👉. Powered by eBPF for rapid insights into system performance. Monitor, analyze, and optimize your infrastructure effortlessly ",
+    "extended": "",
+    "meta": "22f57d2fb3cb6dcbaf98be44767bd2d7",
+    "hash": "6666eedb57ed61ebbaeba2f91cefbeac",
+    "time": "2024-07-02T08:02:10Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/taubyte/tau",
+    "description": "GitHub - taubyte/tau: The Only Git-Native CDN PaaS ☁️ You Can Run Locally 💻 and Even Write Tests For 🧪",
+    "extended": "",
+    "meta": "d5614ef6a6301aa1b4a1393f17a1f4c0",
+    "hash": "944a16784b00658abbf7bba95bb80f02",
+    "time": "2024-07-02T04:31:48Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/temporalio",
+    "description": "temporal.io · GitHub",
+    "extended": "",
+    "meta": "c80d2addc6cadac1e269e3e89d3e6966",
+    "hash": "0009a00a2c046f49792a2ee60cac3c9e",
+    "time": "2024-07-02T01:28:12Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://matduggan.com/a-eulogy-for-devops/",
+    "description": "A Eulogy for DevOps",
+    "extended": "",
+    "meta": "faa34a74128085b623663b42d293cd6b",
+    "hash": "f190bd86214178246cebe218f1f0fd3c",
+    "time": "2024-07-02T01:24:18Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://bashunit.typeddevs.com/",
+    "description": "bashunit - A simple testing library for bash scripts | bashunit",
+    "extended": "",
+    "meta": "dc1df09b921892ccbf6aee9d917d2c6d",
+    "hash": "e5358d0194fd9e6e207b04e115358dac",
+    "time": "2024-07-02T01:21:28Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://r2r-docs.sciphi.ai/quickstart",
     "description": "Quickstart - The best open source AI powered answer engine.",
     "extended": "",
