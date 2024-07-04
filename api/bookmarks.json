@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://github.com/microsoft/graphrag",
+    "description": "GitHub - microsoft/graphrag: A modular graph-based Retrieval-Augmented Generation (RAG) system",
+    "extended": "",
+    "meta": "ce9ceb2eea1dd8422e21bc5f179676a0",
+    "hash": "36ba9d1dc5b74356c68572166e1ff29e",
+    "time": "2024-07-04T01:09:51Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://link.springer.com/content/pdf/10.1007/s10676-024-09775-5.pdf",
+    "description": "",
+    "extended": "",
+    "meta": "811ac390da6abd36621126476ee6cf0c",
+    "hash": "f186c6b2f58bd2e66fff9ae14b2e3c34",
+    "time": "2024-07-03T11:59:41Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://github.com/aws-samples/amazon-bedrock-audio-summarizer",
     "description": "GitHub - aws-samples/amazon-bedrock-audio-summarizer: An automated way to transcribe and summarize media files using Amazon S3, AWS Lambda, Amazon Transcribe, and Amazon Bedrock.",
     "extended": "",
