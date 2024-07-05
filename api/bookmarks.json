@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://mailmanlists.net/",
+    "description": "MailmanLists: Mailman hosting",
+    "extended": "",
+    "meta": "616190e98af6ac63b01bc3e9349ba3f6",
+    "hash": "2598cc2ed3205233e4514ac7f3551aeb",
+    "time": "2024-07-04T13:34:25Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/MuhtasimTanmoy/notebook",
+    "description": "GitHub - MuhtasimTanmoy/notebook: 📖",
+    "extended": "",
+    "meta": "bb0187265f5d9b6341531c46d7ce4e02",
+    "hash": "2b74959f16f3cd0702126f1761d7e5f7",
+    "time": "2024-07-04T13:27:39Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://spectrum.ieee.org/shipt",
+    "description": "Shipt’s Pay Algorithm Squeezed Gig Workers. They Fought Back - IEEE Spectrum",
+    "extended": "",
+    "meta": "50dfb4d21b97c4d86b995b779a09ed33",
+    "hash": "745fcdd5cc9fb8b92fcdd59f4b338ad1",
+    "time": "2024-07-04T13:26:38Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
     "href": "https://github.com/microsoft/graphrag",
     "description": "GitHub - microsoft/graphrag: A modular graph-based Retrieval-Augmented Generation (RAG) system",
     "extended": "",
