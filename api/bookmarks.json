@@ -1,5 +1,71 @@
 [
   {
+    "href": "https://maggieappleton.com/home-cooked-software",
+    "description": "Home-Cooked Software and Barefoot Developers",
+    "extended": "",
+    "meta": "47acfd5a4d9ee196ec74744a1eb9da13",
+    "hash": "2076d04718bb00f7824155298c32c216",
+    "time": "2024-07-07T01:04:53Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://yosefk.com/blog/advantages-of-incompetent-management.html",
+    "description": "Advantages of incompetent management",
+    "extended": "",
+    "meta": "3ac5ab07f11b209acfd6c364b697e1fe",
+    "hash": "2623542e1fde0edcb5450be2041716c0",
+    "time": "2024-07-07T00:58:55Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://github.com/sammorrisdesign/interactive-feed",
+    "description": "GitHub - sammorrisdesign/interactive-feed: A Twitter, Mastodon, and BlueSky bot that shares new interactive, graphic, and data vis stories from newsrooms around the world",
+    "extended": "",
+    "meta": "d74ccc2a40ff934a4adb4bcc852ecc95",
+    "hash": "05074cdb5647aba228dbab564a59e7bd",
+    "time": "2024-07-06T03:42:47Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/psyb0t/py-telegram-logger-client",
+    "description": "GitHub - psyb0t/py-telegram-logger-client: 🚀 telegram-logger-client: A Python-powered sidekick for the telegram-logger service. Send logs with style, debug with flair, and keep your apps chatty and informative. Command-line compatible, environment-vari",
+    "extended": "",
+    "meta": "c09dc6082190d788e5697a799ace7041",
+    "hash": "50583479a48fcd58b1f2b62d9c590448",
+    "time": "2024-07-06T03:41:09Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/aigoncharov/telegram-to-rss",
+    "description": "GitHub - aigoncharov/telegram-to-rss: Generate an RSS feed from Telegram chats. You digital minimalism friend.",
+    "extended": "",
+    "meta": "6cbc7743d486b6c829726b4a033f2319",
+    "hash": "317ebb02acc675bf9fe202a9ab64a9f4",
+    "time": "2024-07-06T03:31:48Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/darrenburns/posting?tab=readme-ov-file",
+    "description": "GitHub - darrenburns/posting: The modern API client that lives in your terminal.",
+    "extended": "",
+    "meta": "c0e71215cb966f712afdaba6e7ca0891",
+    "hash": "915c6e3230f69b5e8f1e1e5836ec152f",
+    "time": "2024-07-06T03:30:46Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://milelion.com/2024/07/06/hilton-for-business-offering-double-elite-nights-till-end-2024/",
     "description": "Hilton for Business offering double elite nights till end 2024 - The MileLion",
     "extended": "",
