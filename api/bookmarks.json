@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://pastebin.com/iWdwCdCY",
+    "description": "import sys import requests def get_auth_token(portainer_url, portaine - Pastebin.com",
+    "extended": "",
+    "meta": "7042fda140404ea1334c1b460ad627b0",
+    "hash": "12cf79a3c011a39040a2291e4692bcdc",
+    "time": "2024-07-08T00:51:32Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
+    "href": "https://github.com/shellspec/shellspec",
+    "description": "GitHub - shellspec/shellspec: A full-featured BDD unit testing framework for bash, ksh, zsh, dash and all POSIX shells",
+    "extended": "",
+    "meta": "920ce48163c632928ac32bd903934486",
+    "hash": "224460f2dd43483ab4c6a42b02964516",
+    "time": "2024-07-08T00:38:14Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/ozgrozer/ai-renamer",
+    "description": "GitHub - ozgrozer/ai-renamer: A Node.js CLI tool that uses Ollama models (Llama, Gemma, Phi etc.) to intelligently rename files in a specified directory",
+    "extended": "",
+    "meta": "3cb7687a4f42608cabe0681aeb974d06",
+    "hash": "6b8d8b945c2d7103a1bde0bff58ba520",
+    "time": "2024-07-08T00:25:35Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://satyrn.app/",
+    "description": "Satyrn",
+    "extended": "",
+    "meta": "c64aacac4a8bd28d7f6849d309d34485",
+    "hash": "ec7aaf8b803729455962c8e62a02b551",
+    "time": "2024-07-08T00:23:14Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://maggieappleton.com/home-cooked-software",
     "description": "Home-Cooked Software and Barefoot Developers",
     "extended": "",
