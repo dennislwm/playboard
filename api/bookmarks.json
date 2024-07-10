@@ -1,5 +1,115 @@
 [
   {
+    "href": "https://crawlee.dev/python/",
+    "description": "Crawlee for Python · Fast, reliable crawlers.",
+    "extended": "",
+    "meta": "51f66084a2cdf91b80113fe2ef63ed8c",
+    "hash": "31e6ec7ed0f21e6088fc8e0d20a17b48",
+    "time": "2024-07-10T01:00:06Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://www.writethedocs.org/guide/docs-as-code/",
+    "description": "Docs as Code — Write the Docs",
+    "extended": "",
+    "meta": "2fd97e61c6079858d75de1777dabf5a2",
+    "hash": "b2fdc2895122eb6340aa7c7ba97fa9da",
+    "time": "2024-07-10T00:36:27Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://turbopuffer.com/blog/turbopuffer",
+    "description": "turbopuffer: fast search on object storage",
+    "extended": "",
+    "meta": "208089b43a00fd3467b84c35365a2c4e",
+    "hash": "e6c1e17d612e9041b1589ae987d25dd4",
+    "time": "2024-07-10T00:33:18Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "solution"
+  },
+  {
+    "href": "https://github.com/microsoft/promptflow",
+    "description": "GitHub - microsoft/promptflow: Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.",
+    "extended": "",
+    "meta": "62949e3674049ecdcf50abf5cebdf00a",
+    "hash": "e25c27f2d6f8a608bb63bd3ee74da9c2",
+    "time": "2024-07-09T13:21:16Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/microsoft/autogen",
+    "description": "GitHub - microsoft/autogen: A programming framework for agentic AI. Discord: https://aka.ms/autogen-dc. Roadmap: https://aka.ms/autogen-roadmap",
+    "extended": "",
+    "meta": "b6592f002785cd339b63d7a446fe1fa0",
+    "hash": "3f28e474ad5afd13ac8ea04acf5db234",
+    "time": "2024-07-09T13:20:29Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://dev.jimgrey.net/2024/07/03/lessons-learned-in-35-years-of-making-software/",
+    "description": "Lessons learned in 35 years of making software – Jim Grey",
+    "extended": "",
+    "meta": "4f543ae1fb43621b7f4cd0d5eca8e6dc",
+    "hash": "cc14a45cba0c7ab8c2a03bfcde5f0b67",
+    "time": "2024-07-09T01:49:56Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://blog.brachiosoft.com/en/posts/git/",
+    "description": "A Git story: Not so fun this time | Brachiosoft Blog",
+    "extended": "",
+    "meta": "87e97a1cf4a8d46c9d475b56b86372eb",
+    "hash": "7a257725a5a7fad9b1bbd3af3646f3f1",
+    "time": "2024-07-09T01:47:55Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://joshtronic.com/2024/07/07/vps-showdown-july-2024-digitalocean-vs-linode-vs-vultr/?ct=t(RSS_EMAIL_CAMPAIGN)",
+    "description": "VPS Showdown – July 2024 – DigitalOcean vs. Linode vs. Vultr - Josh Sherman",
+    "extended": "",
+    "meta": "485c263ac272191d807ccacdfe40554c",
+    "hash": "5ecb351f4b26409a2fb59655f7125e51",
+    "time": "2024-07-09T01:39:22Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "analyst"
+  },
+  {
+    "href": "https://kill-the-newsletter.com/feeds/enc7ygmoqx5md74n/entries/lz9rhe6w60cenw8mweti.html",
+    "description": "How I Saved Scraped Data in an SQLite Database on GitHub",
+    "extended": "",
+    "meta": "54c552c68bec7bbc1497c18cbc5451c5",
+    "hash": "e93afb7c3fca67081a095ed23ad05732",
+    "time": "2024-07-09T01:37:22Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "productivity"
+  },
+  {
+    "href": "https://www.science.org/content/article/how-i-turned-seemingly-failed-experiments-into-a-successful-phd",
+    "description": "How I turned seemingly ‘failed’ experiments into a successful Ph.D. | Science | AAAS",
+    "extended": "",
+    "meta": "923a68fe7cd922a0fed56e044f026f6f",
+    "hash": "121ed0e746b08295623d73bc2abc9cfa",
+    "time": "2024-07-09T01:33:42Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "productivity"
+  },
+  {
     "href": "https://unit.software/",
     "description": "unit.software",
     "extended": "",
