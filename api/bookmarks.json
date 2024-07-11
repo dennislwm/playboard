@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://zed.dev/",
+    "description": "Zed - Code at the speed of thought",
+    "extended": "",
+    "meta": "d6b6d11cc95b782a98f80cf3ef90a840",
+    "hash": "928eac809ae48196973d854c25f01353",
+    "time": "2024-07-11T00:47:21Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/anthropics/anthropic-cookbook/tree/main/multimodal",
+    "description": "anthropic-cookbook/multimodal at main · anthropics/anthropic-cookbook · GitHub",
+    "extended": "",
+    "meta": "468be4fffc3930c569c511bdbc8594af",
+    "hash": "31de711788ab1233577a84bbcb8424ca",
+    "time": "2024-07-11T00:43:48Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "http://www.rossbencina.com/code/real-time-audio-programming-101-time-waits-for-nothing",
+    "description": "Ross Bencina » Real-time audio programming 101: time waits for nothing",
+    "extended": "",
+    "meta": "5ff1a4692c4cf79e6099b94f71fc32fd",
+    "hash": "96774f1072e6688be34a939c0cff4347",
+    "time": "2024-07-11T00:38:06Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "solution"
+  },
+  {
     "href": "https://crawlee.dev/python/",
     "description": "Crawlee for Python · Fast, reliable crawlers.",
     "extended": "",
