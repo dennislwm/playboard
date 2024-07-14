@@ -1,5 +1,71 @@
 [
   {
+    "href": "https://strudel.cc/#Ly8gQHRpdGxlIENvbXB1dGVyIHNheXMgbm8KLy8gQGJ5IFJlaW5iaW0KCnAxOiBzdGFjayhzKCJbW2JkIGJkIGNwIGhoKjJdIHwgW2JkOjIgfiBoaCBsdDoyXSB8IFtbaGgsYmQ6M10gaGg6MiBoaCBjcF1dIikKICAgICAgLmZhc3QoMykKICAgICAgLnN3aW5nKDAuNSkKICAgICAgLmRlY2F5KCI8MC4xIC41IC4zPio0IikKICAgICAgLnNvbWV0aW1lcyh4PT54LnNwZWVkKCI8MC4yIDAuNSAxPiozIikpCiAgICAgIC52ZWxvY2l0eShyYW5kLnJhbmdlKDAuMSwxKS5mYXN0KDIwKSkKICAgICAgLnNvbWV0aW1lc0J5KDAuMDEseD0%2BeC5lY2hvKDUsMS8zMiwwLjUpKQogICAgICAucm9vbSgwLjEpCiAgICAgIC5scGYoIlsxMDAwIDIwMDBdIDwzMDAwIDYwMDAgNTAwPioyIikKICAgICAgLmxwZShzaW5lLnJhbmdlKDUsMjApKQogICAgICAuZ2FpbigyLjIpCiAgICAuYmFuaygiUm9sYW5kVFI5MDkiKQopCgpwMjogc3RhY2socygiW1tzaCBoaCoyIFs8fiBvaD5dIHJpbV1dIikuY3V0KDEpCiAgICAgIC5mYXN0KDMpCiAgICAgIC5zd2luZygwLjUpCiAgICAgIC5kZWNheSgiPDAuMSAuNSAuMz4qNCIpCiAgICAgIC52ZWxvY2l0eShyYW5kLnJhbmdlKDAuMSwxKS5mYXN0KDEwKSkKICAgICAgLnNvbWV0aW1lc0J5KDAuMix4PT54Lmp1eChyZXYpKQogICAgICAuYnBmKCI8ODAwMCA0MDAwPiIpCiAgICAgIC5yb29tKDAuMikKICAgICAgLmdhaW4oMSkKICAgIC5iYW5rKCJBbGVzaXNIUjE2IikKKQoKcDM6IHN0YWNrKG4oIjAgOCA0IDciLmFkZCgiPDAgWzMgOF0gNyA0IDE%2BLzgiKSkuc2NhbGUoIkE6bWFqb3IiKSAKICAgIC5zKCI8c3F1YXJlIHN1cGVyc2F3PioyIikKICAgIC5vZmYoMC4yNSwgeD0%2BeC50cmFuc3Bvc2UoIi0xMiIpKQogICAgLmRlY2F5KHBlcmxpbi5yYW5nZSgwLjEsIDAuNSkuc2xvdyg0KSkKICAgIC5yZWxlYXNlKHBlcmxpbi5yYW5nZSgwLjcsIDIuNSkuc2xvdygzKSkKICAgIC5mYXN0KDMpCiAgICAubHBmKHBlcmxpbi5yYW5nZSg1MDAsIDMwMDApKQogICAgLmxwZSgyMCkKKQoKcDQ6IHN0YWNrKG4oIlswLDksMiw1XSEgfCBbfiBbNCwzLDEsMTJdXSB8IFtbMCw5LDIsNV0gWzcsMiwwLDRdXSIuc2xvdygzKQogICAgLnNvbWV0aW1lcyh4PT54LmFkZCgiPCAxIDIgNSA4PiIuc2xvdyg0KSkudHJhbnNwb3NlKCIxIikpKS5qdXgocmV2KQogICAgLnNjYWxlKCJBOm1ham9yIikgCiAgICAuc3dpbmcoNCkKICAgIC5zKCI8dHJpYW5nbGU%2BIikKICAgIC5vZmYoMC4yNSwgeD0%2BeC50cmFuc3Bvc2UoIjI0IikpCiAgICAuZGVjYXkocGVybGluLnJhbmdlKDEsIDIpLnNsb3coNCkpCiAgICAucmVsZWFzZShwZXJsaW4ucmFuZ2UoMiwgNSkuc2xvdygzKSkKICAgIC5mYXN0KDUpCiAgICAucm9vbSgyKQogICAgLmdhaW4oMC4xKQogICAgLmxwZih0cmkucmFuZ2UoMCwgNTAwMCkuZmFzdCgxMCkpCiAgICAubHBlKDIwKQop",
+    "description": "Computer says no - Strudel REPL",
+    "extended": "",
+    "meta": "112c5e7b9b5571b7c3c86ad1c0e3bb9a",
+    "hash": "acaa5f968924eaca80a958010c700c1d",
+    "time": "2024-07-13T14:53:46Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://www.pythagora.ai/",
+    "description": "Pythagora",
+    "extended": "",
+    "meta": "dd6dc29da19cc7b094044a023801a294",
+    "hash": "c4f6fe651d208777e34ef84bb53acc62",
+    "time": "2024-07-13T14:46:29Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://securosis.com/blog/aws-cloud-incident-analysis-query-cheatsheet/",
+    "description": "AWS Cloud Incident Analysis Query Cheatsheet - Securosis",
+    "extended": "",
+    "meta": "fc5245ed0c32a23d5e2d0e295ea58e4b",
+    "hash": "087d03b56b07f4ccfb453d3ac12e2ece",
+    "time": "2024-07-13T14:41:55Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "security"
+  },
+  {
+    "href": "https://medium.com/@lokesh12/building-it-systems-with-well-architected-framework-infrastructure-as-code-with-practical-aws-1257c9d2ce2e",
+    "description": "Building IT Systems with Well-Architected Framework & Infrastructure as Code (With practical AWS App) | by Lokesh Aggarwal | Medium",
+    "extended": "",
+    "meta": "c910c65d49fc1031f51e2814bc68916d",
+    "hash": "5e28ad5fd0d0ca4de6ac3202155a4a87",
+    "time": "2024-07-13T14:31:38Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "solution"
+  },
+  {
+    "href": "https://ramimac.me/ssm-command-docs",
+    "description": "Publicly Exposed AWS SSM Command Documents – High Signal Security – YAIB (Yet Another Infosec blog).",
+    "extended": "",
+    "meta": "9fd97380de172bca2148f6def6cbec29",
+    "hash": "18e51b11f9e84ced67c17356affbb6c2",
+    "time": "2024-07-13T14:24:59Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "security"
+  },
+  {
+    "href": "https://github.com/Significant-Gravitas/AutoGPT",
+    "description": "GitHub - Significant-Gravitas/AutoGPT: AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "extended": "",
+    "meta": "7bc436dd3a88703853817158793a9c46",
+    "hash": "2f5b9452f2dfd7d021f41f62c049f784",
+    "time": "2024-07-13T14:12:57Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://www.dsebastien.net/developassions-newsletter-171-not-the-future-you-want/",
     "description": "DeveloPassion's Newsletter #171 - Not the future you want",
     "extended": "",
