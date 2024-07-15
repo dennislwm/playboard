@@ -1,5 +1,93 @@
 [
   {
+    "href": "https://www.talos.dev/",
+    "description": "Talos Linux",
+    "extended": "",
+    "meta": "293c708493dab48fd4b9f611b36a1e3d",
+    "hash": "d1917d152ede0a59e0937fb229ac8f57",
+    "time": "2024-07-14T10:36:49Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/vuejs/vitepress/issues/411",
+    "description": "question: how to import a markdown file & display its contents in another markdown file · Issue #411 · vuejs/vitepress · GitHub",
+    "extended": "",
+    "meta": "86c36e66fe5b500d6aaf25f1150edf8d",
+    "hash": "f69953e5d4c6579b2fe4eec6ca6ce1a5",
+    "time": "2024-07-14T06:58:54Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "productivity"
+  },
+  {
+    "href": "https://www.openpolicyagent.org/docs/latest/terraform/",
+    "description": "Open Policy Agent | Terraform",
+    "extended": "",
+    "meta": "440061621436a731316bd3886363651b",
+    "hash": "037c85eff4b567259db7f2b10a24aa87",
+    "time": "2024-07-14T06:21:06Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/GoogleCloudPlatform/terraformer",
+    "description": "GitHub - GoogleCloudPlatform/terraformer: CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code",
+    "extended": "",
+    "meta": "682dc4be7afa15ac7337decd8b8c6c8e",
+    "hash": "319322ab7c7fefdb705aca40373305b5",
+    "time": "2024-07-14T06:05:16Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/sinaatalay/rendercv",
+    "description": "GitHub - sinaatalay/rendercv: A LaTeX CV/Resume Framework",
+    "extended": "",
+    "meta": "51d8309323acc031a57eeeffac8eb82d",
+    "hash": "b08816a87bd4dc9056824730690c2ce7",
+    "time": "2024-07-14T03:25:39Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://www.stemfie.org/",
+    "description": "STEMFIE - STEMFIE is a free 3D-printable construction set toy, you can download and make on your 3D printer. #Stemfie3D",
+    "extended": "",
+    "meta": "42479217f1ded4ee521c7eda0a99104c",
+    "hash": "92ff25f283e4874dec4d053da5c80895",
+    "time": "2024-07-14T03:22:17Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://speakerdeck.com/ramimac/the-path-to-zero-touch-production?slide=76",
+    "description": "The Path to Zero Touch Production - Speaker Deck",
+    "extended": "",
+    "meta": "090555b7ba8c7457882918f4ab3a6490",
+    "hash": "0ba38d508e82d5cbce8e128d9ec31d30",
+    "time": "2024-07-14T01:28:26Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "security"
+  },
+  {
+    "href": "https://ramimac.me/oidc-provider-enum",
+    "description": "AWS OIDC Provider Enumeration – High Signal Security – YAIB (Yet Another Infosec blog).",
+    "extended": "",
+    "meta": "18f584cbe823ccc13911ea0cbf0eb884",
+    "hash": "488fa88e76903659ced787f7b9f24dca",
+    "time": "2024-07-14T01:26:37Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "security"
+  },
+  {
     "href": "https://strudel.cc/#Ly8gQHRpdGxlIENvbXB1dGVyIHNheXMgbm8KLy8gQGJ5IFJlaW5iaW0KCnAxOiBzdGFjayhzKCJbW2JkIGJkIGNwIGhoKjJdIHwgW2JkOjIgfiBoaCBsdDoyXSB8IFtbaGgsYmQ6M10gaGg6MiBoaCBjcF1dIikKICAgICAgLmZhc3QoMykKICAgICAgLnN3aW5nKDAuNSkKICAgICAgLmRlY2F5KCI8MC4xIC41IC4zPio0IikKICAgICAgLnNvbWV0aW1lcyh4PT54LnNwZWVkKCI8MC4yIDAuNSAxPiozIikpCiAgICAgIC52ZWxvY2l0eShyYW5kLnJhbmdlKDAuMSwxKS5mYXN0KDIwKSkKICAgICAgLnNvbWV0aW1lc0J5KDAuMDEseD0%2BeC5lY2hvKDUsMS8zMiwwLjUpKQogICAgICAucm9vbSgwLjEpCiAgICAgIC5scGYoIlsxMDAwIDIwMDBdIDwzMDAwIDYwMDAgNTAwPioyIikKICAgICAgLmxwZShzaW5lLnJhbmdlKDUsMjApKQogICAgICAuZ2FpbigyLjIpCiAgICAuYmFuaygiUm9sYW5kVFI5MDkiKQopCgpwMjogc3RhY2socygiW1tzaCBoaCoyIFs8fiBvaD5dIHJpbV1dIikuY3V0KDEpCiAgICAgIC5mYXN0KDMpCiAgICAgIC5zd2luZygwLjUpCiAgICAgIC5kZWNheSgiPDAuMSAuNSAuMz4qNCIpCiAgICAgIC52ZWxvY2l0eShyYW5kLnJhbmdlKDAuMSwxKS5mYXN0KDEwKSkKICAgICAgLnNvbWV0aW1lc0J5KDAuMix4PT54Lmp1eChyZXYpKQogICAgICAuYnBmKCI8ODAwMCA0MDAwPiIpCiAgICAgIC5yb29tKDAuMikKICAgICAgLmdhaW4oMSkKICAgIC5iYW5rKCJBbGVzaXNIUjE2IikKKQoKcDM6IHN0YWNrKG4oIjAgOCA0IDciLmFkZCgiPDAgWzMgOF0gNyA0IDE%2BLzgiKSkuc2NhbGUoIkE6bWFqb3IiKSAKICAgIC5zKCI8c3F1YXJlIHN1cGVyc2F3PioyIikKICAgIC5vZmYoMC4yNSwgeD0%2BeC50cmFuc3Bvc2UoIi0xMiIpKQogICAgLmRlY2F5KHBlcmxpbi5yYW5nZSgwLjEsIDAuNSkuc2xvdyg0KSkKICAgIC5yZWxlYXNlKHBlcmxpbi5yYW5nZSgwLjcsIDIuNSkuc2xvdygzKSkKICAgIC5mYXN0KDMpCiAgICAubHBmKHBlcmxpbi5yYW5nZSg1MDAsIDMwMDApKQogICAgLmxwZSgyMCkKKQoKcDQ6IHN0YWNrKG4oIlswLDksMiw1XSEgfCBbfiBbNCwzLDEsMTJdXSB8IFtbMCw5LDIsNV0gWzcsMiwwLDRdXSIuc2xvdygzKQogICAgLnNvbWV0aW1lcyh4PT54LmFkZCgiPCAxIDIgNSA4PiIuc2xvdyg0KSkudHJhbnNwb3NlKCIxIikpKS5qdXgocmV2KQogICAgLnNjYWxlKCJBOm1ham9yIikgCiAgICAuc3dpbmcoNCkKICAgIC5zKCI8dHJpYW5nbGU%2BIikKICAgIC5vZmYoMC4yNSwgeD0%2BeC50cmFuc3Bvc2UoIjI0IikpCiAgICAuZGVjYXkocGVybGluLnJhbmdlKDEsIDIpLnNsb3coNCkpCiAgICAucmVsZWFzZShwZXJsaW4ucmFuZ2UoMiwgNSkuc2xvdygzKSkKICAgIC5mYXN0KDUpCiAgICAucm9vbSgyKQogICAgLmdhaW4oMC4xKQogICAgLmxwZih0cmkucmFuZ2UoMCwgNTAwMCkuZmFzdCgxMCkpCiAgICAubHBlKDIwKQop",
     "description": "Computer says no - Strudel REPL",
     "extended": "",
