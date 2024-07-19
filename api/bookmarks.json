@@ -1,5 +1,115 @@
 [
   {
+    "href": "https://simonwillison.net/2024/Jul/18/gpt-4o-mini/",
+    "description": "GPT-4o mini",
+    "extended": "",
+    "meta": "b2fcba2f56c414223128eef1754b9526",
+    "hash": "4ccac5210c4156a7601666c84dce51a3",
+    "time": "2024-07-19T07:18:36Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://github.com/brisktest/brisk-extension/blob/main/SPEEDRUN.md",
+    "description": "brisk-extension/SPEEDRUN.md at main · brisktest/brisk-extension",
+    "extended": "",
+    "meta": "47133ef81b3ac1595ba95bc55ebb0765",
+    "hash": "141e47553f6537134e1e85e2cef321b0",
+    "time": "2024-07-19T05:14:53Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://ai.gopubby.com/an-introduction-to-fabric-the-best-ai-tool-youve-never-heard-of-94a0b4f59ac6",
+    "description": "An introduction to Fabric: The best AI tool you’ve never heard of? | by Thomas Reid | Jul, 2024 | AI Advances",
+    "extended": "",
+    "meta": "ac8c9c6506ba79f3560e576862ba9798",
+    "hash": "f95f4463a5b32f4e84d75ac16dbe416b",
+    "time": "2024-07-19T02:39:48Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://readkit.app/",
+    "description": "ReadKit - Have all your reading in one place",
+    "extended": "",
+    "meta": "83b1d2c35b9ad7522fd05aa7d40aa9b9",
+    "hash": "8af73b4cff22f19526adbcc6b2247005",
+    "time": "2024-07-19T02:23:19Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/lionheart/pinboard.py",
+    "description": "GitHub - lionheart/pinboard.py: A full-featured Python wrapper (and command-line utility) for the Pinboard API. Built by the makers of Pushpin for Pinboard.",
+    "extended": "",
+    "meta": "bfca205f318950db611205e797301824",
+    "hash": "b4b2d7d1e2ec6ca21bb9db8933d3e81c",
+    "time": "2024-07-19T02:18:07Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://unit42.paloaltonetworks.com/cloud-virtual-machine-attack-vectors/",
+    "description": "Attack Paths Into VMs in the Cloud",
+    "extended": "",
+    "meta": "1dab3e30fee8bb7134eaa29fda5dd6f6",
+    "hash": "ba4230c62acbeb9e9406e02a0e8e3d3b",
+    "time": "2024-07-19T02:15:03Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "security"
+  },
+  {
+    "href": "https://github.com/amazon-science/RAGChecker",
+    "description": "GitHub - amazon-science/RAGChecker: RAGChecker: A Fine-grained Framework For Diagnosing RAG",
+    "extended": "",
+    "meta": "ed970b11b734993ecaf0c9013b4a4207",
+    "hash": "f4b05abb7224ced4dbbba65d35ad45ce",
+    "time": "2024-07-19T02:07:16Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://llm.datasette.io/en/stable/changelog.html#v0-15",
+    "description": "Changelog - LLM",
+    "extended": "",
+    "meta": "fe67d52c34a3ccfb2ea572706aea9bf4",
+    "hash": "69b631dae2291952f2d4b780c9d6225d",
+    "time": "2024-07-19T02:04:48Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://medium.com/dsaid-govtech/training-llms-to-draft-replies-to-parliamentary-questions-fine-tuning-llama-3-and-gemma-2-with-f9e161b72d0e",
+    "description": "Training LLMs to Draft Replies to Parliamentary Questions — Fine-tuning Llama 3 and Gemma 2 with Hansard Data | by Watson Chua | DSAID GovTech | Jul, 2024 | Medium",
+    "extended": "",
+    "meta": "14b41fb8dab84918653475f091a6972f",
+    "hash": "b3da3d1caed9e41f702ed1582d159d74",
+    "time": "2024-07-18T23:37:22Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://github.com/AppsFlyer/terra-crust",
+    "description": "AppsFlyer/terra-crust: Terra Crust was created to allow Platform teams to expose Terraform as the main API to developers",
+    "extended": "here",
+    "meta": "09c7714bc28a6199d26c592a8d445aea",
+    "hash": "803b46b9943b17492c6de57d02baa60f",
+    "time": "2024-07-18T11:08:17Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://www.forbes.com/advisor/travel-insurance/best-travel-insurance/#most-risky-cities-for-tourists",
     "description": "12 Best Travel Insurance Companies Of July 2024 – Forbes Advisor",
     "extended": "",
