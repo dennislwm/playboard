@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://github.com/chaitin/SafeLine",
+    "description": "GitHub - chaitin/SafeLine: A web security gateway, serve as a reverse proxy to protect your websites from attacks and exploits.",
+    "extended": "",
+    "meta": "6e822f9f6c1cc87e59495365a9bc175f",
+    "hash": "f2f1da0c9dd99f310188741492d5b712",
+    "time": "2024-07-19T11:59:35Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://simonwillison.net/2024/Jul/18/gpt-4o-mini/",
     "description": "GPT-4o mini",
     "extended": "",
