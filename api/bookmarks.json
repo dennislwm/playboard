@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://yieldcode.blog/post/the-day-of-the-bsods/",
+    "description": "The day of the blue screens of death - Dmitry Kudryavtsev",
+    "extended": "",
+    "meta": "9b801732ab4012083098ad448143193b",
+    "hash": "6abb6c1f4d655240d97afab31b293102",
+    "time": "2024-07-20T02:05:01Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "security"
+  },
+  {
     "href": "https://github.com/chaitin/SafeLine",
     "description": "GitHub - chaitin/SafeLine: A web security gateway, serve as a reverse proxy to protect your websites from attacks and exploits.",
     "extended": "",
