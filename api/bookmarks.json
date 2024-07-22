@@ -1,5 +1,71 @@
 [
   {
+    "href": "https://dev.to/pratik_nalawade/how-i-passed-my-hashicorp-terraform-certified-asscoiate-exam-115g",
+    "description": "How I Passed my HashiCorp Terraform Certified Asscoiate Exam - DEV Community",
+    "extended": "",
+    "meta": "536e34c5fe64124eb629897d10a45c67",
+    "hash": "bcaddb9b43ade22e4eed65c59088df6a",
+    "time": "2024-07-22T00:22:45Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://blog.stackademic.com/fastapi-role-base-access-control-with-jwt-9fa2922a088c",
+    "description": "FastAPI Role Base Access Control With JWT | by Hirusha Fernando | Stackademic",
+    "extended": "",
+    "meta": "4aaf056766d2691f137a9568dc456948",
+    "hash": "295001dd4188a3e21856ab2811d0b4bf",
+    "time": "2024-07-21T03:37:29Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
+    "href": "https://github.com/bridge-yt/bridge",
+    "description": "bridge-yt/Bridge: The Bridge App is a versatile configuration management platform designed to facilitate seamless integration and management of resources across various deployment tools like Terraform, Helm, and Kubernetes. It acts as a centralized regist",
+    "extended": "",
+    "meta": "b7c4454c7c21a78782c3c77d5b74a38e",
+    "hash": "c0819dfd41a44d809280550826965963",
+    "time": "2024-07-21T03:22:32Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/boredazfcuk/docker-icloudpd",
+    "description": "boredazfcuk/docker-icloudpd: An Alpine Linux container for the iCloud Photos Downloader command line utility",
+    "extended": "",
+    "meta": "5e628d05c2a9df30cc098bf13b5987e0",
+    "hash": "fd89ada3c367262db11a19eae72d4329",
+    "time": "2024-07-21T03:22:20Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://tailscale.com/kb/1223/funnel",
+    "description": "Tailscale Funnel · Tailscale Docs",
+    "extended": "",
+    "meta": "9c34af470ff81e2991275b1ae5f76608",
+    "hash": "13250812a972c70d90375ca55a5a2aa8",
+    "time": "2024-07-21T03:09:06Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://milelion.com/2024/07/21/complete-list-of-uob-merchants-july-2024/",
+    "description": "Complete list of UOB$ merchants: July 2024 - The MileLion",
+    "extended": "",
+    "meta": "6f5a935a7603bf8c4cf6a6767bd65e1f",
+    "hash": "f73ab5acdffb5e43a6332423c7d0172b",
+    "time": "2024-07-21T02:43:22Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "reward"
+  },
+  {
     "href": "https://yieldcode.blog/post/the-day-of-the-bsods/",
     "description": "The day of the blue screens of death - Dmitry Kudryavtsev",
     "extended": "",
