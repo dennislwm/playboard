@@ -1,5 +1,104 @@
 [
   {
+    "href": "https://batocera.org/",
+    "description": "batocera.linux",
+    "extended": "",
+    "meta": "90d1e1a22bbd11c18c3e4ed059040bee",
+    "hash": "5896612157ac6ef52fa5e7b00ebb611b",
+    "time": "2024-07-22T13:25:58Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/billabear/billabear",
+    "description": "GitHub - billabear/billabear: Subscription Management and Billing System",
+    "extended": "",
+    "meta": "f6c85a61ff57c58b24ba3f554beea269",
+    "hash": "b349ca899535997394216d5bc7024cf1",
+    "time": "2024-07-22T11:40:57Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://neuml.github.io/txtai/",
+    "description": "txtai",
+    "extended": "",
+    "meta": "b4950959f75f26e402f58c709463dd48",
+    "hash": "fb45f75e5840c7de789c6a542333830f",
+    "time": "2024-07-22T04:44:48Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://www.cloudgto.com/",
+    "description": "CloudGTO",
+    "extended": "",
+    "meta": "b1e66736a9a4f69611129ddc93167768",
+    "hash": "c72b62e7b9b9894ec14057cdb3a0869a",
+    "time": "2024-07-22T04:43:41Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "solution"
+  },
+  {
+    "href": "https://medium.com/@caseyjohnsonwv/chaindog-a-serverless-sms-app-for-theme-park-queue-time-notifications-c38e310513b",
+    "description": "Chaindog: A Serverless SMS App for Theme Park Queue Time Notifications | by Casey Johnson | Medium",
+    "extended": "",
+    "meta": "1a1f747ce5850ec36acc95aad1159a8e",
+    "hash": "728394d691ff705e67975237a84f1087",
+    "time": "2024-07-22T04:40:56Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "aws"
+  },
+  {
+    "href": "https://janus-idp.io/",
+    "description": "Janus",
+    "extended": "",
+    "meta": "2ea5c7e56a47a5088200caa4dbe8a519",
+    "hash": "8687235023bb34a79e074e41d6947503",
+    "time": "2024-07-22T03:06:23Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://www.brightball.com/articles/story-points-are-pointless-measure-queues",
+    "description": "Story Points are Pointless, Measure Queues | Brightball",
+    "extended": "",
+    "meta": "fe8bdc9becfaeaedc603a64ee8b11083",
+    "hash": "153c95d3993ce229344562fc72341f21",
+    "time": "2024-07-22T02:51:20Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://embrace.io/blog/s3-batch-object-store/",
+    "description": "Enhancing cloud storage efficiency with s3-batch-object-store",
+    "extended": "",
+    "meta": "4217dc953ba64bc1f8c41b510b1fd864",
+    "hash": "703fe6f14fd475a2b22b722c90ef0bcb",
+    "time": "2024-07-22T02:49:30Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "aws"
+  },
+  {
+    "href": "https://github.com/aperswal/CloudFormation_To_Terraform/tree/master",
+    "description": "GitHub - aperswal/CloudFormation_To_Terraform",
+    "extended": "",
+    "meta": "dfad35235b9d6eeb0ca7aae124a74420",
+    "hash": "87425fe70a14c225ddab9dc38d9d88c6",
+    "time": "2024-07-22T02:42:29Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://dev.to/pratik_nalawade/how-i-passed-my-hashicorp-terraform-certified-asscoiate-exam-115g",
     "description": "How I Passed my HashiCorp Terraform Certified Asscoiate Exam - DEV Community",
     "extended": "",
