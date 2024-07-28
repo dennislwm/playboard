@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://github.com/run-llama/llama_index",
+    "description": "GitHub - run-llama/llama_index: LlamaIndex is a data framework for your LLM applications",
+    "extended": "",
+    "meta": "c9da1ae09e9c3677b147dccbb8cb4e8d",
+    "hash": "4eb75fcb45e011846f8e06b9eebf54a3",
+    "time": "2024-07-27T14:41:40Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://www.reddit.com/r/selfhosted/comments/1ed66a7/dockerfile_for_summarizing_youtube_transcription/",
+    "description": "Dockerfile for summarizing YouTube transcription using ChatGPT : r/selfhosted",
+    "extended": "",
+    "meta": "aae26dc26170f5a86f72eb34a0ae6ae4",
+    "hash": "56c39e120d6a5524f7e46f0e2df0fcc6",
+    "time": "2024-07-27T03:09:19Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://github.com/sickcodes/Docker-OSX",
+    "description": "GitHub - sickcodes/Docker-OSX: Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.",
+    "extended": "",
+    "meta": "68c41c22b71b91d9cde52b2320eacf5e",
+    "hash": "8ef4e244e10800a68fb1911146401a70",
+    "time": "2024-07-27T02:27:32Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://codisec.com/veles/",
+    "description": "Veles - Binary Analysis Tool - CodiSec CodiSec",
+    "extended": "",
+    "meta": "c4744eea318ad24b13eff47bc816a268",
+    "hash": "1b7a8472288a9ada6291bc414acb97df",
+    "time": "2024-07-27T02:05:30Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://queue-times.com/",
     "description": "Queue Times",
     "extended": "",
