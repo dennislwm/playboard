@@ -1,5 +1,82 @@
 [
   {
+    "href": "https://github.com/StreamPot/StreamPot",
+    "description": "GitHub - StreamPot/StreamPot: Run ffmpeg as an API with fluent-ffmpeg compatibility, queues and S3 storage.",
+    "extended": "",
+    "meta": "821df85f120cd41942775e60546335d2",
+    "hash": "36d50ec707cbd911194ab212ec1d9247",
+    "time": "2024-07-29T01:13:40Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/Lissy93/web-check",
+    "description": "GitHub - Lissy93/web-check: 🕵️‍♂️ All-in-one OSINT tool for analysing any website",
+    "extended": "",
+    "meta": "0c871a4402d8e2f17ab8b230e4df871d",
+    "hash": "8f185e504e30b072a28a35ac70fab856",
+    "time": "2024-07-29T01:01:48Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://itnext.io/software-architecture-diagrams-with-c4-model-898adcb534c2",
+    "description": "Software Architecture Diagrams with C4 Model | by Alex Pliutau | Jul, 2024 | ITNEXT",
+    "extended": "",
+    "meta": "22fa76bab4bf037725bf3ed64aaae808",
+    "hash": "0957e2fbf62eb1a48e8906b2008df5b7",
+    "time": "2024-07-29T00:50:18Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "productivity"
+  },
+  {
+    "href": "https://www.microsoft.com/en-us/security/blog/2024/07/27/windows-security-best-practices-for-integrating-and-managing-security-tools/",
+    "description": "Windows Security best practices for integrating and managing security tools | Microsoft Security Blog",
+    "extended": "",
+    "meta": "f9e69aa976d6db6ec1e9fefd35548cce",
+    "hash": "b792373de1b87cf91b626ae157674936",
+    "time": "2024-07-29T00:48:10Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "security"
+  },
+  {
+    "href": "https://github.com/jkool702/forkrun",
+    "description": "GitHub - jkool702/forkrun: runs multiple inputs through a script/function in parallel using bash coprocs",
+    "extended": "",
+    "meta": "bae280c49edee5f88d8576784c4209c6",
+    "hash": "df7d668f865102f5570bef794ace0dd7",
+    "time": "2024-07-28T05:43:22Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/devrim/cloudflare-noip",
+    "description": "GitHub - devrim/cloudflare-noip: free alternative to paid dynamic DNS services like NoIP.com",
+    "extended": "",
+    "meta": "fd92f122aa25bf4dfecc615bf65b330a",
+    "hash": "a4974780c950ae538ec024b39032c737",
+    "time": "2024-07-28T01:45:18Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/ruanbekker/terraform-localstack-examples",
+    "description": "GitHub - ruanbekker/terraform-localstack-examples: Terraform on Localstack Examples",
+    "extended": "",
+    "meta": "c63bf89fcae277f951c70ac0f11b068d",
+    "hash": "21d636a9f07ab8519c194b1e5be5179a",
+    "time": "2024-07-28T01:41:24Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/run-llama/llama_index",
     "description": "GitHub - run-llama/llama_index: LlamaIndex is a data framework for your LLM applications",
     "extended": "",
@@ -300,7 +377,7 @@
     "href": "https://www.crowdstrike.com/blog/falcon-content-update-preliminary-post-incident-report/",
     "description": "Falcon Content Update Preliminary Post Incident Report | CrowdStrike",
     "extended": "",
-    "meta": "aef46304f7bd48a16d417bb355d17439",
+    "meta": "9a298fb01052f757f3d34ce99ad540f4",
     "hash": "c0e9608a6d8033680c51db8e6d9e3624",
     "time": "2024-07-24T12:05:59Z",
     "shared": "no",
