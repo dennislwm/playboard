@@ -1,5 +1,71 @@
 [
   {
+    "href": "https://blog.cloudflare.com/why-certificate-pinning-is-outdated",
+    "description": "Avoiding downtime: modern alternatives to outdated certificate pinning practices",
+    "extended": "",
+    "meta": "a3f34e6a1648978d8361964b66c0b0f9",
+    "hash": "1eac565b0f0320d940205b06bb9aa01c",
+    "time": "2024-07-30T00:46:23Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "security"
+  },
+  {
+    "href": "https://github.com/alyssaxuu/screenity",
+    "description": "GitHub - alyssaxuu/screenity: The free and privacy-friendly screen recorder with no limits 🎥",
+    "extended": "",
+    "meta": "bcedd38ec392cef2c03960d18b6e6352",
+    "hash": "4e25b27f5788d1a08fad4d6887bdf7bc",
+    "time": "2024-07-30T00:38:15Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://sitereliability.in/enforcing-best-practices-with-cloudformation-static-code-analysis",
+    "description": "CloudFormation Static Code Analysis",
+    "extended": "",
+    "meta": "2ce8f48a34187394bb3c6072e668d480",
+    "hash": "7ecd1ac6e8d35f02516e93b8d23e1ac0",
+    "time": "2024-07-29T05:42:46Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "aws"
+  },
+  {
+    "href": "https://tapanrachchh.hashnode.dev/movie-recommendation-system-find-similar-movies-using-llm",
+    "description": "Movie Recommendation System - Find Similar Movies Using LLM",
+    "extended": "",
+    "meta": "6bb0da7f82b3f66ef600d72ea7721897",
+    "hash": "fa4eeaacbcf06c252b56cec1fc031db5",
+    "time": "2024-07-29T05:33:47Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://gopikajayakrishnan.hashnode.dev/discover-terragrunt-an-advanced-guide-beyond-terraform",
+    "description": "Terragrunt: Advanced Guide to Terraform",
+    "extended": "",
+    "meta": "f37c3f3e7cf1f37eba9cadede6544107",
+    "hash": "3a81238d6bae517f4ce69a59a0517fee",
+    "time": "2024-07-29T04:08:20Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "productivity"
+  },
+  {
+    "href": "https://airesearchblogs.com/series-56-comprehensive-case-study-on-extracting-data-from-w-2-w-8ben-and-w-9-forms-using-llms",
+    "description": "Extracting Data from W-2, W-8BEN, W-9 Forms",
+    "extended": "",
+    "meta": "f92233f415a77e0164ad89e2d97fd333",
+    "hash": "e0bf6271d254bf560644b22c9cde587f",
+    "time": "2024-07-29T03:46:57Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://github.com/StreamPot/StreamPot",
     "description": "GitHub - StreamPot/StreamPot: Run ffmpeg as an API with fluent-ffmpeg compatibility, queues and S3 storage.",
     "extended": "",
