@@ -1,5 +1,71 @@
 [
   {
+    "href": "https://rendley.com/",
+    "description": "Video Editing SDK - Rendley SDK",
+    "extended": "",
+    "meta": "721dfa4800ab360aa04e635aa3f8c7c5",
+    "hash": "26f0fa7178a1cffca20288873d6e3f49",
+    "time": "2024-07-31T01:01:11Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://blog.gingerbeardman.com/2024/07/30/taking-command-of-the-context-menu-in-macos/",
+    "description": "Taking command of the Context Menu in macOS  ⌘I  Get Info",
+    "extended": "",
+    "meta": "a29407bb9e4da45c64867a985f315932",
+    "hash": "d0d02b84430c97237ced34e23f4f01e3",
+    "time": "2024-07-31T00:57:40Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "productivity"
+  },
+  {
+    "href": "https://martinheinz.dev/blog/101",
+    "description": "Debugging Crashes and Deadlocks in Python using PyStack | Martin Heinz | Personal Website & Blog",
+    "extended": "",
+    "meta": "b6563597b6eb82ef945592219122e18d",
+    "hash": "9f0ac1bd26378b87299fd1efe24633c8",
+    "time": "2024-07-30T12:02:38Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
+    "href": "https://github.com/langchain-ai/langchain",
+    "description": "langchain-ai/langchain: 🦜🔗 Build context-aware reasoning applications",
+    "extended": "",
+    "meta": "5f4a653bd477d3d61a0fdc62eb4c1b44",
+    "hash": "903bfb06cf519c4b075bb03e9d21857e",
+    "time": "2024-07-30T12:01:30Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://martinheinz.dev/blog/99",
+    "description": "Remote Interactive Debugging of Python Applications Running in Kubernetes | Martin Heinz | Personal Website & Blog",
+    "extended": "",
+    "meta": "bcf0d3eb8b37f3e16b06655240cf7ce1",
+    "hash": "4c6ae85faedf725081345be616157a83",
+    "time": "2024-07-30T11:49:14Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "kubernetes"
+  },
+  {
+    "href": "https://github.com/star3am/hashiqube",
+    "description": "GitHub - star3am/hashiqube: HashiQube - The Ultimate Hands on DevOps Lab Using All the HashiCorp Products",
+    "extended": "",
+    "meta": "8e9219d50f60d3922c1ca5927a2dc4b6",
+    "hash": "bca4e5612959ccb3c3b471bf4da0856f",
+    "time": "2024-07-30T09:07:40Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://blog.cloudflare.com/why-certificate-pinning-is-outdated",
     "description": "Avoiding downtime: modern alternatives to outdated certificate pinning practices",
     "extended": "",
