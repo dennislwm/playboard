@@ -1,5 +1,93 @@
 [
   {
+    "href": "https://www.baeldung.com/",
+    "description": "Baeldung",
+    "extended": "",
+    "meta": "f3bd87a724ff64516eed859980f9c9e6",
+    "hash": "a34c852e1dd1d0144a7b417a249fed8d",
+    "time": "2024-08-02T00:16:17Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4501707",
+    "description": "Financial Machine Learning by Bryan T. Kelly, Dacheng Xiu :: SSRN",
+    "extended": "",
+    "meta": "16aa8304525f93a925fef504bfe35a97",
+    "hash": "b9c0507a23101b96604142de0bfd7be9",
+    "time": "2024-08-01T14:58:21Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "finance"
+  },
+  {
+    "href": "https://www.princexml.com/",
+    "description": "Prince - Convert HTML to PDF with CSS",
+    "extended": "",
+    "meta": "79e056c18cf9ac5cda32108200712b89",
+    "hash": "e52af3f04a99cc76820450f96b923090",
+    "time": "2024-08-01T13:47:37Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://vercel.com/",
+    "description": "Vercel: Build and deploy the best web experiences with the Frontend Cloud",
+    "extended": "",
+    "meta": "8dcb7cc17905b7e69ff1ced8c53bb2df",
+    "hash": "36284bc271d3c7aed45209bb99d94989",
+    "time": "2024-08-01T13:42:21Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(24)00156-7/fulltext",
+    "description": "Differences in cancer rates among adults born between 1920 and 1990 in the USA: an analysis of population-based cancer registry data - The Lancet Public Health",
+    "extended": "",
+    "meta": "5299359a80bd06f17b5210d090f29f0d",
+    "hash": "33ce62a6ef7bf5083031b6aca14ff340",
+    "time": "2024-08-01T13:18:45Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "health"
+  },
+  {
+    "href": "https://github.com/JamesWoolfenden/sato",
+    "description": "JamesWoolfenden/sato: Sato converts ARM or CFN into Terraform",
+    "extended": "",
+    "meta": "2e0accb88af18937bab1d2308b1f3924",
+    "hash": "1ffd450324b407e9844bd7e7e92eb1e1",
+    "time": "2024-08-01T13:15:11Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://www.linkace.org/",
+    "description": "LinkAce - Your self-hosted bookmark archive. Free and open source.",
+    "extended": "",
+    "meta": "f32e5b6b70e48e2d08c61ac872d9e1f9",
+    "hash": "c38949468ad357177326fa60087da591",
+    "time": "2024-08-01T02:00:51Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://ramimac.me/poisoning-ssm-command-docs",
+    "description": "Poisoning the SSM Command Document Well – High Signal Security – YAIB (Yet Another Infosec blog).",
+    "extended": "",
+    "meta": "e344d76f65cb0931743f365d91ede83e",
+    "hash": "de3f8447d5fde6b6ac3c4cbf8fb74aca",
+    "time": "2024-08-01T01:58:14Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "security"
+  },
+  {
     "href": "https://packagemain.tech/p/github-actions-semver",
     "description": "Automating Semantic Versioning with Github Actions and Branch Naming Conventions",
     "extended": "",
@@ -7604,7 +7692,7 @@
     "href": "https://github.com/stanford-oval/storm",
     "description": "GitHub - stanford-oval/storm: An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
     "extended": "",
-    "meta": "3184b92474e7a5327dc6ac193b4f7527",
+    "meta": "fe2edcde5b4d9b5d273cf73ac30777f9",
     "hash": "d6ba41f734cafaba71a8968c1e5121ab",
     "time": "2024-04-12T01:39:33Z",
     "shared": "no",
