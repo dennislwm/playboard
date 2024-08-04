@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://github.com/akazwz/antonai",
+    "description": "GitHub - akazwz/antonai: a LLMs/AI chat platform build and design for Cloudflare worker AI. with many features like function calling, image to text, text to image, text to speech",
+    "extended": "",
+    "meta": "612ef130791a12bd1d3dfdb1e33c7e5a",
+    "hash": "bde664c5f493fa42eb288453a9097121",
+    "time": "2024-08-04T01:22:29Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/cliffchew84/sg_housing",
+    "description": "cliffchew84/sg_housing: This is a side project that aims to use publicly available data to analyse our Singapore housing market.",
+    "extended": "",
+    "meta": "bd392096389642f542c62d3ecb0d5961",
+    "hash": "dc757390a3f678497b428db22182d130",
+    "time": "2024-08-03T02:08:59Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://jnsgr.uk/2024/07/how-i-computer-in-2024/?ref=selfh.st",
+    "description": "How I Computer in 2024 · Jon Seager",
+    "extended": "",
+    "meta": "3dbc697a544810b44fbce8c4b9995f06",
+    "hash": "eb80a2b022c6a3262da1797590a4c6f5",
+    "time": "2024-08-03T01:22:02Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
     "href": "https://codeberg.org/mrmn/PdfDing?ref=selfh.st",
     "description": "mrmn/PdfDing: PdfDing is a selfhosted PDF manager and viewer offering a seamless user experience on multiple devices. It's designed be to be minimal, fast, and easy to set up using Docker. - Codeberg.org",
     "extended": "",
