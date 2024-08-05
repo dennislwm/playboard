@@ -1,5 +1,104 @@
 [
   {
+    "href": "https://www.abc.net.au/news/2024-08-05/cost-of-living-interest-rates-burgers/104156654",
+    "description": "What's driving up burger prices? - ABC News",
+    "extended": "",
+    "meta": "e70e028c74376228d5048dab3def8e92",
+    "hash": "f4e77bb81146aa7adb048f1305f8903f",
+    "time": "2024-08-05T01:20:29Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "finance"
+  },
+  {
+    "href": "https://github.com/dessant/buster",
+    "description": "GitHub - dessant/buster: Captcha solver extension for humans, available for Chrome, Edge and Firefox",
+    "extended": "",
+    "meta": "938d733ae02a724cf1684e970bc4870e",
+    "hash": "fd43c85a993cac59e7c04ee8def52701",
+    "time": "2024-08-05T01:18:04Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/defenseunicorns/pepr",
+    "description": "GitHub - defenseunicorns/pepr: Type safe K8s middleware for humans",
+    "extended": "",
+    "meta": "9ebb22fb0d1bc4e54b439eb565a1aafe",
+    "hash": "fde42d128fdcc1be305413fad0380f18",
+    "time": "2024-08-05T01:04:12Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://tree-sitter.github.io/tree-sitter/",
+    "description": "Tree-sitter｜Introduction",
+    "extended": "",
+    "meta": "86c159b68d63606d3f3361e082e59e4a",
+    "hash": "41a369852d6ebdc1489d6771baecbfdd",
+    "time": "2024-08-05T01:01:01Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://www.belenios.org/",
+    "description": "Belenios: Verifiable online voting system",
+    "extended": "",
+    "meta": "eb8b7245e44165d4027359b150282859",
+    "hash": "6686c9764b63d8c9c771ab0f74cb22fd",
+    "time": "2024-08-05T00:57:45Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://nicholas.carlini.com/writing/2024/how-i-use-ai.html",
+    "description": "How I Use \"AI\"",
+    "extended": "",
+    "meta": "a887bb3cc4c3590210f293f0bb0e452d",
+    "hash": "20ba4fe3483aa59d1b9045252a237e19",
+    "time": "2024-08-05T00:54:56Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://www.niemanlab.org/2024/07/to-preserve-their-work-and-drafts-of-history-journalists-take-archiving-into-their-own-hands/",
+    "description": "To preserve their work — and drafts of history — journalists take archiving into their own hands | Nieman Journalism Lab",
+    "extended": "",
+    "meta": "b2dc9a592eb57923de9a43e4015bf5de",
+    "hash": "cf90f58b692753dd8d556fdd4660a13e",
+    "time": "2024-08-04T13:13:45Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://www.blacksmith.sh/",
+    "description": "Blacksmith",
+    "extended": "",
+    "meta": "6f06d62a625854cdfe98ee20f9e73ec9",
+    "hash": "33a12938755c7dc82e8846ba1bf2cd26",
+    "time": "2024-08-04T13:10:22Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/camenduru/flux-jupyter",
+    "description": "camenduru/flux-jupyter",
+    "extended": "",
+    "meta": "89314a734bfc0963a6b15a73f9451fec",
+    "hash": "3a62f3a9e4617d1fd8aa395a33903c9c",
+    "time": "2024-08-04T09:35:54Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/akazwz/antonai",
     "description": "GitHub - akazwz/antonai: a LLMs/AI chat platform build and design for Cloudflare worker AI. with many features like function calling, image to text, text to image, text to speech",
     "extended": "",
