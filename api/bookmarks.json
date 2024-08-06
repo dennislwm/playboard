@@ -1,5 +1,93 @@
 [
   {
+    "href": "https://github.com/ynqa/logu",
+    "description": "GitHub - ynqa/logu: Extract patterns from (streaming) unstructured log messages",
+    "extended": "",
+    "meta": "37850ee323def9d2a64f8ec897a3d38a",
+    "hash": "a6ec735d6fa90fe376f1fca13b08d756",
+    "time": "2024-08-05T14:57:57Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://n8n.io/vs/zapier/",
+    "description": "n8n vs Zapier – Which is right for you?",
+    "extended": "",
+    "meta": "9563377c2d401f1855eca1aaef3bd83e",
+    "hash": "ebae1e522a094167bd13d50d9c75cbe3",
+    "time": "2024-08-05T11:45:35Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://hub.docker.com/r/n8nio/n8n",
+    "description": "n8nio/n8n - Docker Image | Docker Hub",
+    "extended": "",
+    "meta": "9afd3563a58b7d5fcc790babdaa512a9",
+    "hash": "ae15b8229402e596686dd0c41ff99f21",
+    "time": "2024-08-05T11:32:38Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://www.make.com/en/pricing",
+    "description": "Pricing & Subscription Packages | Make",
+    "extended": "",
+    "meta": "6b4656ddbfe84138ec3e738af295bb8b",
+    "hash": "3011daf7b820a36193df47464a4ca83a",
+    "time": "2024-08-05T11:26:13Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://www.lexjansen.com/pharmasug-cn/2023/DV/Pharmasug-China-2023-DV124.pdf",
+    "description": "Sunburst Plot Analysis and Submission to FDA with Python",
+    "extended": "",
+    "meta": "9ccdd8d11bf1aac742dcac72ab4c1754",
+    "hash": "e2b2fceafec74ddb8f894c7c127dbd30",
+    "time": "2024-08-05T05:27:32Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
+    "href": "https://github.com/UntouchedWagons/Ubuntu-CloudInit-Docs",
+    "description": "UntouchedWagons/Ubuntu-CloudInit-Docs: A short guide for setting up a Ubuntu VM template in proxmox using CloudInit",
+    "extended": "",
+    "meta": "3b1ed9e57f5b7a139f8c03ee72167c1e",
+    "hash": "4865c09e260ab640abbec48e2b921db8",
+    "time": "2024-08-05T03:39:15Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://randallgagnon.medium.com/creating-a-vm-template-in-proxmox-to-use-with-terraform-eaf16b24ed60",
+    "description": "Creating a VM Template in Proxmox to use with Terraform | by Randall Gagnon | Medium",
+    "extended": "",
+    "meta": "8f7646c19396902b4f7e64c5bfaff560",
+    "hash": "72a1de73e50041403529fd28fe57ac66",
+    "time": "2024-08-05T03:30:12Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://github.com/vivami/proxmox-automation",
+    "description": "vivami/proxmox-automation: Terraform and Ansible for VM and CT deployment and provisioning on Proxmox",
+    "extended": "",
+    "meta": "6f41a1b11239c3496c595eb16d14145d",
+    "hash": "9d1eaf0f22d559473396fb0a1d068f6c",
+    "time": "2024-08-05T03:22:49Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://www.abc.net.au/news/2024-08-05/cost-of-living-interest-rates-burgers/104156654",
     "description": "What's driving up burger prices? - ABC News",
     "extended": "",
