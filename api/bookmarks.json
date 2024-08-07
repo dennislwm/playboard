@@ -1,5 +1,93 @@
 [
   {
+    "href": "https://github.com/shorepine/tulipcc",
+    "description": "GitHub - shorepine/tulipcc: The Tulip Creative Computer - a portable Python synthesizer for music and graphics",
+    "extended": "",
+    "meta": "cd19577633c076bf0e529c1017f6b426",
+    "hash": "776929bf2c0bb3240b175e4a7b7d1236",
+    "time": "2024-08-07T01:10:02Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://visualflows.io/?_gl=1*1e9f9zc*_gcl_au*MTUzMjgxMTY4My4xNzIyOTkyNTUw",
+    "description": "VisualFlows",
+    "extended": "",
+    "meta": "ebfee2ac826b7b4870a2e74197a8f385",
+    "hash": "3b0b4c00de56ed84b6ee589c6e5b1e44",
+    "time": "2024-08-07T01:05:21Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/d3witt/viking",
+    "description": "GitHub - d3witt/viking: Simple way to manage your remote machines and SSH keys",
+    "extended": "",
+    "meta": "3dd072c3888372d2f003d949a763809b",
+    "hash": "d5c401c5bf07dd38a0e83c28954e8f76",
+    "time": "2024-08-07T00:57:53Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/useplunk/plunk",
+    "description": "GitHub - useplunk/plunk: The Open-Source Email Platform",
+    "extended": "",
+    "meta": "9642b99af6b9051250a3d0e01a50866a",
+    "hash": "55fdf5da3cdd821cbbbe2159000ef62e",
+    "time": "2024-08-07T00:54:56Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://1fps.video/",
+    "description": "1fps.video - Hassle-free Screen Sharing",
+    "extended": "",
+    "meta": "f51ed25bd18d61cadecf78e507eb56ba",
+    "hash": "376cdfc3d6ba2901961575f94d934d99",
+    "time": "2024-08-07T00:48:45Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://www.sakisv.net/2024/08/tracking-supermarket-prices-playwright/",
+    "description": "Tracking supermarket prices with playwright",
+    "extended": "",
+    "meta": "c19b2a71a88c7f5a6dc23b3fa2175808",
+    "hash": "ef60d4c5b917ced7e0dfbf2091bf677a",
+    "time": "2024-08-07T00:34:07Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "solution"
+  },
+  {
+    "href": "https://github.com/AvitalTamir/cyphernetes",
+    "description": "GitHub - AvitalTamir/cyphernetes: Kubernetes CLI and library for complex operations using a Cypher-inspired query language",
+    "extended": "",
+    "meta": "8e2ab05b485ee7560b4145694cece2fb",
+    "hash": "e035857c05180dd5cd88054e1d7f1369",
+    "time": "2024-08-07T00:29:58Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://medium.com/@TalBeerySec/revealing-the-inner-structure-of-aws-session-tokens-a6c76469cba7",
+    "description": "Revealing the Inner Structure of AWS Session Tokens | by Tal Be'ery | Jul, 2024 | Medium",
+    "extended": "",
+    "meta": "ac00a2c65caee0c97401c80c3a0ac7c9",
+    "hash": "2e6cb7e4befc56bd9c40f2dbb6b319ec",
+    "time": "2024-08-06T01:33:17Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "security"
+  },
+  {
     "href": "https://github.com/ynqa/logu",
     "description": "GitHub - ynqa/logu: Extract patterns from (streaming) unstructured log messages",
     "extended": "",
