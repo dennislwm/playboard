@@ -1,5 +1,60 @@
 [
   {
+    "href": "https://www.budgetflow.cc/",
+    "description": "BudgetFlow - Interactive Budget Management Tool",
+    "extended": "",
+    "meta": "34197814ae02be797f367468d78d2abd",
+    "hash": "9f550716c8f7b635c044afe5b94b8162",
+    "time": "2024-08-08T00:33:16Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/paramiko/paramiko",
+    "description": "paramiko/paramiko: The leading native Python SSHv2 protocol library.",
+    "extended": "",
+    "meta": "c11dc019c026690b5b857961b01275ee",
+    "hash": "fb261c0594973b1796e02c18446f5fad",
+    "time": "2024-08-07T11:36:23Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://joelinoff.com/blog/?p=905",
+    "description": "Remote command execution in python using paramiko that supports arbitrary input – Joe's Blog",
+    "extended": "",
+    "meta": "00877c4feed7d72d584ed76eb2206e8c",
+    "hash": "8c1ec73b16dc8327d9670bf69be71856",
+    "time": "2024-08-07T11:35:58Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
+    "href": "https://www.firezone.dev/",
+    "description": "Firezone: Zero trust access that scales",
+    "extended": "",
+    "meta": "234391a19a590b663db356cd91be682f",
+    "hash": "b014f3032ea1154d025a62299280a50e",
+    "time": "2024-08-07T11:06:56Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://adamtooze.substack.com/p/chartbook-305-yen-carry-trades-and",
+    "description": "Chartbook 305 Yen carry trades and the turmoil in global fx and equity markets.",
+    "extended": "",
+    "meta": "e473df46d6c941cff7fe6c32c41f27a8",
+    "hash": "90295f69d7f7ab10deb8c60129cbbcdd",
+    "time": "2024-08-07T01:24:37Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "finance"
+  },
+  {
     "href": "https://github.com/shorepine/tulipcc",
     "description": "GitHub - shorepine/tulipcc: The Tulip Creative Computer - a portable Python synthesizer for music and graphics",
     "extended": "",
