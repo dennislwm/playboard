@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://github.com/gleich/terminal",
+    "description": "GitHub - gleich/terminal: ssh terminal.mattglei.ch",
+    "extended": "",
+    "meta": "802f8d6f1ec82843b399b24276c65e19",
+    "hash": "41cd3898ed00bb66c7ad64f4e487a5b9",
+    "time": "2024-08-09T00:37:16Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://openai.com/index/gpt-4o-system-card/",
+    "description": "GPT-4o System Card | OpenAI",
+    "extended": "",
+    "meta": "ef4f5d0be80e375ed84384cdb02262a8",
+    "hash": "b195ff1d75ce1f28075e1f2150347ed6",
+    "time": "2024-08-09T00:27:02Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://www.budgetflow.cc/",
     "description": "BudgetFlow - Interactive Budget Management Tool",
     "extended": "",
