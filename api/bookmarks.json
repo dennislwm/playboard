@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://www.reddit.com/r/selfhosted/comments/1emea7y/2024_selfhosted_services_survey_what_are_your/?share_id=9-29F-gLNQvopCCruzxvM&utm_name=androidcss",
+    "description": "2024 Self-Hosted Services Survey - What Are Your Favorites? : r/selfhosted",
+    "extended": "",
+    "meta": "839c7571c44c992536245642066a1da6",
+    "hash": "e87ccf9b799532fa46eca06705b0ea5c",
+    "time": "2024-08-12T01:21:54Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "productivity"
+  },
+  {
+    "href": "https://servermono.com/",
+    "description": "Server Mono",
+    "extended": "",
+    "meta": "5f13bb181ff827e1a2cd9394ac452eb1",
+    "hash": "2d3b98fda945901a3a34385851919f31",
+    "time": "2024-08-12T01:10:44Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/poloclub/transformer-explainer",
+    "description": "poloclub/transformer-explainer: Learn How Transformers work in Generative AI with Interactive Visualization",
+    "extended": "",
+    "meta": "6f8f4dc5d23eda1364371b0c169aefbd",
+    "hash": "21b29503583d20c2630f120e881ee678",
+    "time": "2024-08-11T03:34:32Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/junruxiong/IncarnaMind",
+    "description": "GitHub - junruxiong/IncarnaMind: Connect and chat with your multiple documents (pdf and txt) through GPT 3.5, GPT-4 Turbo, Claude and Local Open-Source LLMs",
+    "extended": "",
+    "meta": "e4bd0cd8785302fb9265d160a9ec96a4",
+    "hash": "8c8760ef1ffa9f4bbb6dd0aa4a01a81d",
+    "time": "2024-08-11T03:02:50Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/pre-commit/pre-commit-hooks",
     "description": "pre-commit/pre-commit-hooks: Some out-of-the-box hooks for pre-commit",
     "extended": "",
