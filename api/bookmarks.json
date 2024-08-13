@@ -1,5 +1,115 @@
 [
   {
+    "href": "https://alexplescan.com/posts/2024/08/10/wezterm/",
+    "description": "Okay, I really like WezTerm | Alex Plescan",
+    "extended": "",
+    "meta": "16269e3f79dc6a5a8fdb610871faf747",
+    "hash": "36b2870395588a85ac045ad6d6adc62c",
+    "time": "2024-08-13T01:11:52Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "productivity"
+  },
+  {
+    "href": "https://medium.com/@aadyamadankar1099/parler-tts-text-to-speech-technology-an-ai-engineers-perspective-13937eddda63",
+    "description": "Parler-TTS: Text-to-Speech Technology — An AI Engineer’s Perspective | by AadyaMadankar | Aug, 2024 | Medium",
+    "extended": "",
+    "meta": "0d946c7aa18959fd7006dee0c4507fc5",
+    "hash": "95dc89a322489e3d2a535963e8a3e2ed",
+    "time": "2024-08-13T01:07:34Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://docs.github.com/en/actions/sharing-automations/reusing-workflows",
+    "description": "Reusing workflows - GitHub Docs",
+    "extended": "",
+    "meta": "9ff2659aeab5efe1a76b72cea99d21c7",
+    "hash": "81b36857ff383765fa746a322ef862f9",
+    "time": "2024-08-13T01:05:31Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://planka.app/",
+    "description": "Home - Planka",
+    "extended": "",
+    "meta": "e723daa0054ece81467d23ce0a0690e6",
+    "hash": "5d877499eeda78c0471ff0a0c495a251",
+    "time": "2024-08-13T00:46:37Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/useblacksmith/remote-buildkit-terraform",
+    "description": "GitHub - useblacksmith/remote-buildkit-terraform",
+    "extended": "",
+    "meta": "83d366b014fb8a0d76acc9d4634d2e48",
+    "hash": "63b24b58d9c12c83fdc12a5fbe72e183",
+    "time": "2024-08-13T00:38:05Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://elest.io/",
+    "description": "Elestio: Fully Managed Open source",
+    "extended": "",
+    "meta": "78581088296dae10b060e46b97e06abd",
+    "hash": "faa77f656d1d9c3eff96d4f2e3aaa495",
+    "time": "2024-08-12T12:16:29Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://blog.gingerbeardman.com/2024/08/10/stapler-i-remade-a-32-year-old-classic-macintosh-app/",
+    "description": "Stapler: I remade a 32 year old classic Macintosh app  ⌘I  Get Info",
+    "extended": "",
+    "meta": "63c1c4369ddfb91924737b14ec8331f8",
+    "hash": "e03b542b5b6163d8e0ebc056c1809635",
+    "time": "2024-08-12T07:12:10Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "productivity"
+  },
+  {
+    "href": "https://www.sfwriter.com/wordstar.htm",
+    "description": "Science Fiction Writer Robert J. Sawyer: WordStar: A Writer's Word Processor",
+    "extended": "",
+    "meta": "a0c53c00de2c0d351d487372d44b3676",
+    "hash": "4f79f46ac30204ab08f5539a948751ec",
+    "time": "2024-08-12T07:07:10Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://arxiv.org/abs/2407.16741",
+    "description": "[2407.16741] OpenDevin: An Open Platform for AI Software Developers as Generalist Agents",
+    "extended": "",
+    "meta": "5f620cb6a8c4f6b0538882a2f75c9c37",
+    "hash": "1b4c705859313c5f9fbc8ad3009f7ec1",
+    "time": "2024-08-12T06:58:08Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://chromewebstore.google.com/detail/github-sage/kmkkcnnegdmcebohbinblbmdlndelida?authuser=0&hl=en&pli=1",
+    "description": "GitHub Sage - Chrome Web Store",
+    "extended": "",
+    "meta": "ecd73bef0324cf7d657707c0bdc99532",
+    "hash": "ff5b8ed9296fc4954bcf5ad90efbb8a9",
+    "time": "2024-08-12T06:47:03Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://www.reddit.com/r/selfhosted/comments/1emea7y/2024_selfhosted_services_survey_what_are_your/?share_id=9-29F-gLNQvopCCruzxvM&utm_name=androidcss",
     "description": "2024 Self-Hosted Services Survey - What Are Your Favorites? : r/selfhosted",
     "extended": "",
