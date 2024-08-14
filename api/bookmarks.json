@@ -1,5 +1,82 @@
 [
   {
+    "href": "https://simonwillison.net/2024/Aug/13/mlx-whisper/",
+    "description": "mlx-whisper",
+    "extended": "",
+    "meta": "8805fda41e0eb24ea3119bde8e69a50d",
+    "hash": "cfd849caf5c442819b51139145ce2c4a",
+    "time": "2024-08-14T00:49:12Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://ntietz.com/blog/you-should-make-a-new-terrible-programming-language/",
+    "description": "You should make a new programming language | nicole@web",
+    "extended": "",
+    "meta": "6a1f1688e779bdee39588aedd92588d1",
+    "hash": "20c8a54b8d9611ab0bca9424ec7d9c14",
+    "time": "2024-08-14T00:45:27Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://github.com/stneveadomi/grepc",
+    "description": "GitHub - stneveadomi/grepc: Grepc is an approachable regular expression highlighter with advanced customization for VS Code.",
+    "extended": "",
+    "meta": "b595392af2f267c380db9d8a991b0c54",
+    "hash": "21cc6229bb1090ae72fee3a61246fb3e",
+    "time": "2024-08-14T00:22:41Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/ArslanS1997/Auto-Analyst",
+    "description": "GitHub - ArslanS1997/Auto-Analyst",
+    "extended": "",
+    "meta": "eb975209998a50e393427bd96c2bb82b",
+    "hash": "e378365d3fec068e223b35ede2ea8615",
+    "time": "2024-08-13T01:48:25Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://docs.github.com/en/actions/sharing-automations/creating-actions/publishing-actions-in-github-marketplace",
+    "description": "Publishing actions in GitHub Marketplace - GitHub Docs",
+    "extended": "",
+    "meta": "3276f95b2f5addb876de49b277c6dbf0",
+    "hash": "4dda68f439180e4e4a1df7d906ea48c4",
+    "time": "2024-08-13T01:42:22Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/stonith404/pocket-id",
+    "description": "GitHub - stonith404/pocket-id: A simple OIDC provider that allows users to authenticate with their passkeys to your services.",
+    "extended": "",
+    "meta": "e55761d95c7ed868b73566b832c7956e",
+    "hash": "c5bfd25a4e979ff3eda9e9f39d6792ab",
+    "time": "2024-08-13T01:40:24Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/sigoden/argc",
+    "description": "GitHub - sigoden/argc: A Bash CLI framework, also a Bash command runner.",
+    "extended": "",
+    "meta": "c21926b6e812dcaa2822fa424d01b93b",
+    "hash": "1dded22756930e8c5308862747ff9312",
+    "time": "2024-08-13T01:36:07Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://alexplescan.com/posts/2024/08/10/wezterm/",
     "description": "Okay, I really like WezTerm | Alex Plescan",
     "extended": "",
