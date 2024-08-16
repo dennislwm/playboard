@@ -1,5 +1,82 @@
 [
   {
+    "href": "https://doordash.engineering/2024/08/13/doordash-engineers-with-kafka-self-serve/?lid=vjl89ui7aq2k",
+    "description": "DoorDash Empowers Engineers with Kafka Self-Serve - DoorDash Engineering Blog",
+    "extended": "",
+    "meta": "269b389e0f8be4336c97034f287fe993",
+    "hash": "ddf36b4534f0314736b4453ee4dfbb6d",
+    "time": "2024-08-16T01:12:54Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "solution"
+  },
+  {
+    "href": "https://hardcover.app/blog/how-we-survived-10k-requests-second-switching-to-signed-urls",
+    "description": "How We Survived 10k Requests a Second: Switching to Signed Asset URLs in an Emergency - Hardcover | Hardcover",
+    "extended": "",
+    "meta": "cdf3b9c4375b3670859f824ebef46a85",
+    "hash": "97d00d5b5613c919822ef65a1ff25ce4",
+    "time": "2024-08-16T00:55:43Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "solution"
+  },
+  {
+    "href": "https://github.com/OpenDevin/OpenDevin",
+    "description": "OpenDevin/OpenDevin: 🐚 OpenDevin: Code Less, Make More",
+    "extended": "",
+    "meta": "199178e32cb7f1fa454e2d4acaa9835c",
+    "hash": "395b9d640cc37aa30305a06394e0dcd0",
+    "time": "2024-08-15T13:07:27Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/encoredev/encore",
+    "description": "GitHub - encoredev/encore: The Backend Development Platform for building distributed systems with automated infrastructure.",
+    "extended": "",
+    "meta": "a1b53eda9049637daf64237c12437b52",
+    "hash": "22aca8d9372d41527ab26774798c853e",
+    "time": "2024-08-15T10:20:58Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://stackoverflow.com/questions/66239691/what-does-npm-install-legacy-peer-deps-do-exactly-when-is-it-recommended-wh",
+    "description": "javascript - What does npm install --legacy-peer-deps do exactly? When is it recommended / What's a potential use case? - Stack Overflow",
+    "extended": "",
+    "meta": "c83f228f8f43289988260d34a3130cef",
+    "hash": "3a6471fa0b262bcdfb793b308318bdf5",
+    "time": "2024-08-15T06:42:56Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "frontend"
+  },
+  {
+    "href": "https://holesail.io/",
+    "description": "Reverse tunneling software | Holesail | P2P network tunnels",
+    "extended": "",
+    "meta": "b05a9d772dc74312e802f0b10b8283bf",
+    "hash": "29dbfadaa475c019e4a70bf09cd1de54",
+    "time": "2024-08-15T02:41:11Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://dagger.io/",
+    "description": "Dagger.io",
+    "extended": "",
+    "meta": "16284876db2e86fe5101c89b4457a4e5",
+    "hash": "690bc2d128294a3852df00daabd67b3d",
+    "time": "2024-08-15T02:04:43Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://davekiss.com/blog/how-i-won-2750-using-javascript-ai-and-a-can-of-wd-40",
     "description": "How I won $2,750 using JavaScript, AI, and a can of WD-40",
     "extended": "",
@@ -8220,7 +8297,7 @@
     "href": "https://github.com/Permify/permify",
     "description": "GitHub - Permify/permify: Permify is an open-source authorization service inspired by Google Zanzibar.",
     "extended": "",
-    "meta": "9251a9230efa0bd0b5af4b1b796b35d9",
+    "meta": "f8d7c57a1d91e59fa3757ec78aea7fc6",
     "hash": "4668d2c6f3c39c986e522fef643581b2",
     "time": "2024-04-19T15:19:33Z",
     "shared": "no",
