@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://isenberg-ran.medium.com/amazon-cloudformation-custom-resources-best-practices-with-cdk-and-python-examples-f8344093bf3f",
+    "description": "Amazon CloudFormation Custom Resources Best Practices with CDK and Python Examples | by Ran Isenberg | Jun, 2024 | Medium",
+    "extended": "",
+    "meta": "81fc462b56762f5967a29a51cdb431dd",
+    "hash": "36cf9f62ea172b0efb8ae83210e4f7ee",
+    "time": "2024-08-16T01:33:30Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "aws"
+  },
+  {
     "href": "https://doordash.engineering/2024/08/13/doordash-engineers-with-kafka-self-serve/?lid=vjl89ui7aq2k",
     "description": "DoorDash Empowers Engineers with Kafka Self-Serve - DoorDash Engineering Blog",
     "extended": "",
