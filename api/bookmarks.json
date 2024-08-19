@@ -1,5 +1,60 @@
 [
   {
+    "href": "https://github.com/LyubomirT/url-slicer",
+    "description": "GitHub - LyubomirT/url-slicer: Easy-to-use lightweight web tool for shortening URLs in a modern and customizable way.",
+    "extended": "",
+    "meta": "8fe587edf9a26eb0cf38c6bb23004655",
+    "hash": "de3a040f23f5781521cd35e8cb711d1b",
+    "time": "2024-08-19T00:56:16Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/mkrd/DictDataBase",
+    "description": "GitHub - mkrd/DictDataBase: A python NoSQL dictionary database, with concurrent access and ACID compliance",
+    "extended": "",
+    "meta": "8341a038c25480aa0a05efb4de43d98d",
+    "hash": "8437d2841194faded47986bb2f49fded",
+    "time": "2024-08-19T00:54:46Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://personal.utdallas.edu/~otoole/CGS2301_S09/15_expert.pdf",
+    "description": "",
+    "extended": "",
+    "meta": "86cc6c2f74eb573ddf74cc02b9ce3f68",
+    "hash": "5cf7ddaaab7a4fc2076b0cbd2821fe20",
+    "time": "2024-08-19T00:37:30Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://github.com/janbjorge/PgQueuer",
+    "description": "GitHub - janbjorge/PgQueuer: PgQueuer is a Python library leveraging PostgreSQL for efficient job queuing.",
+    "extended": "",
+    "meta": "7e02f77c546d25d47b930ef0e8b1bd6a",
+    "hash": "89eeb73a6ece6e2fc34bea167f06f5f9",
+    "time": "2024-08-19T00:24:33Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/bilbilak/treegen",
+    "description": "GitHub - bilbilak/treegen: ASCII Tree to Directory and File Structure Generator",
+    "extended": "",
+    "meta": "7014b44f8d27412011864c029efd9fbf",
+    "hash": "c4c7bf919c39df40f3adaec21c293657",
+    "time": "2024-08-18T14:33:41Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://pyinfra.com/",
     "description": "pyinfra turns Python code into shell commands and runs them on your servers",
     "extended": "",
