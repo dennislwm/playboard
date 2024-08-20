@@ -1,5 +1,93 @@
 [
   {
+    "href": "https://lowendbox.com/blog/serverhost-secure-6gb-ram-linux-vps-for-just-3-50-month/",
+    "description": "ServerHost: Secure 6GB RAM Linux VPS for Just $3.50/Month! - LowEndBox",
+    "extended": "",
+    "meta": "676421a10efff5f4bfe7a02b121ccb55",
+    "hash": "525832b3eeac251d682752c9e1536d4a",
+    "time": "2024-08-20T00:59:31Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://webagencyhero.com/cloudflare-waf-rules-v3/",
+    "description": "Best Cloudflare WAF Rules V3 - Web Agency Hero",
+    "extended": "",
+    "meta": "9fed517f8a283f96fe2374e8ae7f5092",
+    "hash": "1403ce176108725c94ff5f8ab800f2bd",
+    "time": "2024-08-20T00:57:33Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "security"
+  },
+  {
+    "href": "https://www.theverge.com/24221978/github-thomas-dohmke-ai-copilot-microsoft-openai-open-source",
+    "description": "GitHub CEO Thomas Dohmke: AI needs competition, open source to thrive - The Verge",
+    "extended": "",
+    "meta": "5973f20bd710b950c60f882c8945d0e9",
+    "hash": "ececaf02ffdd649b4de8e911dde901a4",
+    "time": "2024-08-20T00:50:59Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://github.com/wasi-master/13ft",
+    "description": "GitHub - wasi-master/13ft: My own custom 12ft.io replacement",
+    "extended": "",
+    "meta": "2c33103781c14e1aa8af6681c013ad7f",
+    "hash": "39479b3db9b690b6c3bf53cc1c51fe06",
+    "time": "2024-08-20T00:47:05Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://12ft.io/",
+    "description": "12ft",
+    "extended": "",
+    "meta": "05e34d6c049ddd2b7012d9ee47fdc855",
+    "hash": "df2d23b9fe711a4665a53072034a314c",
+    "time": "2024-08-20T00:46:10Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://netboot.xyz/",
+    "description": "Your favorite operating systems in one place! | netboot.xyz",
+    "extended": "",
+    "meta": "1a21524832e6429b89b066ecda5a1cbb",
+    "hash": "a7416a51d87512ec0f0e12bb385aee70",
+    "time": "2024-08-20T00:42:42Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://andadinosaur.com/launch-imgpls",
+    "description": "Launch: Imgpls - And a Dinosaur",
+    "extended": "",
+    "meta": "ba244986cedb2e12193793bf05a26ecf",
+    "hash": "b43fe58c7616eeee563ccf498631d351",
+    "time": "2024-08-20T00:38:24Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://www.matthewball.co/all/roblox2024",
+    "description": "Roblox is Already the Biggest Game In The World. Why Can't It Make a Profit (And How Can It)? — MatthewBall.co",
+    "extended": "",
+    "meta": "588481c9aec98f462195f2ee273e3036",
+    "hash": "708e890c6916dc38f40dd673f7233dd2",
+    "time": "2024-08-19T10:15:13Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "finance"
+  },
+  {
     "href": "https://github.com/LyubomirT/url-slicer",
     "description": "GitHub - LyubomirT/url-slicer: Easy-to-use lightweight web tool for shortening URLs in a modern and customizable way.",
     "extended": "",
