@@ -1,5 +1,71 @@
 [
   {
+    "href": "https://kasmweb.com/community-edition",
+    "description": "Community Edition | Kasm Workspaces",
+    "extended": "",
+    "meta": "34c1acbb62957d52bb37150e4e454bd5",
+    "hash": "1066497707debe57ed4647b674d11eed",
+    "time": "2024-08-22T01:08:04Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://pillser.com/ask",
+    "description": "Personalized Supplement Advice using AI - Supplement Research & Comparison | Pillser",
+    "extended": "",
+    "meta": "2a5dff5db4523d65a0879b53935b5e66",
+    "hash": "9bcaa698b01edc1092afef028488ca93",
+    "time": "2024-08-22T01:05:03Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "http://muratbuffalo.blogspot.com/2024/08/making-database-systems-usable.html",
+    "description": "Making database systems usable",
+    "extended": "",
+    "meta": "3f1165f2b713111122de4247e42df038",
+    "hash": "fe85d0769e916d8b2d7581991127ce0e",
+    "time": "2024-08-21T01:52:30Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "dbsql"
+  },
+  {
+    "href": "https://simonwillison.net/2024/Aug/21/usrbinenv-uv-run/",
+    "description": "#!/usr/bin/env uv run",
+    "extended": "",
+    "meta": "35357d850e1ba7cf51815f0a79cb8def",
+    "hash": "c3b9e80b5fa1100aa8edf60683c0da18",
+    "time": "2024-08-21T01:47:40Z",
+    "shared": "no",
+    "toread": "yes",
+    "tags": "python"
+  },
+  {
+    "href": "https://astral.sh/blog/uv-unified-python-packaging",
+    "description": "uv: Unified Python packaging",
+    "extended": "",
+    "meta": "597e0017b2f4458a1856b146c7d1da38",
+    "hash": "1b927dfbdee1740c4e582081f4ad6671",
+    "time": "2024-08-21T01:43:58Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
+    "href": "https://blog.jez.io/bugsquash/",
+    "description": "An underrated software engineering interview question – Jake Zimmerman",
+    "extended": "",
+    "meta": "14687c95421ba6e6b03e82e158906ba9",
+    "hash": "e532cdab259d65856edf4e2cce5b9d82",
+    "time": "2024-08-21T01:39:35Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
     "href": "https://github.com/JUSTSUJAY/ML-Research-Papers",
     "description": "GitHub - JUSTSUJAY/ML-Research-Papers",
     "extended": "",
