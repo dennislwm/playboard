@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://github.com/beac0n/ruroco",
+    "description": "GitHub - beac0n/ruroco: Ruroco is a tool that lets you execute commands on a server by sending UDP packets. The commands are configured on the server side, so the client does not define what is going to be executed, it only picks from existing commands.",
+    "extended": "",
+    "meta": "141c7fed2e7404d7c6ea469fe15386ea",
+    "hash": "565e0360365fcee8514bc29c3a409168",
+    "time": "2024-08-24T02:15:12Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://paisa.fyi/",
+    "description": "Paisa",
+    "extended": "",
+    "meta": "842ba4efc4c9e472128ebdcde7d6b2f1",
+    "hash": "20e10215036861f79a77eb026e30be4e",
+    "time": "2024-08-24T02:08:23Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://app.moonglow.ai/hn-launch",
+    "description": "Moonglow",
+    "extended": "",
+    "meta": "f86aadcc82918e7f4f7310cff31f8590",
+    "hash": "5cb28305f04176bb2c9357ce2b1cf5f6",
+    "time": "2024-08-24T02:00:37Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/caronc/apprise",
     "description": "caronc/apprise: Apprise - Push Notifications that work with just about every platform!",
     "extended": "",
