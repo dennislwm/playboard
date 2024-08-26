@@ -1,5 +1,115 @@
 [
   {
+    "href": "https://coolify.io/",
+    "description": "Coolify",
+    "extended": "",
+    "meta": "5580c01b2504aafbc4b5df0189035280",
+    "hash": "6ffd6f4252ba9b842dee576a6b08c618",
+    "time": "2024-08-26T01:09:41Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://pythontest.com/pytest/finding-top-pytest-plugins/",
+    "description": "Finding the top pytest plugins | PythonTest",
+    "extended": "",
+    "meta": "52bd719e67f869db8e9b527c85468b76",
+    "hash": "324d6241140c965a56046a50c7f6ecdd",
+    "time": "2024-08-26T00:53:18Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
+    "href": "https://simonroses.com/2023/12/modern-wardriving/",
+    "description": "Modern Wardriving | Simon Roses Femerling – Blog",
+    "extended": "",
+    "meta": "c0ac11d1866e11bce33455d32cf3b099",
+    "hash": "b501734be8275a547de1f931327233a6",
+    "time": "2024-08-26T00:50:56Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "security"
+  },
+  {
+    "href": "https://kevincox.ca/2024/08/24/cors/",
+    "description": "CORS is Stupid - Kevin Cox",
+    "extended": "",
+    "meta": "2b516d2e5d4791249e29819dfc766dc2",
+    "hash": "1324c7c17f332be86b530c00531dbeb4",
+    "time": "2024-08-25T04:48:38Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "security"
+  },
+  {
+    "href": "https://www.cerbos.dev/product-cerbos-hub",
+    "description": "Cerbos Hub: Authorization management system for authoring, testing and deploying policy | Cerbos",
+    "extended": "",
+    "meta": "76fba8cbcf9a8b583862fe96dfea640d",
+    "hash": "f567e74feaf038593cb53459590a8f89",
+    "time": "2024-08-25T04:10:13Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/feder-cr/linkedIn_auto_jobs_applier_with_AI",
+    "description": "GitHub - feder-cr/linkedIn_auto_jobs_applier_with_AI: LinkedIn_AIHawk is a tool that automates the jobs application process on LinkedIn. Utilizing artificial intelligence, it enables users to apply for multiple job offers in an automated and personalized ",
+    "extended": "",
+    "meta": "98beac10f3d4fa762199dcd5201d5554",
+    "hash": "d70fb9744415ae1a6888915c39e961de",
+    "time": "2024-08-25T04:08:14Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://blog.val.town/blog/codegen/",
+    "description": "How we built Townie – an app that generates fullstack apps",
+    "extended": "",
+    "meta": "8c50456b747dda5118eed8b4e07d7700",
+    "hash": "ce0a7e6d7625411dd2736b538b5b8c94",
+    "time": "2024-08-25T03:58:24Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://numer.ai/",
+    "description": "Numerai",
+    "extended": "",
+    "meta": "d778b4350ce5636a9d44957f2319b3ee",
+    "hash": "8a738ff8cbc9ea8cfa6e54b3a46971bf",
+    "time": "2024-08-25T03:19:47Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "finance"
+  },
+  {
+    "href": "https://rosszurowski.com/log/2022/makefiles",
+    "description": "Makefiles for Web Work – Ross Zurowski",
+    "extended": "",
+    "meta": "b59d34b51a5998b93700da7b622f5ffb",
+    "hash": "6d50b521c5ac4142b260e58be6ee169a",
+    "time": "2024-08-25T03:17:44Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "productivity"
+  },
+  {
+    "href": "https://github.com/chartdb/chartdb",
+    "description": "GitHub - chartdb/chartdb: Free and Open-source database diagrams editor, visualize and design your DB with a single query.",
+    "extended": "",
+    "meta": "24180f9d451d20631c9f9742f2d3049b",
+    "hash": "19f36d9b5fc35b8cdec413449b001163",
+    "time": "2024-08-25T01:45:39Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/beac0n/ruroco",
     "description": "GitHub - beac0n/ruroco: Ruroco is a tool that lets you execute commands on a server by sending UDP packets. The commands are configured on the server side, so the client does not define what is going to be executed, it only picks from existing commands.",
     "extended": "",
