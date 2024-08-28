@@ -1,5 +1,104 @@
 [
   {
+    "href": "https://www.researchgate.net/publication/383034912_The_Changing_Nature_of_Writing_Centers_in_the_Era_of_ChatGPT",
+    "description": "(PDF) The Changing Nature of Writing Centers in the Era of ChatGPT",
+    "extended": "",
+    "meta": "5e4448d3e4045b98d4d7d3e8e1c218bb",
+    "hash": "751100ed8b3c5c3569a142fd7906d702",
+    "time": "2024-08-28T01:13:34Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://lucumr.pocoo.org/2024/8/27/minijinja/",
+    "description": "MiniJinja: Learnings from Building a Template Engine in Rust | Armin Ronacher's Thoughts and Writings",
+    "extended": "",
+    "meta": "c3039d8fcf6db658f6c0148e580f3db3",
+    "hash": "09f890d61974f08399c6f646aaf65994",
+    "time": "2024-08-28T00:58:32Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "solution"
+  },
+  {
+    "href": "https://aws.amazon.com/blogs/ibm-redhat/installing-red-hat-openshift-on-aws-in-a-restricted-network-using-aws-secure-token-service/",
+    "description": "Installing Red Hat OpenShift on AWS in a restricted network using AWS Secure Token Service | IBM & Red Hat on AWS",
+    "extended": "",
+    "meta": "50a80951cca4abd6e1f3cc61685b6cab",
+    "hash": "b032f0693530ea77a141c00c254567db",
+    "time": "2024-08-27T12:31:50Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "aws"
+  },
+  {
+    "href": "https://github.com/microsoft/generative-ai-for-beginners",
+    "description": "microsoft/generative-ai-for-beginners: 18 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/",
+    "extended": "",
+    "meta": "00404312062adf61608c7493fedd9e4c",
+    "hash": "4e308eb7afe62c727c4399ced01ba5fb",
+    "time": "2024-08-27T12:17:58Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://martinheinz.dev/blog/78",
+    "description": "Recipes and Tricks for Effective Structural Pattern Matching in Python | Martin Heinz | Personal Website & Blog",
+    "extended": "",
+    "meta": "51a5db1290bcb45099b492871773773c",
+    "hash": "bbfd7284448a49cac3d2def22cc95914",
+    "time": "2024-08-27T12:07:14Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
+    "href": "https://www.kitchensoap.com/2015/06/16/some-principles-of-human-centered-computing/",
+    "description": "Kitchen Soap – Some Principles of Human-Centered Computing",
+    "extended": "",
+    "meta": "e66f5d24f10c3d9fa5038024a3328bda",
+    "hash": "1feb08df12dd40d4f464fc73919671cf",
+    "time": "2024-08-27T11:26:41Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://kubek.seeeroy.ru/en",
+    "description": "Kubek",
+    "extended": "",
+    "meta": "fd99c4577baeedd9df06975acc9081ae",
+    "hash": "8004016171e21a039b4b2fa1020d3ef0",
+    "time": "2024-08-27T07:23:19Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://manticoresearch.com/blog/github-semantic-search/",
+    "description": "Semantic Search On GitHub (prototype)",
+    "extended": "",
+    "meta": "c7e3f2b30821d8ff0f479bf012553c99",
+    "hash": "e758be335b2953e1747a0e94e4e0b6d1",
+    "time": "2024-08-27T06:20:39Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/pymupdf/RAG",
+    "description": "GitHub - pymupdf/RAG: RAG (Retrieval-Augmented Generation) Chatbot Examples Using PyMuPDF",
+    "extended": "",
+    "meta": "0812218e926756e4f87205e48b35b73e",
+    "hash": "0882b451922e2aebdb366b6c894ecdd4",
+    "time": "2024-08-27T06:16:14Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/hotnops/apeman",
     "description": "hotnops/apeman: AWS Attack Path Management Tool - Walking on the Moon",
     "extended": "",
@@ -12950,7 +13049,7 @@
     "href": "https://github.com/comfyanonymous/ComfyUI",
     "description": "comfyanonymous/ComfyUI: The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.",
     "extended": "",
-    "meta": "bab3ae836b5ddfb80484e090e566ae37",
+    "meta": "7a1486efc271c00cabd01be3423da68a",
     "hash": "a57008edf30af53a1a523e87f0945b0b",
     "time": "2024-01-08T06:45:11Z",
     "shared": "no",
