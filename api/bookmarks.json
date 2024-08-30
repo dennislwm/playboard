@@ -1,5 +1,60 @@
 [
   {
+    "href": "https://stefaniemolin.com/articles/devx/pre-commit/behind-the-scenes/",
+    "description": "How Pre-Commit Works | Stefanie Molin",
+    "extended": "",
+    "meta": "381077c7693ac427fa77b4c04bbaaeee",
+    "hash": "612c457f35507e59a7eb169844f3c6e3",
+    "time": "2024-08-29T07:52:59Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "productivity"
+  },
+  {
+    "href": "https://verifa.io/blog/how-to-secure-terraform-trivy/",
+    "description": "How to secure Terraform code with Trivy",
+    "extended": "",
+    "meta": "2ebdf10ca136e12a8f98a1a5da0d0e5c",
+    "hash": "66fb9de3bd9b870c063fa9f0bd46cf61",
+    "time": "2024-08-29T07:49:21Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "security"
+  },
+  {
+    "href": "https://github.com/ashishb/wp2hugo",
+    "description": "ashishb/wp2hugo: The best WordPress to Hugo migrator (written in Go)",
+    "extended": "",
+    "meta": "363ca5198ec5370acb16e99e54cc64f7",
+    "hash": "26374da906fc0dc79337466ba976166a",
+    "time": "2024-08-29T01:49:30Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/sjpiper145/MakerSkillTree",
+    "description": "sjpiper145/MakerSkillTree: A repository of Maker Skill Trees and templates to make your own.",
+    "extended": "",
+    "meta": "4ff8c76af2817a16a660a9d644678b32",
+    "hash": "31a7b6ca60bdf831c946d1c65d3aa97f",
+    "time": "2024-08-29T01:46:26Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/getomni-ai/datasets/blob/main/hn_projects.md",
+    "description": "datasets/hn_projects.md at main · getomni-ai/datasets",
+    "extended": "",
+    "meta": "61b00d052d4d2e90e6127179b2fa022c",
+    "hash": "5e3e7100e1c65ee5f6936f96b269fe9d",
+    "time": "2024-08-29T01:44:02Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://pdftranslate.ai/blog/stackoverflow-fall",
     "description": "The Fall of StackOverflow: A Data-Driven Analysis",
     "extended": "",
