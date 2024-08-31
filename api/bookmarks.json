@@ -1,5 +1,60 @@
 [
   {
+    "href": "https://apnews.com/article/how-spotify-payments-work-92fca085fb56b763de5a96913d77fc1c",
+    "description": "You use Spotify to listen to music. Here’s how money from ads and subscription fees flows to artists | AP News",
+    "extended": "",
+    "meta": "a4cb0f549dd820aedf16bca0118abc60",
+    "hash": "692488bb62ab96da93f4e18ed50d6ab5",
+    "time": "2024-08-31T01:21:34Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "finance"
+  },
+  {
+    "href": "https://github.com/reubenjds/Terraform-Associate-Notes",
+    "description": "GitHub - reubenjds/Terraform-Associate-Notes: 🚀HashiCorp Certified: Terraform Associate (003) Notes 📚",
+    "extended": "",
+    "meta": "b65dcfa85720da2f4223a6b9828f9579",
+    "hash": "2c5d115e3946df3dc2dfa5beca0ac86e",
+    "time": "2024-08-31T01:17:09Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://martinheinz.dev/blog/17",
+    "description": "Automating Every Aspect of Your Python Project | Martin Heinz | Personal Website & Blog",
+    "extended": "",
+    "meta": "ed36760b7ef4788e850b6d763976a0b7",
+    "hash": "1620ac86449a6c3f0967c63a399b4649",
+    "time": "2024-08-30T11:49:15Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
+    "href": "https://rattvisan.blog/2024/07/28/yes-i-was-poisoned-by-my-wife-a-software-engineer-of-top3-us-company/",
+    "description": "Strange Blood Disorder: Unveiling the Mystery of My Poisoning in Sweden – Beyond the Silence",
+    "extended": "",
+    "meta": "7c0dad865f200f3c480588bc447996ac",
+    "hash": "dfaee97d84b9cbace84b9333ac814884",
+    "time": "2024-08-30T11:32:19Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "health"
+  },
+  {
+    "href": "https://github.com/slatedocs/slate",
+    "description": "slatedocs/slate: Beautiful static documentation for your API",
+    "extended": "",
+    "meta": "b56e222ad081ea4b103e651e1ecbb7a3",
+    "hash": "55737739cd9f622b9511c916f11f34d9",
+    "time": "2024-08-30T02:08:30Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://stefaniemolin.com/articles/devx/pre-commit/behind-the-scenes/",
     "description": "How Pre-Commit Works | Stefanie Molin",
     "extended": "",
