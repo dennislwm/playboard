@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://github.com/TimWitzdam/GitSave",
+    "description": "TimWitzdam/GitSave: GitSave is a self-hosted and open-source application that backs up your Git repositories.",
+    "extended": "",
+    "meta": "08527ad31d2c3524bd9475c342391e0d",
+    "hash": "9c1dccc51d2914b1e506cf1f3530bc7c",
+    "time": "2024-08-31T11:01:21Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://fcast.org/",
+    "description": "FCast",
+    "extended": "",
+    "meta": "a23be51ba5da9417d9c4d7461658de28",
+    "hash": "0d12ed600d38b2045eef8ec5dde3fef9",
+    "time": "2024-08-31T09:23:17Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/Cinnamon/kotaemon",
+    "description": "Cinnamon/kotaemon: An open-source RAG-based tool for chatting with your documents.",
+    "extended": "",
+    "meta": "d974b550b4823035b07d917b6a8b9d6f",
+    "hash": "539aab5700c725860dd692aae4aac12d",
+    "time": "2024-08-31T09:19:17Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/gitroomhq/postiz-app",
     "description": "GitHub - gitroomhq/postiz-app: 📨 Schedule social posts, measure them, exchange with other members and get a lot of help from AI 🚀",
     "extended": "",
