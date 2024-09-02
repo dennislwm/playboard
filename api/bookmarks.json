@@ -1,5 +1,93 @@
 [
   {
+    "href": "https://netflixtechblog.com/recommending-for-long-term-member-satisfaction-at-netflix-ac15cada49ef",
+    "description": "Recommending for Long-Term Member Satisfaction at Netflix | by Netflix Technology Blog | Aug, 2024 | Netflix TechBlog",
+    "extended": "",
+    "meta": "2fd6a1cccbb479f06851190422b84b31",
+    "hash": "bcc8052d3c58e0ea85602162c404aa8a",
+    "time": "2024-09-02T00:54:27Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "solution"
+  },
+  {
+    "href": "https://github.com/3urobeat/git-anon",
+    "description": "GitHub - 3urobeat/git-anon: 📊 Track personal commit statistics at work without sharing any company code!",
+    "extended": "",
+    "meta": "b39a711c58e0f7e6e9bea399f781dcd1",
+    "hash": "b25cabc695d37e0f6801aad496a35aad",
+    "time": "2024-09-02T00:39:13Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://registry.terraform.io/providers/bpg/proxmox/latest/docs",
+    "description": "Docs overview | bpg/proxmox | Terraform | Terraform Registry",
+    "extended": "",
+    "meta": "b6c18017a407c00a5e9d722683a17c68",
+    "hash": "777625dcb12f5a3ec1a73311148a78c8",
+    "time": "2024-09-01T08:54:15Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/need4swede/Portall",
+    "description": "need4swede/Portall: Port Management Interface",
+    "extended": "",
+    "meta": "3aa1523a041a7635851363a96bab25bd",
+    "hash": "11ef0818a7db883eef949aeb4eb560e1",
+    "time": "2024-09-01T08:48:57Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://blog.sbensu.com/posts/friction-logs/",
+    "description": "sbensu: How to: friction logs",
+    "extended": "Send to the responsible team",
+    "meta": "4336ef807e8b3eff170d791978bd799d",
+    "hash": "1e89823f39394e04e289ddb652678ad8",
+    "time": "2024-09-01T04:25:16Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://keystatic.com/",
+    "description": "Keystatic",
+    "extended": "",
+    "meta": "d1339978774367b0c8c5b41cdbb3b230",
+    "hash": "c57c5e62647e8f5b02d62d07cafc2e7a",
+    "time": "2024-09-01T04:03:01Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/C4illin/ConvertX",
+    "description": "GitHub - C4illin/ConvertX: 💾 Self-hosted online file converter. Supports 800+ formats",
+    "extended": "",
+    "meta": "2671f6e786ffe3a8fa5536b9cce66e07",
+    "hash": "da538f178e1c0a5f795547f11f62a055",
+    "time": "2024-09-01T02:30:53Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://dev.to/maxim_radugin/deploying-hugo-from-self-hosted-gitlab-to-cloudflare-pages-4nnc",
+    "description": "Deploying Hugo from Self-Hosted GitLab to Cloudflare Pages - DEV Community",
+    "extended": "",
+    "meta": "f75328484620fc5c01fc15de3f1a1bb3",
+    "hash": "af9ef867c07af8fd6ec14f6fca712a1f",
+    "time": "2024-09-01T02:19:16Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
     "href": "https://github.com/TimWitzdam/GitSave",
     "description": "TimWitzdam/GitSave: GitSave is a self-hosted and open-source application that backs up your Git repositories.",
     "extended": "",
@@ -36,7 +124,7 @@
     "href": "https://github.com/gitroomhq/postiz-app",
     "description": "GitHub - gitroomhq/postiz-app: 📨 Schedule social posts, measure them, exchange with other members and get a lot of help from AI 🚀",
     "extended": "",
-    "meta": "6aaa93cd5dbe442ef22ab31f8520219e",
+    "meta": "1e9041e1e6fb2e46e090cc8bbf6d5be6",
     "hash": "e754f5408d4d5f8ff08cd7594361165d",
     "time": "2024-08-31T01:26:45Z",
     "shared": "no",
