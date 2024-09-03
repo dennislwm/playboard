@@ -1,5 +1,93 @@
 [
   {
+    "href": "https://medium.com/keycloak/securing-fastapi-with-keycloak-b021190a985d",
+    "description": "Securing FastAPI with Keycloak. FastAPI is known for its performance… | by Abhishek koserwal | Keycloak | Aug, 2024 | Medium",
+    "extended": "",
+    "meta": "8bbb1b53af6fc63a7bfec9a0cfa94162",
+    "hash": "d35115413624d13c66a0554794a1bfbe",
+    "time": "2024-09-03T00:54:38Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "security"
+  },
+  {
+    "href": "https://hynek.me/articles/docker-virtualenv/",
+    "description": "Why I Still Use Python Virtual Environments in Docker",
+    "extended": "",
+    "meta": "52b62989deb66cc6b810320bc66ad38b",
+    "hash": "09de839dee249b3a9635a6083da4dc65",
+    "time": "2024-09-03T00:49:55Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
+    "href": "https://textual.textualize.io/blog/2024/09/15/anatomy-of-a-textual-user-interface/",
+    "description": "Anatomy of a Textual User Interface - Textual",
+    "extended": "",
+    "meta": "7697595666431552efd152d3fde0b198",
+    "hash": "58d73fe909867a9125a674bc24dbceaf",
+    "time": "2024-09-03T00:42:14Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
+    "href": "https://hynek.me/articles/docker-uv/",
+    "description": "Production-ready Docker Containers with uv",
+    "extended": "",
+    "meta": "8a1b3b2664f9ef7133bc0607c8b59f0a",
+    "hash": "68bc319f77d94e860d88dab616e8da50",
+    "time": "2024-09-03T00:20:37Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
+    "href": "https://github.com/nocobase/nocobase",
+    "description": "nocobase/nocobase: NocoBase is a scalability-first, open-source no-code/low-code platform for building business applications and enterprise solutions.",
+    "extended": "",
+    "meta": "a9847616de65fcbdc904a07bd5cc067b",
+    "hash": "16cc8f4fa49cfbbfa75149885c829b1e",
+    "time": "2024-09-02T14:44:05Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://orbstack.dev/download",
+    "description": "Download OrbStack · Fast, light, simple Docker Desktop alternative",
+    "extended": "",
+    "meta": "971604f5d1cd142c96446d6c12aa8273",
+    "hash": "e49462b3f8155b86e85048582d133c7c",
+    "time": "2024-09-02T10:01:33Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/kubero-dev/kubero",
+    "description": "GitHub - kubero-dev/kubero: A free and self-hosted Heroku / Netlify / Vercel alternative for Kubernetes",
+    "extended": "",
+    "meta": "a169ca1feb6f3eec27182325d3bba220",
+    "hash": "745c72ac8aa3ae653e6d808cf3f41bb6",
+    "time": "2024-09-02T09:59:01Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://lethain.com/when-write-down-engineering-strategy/?_bhlid=8c842d0d2dd2d53172c446a40f35ca6e8e49e421",
+    "description": "When to write strategy, and how much? | Irrational Exuberance",
+    "extended": "",
+    "meta": "89884e12dc90cb59a0a89f6957aee2df",
+    "hash": "fe9071ea139f47e9b6ad8880b51db0ed",
+    "time": "2024-09-02T01:34:31Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
     "href": "https://netflixtechblog.com/recommending-for-long-term-member-satisfaction-at-netflix-ac15cada49ef",
     "description": "Recommending for Long-Term Member Satisfaction at Netflix | by Netflix Technology Blog | Aug, 2024 | Netflix TechBlog",
     "extended": "",
