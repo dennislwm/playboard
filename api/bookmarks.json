@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://unix.foo/posts/insecurity-of-debian/",
+    "description": "The Insecurity of Debian - unix.foo",
+    "extended": "",
+    "meta": "2ffc36bd6877e324bd9966cc6018556b",
+    "hash": "93ec2e62c2ea0a64712a8c99e4c1ee0f",
+    "time": "2024-09-05T01:10:21Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "security"
+  },
+  {
     "href": "https://simonwillison.net/2024/Sep/3/anjor/",
     "description": "A quote from anjor",
     "extended": "",
