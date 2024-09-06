@@ -1,5 +1,104 @@
 [
   {
+    "href": "https://github.com/Mintplex-Labs/anything-llm",
+    "description": "GitHub - Mintplex-Labs/anything-llm: The all-in-one Desktop & Docker AI application with full RAG and AI Agent capabilities.",
+    "extended": "",
+    "meta": "754ef0bc57708b557998be71bbe76d3c",
+    "hash": "890b45b55993c24cfd7a662bea41e6cf",
+    "time": "2024-09-06T01:16:31Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://stack-auth.com/blog/oauth-from-first-principles",
+    "description": "OAuth from First Principles - Stack Auth",
+    "extended": "",
+    "meta": "af95faffaeb35d5050c1c36a0ab66e46",
+    "hash": "37370cb36faa384d7a6e891539a48708",
+    "time": "2024-09-06T01:08:44Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "security"
+  },
+  {
+    "href": "https://github.com/daytonaio/daytona",
+    "description": "daytonaio/daytona: The Open Source Dev Environment Manager.",
+    "extended": "",
+    "meta": "ddf3432a3d3f8f85394a997ee5b3948d",
+    "hash": "6a1d7603428707bf4fabbd40323f94ec",
+    "time": "2024-09-05T13:57:21Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://martinfowler.com/articles/fitness-functions-data-products.html",
+    "description": "Governing data products using fitness functions",
+    "extended": "",
+    "meta": "a41a8bca93eb37c53bef869a7e71a323",
+    "hash": "5580aaa7e82097a0e5576994718ba824",
+    "time": "2024-09-05T13:44:43Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://github.com/01-ai/Yi-Coder",
+    "description": "01-ai/Yi-Coder: 🌟 Yi-Coder is a series of open-source code language models that delivers state-of-the-art coding performance with fewer than 10 billion parameters.",
+    "extended": "",
+    "meta": "050dc33cce6ac87802ff0059fcd92baa",
+    "hash": "2015ef5bebb4a4808f89d7a8f5b72683",
+    "time": "2024-09-05T11:52:09Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/lycheeverse/lychee",
+    "description": "lycheeverse/lychee: ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!",
+    "extended": "",
+    "meta": "af32f28d5b536e542b4df9061e8f7d4e",
+    "hash": "62f182ea63c2b285d0ea9e9a82e6e8a4",
+    "time": "2024-09-05T11:36:07Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://medium.com/wise-engineering/meaningful-availability-uptime-of-wise-b1439ddc6270",
+    "description": "Meaningful availability and uptime of Wise | Wise Engineering",
+    "extended": "",
+    "meta": "4efb6a1d53ae821f89f360dce4c05477",
+    "hash": "fd2543c9eab917c99dded8d260b75ef9",
+    "time": "2024-09-05T05:37:22Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "sre"
+  },
+  {
+    "href": "https://github.com/team-watchdog/colombo-skylines",
+    "description": "GitHub - team-watchdog/colombo-skylines: A digital twin of the city of Colombo, Sri Lanka, implemented in Cities: Skylines, based on real data. Nearly 1:1 in terms of geography and population.",
+    "extended": "",
+    "meta": "9e20e154726252fc5c2bfb523c684c67",
+    "hash": "b00500fe899f36f0e902ea66c92070a1",
+    "time": "2024-09-05T02:09:44Z",
+    "shared": "no",
+    "toread": "yes",
+    "tags": "github"
+  },
+  {
+    "href": "https://fetchfoxai.com/",
+    "description": "Scrape anything with AI - FetchFox",
+    "extended": "",
+    "meta": "a60730e0d64150e14269aae3536eaf16",
+    "hash": "f51357b7c1ef7c1039b4116e1c21b3cd",
+    "time": "2024-09-05T02:03:41Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://unix.foo/posts/insecurity-of-debian/",
     "description": "The Insecurity of Debian - unix.foo",
     "extended": "",
@@ -9738,7 +9837,7 @@
     "href": "https://www.massdriver.cloud/blogs/generating-infrastructure-as-code-from-existing-cloud-resources",
     "description": "Generating Infrastructure-as-Code From Existing Cloud Resources | Massdriver Blog",
     "extended": "",
-    "meta": "5c4f5a3008724bb319f7aa96ee79202f",
+    "meta": "993c24c4c73c45efc9cda768b512ebb2",
     "hash": "d07fef142b3dcede4ddb5a0516f446dd",
     "time": "2024-04-18T00:54:11Z",
     "shared": "no",
