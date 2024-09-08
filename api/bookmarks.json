@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://retcon.app/",
+    "description": "Retcon — Effortlessly rewrite Git history",
+    "extended": "",
+    "meta": "10631946cf7979620c3aa2299a88c5a2",
+    "hash": "8efd296d85a76628f04a965a15ba4d60",
+    "time": "2024-09-07T11:21:39Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://kalmia.difuse.io/doc/",
+    "description": "Kalmia",
+    "extended": "",
+    "meta": "ef8509ca59c22a1a0a344afef3f54e95",
+    "hash": "c44e07758745f8ba9549000e00c7df9d",
+    "time": "2024-09-07T01:32:46Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://wealthfolio.app/",
+    "description": "Wealthfolio | Desktop Investment Tracker",
+    "extended": "",
+    "meta": "741ecc8654f8c4069517fef3855e3c77",
+    "hash": "b08817481ddee23128959fbedb9f3a87",
+    "time": "2024-09-07T01:31:37Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/Mintplex-Labs/anything-llm",
     "description": "GitHub - Mintplex-Labs/anything-llm: The all-in-one Desktop & Docker AI application with full RAG and AI Agent capabilities.",
     "extended": "",
