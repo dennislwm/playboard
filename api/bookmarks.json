@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://yorickpeterse.com/articles/a-decade-of-developing-a-programming-language/",
+    "description": "A decade of developing a programming language",
+    "extended": "Crafting Interpreters",
+    "meta": "00ed4efe5679f3d8768adea111434713",
+    "hash": "53eeda5a81419f4db740bde6746a6a27",
+    "time": "2024-09-08T03:14:31Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://github.com/cloudscape-design/components",
+    "description": "GitHub - cloudscape-design/components: React components for Cloudscape Design System",
+    "extended": "",
+    "meta": "c87ed12b090ddfcc82cded978240b803",
+    "hash": "806f0437e6bf48c5a7ae6379de13e316",
+    "time": "2024-09-08T02:07:53Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://purplesyringa.moe/blog/webp-the-webpage-compression-format/",
+    "description": "WebP: The WebPage compression format | purplesyringa's blog",
+    "extended": "",
+    "meta": "251d8eeb2266b8bc5925b54adf4491a1",
+    "hash": "2568528bf46716a1c174bf25e961d6e8",
+    "time": "2024-09-08T01:59:00Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "solution"
+  },
+  {
     "href": "https://retcon.app/",
     "description": "Retcon — Effortlessly rewrite Git history",
     "extended": "",
