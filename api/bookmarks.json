@@ -1,5 +1,71 @@
 [
   {
+    "href": "https://github.com/RafalWilinski/cloudflare-rag",
+    "description": "GitHub - RafalWilinski/cloudflare-rag: Fullstack \"Chat with your PDFs\" RAG (Retrieval Augmented Generation) app built fully on Cloudflare",
+    "extended": "",
+    "meta": "a856766d73d3e29dde40ba96bd557b49",
+    "hash": "fc316dcda273f99c2a85ca1e9b1d4b7b",
+    "time": "2024-09-10T01:25:07Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/danny-avila/LibreChat",
+    "description": "danny-avila/LibreChat: Enhanced ChatGPT Clone: Features Anthropic, OpenAI, Assistants API, Azure, Groq, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, ",
+    "extended": "",
+    "meta": "2746a07a072d7a2886c392b3a7c62303",
+    "hash": "2d6bfe572fce3baff582fcdacddd233f",
+    "time": "2024-09-10T00:49:44Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://planetscale.com/blog/btrees-and-database-indexes",
+    "description": "B-trees and database indexes",
+    "extended": "",
+    "meta": "7653ba3e4e17e5bddfa52d98f7fd3e55",
+    "hash": "517dac684c40724e5ee37a2b1c794962",
+    "time": "2024-09-10T00:41:31Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "solution"
+  },
+  {
+    "href": "https://reclaim-the-stack.com/",
+    "description": "Reclaim the Stack Documentation",
+    "extended": "",
+    "meta": "25f6d5d8185c32a92cff64d81628b067",
+    "hash": "81f2c74cd628954cd37689690df2e8d1",
+    "time": "2024-09-09T12:07:57Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "kubernetes"
+  },
+  {
+    "href": "https://www.aiexh.com/",
+    "description": "Git Repo and Code Search for Open Source AI Projects | AIExh",
+    "extended": "",
+    "meta": "ffa62246d9562fac922a1e48eba07716",
+    "hash": "6361781b27056d5d43bf750df1132581",
+    "time": "2024-09-09T10:05:41Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://fennel-lang.org/",
+    "description": "the Fennel programming language",
+    "extended": "",
+    "meta": "2032899adf6af591a9b9dc2a9e7462c8",
+    "hash": "b2da0a772854073a089d53babad11512",
+    "time": "2024-09-09T07:03:24Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://yorickpeterse.com/articles/a-decade-of-developing-a-programming-language/",
     "description": "A decade of developing a programming language",
     "extended": "Crafting Interpreters",
