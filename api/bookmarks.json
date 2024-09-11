@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://github.com/autokitteh/autokitteh",
+    "description": "GitHub - autokitteh/autokitteh",
+    "extended": "",
+    "meta": "afea781cca64c64b68041ad73b48c0ac",
+    "hash": "c620351d847737eff1fb671e30231cf7",
+    "time": "2024-09-11T01:17:52Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/yournextstore/yournextstore",
+    "description": "GitHub - yournextstore/yournextstore: Modern Commerce with Next.js and Stripe as the backend.",
+    "extended": "",
+    "meta": "2547197cd50e057b352bc5db13e227d3",
+    "hash": "3089007f5fc41b22e64ce57b1d30657e",
+    "time": "2024-09-11T01:15:00Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://visualdb.com/",
+    "description": "Visual DB — database form and report builder",
+    "extended": "",
+    "meta": "43045bfd21c58c76dc1a30594c4602c9",
+    "hash": "c703f81100ccfa4cb08b80b232a9cb1a",
+    "time": "2024-09-11T01:06:23Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/gopasspw/gopass",
+    "description": "gopasspw/gopass: The slightly more awesome standard unix password manager for teams",
+    "extended": "",
+    "meta": "37b6ce48e6ceeec875dc63cd845c6c3e",
+    "hash": "d936b1af69b8962b51ceda05bd26969f",
+    "time": "2024-09-10T05:01:21Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/RafalWilinski/cloudflare-rag",
     "description": "GitHub - RafalWilinski/cloudflare-rag: Fullstack \"Chat with your PDFs\" RAG (Retrieval Augmented Generation) app built fully on Cloudflare",
     "extended": "",
