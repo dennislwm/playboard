@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://fossil-scm.org/home/doc/trunk/www/index.wiki",
+    "description": "Fossil: A Coherent Software Configuration Management System",
+    "extended": "",
+    "meta": "9f31bc7e73d33081e963693b2fbbdbe7",
+    "hash": "4092fcdf12b991f268d67efa2ba6e653",
+    "time": "2024-09-12T01:11:40Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://yaak.app/",
+    "description": "Yaak – The most intuitive desktop API client",
+    "extended": "gRPC requests",
+    "meta": "8c5c35eca2b02db4b4a3e2914d07f83b",
+    "hash": "0e57952588178e57a45e9e45a5be452b",
+    "time": "2024-09-11T10:40:46Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://sigrok.org/wiki/Main_Page",
+    "description": "sigrok",
+    "extended": "",
+    "meta": "756094231fa8f228f03747734b6f6b00",
+    "hash": "63db1feab7e053a0b52d005a8d3f1a11",
+    "time": "2024-09-11T02:08:36Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/dbcli/litecli",
+    "description": "GitHub - dbcli/litecli: CLI for SQLite Databases with auto-completion and syntax highlighting",
+    "extended": "",
+    "meta": "5d62bcf5c31937208d5b59d18580863a",
+    "hash": "a47e7abe01e203fac91a1832e125440f",
+    "time": "2024-09-11T01:35:49Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/autokitteh/autokitteh",
     "description": "GitHub - autokitteh/autokitteh",
     "extended": "",
