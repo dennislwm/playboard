@@ -1,5 +1,60 @@
 [
   {
+    "href": "https://github.com/MadcowD/ell",
+    "description": "MadcowD/ell: A language model programming framework.",
+    "extended": "",
+    "meta": "a95b1cf824bebb072ada4bb649041772",
+    "hash": "5f7cc5c67c58485d62ba0b27e17e3b83",
+    "time": "2024-09-12T09:13:46Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://konty.app/http://localhost:4321/",
+    "description": "Konty | Sketch your app ideas without stress",
+    "extended": "",
+    "meta": "f6d9d110b91309fe5c25327387c730cd",
+    "hash": "b8e92bc564b927b98c2dca62bf469342",
+    "time": "2024-09-12T07:36:05Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/claceio/clace",
+    "description": "GitHub - claceio/clace: AppServer for containerized web app development and deployment",
+    "extended": "",
+    "meta": "34e739881dbd5e48619096666f4453b1",
+    "hash": "1d9cb6ce991353c3b7ec77bacd193f46",
+    "time": "2024-09-12T01:28:32Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/google/styleguide",
+    "description": "GitHub - google/styleguide: Style guides for Google-originated open-source projects",
+    "extended": "",
+    "meta": "2b52e3277865b332d200a8accfd9abf2",
+    "hash": "1028bf9872d8e4ea1b1858f4044abb58",
+    "time": "2024-09-12T01:27:10Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://google.github.io/styleguide/pyguide.html",
+    "description": "styleguide | Style guides for Google-originated open-source projects",
+    "extended": "",
+    "meta": "c83626f6781c6177dfa6a09ff4aa7821",
+    "hash": "a87e1bd369db4b8cc49ca4e665b7de6a",
+    "time": "2024-09-12T01:25:36Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
     "href": "https://fossil-scm.org/home/doc/trunk/www/index.wiki",
     "description": "Fossil: A Coherent Software Configuration Management System",
     "extended": "",
