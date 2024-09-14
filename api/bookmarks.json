@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://jina.ai/reader",
+    "description": "Reader API",
+    "extended": "",
+    "meta": "73c2e445882783c9e31d274f313ad160",
+    "hash": "c1b1c5d8e2aa8a22737232ce1454766c",
+    "time": "2024-09-13T07:29:45Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://simonwillison.net/2024/Sep/12/openai-o1/",
+    "description": "Notes on OpenAI’s new o1 chain-of-thought models",
+    "extended": "",
+    "meta": "655476eba1dabbfc6ecb58067f5fa2f0",
+    "hash": "f83e0dd09479fea42f51524605c4459c",
+    "time": "2024-09-13T05:50:01Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://github.com/MadcowD/ell",
     "description": "MadcowD/ell: A language model programming framework.",
     "extended": "",
