@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://blog.1password.com/explaining-the-backlash-to-the-sso-tax/",
+    "description": "Explaining the Backlash to the SSO Tax | 1Password",
+    "extended": "",
+    "meta": "70fd7771602ee30681346060b9b4c3a3",
+    "hash": "cb16c021ae0a281fbb4a20cc3b757a8f",
+    "time": "2024-09-14T02:53:33Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "security"
+  },
+  {
+    "href": "https://smallstep.com/blog/access-your-homelab-anywhere/",
+    "description": "Access your homelab from anywhere with a YubiKey and mutual TLS",
+    "extended": "",
+    "meta": "eb78eecb234e1253e56a5e52ff3415fa",
+    "hash": "0ff7beac9614ea344bad4deaf54a0321",
+    "time": "2024-09-14T02:52:00Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "security"
+  },
+  {
+    "href": "https://github.com/miroslavpejic85/call-me",
+    "description": "GitHub - miroslavpejic85/call-me: 🟢 Easy one-to-one video calls directly from your web browser using WebRTC technology.",
+    "extended": "",
+    "meta": "512e4a75682b7223daba679811301748",
+    "hash": "25310abb90554148b491a9920e4ae5f7",
+    "time": "2024-09-14T02:35:00Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://adr.github.io/",
+    "description": "adr.github.io",
+    "extended": "",
+    "meta": "bda5f8f566e793c46a98a91c4af694b0",
+    "hash": "04b3caf8011bb365d1992ba7fffae82c",
+    "time": "2024-09-14T01:44:34Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
     "href": "https://jina.ai/reader",
     "description": "Reader API",
     "extended": "",
