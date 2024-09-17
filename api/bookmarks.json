@@ -1,5 +1,71 @@
 [
   {
+    "href": "https://github.com/kiing-dom/cli-password-manager/tree/master",
+    "description": "GitHub - kiing-dom/cli-password-manager: using a cli interface to manage passwords",
+    "extended": "",
+    "meta": "76e4f12e795ba21b982544a45e02395f",
+    "hash": "2619f9331e8f4216452144d2d1e1f0ad",
+    "time": "2024-09-17T01:02:13Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/GoogleContainerTools/distroless",
+    "description": "GoogleContainerTools/distroless: 🥑 Language focused docker images, minus the operating system.",
+    "extended": "",
+    "meta": "908dd403159f20408720334cfb683923",
+    "hash": "da361b0cacec48681222703e040daacd",
+    "time": "2024-09-17T00:53:35Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/common-fate/iamzero",
+    "description": "common-fate/iamzero: Identity & Access Management simplified and secure.",
+    "extended": "",
+    "meta": "bcb189c4294d7b9e1933c9ee4ab5dd87",
+    "hash": "1db89fb6217510f8d6efebfae9305dc0",
+    "time": "2024-09-16T12:10:30Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://ali.sattari.me/posts/2024/aggregating-slis/",
+    "description": "Aggregating SLIs - Ali's Blog",
+    "extended": "",
+    "meta": "d8f3aba34ef99b0eb75892d893387293",
+    "hash": "1105394bd7c8fc3efe0d0d88da05a951",
+    "time": "2024-09-16T11:41:58Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "sre"
+  },
+  {
+    "href": "https://www.auto-mcs.com/",
+    "description": "auto-mcs - Create a Minecraft Server in less than a minute, for free!",
+    "extended": "",
+    "meta": "1ed82662f6c35a6fe30965a2790c2037",
+    "hash": "7c3198a697c217df8d25b04803f58e92",
+    "time": "2024-09-16T03:35:36Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/adoyle-h/lobash",
+    "description": "GitHub - adoyle-h/lobash: A modern, safe, powerful utility/library for Bash script development.",
+    "extended": "",
+    "meta": "9b41d209fd5c200798be7ef4ffc3a8a1",
+    "hash": "2dc14e538a72abff0c74e9ebbf0c7fc3",
+    "time": "2024-09-16T03:34:48Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://simonwillison.net/2024/Sep/15/how-to-succeed-in-mrbeast-production/",
     "description": "HOW TO SUCCEED IN MRBEAST PRODUCTION (leaked PDF)",
     "extended": "",
