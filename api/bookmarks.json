@@ -1,5 +1,71 @@
 [
   {
+    "href": "https://github.com/finic-ai/finic",
+    "description": "GitHub - finic-ai/finic: Create Playwright-based browser agents to scrape websites and automate tasks.",
+    "extended": "",
+    "meta": "d514d2a079917bed079e47959d0621e3",
+    "hash": "ff88aef62028a27bbfa17edf4f461f6d",
+    "time": "2024-09-18T01:19:39Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://www.graalvm.org/python/",
+    "description": "Python",
+    "extended": "",
+    "meta": "005ca498778fc53a36aa4e9f3db0722e",
+    "hash": "a6888cc0112a56773e7f7c997d372463",
+    "time": "2024-09-18T01:17:54Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/pencilresearch/OpenScanner",
+    "description": "GitHub - pencilresearch/OpenScanner: Fast, reliable, and free document scanner app for iPhone",
+    "extended": "",
+    "meta": "c125c192e911117987cc27a11df5c925",
+    "hash": "14c1f8bd1830a90fe31e71ed203b34ba",
+    "time": "2024-09-18T01:17:04Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://www.brailleinstitute.org/freefont/",
+    "description": "Atkinson Hyperlegible Font - Braille Institute",
+    "extended": "",
+    "meta": "e67dcead9e4924fe9256ef9b84c7c84e",
+    "hash": "0f6951509a4fcb0feb94c58ae5c19141",
+    "time": "2024-09-18T01:04:38Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "frontend"
+  },
+  {
+    "href": "https://github.com/rodyherrera/Quantum",
+    "description": "GitHub - rodyherrera/Quantum: 🚀 Hackable & Self-hosted Open-Source alternative to Vercel, Heroku, Netlify, etc. All your applications, just in one place. Develop and deploy with your favorite tools, and enjoy continuous deployment with GitHub.",
+    "extended": "",
+    "meta": "eea533a3495271c50981f92a1152bfef",
+    "hash": "2cdf92206f69248b13e73f5318986ab4",
+    "time": "2024-09-18T01:00:16Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/mediar-ai/screenpipe",
+    "description": "GitHub - mediar-ai/screenpipe: Library to build personalized AI powered by what you've seen, said, or heard. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.",
+    "extended": "",
+    "meta": "9dd061d77451a490ab0b62291f474996",
+    "hash": "5efeeb504480df5cd97cf765254c4ed4",
+    "time": "2024-09-18T00:58:14Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/kiing-dom/cli-password-manager/tree/master",
     "description": "GitHub - kiing-dom/cli-password-manager: using a cli interface to manage passwords",
     "extended": "",
