@@ -1,5 +1,71 @@
 [
   {
+    "href": "https://codemageddon.me/post/poetry-docker/",
+    "description": "How to Build a Perfect Docker Image for a Poetry Project :: Codemageddon's corner - Codemageddon's blog",
+    "extended": "",
+    "meta": "6386a78d5f2247406d4fe87d3e17114d",
+    "hash": "4f123210171441bb6461d018a49c56e2",
+    "time": "2024-09-18T13:06:10Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
+    "href": "https://bluesock.org/~willkg/blog/dev/switch_pyenv_to_uv.html",
+    "description": "Switching from pyenv to uv | Will's Blog",
+    "extended": "",
+    "meta": "a518f7df94ce9d8c1df1ee6ce74618f7",
+    "hash": "d8092be1703ecefe75995da6bb517932",
+    "time": "2024-09-18T13:04:32Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
+    "href": "https://github.com/permitio/opal",
+    "description": "permitio/opal: Policy and data administration, distribution, and real-time updates on top of Policy Agents (OPA, Cedar, ...)",
+    "extended": "",
+    "meta": "09c72ec3f3feffed84a62c2e24ada407",
+    "hash": "f478d78137ca498d4aca8205df56e6bc",
+    "time": "2024-09-18T12:53:58Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://taslabs.net/self-hosting/synology-sso-with-cloudflare-access/",
+    "description": "Synology SSO With Cloudflare – taslabs",
+    "extended": "",
+    "meta": "a740ce9e071d636988a0610084252540",
+    "hash": "172b45cade71284db7410f572997a237",
+    "time": "2024-09-18T10:44:43Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://github.com/phiresky/ripgrep-all",
+    "description": "GitHub - phiresky/ripgrep-all: rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.",
+    "extended": "",
+    "meta": "14b9273e090530f1b71298e346528d3a",
+    "hash": "5c9ae90e1547c4666456de82a689d693",
+    "time": "2024-09-18T01:29:36Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://simonwillison.net/2024/Sep/17/serializing-package-requirements-in-marimo-notebooks/",
+    "description": "Serializing package requirements in marimo notebooks",
+    "extended": "",
+    "meta": "adc78399479495fd33904aa45656b468",
+    "hash": "fb9c58e36f224e718c5e5da5de76f5e4",
+    "time": "2024-09-18T01:27:59Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
     "href": "https://github.com/finic-ai/finic",
     "description": "GitHub - finic-ai/finic: Create Playwright-based browser agents to scrape websites and automate tasks.",
     "extended": "",
