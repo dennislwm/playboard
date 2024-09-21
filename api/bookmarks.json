@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://github.com/inngest/inngest",
+    "description": "inngest/inngest: A scalable, event-driven durable execution platform. Run stateful step functions functions deployed to serverless, servers, or the edge.",
+    "extended": "",
+    "meta": "1f485713a3bb8597779cc8248153ea51",
+    "hash": "34546c3d89b540850ca04b9dff5cddb2",
+    "time": "2024-09-21T01:12:39Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://www.anthropic.com/news/contextual-retrieval",
+    "description": "Introducing Contextual Retrieval Anthropic",
+    "extended": "",
+    "meta": "6e38dd5038c938facb03658e538a6ccb",
+    "hash": "d77e2af096b4f8b07404d27b489399fd",
+    "time": "2024-09-20T02:12:50Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://sentimentarena.com/best-smart-phones/",
     "description": "Best Smart Phones – 1.1 Million User Reviews – sentimentarena",
     "extended": "",
