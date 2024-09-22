@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://forum.plaintextaccounting.org/t/how-to-know-the-value-of-a-thing-in-a-currency-over-time/366",
+    "description": "How to know the value of a thing in a currency over time - General - Plain Text Accounting forum",
+    "extended": "",
+    "meta": "1cc87908513c0763399fa9ed4ca4e2bd",
+    "hash": "9d69b71dd86a68c068a921a5e56da916",
+    "time": "2024-09-21T01:48:16Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "finance"
+  },
+  {
     "href": "https://github.com/inngest/inngest",
     "description": "inngest/inngest: A scalable, event-driven durable execution platform. Run stateful step functions functions deployed to serverless, servers, or the edge.",
     "extended": "",
