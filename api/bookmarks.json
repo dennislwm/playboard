@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://blog.jetbrains.com/rust/2024/09/20/how-to-learn-rust/",
+    "description": "How to Learn Rust in 2024: A Complete Beginner’s Guide to Mastering Rust Programming | The RustRover Blog",
+    "extended": "",
+    "meta": "97d1e2f096bd4757c83d51e9ce81a3cb",
+    "hash": "23be979ceebbb99e821de565cb97e16c",
+    "time": "2024-09-23T13:48:34Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://github.com/yigitkonur/swift-ocr-llm-powered-pdf-to-markdown",
+    "description": "yigitkonur/swift-ocr-llm-powered-pdf-to-markdown: An open-source OCR API that leverages OpenAI's powerful language models with optimized performance techniques like parallel processing and batching to deliver high-quality text extraction from complex PDF ",
+    "extended": "",
+    "meta": "d053ff0ed2edcc04832a1277eec63125",
+    "hash": "74f5b71a319c847aa4235b6034f4014d",
+    "time": "2024-09-23T13:45:13Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/hadolint/hadolint",
+    "description": "hadolint/hadolint: Dockerfile linter, validate inline bash, written in Haskell",
+    "extended": "",
+    "meta": "6f8b935e8504805774ef4fe295ce5026",
+    "hash": "1d20df1ec9b931594728441ae282676a",
+    "time": "2024-09-23T11:52:54Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/GoogleContainerTools/container-structure-test",
+    "description": "GoogleContainerTools/container-structure-test: validate the structure of your container images",
+    "extended": "",
+    "meta": "51e20dfdf6a5836d7686b63c3400c1f8",
+    "hash": "59a0423e10559623d15f81fefa3545a6",
+    "time": "2024-09-23T11:52:42Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://forum.plaintextaccounting.org/t/how-to-know-the-value-of-a-thing-in-a-currency-over-time/366",
     "description": "How to know the value of a thing in a currency over time - General - Plain Text Accounting forum",
     "extended": "",
