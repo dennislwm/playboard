@@ -1,5 +1,71 @@
 [
   {
+    "href": "https://github.com/simonw/files-to-prompt",
+    "description": "GitHub - simonw/files-to-prompt: Concatenate a directory full of files into a single prompt for use with LLMs",
+    "extended": "",
+    "meta": "f05b4bacff2ff6c09ddbe40f9f0d1de4",
+    "hash": "19050444be12df4b23a5e84d8f900790",
+    "time": "2024-09-26T01:31:51Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://runme.dev/blog/rollup-terminals",
+    "description": "Roll up Terminals Into A Knowledge Base • RUNME",
+    "extended": "",
+    "meta": "809441c365b5e9eec4d39b821e7ba554",
+    "hash": "bc032be6ed0391f073b598abcaa38c61",
+    "time": "2024-09-26T01:14:28Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "productivity"
+  },
+  {
+    "href": "https://www.makeartwithpython.com/blog/a-year-of-showing-up/",
+    "description": "What I’ve Learned in the Past Year Spent Building an AI Video Editor - Make Art with Python",
+    "extended": "",
+    "meta": "e7c270ede10b7577cf063c25456c7d06",
+    "hash": "35fb36be736aa26fec72a0cdfc928ffa",
+    "time": "2024-09-25T15:09:50Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://yeet.cx/@yeet/execsnoop",
+    "description": "@yeet/execsnoop",
+    "extended": "",
+    "meta": "93413785dbf859aef91df50bb71faf06",
+    "hash": "8f4da4da11a3f3dfd0611bdc446fbac3",
+    "time": "2024-09-25T12:00:39Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://twinery.org/",
+    "description": "Twine / An open-source tool for telling interactive, nonlinear stories",
+    "extended": "",
+    "meta": "f53621c86e01160ece6d2508b8c36e61",
+    "hash": "e575aa6150ce5ce8fe7e288b25ccc9ef",
+    "time": "2024-09-25T11:53:09Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://getenu.com/",
+    "description": "Enu",
+    "extended": "",
+    "meta": "ef909213a3ff0a2a1dcb8d50e4b1b3a5",
+    "hash": "7b31ef2336677ca0cc69119d95e899d8",
+    "time": "2024-09-25T11:52:25Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://hamatti.org/posts/document-intended-usage-through-tests-with-doctest/",
     "description": "Document intended usage through tests with doctest : Juha-Matti Santala",
     "extended": "",
