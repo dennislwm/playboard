@@ -1,5 +1,126 @@
 [
   {
+    "href": "https://marketplace.visualstudio.com/items?itemName=m0n0t0ny.folder-mapper&ssr=false#overview",
+    "description": "Folder Mapper - Visual Studio Marketplace",
+    "extended": "",
+    "meta": "a8b6ea4f7c626f60228b7f08c308882e",
+    "hash": "c76830fec00bb8b295c7d7213aa7e244",
+    "time": "2024-09-27T01:15:49Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://lackofimagination.org/2024/09/avoiding-if-else-hell-the-functional-style/",
+    "description": "Avoiding if-else Hell: The Functional Style",
+    "extended": "",
+    "meta": "959643bbd442d9055418ff4ce793ec3f",
+    "hash": "6e1c4f0e571c922db893c8000b4b60e1",
+    "time": "2024-09-26T13:31:35Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://www.migadu.com/",
+    "description": "Migadu Email",
+    "extended": "",
+    "meta": "e2f2df08791bb87b67cfcb8a285fb2b2",
+    "hash": "a0d39453e5af61c30fafd73f82623cae",
+    "time": "2024-09-26T13:24:50Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://python-fiddle.com/",
+    "description": "Python-Fiddle: Online Python Compiler, IDE, and Interpreter",
+    "extended": "",
+    "meta": "4a92a6ba7ff38ed1b10591ab15cccae5",
+    "hash": "7d3e239feeab4283c67577cfdd2b3e73",
+    "time": "2024-09-26T13:20:36Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
+    "href": "https://github.com/iommirocks/iommi",
+    "description": "iommirocks/iommi: Your first pick for a django power cord",
+    "extended": "examples project",
+    "meta": "e9b52a910d3af983d5a9c427969715a0",
+    "hash": "02c3449e14628950a4253f0bdeb15701",
+    "time": "2024-09-26T13:10:21Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://mathspp.com/blog/case-insensitive-string-class",
+    "description": "Case-insensitive string class | mathspp",
+    "extended": "",
+    "meta": "05aa47531fe889c884f6e610cf5b8af1",
+    "hash": "9649399b155718a6f543bcfbc1745620",
+    "time": "2024-09-26T13:07:49Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
+    "href": "https://blog.cloudflare.com/introducing-1-1-1-1-for-families/",
+    "description": "Introducing 1.1.1.1 for Families",
+    "extended": "",
+    "meta": "3b276c3ba39848b924dfdec726c31502",
+    "hash": "ed3b861e1904f10a3e41a23d9941cfcf",
+    "time": "2024-09-26T13:03:06Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "security"
+  },
+  {
+    "href": "https://developers.cloudflare.com/waf/analytics/security-analytics/",
+    "description": "Security Analytics | Cloudflare Web Application Firewall (WAF) docs",
+    "extended": "",
+    "meta": "833d4b4519c76a9a346cf39613026693",
+    "hash": "c49a24460e923d2c98ce5baf25e5759d",
+    "time": "2024-09-26T12:59:07Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "security"
+  },
+  {
+    "href": "https://github.com/basecamp/kamal",
+    "description": "basecamp/kamal: Deploy web apps anywhere.",
+    "extended": "",
+    "meta": "dc82d18dc6239728378b5d0519563ac2",
+    "hash": "b99259a603e9487f194f7364f341acc0",
+    "time": "2024-09-26T12:36:23Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/radiac/nanodjango",
+    "description": "radiac/nanodjango: Full Django in a single file - views, models, API ,with async support. Automatically convert it to a full project.",
+    "extended": "",
+    "meta": "000858b10b3ce00bc14be19a560c9b22",
+    "hash": "c5584169c4faff4c1d183480b6f9928a",
+    "time": "2024-09-26T12:25:20Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://milelion.com/2024/09/26/wow-dbs-yuu-card-now-earns-10-mpd-at-cold-storage-foodpanda-gojek-and-all-other-yuu-merchants/",
+    "description": "Wow: DBS yuu Card now earns 10 mpd at Cold Storage, foodpanda, Gojek and all other yuu merchants - The MileLion",
+    "extended": "",
+    "meta": "9a595c3528eef7c85102c7aa5d54a9cf",
+    "hash": "4da1b28b675f2a7165f4100f890b9e40",
+    "time": "2024-09-26T06:38:53Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "reward"
+  },
+  {
     "href": "https://github.com/simonw/files-to-prompt",
     "description": "GitHub - simonw/files-to-prompt: Concatenate a directory full of files into a single prompt for use with LLMs",
     "extended": "",
