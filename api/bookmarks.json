@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://github.com/cryfs/cryfs",
+    "description": "cryfs/cryfs: Cryptographic filesystem for the cloud",
+    "extended": "",
+    "meta": "e1032284c2d15a6290e79ea7c1b25e99",
+    "hash": "80c2642d6cd8dfbe9a98ce7b99248e4b",
+    "time": "2024-09-28T12:44:42Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://wazuh.com/",
+    "description": "Wazuh - Open Source XDR. Open Source SIEM.",
+    "extended": "",
+    "meta": "0a9a11ce023bf7c5a2530391f93aba34",
+    "hash": "5d60ecd0eeb5f43282df56410f4dda89",
+    "time": "2024-09-28T05:35:23Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://remotedesktop.google.com/?pli=1",
+    "description": "Chrome Remote Desktop",
+    "extended": "",
+    "meta": "403f5b169ba3a7fa11bc3f7c602fd96c",
+    "hash": "4bef2c43f309bd36b8b2131f5159c263",
+    "time": "2024-09-28T03:39:42Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/dh1011/subscription-manager",
+    "description": "GitHub - dh1011/subscription-manager: A simple web app to help you keep track of your subscriptions and manage your expenses.",
+    "extended": "",
+    "meta": "fa1d15e499fa0e5d1a6be2cd201d1e90",
+    "hash": "6fd05ac90a7b3227b389233980bcbaab",
+    "time": "2024-09-28T03:07:56Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://marketplace.visualstudio.com/items?itemName=m0n0t0ny.folder-mapper&ssr=false#overview",
     "description": "Folder Mapper - Visual Studio Marketplace",
     "extended": "",
