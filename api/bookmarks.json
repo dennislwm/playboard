@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://github.com/clemlesne/scrape-it-now",
+    "description": "clemlesne/scrape-it-now: Web scraper made for AI and simplicity in mind. It runs as a CLI that can be parallelized and outputs high-quality markdown content.",
+    "extended": "",
+    "meta": "24e372a52da9545889733c806629a9e7",
+    "hash": "555f82dcad0e54d1d7289944b0c7dd7b",
+    "time": "2024-09-29T03:38:33Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/MineDojo/MineDojo",
+    "description": "MineDojo/MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge",
+    "extended": "",
+    "meta": "4831123d9ef88ecba5180baf379aad80",
+    "hash": "b28c326e399b23c39b1516aa18a266e3",
+    "time": "2024-09-29T03:09:59Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/zju-vipa/Odyssey",
+    "description": "zju-vipa/Odyssey: Odyssey: Empowering Agents with Open-World Skills",
+    "extended": "",
+    "meta": "8c12e0c3926c9d7d3491403cf73276bf",
+    "hash": "1cb11a1d3bce860434b8e93a4e8a63c6",
+    "time": "2024-09-29T03:08:22Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://wiki.haskell.org/Wadler's_Law",
+    "description": "Wadler's Law - HaskellWiki",
+    "extended": "",
+    "meta": "b5438d3eb088ee6d752fcde50b089ba7",
+    "hash": "5c1d587b62bb7454b26af6d4f3682c8d",
+    "time": "2024-09-29T01:58:18Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
     "href": "https://github.com/cryfs/cryfs",
     "description": "cryfs/cryfs: Cryptographic filesystem for the cloud",
     "extended": "",
