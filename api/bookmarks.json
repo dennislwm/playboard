@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://www.double-zero.cloud/",
+    "description": "00 | Email for the people.",
+    "extended": "",
+    "meta": "d2332766683b9aa32a8a31569663fc71",
+    "hash": "32bacb2cbfb4d78101c5c14b47d5f614",
+    "time": "2024-10-01T01:27:11Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://simonwillison.net/2024/Sep/29/notebooklm-audio-overview/",
+    "description": "NotebookLM’s automatically generated podcasts are surprisingly effective",
+    "extended": "Audio Overview",
+    "meta": "f4b3019acc177bb26ad3b51dd6e5a6ac",
+    "hash": "db685ac44bb4a00384d4d4f398c80470",
+    "time": "2024-09-30T11:42:31Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://github.com/clemlesne/scrape-it-now",
     "description": "clemlesne/scrape-it-now: Web scraper made for AI and simplicity in mind. It runs as a CLI that can be parallelized and outputs high-quality markdown content.",
     "extended": "",
