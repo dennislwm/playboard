@@ -1,5 +1,71 @@
 [
   {
+    "href": "https://notado.app/",
+    "description": "Content-first Bookmarking - Notado",
+    "extended": "",
+    "meta": "ed82062c7be7bbb245fd16903abb4d0f",
+    "hash": "6898279073853e3ed9f1ce7d8bcc91ed",
+    "time": "2024-10-01T13:52:36Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://huggingface.co/spaces/webml-community/llama-3.2-webgpu",
+    "description": "Llama 3.2 WebGPU - a Hugging Face Space by webml-community",
+    "extended": "",
+    "meta": "cddeb65f241664c5987c7fa115d4ed5b",
+    "hash": "7d4946639921aff7412484cf0f742348",
+    "time": "2024-10-01T13:23:03Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://simonwillison.net/2024/Sep/30/llama-32-webgpu/",
+    "description": "llama-3.2-webgpu",
+    "extended": "",
+    "meta": "d49c53e8e401c24130b785537e4a56b3",
+    "hash": "18abc9fd4a60e1edb659abc871d89dca",
+    "time": "2024-10-01T13:22:50Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://github.com/gabrielchua/daily-ai-papers",
+    "description": "GitHub - gabrielchua/daily-ai-papers: All credits go to HuggingFace's Daily AI papers (https://huggingface.co/papers) and the research community. 🔉Audio summaries here (https://t.me/daily_ai_papers).",
+    "extended": "",
+    "meta": "b20bbc76e0118702df6333371332fbcf",
+    "hash": "596bb6f7d5a3a513cbe0659f383f1ac1",
+    "time": "2024-10-01T02:44:30Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/gabrielchua/open-notebooklm",
+    "description": "GitHub - gabrielchua/open-notebooklm: Convert any PDF into a podcast episode!",
+    "extended": "",
+    "meta": "968b0608c2c9832574dabde361e51db6",
+    "hash": "23deaae0190125d3b91c35e4628d8de3",
+    "time": "2024-10-01T02:43:52Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://blog.sequinstream.com/at-most-once-at-least-once-and-exactly-once-delivery/",
+    "description": "No such thing as exactly-once delivery",
+    "extended": "",
+    "meta": "72ad8fdc4dfcba20848b01fa5c443985",
+    "hash": "716ed88eb7277899f2b386bfa104f45c",
+    "time": "2024-10-01T02:03:55Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
     "href": "https://www.double-zero.cloud/",
     "description": "00 | Email for the people.",
     "extended": "",
