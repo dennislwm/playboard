@@ -1,5 +1,82 @@
 [
   {
+    "href": "https://github.com/patternknife/docker-blue-green-runner?tab=readme-ov-file#process-summary",
+    "description": "GitHub - patternknife/docker-blue-green-runner: One Simple Zero-Downtime Blue-Green Deployment Starting from your Dockerfiles",
+    "extended": "",
+    "meta": "5f749fbe14fc88f3d96e8956687a7a12",
+    "hash": "5dc7613a71cdaf4ce3f51dd93f4ac4fb",
+    "time": "2024-10-03T01:00:36Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "http://git.github.io/git-reference/",
+    "description": "Git Reference",
+    "extended": "",
+    "meta": "64eb6cfe854df9394267e30d20d0491e",
+    "hash": "7e61a5e7187e683a4b6db276ca528918",
+    "time": "2024-10-03T00:42:34Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/adamspd/django-appointment",
+    "description": "GitHub - adamspd/django-appointment: A Django app for managing appointment scheduling with ease and flexibility.",
+    "extended": "",
+    "meta": "4e7a4f76ba38063822260abc452a17f2",
+    "hash": "d04eeacbb9525ce0bdf3b92f864e1530",
+    "time": "2024-10-02T02:22:59Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://blog.jetbrains.com/pycharm/2024/09/django-project-ideas/",
+    "description": "Django Project Ideas | The PyCharm Blog",
+    "extended": "",
+    "meta": "3111e62a3b51722e3731c561821b54ed",
+    "hash": "446b1c1372e69eed6b0fe8abbdf8825a",
+    "time": "2024-10-02T02:20:40Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
+    "href": "https://unit42.paloaltonetworks.com/phishing-platform-sniper-dz-unique-tactics/",
+    "description": "Investigating Infrastructure and Tactics of Phishing-as-a-Service Platform Sniper Dz",
+    "extended": "",
+    "meta": "716989c8af89d205370980564ba9e913",
+    "hash": "cb8d4484e20d3e1f3fd6ff1dc7dba5d6",
+    "time": "2024-10-02T02:17:25Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "security"
+  },
+  {
+    "href": "https://blog.raulnq.com/semantic-versioning-with-gitversion-gitflow",
+    "description": "Semantic Versioning with GitVersion (GitFlow)",
+    "extended": "",
+    "meta": "e70e70df42b85c0594b1be32cbe31911",
+    "hash": "d963e7ac3523e53e41c3e566da808f19",
+    "time": "2024-10-02T02:13:49Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "productivity"
+  },
+  {
+    "href": "https://gitversion.net/",
+    "description": "GitVersion - GitVersion",
+    "extended": "",
+    "meta": "4d0b6cd8779e8c69bcaa58fa8a88fd0f",
+    "hash": "ec99fb94adebbb449fc24b5fc292e590",
+    "time": "2024-10-02T02:11:49Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://notado.app/",
     "description": "Content-first Bookmarking - Notado",
     "extended": "",
