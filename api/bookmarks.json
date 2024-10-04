@@ -1,5 +1,71 @@
 [
   {
+    "href": "https://github.com/nyejon/journalaist",
+    "description": "GitHub - nyejon/journalaist: Factory Network x {Tech: Berlin} AI Hackathon - Your personal ghostwriter",
+    "extended": "",
+    "meta": "98f9d609deb84399a2dc03edfb80eec8",
+    "hash": "7b80e8a737774bd06434df2caeeb4f20",
+    "time": "2024-10-04T01:24:44Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://larslofgren.com/forbes-marketplace/?_bhlid=97b42049fd9efb515a5da58e1ba5071ae9bda4f6",
+    "description": "Forbes Marketplace: The Parasite SEO Company Trying to Devour Its Host",
+    "extended": "",
+    "meta": "e365f38a39c02a243b42bd1ba10ae68c",
+    "hash": "c1a86ef38f41cc0e0315d889e5e2e19f",
+    "time": "2024-10-04T01:15:23Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "seo"
+  },
+  {
+    "href": "https://www.reaktor.com/articles/why-ive-tracked-every-single-piece-of-clothing-ive-worn-for-three-years?_bhlid=1ed812290e02ca822e2e2cb1bf847420c5e51ed0",
+    "description": "Why I’ve tracked every single piece of clothing I’ve worn for three years - Reaktor",
+    "extended": "",
+    "meta": "60e975e1c4ef01cf208e7034e1cbe78b",
+    "hash": "9ef0a8ec55a3a7a715071aa7b23e20e1",
+    "time": "2024-10-04T01:14:42Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "analyst"
+  },
+  {
+    "href": "https://wagtail.org/",
+    "description": "Wagtail CMS - Django Content Management System",
+    "extended": "",
+    "meta": "017c3683169b2434f06b5302db678d20",
+    "hash": "b3c6fccca600bc03f8b03be467e56a0e",
+    "time": "2024-10-03T11:13:35Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://slatedb.io/",
+    "description": "SlateDB - An embedded storage engine built on object storage | SlateDB",
+    "extended": "",
+    "meta": "ba4ece7548727af423d403d1afe97907",
+    "hash": "39dfcd4a8e76099f9173b0ceb7de15e5",
+    "time": "2024-10-03T01:53:20Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/diegovelilla/AutoREADME",
+    "description": "GitHub - diegovelilla/AutoREADME: AutoREADME is an AI-powered tool that genereates a README file for any given input repository.",
+    "extended": "",
+    "meta": "f7850c1bdb293060b01ffe93655b2e24",
+    "hash": "71452d1c78961511a7e68da5e51e4a32",
+    "time": "2024-10-03T01:38:30Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/patternknife/docker-blue-green-runner?tab=readme-ov-file#process-summary",
     "description": "GitHub - patternknife/docker-blue-green-runner: One Simple Zero-Downtime Blue-Green Deployment Starting from your Dockerfiles",
     "extended": "",
