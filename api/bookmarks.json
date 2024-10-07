@@ -1,5 +1,60 @@
 [
   {
+    "href": "https://github.com/tw93/Pake",
+    "description": "GitHub - tw93/Pake: 🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用",
+    "extended": "",
+    "meta": "2dd9fc7c2fe3f043098e5b086b8f0932",
+    "hash": "390f5316113d12d562ff99a429222882",
+    "time": "2024-10-07T00:49:17Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://forestvpn.com/",
+    "description": "Fast, Secure & Free VPN with Global Access",
+    "extended": "",
+    "meta": "213dd90f5149367315e930c5834cb6cb",
+    "hash": "f70b0e353fe1ef13e0fe651a91b81ba8",
+    "time": "2024-10-06T07:40:29Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://ali.sattari.me/posts/2023/when-to-alert-on-what/",
+    "description": "When to Alert on What? - Ali's Blog",
+    "extended": "",
+    "meta": "d49ef0a1627f8e3aa17e3a0e6cefa806",
+    "hash": "d0f5c54a67e5760e12d56404b25af4eb",
+    "time": "2024-10-06T03:23:10Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "sre"
+  },
+  {
+    "href": "https://alexklibisz.com/2022/06/19/my-takeaways-from-effective-software-testing-by-mauricio-aniche",
+    "description": "My takeaways from Effective Software Testing by Maurício Aniche - Alex Klibisz",
+    "extended": "",
+    "meta": "7be5af8e37eab6986b7cab328ec5161b",
+    "hash": "b18558752d4a5a8290359de552705eaa",
+    "time": "2024-10-06T03:21:07Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "tdd"
+  },
+  {
+    "href": "https://datavizcatalogue.com/search.html",
+    "description": "Search for Charts by Data Visualization Functions",
+    "extended": "",
+    "meta": "b1064038e12f3d875406eabb10e97094",
+    "hash": "7e982cf49bf31b3b0fe47d3559093cca",
+    "time": "2024-10-06T02:40:06Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/mindee/doctr",
     "description": "GitHub - mindee/doctr: docTR (Document Text Recognition) - a seamless, high-performing & accessible library for OCR-related tasks powered by Deep Learning.",
     "extended": "",
