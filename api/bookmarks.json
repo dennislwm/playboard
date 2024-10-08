@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://nts.strzibny.name/multiple-apps-single-server-kamal-2/",
+    "description": "Running multiple apps on a single server with Kamal 2",
+    "extended": "",
+    "meta": "fa9dc66e2dc392f2f33bb0ce2109bb74",
+    "hash": "9428fa3297e7853719850c90af58604e",
+    "time": "2024-10-07T12:52:55Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://github.blog/developer-skills/application-development/scientist/",
+    "description": "Scientist: Measure Twice, Cut Once - The GitHub Blog",
+    "extended": "",
+    "meta": "414a3efd38b2991b99c9dbd21c811ad9",
+    "hash": "12b29c416742ed9a0ba9b251907c894c",
+    "time": "2024-10-07T02:22:42Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "solution"
+  },
+  {
+    "href": "https://amyunger.com/blog/2020/09/16/6-things-i-learned-interviewing.html",
+    "description": "6 things I learned interviewing for Staff positions",
+    "extended": "",
+    "meta": "27ada1e7afc90e99fffb201545209a81",
+    "hash": "48ae56cb606b399eed98937fa7cacff0",
+    "time": "2024-10-07T02:13:26Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://www.quantamagazine.org/when-data-is-missing-scientists-guess-then-guess-again-20241002/",
+    "description": "When Data Is Missing, Scientists Guess. Then Guess Again. | Quanta Magazine",
+    "extended": "",
+    "meta": "e10844240fc4080e9845bdf9d40b9e0a",
+    "hash": "cbbf2c1d7abe278737532466072cf8c5",
+    "time": "2024-10-07T02:12:09Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "dbsql"
+  },
+  {
     "href": "https://github.com/tw93/Pake",
     "description": "GitHub - tw93/Pake: 🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用",
     "extended": "",
