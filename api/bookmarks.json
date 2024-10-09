@@ -1,5 +1,82 @@
 [
   {
+    "href": "https://github.com/m0n0t0ny/Folder-Mapper-VSCode-Extension",
+    "description": "GitHub - m0n0t0ny/Folder-Mapper-VSCode-Extension",
+    "extended": "",
+    "meta": "5493ca89da7216232e9d8489a53f0dfe",
+    "hash": "4d6005afe3024851461eff045fd1ab36",
+    "time": "2024-10-09T00:58:34Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://cronicle.net/",
+    "description": "Cronicle",
+    "extended": "",
+    "meta": "68d5a8b7ef9a42fcbe97fa6ce7d45c1a",
+    "hash": "3e2debe12f213a855533cb3accd83002",
+    "time": "2024-10-09T00:56:31Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/",
+    "description": "An Illustrated Proof of the CAP Theorem",
+    "extended": "",
+    "meta": "a029aa47053738efbb1a8154fa7119dd",
+    "hash": "9ca6ac9d3f6ff010ddf2861a4cb2435b",
+    "time": "2024-10-08T11:34:49Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://www.idemproject.io/",
+    "description": "Open-Source Cloud Automation Platform | Idem Project",
+    "extended": "",
+    "meta": "f2f4bcb084880a980f6acb0d7d835210",
+    "hash": "748ad6b7ac490f45c66cf3c0e156c271",
+    "time": "2024-10-08T11:14:21Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://jvns.ca/blog/2024/10/07/some-notes-on-upgrading-hugo/",
+    "description": "Some notes on upgrading Hugo",
+    "extended": "",
+    "meta": "1130d33bc98a4b220bad214a27633f24",
+    "hash": "b782d2dda288575a38f9dcce15fec987",
+    "time": "2024-10-08T11:08:33Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://applied-llms.org/",
+    "description": "What We’ve Learned From A Year of Building with LLMs – Applied LLMs",
+    "extended": "",
+    "meta": "fa8c02a7a3eb01259888e76858aa08a9",
+    "hash": "71b3425aaa5a4c63799ce9f4c26a5db3",
+    "time": "2024-10-08T11:00:55Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://read.engineerscodex.com/p/good-programmers-worry-about-data",
+    "description": "Good programmers worry about data structures and their relationships",
+    "extended": "",
+    "meta": "2c42f80efbc0e73289750ab13c56057c",
+    "hash": "f5b472ab93ebb2267f140a3a023d5606",
+    "time": "2024-10-08T02:27:41Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
     "href": "https://nts.strzibny.name/multiple-apps-single-server-kamal-2/",
     "description": "Running multiple apps on a single server with Kamal 2",
     "extended": "",
