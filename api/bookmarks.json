@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://allenai.github.io/discoveryworld/",
+    "description": "DiscoveryWorld - Allen Institute for AI",
+    "extended": "",
+    "meta": "e03d135e542eff1002248a794c031fc3",
+    "hash": "f5083d68ab58ebb75776cfbe0a8e6aa4",
+    "time": "2024-10-11T01:31:29Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://www.amazon.com/photos/all",
+    "description": "Amazon Photos",
+    "extended": "",
+    "meta": "077396dedacc969d63624908e3705844",
+    "hash": "92d5793a5d7c61d47ea611652a09e9d1",
+    "time": "2024-10-10T11:59:11Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://fair.io/about/",
+    "description": "About Fair Source | Fair.io",
+    "extended": "",
+    "meta": "6e798da6ea1d331e506acae685774569",
+    "hash": "6ed7875ab8f8d570161699f2276d5432",
+    "time": "2024-10-10T11:55:40Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "legal"
+  },
+  {
+    "href": "https://github.com/redimp/otterwiki",
+    "description": "redimp/otterwiki: A minimalistic wiki powered by python, markdown and git.",
+    "extended": "",
+    "meta": "147df203a9ab043ca3d9d21c5253aa4d",
+    "hash": "91d052f63b994274deaf8d1d676672a8",
+    "time": "2024-10-10T11:51:12Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://blog.eriksen.com.br/en/platform-engineering-n26",
     "description": "Platform engineering at N26: how we planned and launched it",
     "extended": "",
