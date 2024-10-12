@@ -1,5 +1,60 @@
 [
   {
+    "href": "https://cove.ai/",
+    "description": "Cove",
+    "extended": "",
+    "meta": "78287bde873532c19c791740add180b7",
+    "hash": "0732b1d4b88deb64f9ac56670dcecbcc",
+    "time": "2024-10-11T06:46:53Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://blog.miguelgrinberg.com/post/the-ultimate-guide-to-error-handling-in-python",
+    "description": "The Ultimate Guide to Error Handling in Python - miguelgrinberg.com",
+    "extended": "",
+    "meta": "1f56324ca9ef98529e6a0bc6fe33fafd",
+    "hash": "6c53d51932d92a8913954fb843b530aa",
+    "time": "2024-10-11T06:42:33Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
+    "href": "https://blog.changs.co.uk/typeddicts-are-better-than-you-think.html",
+    "description": "TypedDicts are better than you think",
+    "extended": "",
+    "meta": "67f586c151dd0b53b81a7248860eb386",
+    "hash": "33b2635a789f4fd028ada78f356c1249",
+    "time": "2024-10-11T06:37:35Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
+    "href": "https://github.com/BeehiveHQ/beehive-ai",
+    "description": "BeehiveHQ/beehive-ai: 🐝 Create powerful, collaborative AI applications.",
+    "extended": "",
+    "meta": "fcd331e1cabdb3c5c22de76dc84ee23c",
+    "hash": "4707f05f15c3e267fe9953eaaccee0d9",
+    "time": "2024-10-11T01:50:07Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/adept/full-fledged-hledger",
+    "description": "adept/full-fledged-hledger: Tutorial on Hledger setup with multi-year files, multi-source imports and a range of auto-generated reports",
+    "extended": "",
+    "meta": "b2538ba11900062a60fd5f68755e9a74",
+    "hash": "91a1e9da3695cf9fdaac24e1aa7c82a8",
+    "time": "2024-10-11T01:47:45Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "finance"
+  },
+  {
     "href": "https://allenai.github.io/discoveryworld/",
     "description": "DiscoveryWorld - Allen Institute for AI",
     "extended": "",
