@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://netbird.io/pricing",
+    "description": "Pricing - NetBird",
+    "extended": "",
+    "meta": "664f033b1bd431868ea7b6684c618e40",
+    "hash": "d642566a9257fcac12808009e79c18f7",
+    "time": "2024-10-12T11:41:26Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/skhaz/neo-compiler-and-runner",
+    "description": "skhaz/neo-compiler-and-runner: A Telegram bot that compiles and runs untrusted code.",
+    "extended": "",
+    "meta": "f9a6fa7faccb0b1046d814cce66985b6",
+    "hash": "bfabf3c019e9513fbc189e8d04393a16",
+    "time": "2024-10-12T03:32:07Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://cove.ai/",
     "description": "Cove",
     "extended": "",
