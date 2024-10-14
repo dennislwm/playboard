@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://github.com/jefftriplett/django-startproject",
+    "description": "jefftriplett/django-startproject: :checkered_flag: Django Start Project template with batteries",
+    "extended": "",
+    "meta": "fe9850db352fe91690f5241a609b0bef",
+    "hash": "169c58a0be33ef9029df447f4c7308d8",
+    "time": "2024-10-13T02:57:41Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://towardsdatascience.com/decision-tree-regressor-explained-a-visual-guide-with-code-examples-fbd2836c3bef",
+    "description": "Decision Tree Regressor, Explained: A Visual Guide with Code Examples | by Samy Baladram | Oct, 2024 | Towards Data Science",
+    "extended": "",
+    "meta": "5d3e7b5d59b6b508a2c53ca3c098fae3",
+    "hash": "881fe74cb51fe88448707cbf2f95208c",
+    "time": "2024-10-13T02:42:54Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://netbird.io/pricing",
     "description": "Pricing - NetBird",
     "extended": "",
