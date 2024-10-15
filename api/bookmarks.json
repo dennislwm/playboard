@@ -1,5 +1,82 @@
 [
   {
+    "href": "https://internetingishard.netlify.app/",
+    "description": "Interneting Is Hard | Web Development Tutorials For Complete Beginners",
+    "extended": "",
+    "meta": "c884c7aba488460207b0027accba98d9",
+    "hash": "c51d41c45480ce45cb54cd70b28a73f0",
+    "time": "2024-10-14T13:21:44Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "frontend"
+  },
+  {
+    "href": "https://github.com/hcengineering/platform",
+    "description": "hcengineering/platform: Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)",
+    "extended": "",
+    "meta": "25d778120c558b5619eef581eaa95e5b",
+    "hash": "eec9f7a9288c7934426da7c8ecdff3dd",
+    "time": "2024-10-14T13:12:14Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://aaronstuyvenberg.com/posts/lambda-timeout-doom-loop",
+    "description": "Avoiding the Lambda Doom Loop | AJ Stuyvenberg",
+    "extended": "",
+    "meta": "b58e825e86dff975f9dd3f74bd20c7db",
+    "hash": "91704009306b53b86ce5712db1416920",
+    "time": "2024-10-14T12:50:18Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "aws"
+  },
+  {
+    "href": "https://itnext.io/backends-for-frontends-bff-5cbcb4b67a30",
+    "description": "Backends for Frontends. A metapattern. | ITNEXT",
+    "extended": "Architectural Metapatterns",
+    "meta": "6e77ee8a65d7a9b4196e945ff8f82c76",
+    "hash": "847b550200d9c596628ec2cbb7c38cdc",
+    "time": "2024-10-14T12:35:30Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "solution"
+  },
+  {
+    "href": "https://nilebits.hashnode.dev/how-to-build-secure-django-apps-by-using-custom-middleware",
+    "description": "How To Build Secure Django Apps By Using Custom Middleware",
+    "extended": "",
+    "meta": "d8e5b319f84ead9a3e030e94cdde2c37",
+    "hash": "65fd1654434133210e5ac1120c48ddda",
+    "time": "2024-10-14T12:35:08Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
+    "href": "https://codeinthehole.com/tips/llm-tdd-loop-script/",
+    "description": "An LLM TDD loop — David Winterbottom",
+    "extended": "",
+    "meta": "6b6d9c551f3cdca746cd60c7717d014e",
+    "hash": "706bce7a85e909d598a86b0c0256a1bd",
+    "time": "2024-10-14T12:16:18Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://github.com/seoroadmap/seo-roadmap",
+    "description": "GitHub - seoroadmap/seo-roadmap: Roadmap to becoming an SEO expert",
+    "extended": "",
+    "meta": "316f827b756348c02610808fbdd7eeb8",
+    "hash": "08f3f8bf2bd313188f2627b30524d3d5",
+    "time": "2024-10-14T02:19:29Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/jefftriplett/django-startproject",
     "description": "jefftriplett/django-startproject: :checkered_flag: Django Start Project template with batteries",
     "extended": "",
