@@ -1,5 +1,60 @@
 [
   {
+    "href": "https://github.com/iasai1/action-tracker",
+    "description": "GitHub - iasai1/action-tracker: Action Tracker VSCode extension",
+    "extended": "",
+    "meta": "981c15d3bebc229cf6acd15291d7acda",
+    "hash": "fe47531e6ae9f2ee89815fb3397f02b7",
+    "time": "2024-10-19T01:00:02Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/scummvm/scummvm",
+    "description": "GitHub - scummvm/scummvm: ScummVM main repository",
+    "extended": "",
+    "meta": "a42e5682be83b50905516428cd707225",
+    "hash": "8ede0252c52329a3dc6d999a3ab2e993",
+    "time": "2024-10-19T00:57:26Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/cchalop1/JustDeploy",
+    "description": "GitHub - cchalop1/JustDeploy: Streamline your development process and deploy where you want",
+    "extended": "",
+    "meta": "06e9db7dca9378ff03804bfb88bc2d7d",
+    "hash": "cf27417a65bf5e237a8d3287d5b70144",
+    "time": "2024-10-19T00:44:44Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://www.goodreads.com/author/quotes/7221234.Elon_Musk",
+    "description": "Elon Musk Quotes (Author of How to Make a Spaceship - A Band of Renegades, An Epic Race, and the Birth of Private Spaceflight)",
+    "extended": "",
+    "meta": "944d63f562b1dd0d0445c6022e91f8fa",
+    "hash": "c3f1ab9c94c93ac85aa5537eaa2938a9",
+    "time": "2024-10-17T13:33:22Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://youtubetranscriptoptimizer.com/blog/02_what_i_learned_making_the_python_backend_for_yto",
+    "description": "What I Learned from Making the Python Backend for YouTube Transcript Optimizer | YouTube Transcript Optimizer",
+    "extended": "",
+    "meta": "b4b803c83fe76f1e59979047340e20d9",
+    "hash": "723d8fbad77f0290c20d570eaa2dac5d",
+    "time": "2024-10-17T11:40:14Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "solution"
+  },
+  {
     "href": "https://github.com/gitpod-io/gitpod",
     "description": "gitpod-io/gitpod: The developer platform for on-demand cloud development environments to create software faster and more securely.",
     "extended": "",
@@ -36,7 +91,7 @@
     "href": "https://github.com/shun-liang/yt2doc",
     "description": "GitHub - shun-liang/yt2doc: YouTube (and more) to readable Markdown.",
     "extended": "",
-    "meta": "3945673a0f19395ef3133a3236b15902",
+    "meta": "a50e9e8c7fe266eae835bc96bbe6b49f",
     "hash": "59745852c3ec02fc3174798ffa43e6e0",
     "time": "2024-10-16T01:03:16Z",
     "shared": "no",
@@ -16789,7 +16844,7 @@
     "href": "https://github.com/usebruno/bruno",
     "description": "GitHub - usebruno/bruno: Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)",
     "extended": "",
-    "meta": "d1ce3ecd437f9b506028a1b4b1e67f89",
+    "meta": "1fb6d5d1b0aa0844213e18654a5e3a02",
     "hash": "b0b4a8a9f655c2739b4b5f8a8c6c046e",
     "time": "2023-11-10T02:07:42Z",
     "shared": "no",
