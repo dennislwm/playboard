@@ -1,5 +1,60 @@
 [
   {
+    "href": "https://maglit.me/",
+    "description": "MagLit🔥 - Privacy Respecting Encrypted Link Shortener",
+    "extended": "",
+    "meta": "de419e89610509e1fa19d4176d2020b2",
+    "hash": "5957c16f7ac8b45115876c2a68fcc9f9",
+    "time": "2024-10-19T08:24:03Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://suricata.io/",
+    "description": "Home - Suricata",
+    "extended": "",
+    "meta": "d678bddd007b8548277a5df50067d8d2",
+    "hash": "3578a0fce26fbb3952aaa7b7d503477c",
+    "time": "2024-10-19T02:25:25Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://buildpacks.io/",
+    "description": "Cloud Native Buildpacks · Cloud Native Buildpacks",
+    "extended": "",
+    "meta": "0e58f9e8584cd81d0924f3f06dfbf321",
+    "hash": "1dd9ba820ace0382bce6bb93de7066c4",
+    "time": "2024-10-19T02:20:10Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://developer.hashicorp.com/hcp/docs/vault-radar/cli",
+    "description": "Vault Radar CLI | HashiCorp Cloud Platform | HashiCorp Developer",
+    "extended": "",
+    "meta": "7b4c08cd054c3e302a4ec2033c3accd3",
+    "hash": "278cdad50aee4dcff0eec3bd6c3d2dcb",
+    "time": "2024-10-19T01:49:49Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/spliit-app/spliit",
+    "description": "spliit-app/spliit: Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.",
+    "extended": "",
+    "meta": "be6aa25636e46847c05c59e5038de2fe",
+    "hash": "4e2cde91d4d0cfd6ff8ae325fe496299",
+    "time": "2024-10-19T01:40:13Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/iasai1/action-tracker",
     "description": "GitHub - iasai1/action-tracker: Action Tracker VSCode extension",
     "extended": "",
