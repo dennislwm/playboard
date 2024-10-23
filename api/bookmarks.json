@@ -1,5 +1,60 @@
 [
   {
+    "href": "https://pinata.cloud/",
+    "description": "Pinata | The internet's file API",
+    "extended": "",
+    "meta": "ca03ddc57174463d6d3f212495aa426a",
+    "hash": "ee7db491ccf77a6bbf323cf08e1d96cc",
+    "time": "2024-10-22T13:53:10Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://www.nexusmods.com/skyrimspecialedition/mods/126330",
+    "description": "AI Follower Framework (AI-FF) at Skyrim Special Edition Nexus - Mods and Community",
+    "extended": "",
+    "meta": "ba9f5841fb43dd8419c391d954be18eb",
+    "hash": "402bf883cf9dd2e35678c5a8a35e1c2c",
+    "time": "2024-10-22T13:51:23Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://simonwillison.net/2024/Oct/19/mistralrs/",
+    "description": "Running Llama 3.2 Vision and Phi-3.5 Vision on a Mac with mistral.rs",
+    "extended": "mistral.rs",
+    "meta": "63cbe5c05d1c65b2de2da4c15570f778",
+    "hash": "add620d6516c084136e483f931f932cd",
+    "time": "2024-10-22T13:50:44Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://openrouter.ai/",
+    "description": "OpenRouter",
+    "extended": "",
+    "meta": "a056c8bf55c3695e4277f01bdb4749f6",
+    "hash": "2d7f879a7abe6b12201759c7c4123b93",
+    "time": "2024-10-22T13:50:37Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://github.com/konstin/sudoku-in-python-packaging",
+    "description": "konstin/sudoku-in-python-packaging: Sudoku solving in python packaging",
+    "extended": "",
+    "meta": "cfab217f34a33b01bbeabcc1fdf3151c",
+    "hash": "f68f4b9e9827627b8d117757c910db7c",
+    "time": "2024-10-22T12:20:59Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://www.spacedrive.com/",
     "description": "Spacedrive — A file manager from the future.",
     "extended": "",
