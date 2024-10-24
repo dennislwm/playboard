@@ -1,5 +1,60 @@
 [
   {
+    "href": "https://github.com/gitroomhq/postiz-app/",
+    "description": "gitroomhq/postiz-app: 📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀",
+    "extended": "",
+    "meta": "8d0b74a35291964d73f49ffce3915c2c",
+    "hash": "c4b5e3241acd1d64594b52504bfe9ade",
+    "time": "2024-10-23T12:33:28Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/nh2/internal-contstrained-pki",
+    "description": "nh2/internal-contstrained-pki: Safely shareable TLS root CA for .internal networks using Name Constraints",
+    "extended": "",
+    "meta": "4afb8ad211a330ba497d94e2739dbbb4",
+    "hash": "e6e6aa5ecee4d1dc362c26d2c5b8d713",
+    "time": "2024-10-23T11:49:59Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://www.votito.com/methods/",
+    "description": "Knowledge Base",
+    "extended": "",
+    "meta": "0bd89da53497c0595f65979cc5208839",
+    "hash": "f4cb1c8d62e2b45a2ac1096652cb4b6f",
+    "time": "2024-10-23T11:42:34Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://www.votito.com/methods/togs-paradox/",
+    "description": "Tog's paradox",
+    "extended": "",
+    "meta": "d4d8bacad6edbf592a7937e23bf04d57",
+    "hash": "ccd6b0cd224a2ca1763ce0906b79be05",
+    "time": "2024-10-23T11:41:43Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://github.com/anthropics/anthropic-quickstarts",
+    "description": "anthropics/anthropic-quickstarts: A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API",
+    "extended": "",
+    "meta": "39eff893f904d588cebce9db3484acac",
+    "hash": "1ddca4e1588b0018edfed34e4490525e",
+    "time": "2024-10-23T11:39:17Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://pinata.cloud/",
     "description": "Pinata | The internet's file API",
     "extended": "",
