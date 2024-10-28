@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://langfuse.com/",
+    "description": "Langfuse",
+    "extended": "",
+    "meta": "1a222df3c4654daac6692ad679491669",
+    "hash": "77e7b61ee30c89152ec39b42d040b4c3",
+    "time": "2024-10-28T00:19:29Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/dim0x69/mdx",
+    "description": "GitHub - dim0x69/mdx",
+    "extended": "",
+    "meta": "8ace2bd30c7c2adca02c85d8c19de43c",
+    "hash": "7718fea3c069935606fbcdf412b275bf",
+    "time": "2024-10-27T02:47:54Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/immichFrame/ImmichFrame",
     "description": "immichFrame/ImmichFrame",
     "extended": "",
@@ -15568,7 +15590,7 @@
     "href": "https://github.com/comfyanonymous/ComfyUI",
     "description": "comfyanonymous/ComfyUI: The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.",
     "extended": "",
-    "meta": "7a1486efc271c00cabd01be3423da68a",
+    "meta": "93e9ef2fe76e5863d3f614168c947981",
     "hash": "a57008edf30af53a1a523e87f0945b0b",
     "time": "2024-01-08T06:45:11Z",
     "shared": "no",
