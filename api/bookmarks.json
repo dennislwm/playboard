@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://bewcloud.com/",
+    "description": "bewCloud is a modern and simpler alternative to Nextcloud and ownCloud written in TypeScript",
+    "extended": "",
+    "meta": "dc00fffa26ad7aa918cf9e14041a839b",
+    "hash": "6a9e25ab2c174608ba4d038c7d1dd44c",
+    "time": "2024-10-28T05:40:23Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://langfuse.com/",
     "description": "Langfuse",
     "extended": "",
