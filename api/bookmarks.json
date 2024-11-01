@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://developer.hashicorp.com/terraform/language/import/generating-configuration",
+    "description": "Import - Generating Configuration | Terraform | HashiCorp Developer",
+    "extended": "",
+    "meta": "d31408b38d7c445dc57554457cdfe070",
+    "hash": "715ee036afb442bbedbfead173bceba2",
+    "time": "2024-11-01T01:09:31Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/DevSecTop/TF-via-PR",
+    "description": "DevSecTop/TF-via-PR: Plan and apply Terraform/OpenTofu via PR automation, using best practices for secure and scalable IaC workflows.",
+    "extended": "",
+    "meta": "47d88ba34e3308829d6c83163dd588bc",
+    "hash": "301b168ac06601d3cf0d5d8b4623100b",
+    "time": "2024-10-31T02:03:59Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://docs.jina.ai/",
+    "description": "Meta-Prompt | Jina AI Search Foundation API Guide",
+    "extended": "",
+    "meta": "4a8d0bab5bc7164d0d71338932e10795",
+    "hash": "571b33c95bca55dd1d1f79bbe985b7a4",
+    "time": "2024-10-31T01:55:07Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://bewcloud.com/",
     "description": "bewCloud is a modern and simpler alternative to Nextcloud and ownCloud written in TypeScript",
     "extended": "",
