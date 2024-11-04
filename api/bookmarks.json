@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://eugeneyan.com//writing/conf-lessons/",
+    "description": "39 Lessons from Industry ML Conferences in 2024",
+    "extended": "",
+    "meta": "81adc378b79023de94567f36e57a0309",
+    "hash": "15d700b49095af7e4a6878bd8b713f5d",
+    "time": "2024-11-03T14:25:06Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://blog.spawek.com/SpawELO",
+    "description": "SpawELO",
+    "extended": "",
+    "meta": "904fb140fbef2154b8077b048fd0920e",
+    "hash": "d7fe7c1ff2cf82d817e9b59787873d8b",
+    "time": "2024-11-03T14:21:07Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "analyst"
+  },
+  {
+    "href": "https://github.com/DS4SD/docling",
+    "description": "DS4SD/docling: Get your docs ready for gen AI",
+    "extended": "",
+    "meta": "f29ca91e808ac50421672cd6a6e68313",
+    "hash": "25c26e80b5ac12256316fc431766c04d",
+    "time": "2024-11-03T14:17:56Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://promptql.hasura.io/",
+    "description": "PromptQL: Agentic data access for your AI",
+    "extended": "",
+    "meta": "936fde0c81dd6cbf8c824600a32d88d0",
+    "hash": "afeba0848aca92542f6ab23038a85dad",
+    "time": "2024-11-03T02:59:24Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://developer.hashicorp.com/terraform/language/import/generating-configuration",
     "description": "Import - Generating Configuration | Terraform | HashiCorp Developer",
     "extended": "",
