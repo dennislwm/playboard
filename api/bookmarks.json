@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://prokopov.me/posts/2024-07-14/",
+    "description": "Maksym Prokopov personal blog",
+    "extended": "MAKSYM PROKOPOV PERSONAL BLOG\r\nIDEA IS A SOMETHING WORTH SHARING",
+    "meta": "c0efe600a975be9674dad3f588690a4e",
+    "hash": "4dd28780310098ce33c89e4511893362",
+    "time": "2024-11-04T13:44:52Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://lmstudio.ai/blog/venvstacks",
+    "description": "Introducing venvstacks: layered Python virtual environments | LM Studio Blog",
+    "extended": "",
+    "meta": "ba4e56da46c8d4bd3bb40881a85627ff",
+    "hash": "e7eae7ff7337d82c90514ed3138b58ec",
+    "time": "2024-11-04T13:44:35Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://eugeneyan.com//writing/conf-lessons/",
     "description": "39 Lessons from Industry ML Conferences in 2024",
     "extended": "",
