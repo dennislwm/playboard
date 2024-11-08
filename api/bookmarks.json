@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://endoflife.date/",
+    "description": "Home | endoflife.date",
+    "extended": "",
+    "meta": "85f8ca5e371036a7cdf8b6adfc879e32",
+    "hash": "f2824ed26069d02f3c102f312d1170c9",
+    "time": "2024-11-07T11:46:01Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/gregpr07/browser-use",
+    "description": "gregpr07/browser-use: Open-Source Web Automation library with any LLM",
+    "extended": "",
+    "meta": "0b4d91457f7919dfbd37baa1ca6357b7",
+    "hash": "5f90be021df309257bca7f224d4c8669",
+    "time": "2024-11-07T09:51:46Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://lethain.com/strategy-systems-modeling/",
     "description": "Using systems modeling to refine strategy. | Irrational Exuberance",
     "extended": "lethain/systems",
@@ -1323,7 +1345,7 @@
     "href": "https://github.com/simonw/files-to-prompt",
     "description": "GitHub - simonw/files-to-prompt: Concatenate a directory full of files into a single prompt for use with LLMs",
     "extended": "",
-    "meta": "f05b4bacff2ff6c09ddbe40f9f0d1de4",
+    "meta": "87c5df80f2c4359400d4221f86ff6615",
     "hash": "19050444be12df4b23a5e84d8f900790",
     "time": "2024-09-26T01:31:51Z",
     "shared": "no",
