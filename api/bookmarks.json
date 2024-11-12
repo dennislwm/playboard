@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://grantslatton.com/software-pathfinding",
+    "description": "Algorithms we develop software by",
+    "extended": "Extreme Programming",
+    "meta": "2a264c36477540d715554529944eebc0",
+    "hash": "bcf3f9fdcb37f25c3d4623a7c5ed4c54",
+    "time": "2024-11-11T10:50:27Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
     "href": "https://github.com/pymupdf/RAG/tree/main/pymupdf4llm",
     "description": "RAG/pymupdf4llm at main · pymupdf/RAG",
     "extended": "",
