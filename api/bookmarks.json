@@ -1,5 +1,60 @@
 [
   {
+    "href": "https://github.com/ray-d-song/web-archive",
+    "description": "Ray-D-Song/web-archive: Free web archiving and sharing service based on Cloudflare. 基于 Cloudflare 的免费网页归档和分享工具。",
+    "extended": "",
+    "meta": "81381ed25d05389f35a8aad70b3f4b0d",
+    "hash": "dca917bd32d138bf1f90a9ef7dc471d3",
+    "time": "2024-11-12T13:37:33Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/microsoft/autogen/tree/main/python/packages/autogen-magentic-one",
+    "description": "autogen/python/packages/autogen-magentic-one at main · microsoft/autogen",
+    "extended": "",
+    "meta": "f2fc08b81d139d5f0e3cd76b2a6edc36",
+    "hash": "f9b0bbfb73642efa889988d79946cd21",
+    "time": "2024-11-12T13:35:36Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://fortelabs.com/blog/para/",
+    "description": "The PARA Method: The Simple System for Organizing Your Digital Life in Seconds",
+    "extended": "",
+    "meta": "c8641b804c59138db2c8d9a9df082a29",
+    "hash": "7c3ad7eaf7e48d04d21125dbc3d8bbd2",
+    "time": "2024-11-12T13:34:18Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "productivity"
+  },
+  {
+    "href": "https://labs.iximiuz.com/tutorials/docker-multi-stage-builds",
+    "description": "How to Build Smaller Container Images: Docker Multi-Stage Builds",
+    "extended": "",
+    "meta": "13e2edc61a45a11aca417c7ba44ed0b8",
+    "hash": "a37e18c82f5b42319e57fc57450cbe38",
+    "time": "2024-11-12T13:27:45Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://docs.composio.dev/swekit/introduction",
+    "description": "SWE Development Kit - Composio",
+    "extended": "",
+    "meta": "59ce569b7f899112e5f8cb6162dd19b6",
+    "hash": "9d403c15dbad0de30e7d1c4e3b93c26e",
+    "time": "2024-11-12T12:27:27Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://grantslatton.com/software-pathfinding",
     "description": "Algorithms we develop software by",
     "extended": "Extreme Programming",
