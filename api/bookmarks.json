@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://securityonionsolutions.com/software",
+    "description": "Security Onion Solutions",
+    "extended": "",
+    "meta": "290d102c672415048edb1172fb9bc4d2",
+    "hash": "37c928ca8508416e63dda31a1b330d78",
+    "time": "2024-11-13T13:08:01Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "security"
+  },
+  {
+    "href": "https://github.com/TannerNelson16/radio_weather_report",
+    "description": "TannerNelson16/radio_weather_report: Generate a weather report using weather.com api, speech to text, and pydub. Output mp3 file",
+    "extended": "",
+    "meta": "5b00972149c24f43bb17cf68864fb435",
+    "hash": "fc3a935e98cf27a49be6fc6a0d650a0b",
+    "time": "2024-11-13T12:44:50Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/ray-d-song/web-archive",
     "description": "Ray-D-Song/web-archive: Free web archiving and sharing service based on Cloudflare. 基于 Cloudflare 的免费网页归档和分享工具。",
     "extended": "",
