@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://github.com/muety/wakapi",
+    "description": "muety/wakapi: 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics",
+    "extended": "",
+    "meta": "e889a2637a07c56d11c8bccafee36b56",
+    "hash": "e34387c004d84c3fd38f9fd9cad2e52f",
+    "time": "2024-11-15T09:20:01Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://simonwillison.net/2024/Nov/14/capture-frames-and-bounding-boxes/",
+    "description": "QuickTime video script to capture frames and bounding boxes",
+    "extended": "",
+    "meta": "4e39cc2a977123a612e002ec33e81281",
+    "hash": "d2c8aebda4695b75ff026d982022c5ef",
+    "time": "2024-11-15T02:12:05Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "seo"
+  },
+  {
+    "href": "https://simonwillison.net/2024/Nov/14/pypi-digital-attestations/",
+    "description": "PyPI now supports digital attestations",
+    "extended": "",
+    "meta": "e3389b02bc20df13a63c020ec7efa486",
+    "hash": "6de5eab9c9cff87eac52eef31e16f6ff",
+    "time": "2024-11-15T02:09:07Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
     "href": "https://tylercipriani.com/blog/2024/10/24/plain-text-accounting/",
     "description": "Eventually consistent plain text accounting - Tyler Cipriani",
     "extended": "",
