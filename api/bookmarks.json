@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://immich.app/docs/features/libraries/",
+    "description": "External Libraries | Immich",
+    "extended": "",
+    "meta": "6346f922cb640b15d177942c89ce9e0e",
+    "hash": "abbb090a73daf44f41564b38ddea9d18",
+    "time": "2024-11-21T01:01:39Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://gist.github.com/edwhad/a25f728e6add3f6d1f7a483810e9d555",
+    "description": "How I configure multiple GitHub accounts using the 1password SSH agent (and working in WSL!)",
+    "extended": "",
+    "meta": "ba07b208984c14267389889cfd5eccdb",
+    "hash": "b7de8caee5fa6a8e7b586c5061499881",
+    "time": "2024-11-20T12:25:12Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "productivity"
+  },
+  {
+    "href": "https://medium.com/@rasvihostings/url-shortener-system-on-gcp-56bcc5910c14",
+    "description": "URL Shortener System on GCP. Architecture Overview | by Mohamed Rasvi | Nov, 2024 | Medium",
+    "extended": "",
+    "meta": "cfcd587e6df31bd3fa473d759bc93715",
+    "hash": "ef2a2096435ad8658b0e0ec84e1ebbbf",
+    "time": "2024-11-20T12:13:37Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "solution"
+  },
+  {
+    "href": "https://jina.ai/news/meta-prompt-for-better-jina-api-integration-and-codegen/",
+    "description": "Meta-Prompt for Better Jina API Integration and CodeGen",
+    "extended": "",
+    "meta": "cb36bd981e699b5ec1cee95374b1cc13",
+    "hash": "bea4ab68cffa9e2827abb1496da31586",
+    "time": "2024-11-20T12:11:13Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://nabeelqu.co/principles",
     "description": "principles - Nabeel S. Qureshi",
     "extended": "",
