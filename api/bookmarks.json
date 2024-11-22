@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://github.com/katanemo/archgw",
+    "description": "katanemo/archgw: Arch is an intelligent prompt gateway. Engineered with (fast) LLMs for the secure handling, robust observability, and seamless integration of prompts with your APIs - outside business logic. Built by the core contributors of Envoy proxy, ",
+    "extended": "Insurance Agent",
+    "meta": "a90e45ab63eed83a8423533dbd589aba",
+    "hash": "0ec076fb4818ee1ebaea991e9d1c8fad",
+    "time": "2024-11-21T11:58:44Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://www.autotab.com/",
+    "description": "Autotab",
+    "extended": "",
+    "meta": "b12ebf77eee3c6caec6b4b5777e6751f",
+    "hash": "467bc076de120c46b86000162bc1b058",
+    "time": "2024-11-21T11:13:40Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://bsky.social/about/blog/4-28-2023-domain-handle-tutorial",
+    "description": "How to set your domain as your handle - Bluesky",
+    "extended": "",
+    "meta": "aa1c8b0cff447b963fae6c0ff69d78d4",
+    "hash": "a6e97334ef1a98d173a809e0ed484f69",
+    "time": "2024-11-21T10:58:13Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "seo"
+  },
+  {
     "href": "https://immich.app/docs/features/libraries/",
     "description": "External Libraries | Immich",
     "extended": "",
