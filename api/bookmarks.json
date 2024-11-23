@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://github.com/doxx/darkflare",
+    "description": "doxx/darkflare: DarkFlare TCPoCDN (TCP over CDN)",
+    "extended": "",
+    "meta": "7d0684951c8ecccae3bee3cb6ccd50ad",
+    "hash": "de892164d5288af1d36a51011f844e77",
+    "time": "2024-11-22T01:49:22Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/katanemo/archgw",
     "description": "katanemo/archgw: Arch is an intelligent prompt gateway. Engineered with (fast) LLMs for the secure handling, robust observability, and seamless integration of prompts with your APIs - outside business logic. Built by the core contributors of Envoy proxy, ",
     "extended": "Insurance Agent",
