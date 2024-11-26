@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://github.com/SelfhostedPro/selfhosted_templates",
+    "description": "SelfhostedPro/selfhosted_templates: Portainer templates for selfhosted services",
+    "extended": "",
+    "meta": "ece0f57951361856157dc63887780dd4",
+    "hash": "13da9cc89e8631c64132b95046e2d886",
+    "time": "2024-11-25T11:30:58Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/doxx/darkflare",
     "description": "doxx/darkflare: DarkFlare TCPoCDN (TCP over CDN)",
     "extended": "",
