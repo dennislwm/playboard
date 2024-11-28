@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://github.com/gruntwork-io/terragrunt",
+    "description": "gruntwork-io/terragrunt: Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.",
+    "extended": "",
+    "meta": "dca9aa359339ee018c896e476c9c4d85",
+    "hash": "0e37fd944ab45f4dbc889bb9aefc7fab",
+    "time": "2024-11-27T14:19:51Z",
+    "shared": "no",
+    "toread": "yes",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/SelfhostedPro/selfhosted_templates",
     "description": "SelfhostedPro/selfhosted_templates: Portainer templates for selfhosted services",
     "extended": "",
@@ -366,7 +377,7 @@
     "href": "https://github.com/DS4SD/docling",
     "description": "DS4SD/docling: Get your docs ready for gen AI",
     "extended": "",
-    "meta": "f29ca91e808ac50421672cd6a6e68313",
+    "meta": "0d31c5856219d66200d228167c8667f8",
     "hash": "25c26e80b5ac12256316fc431766c04d",
     "time": "2024-11-03T14:17:56Z",
     "shared": "no",
