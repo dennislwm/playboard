@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://github.com/konfig-dev/konfig",
+    "description": "konfig-dev/konfig: Sunset as of December 2024",
+    "extended": "",
+    "meta": "6e8e42243158df9e2804aa796bb89e19",
+    "hash": "6ed100b56d8cb77a5a5734d2a932a4e2",
+    "time": "2024-11-29T08:07:29Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://towardsdatascience.com/build-your-personal-assistant-with-agents-and-tools-048637ac308e",
+    "description": "Build your Personal Assistant with Agents and Tools | by Benjamin Etienne | Nov, 2024 | Towards Data Science",
+    "extended": "",
+    "meta": "3253c271a07df7c09e44ea79268ca491",
+    "hash": "7baef8f93fc18e5f8fe9fc24d083961a",
+    "time": "2024-11-29T08:04:57Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://eugeneyan.com/writing/llm-patterns/",
+    "description": "Patterns for Building LLM-based Systems & Products",
+    "extended": "",
+    "meta": "c6a8853332cad5245ae72caa972558c9",
+    "hash": "3b8d7daeada5feacaea7f0c5a77eeb18",
+    "time": "2024-11-29T07:31:14Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://github.com/gruntwork-io/terragrunt",
     "description": "gruntwork-io/terragrunt: Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.",
     "extended": "",
@@ -1070,7 +1103,7 @@
     "href": "https://applied-llms.org/",
     "description": "What We’ve Learned From A Year of Building with LLMs – Applied LLMs",
     "extended": "",
-    "meta": "fa8c02a7a3eb01259888e76858aa08a9",
+    "meta": "4da9d1f972892c811f69eabcd2606db5",
     "hash": "71b3425aaa5a4c63799ce9f4c26a5db3",
     "time": "2024-10-08T11:00:55Z",
     "shared": "no",
