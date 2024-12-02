@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://github.com/punkpeye/awesome-mcp-servers",
+    "description": "punkpeye/awesome-mcp-servers: A collection of MCP servers.",
+    "extended": "",
+    "meta": "e703f0e83e4ae641924601b51201c7ef",
+    "hash": "396cb5e37f2896753da5d8f85e30cc13",
+    "time": "2024-12-01T04:42:48Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://www.goatcounter.com/",
+    "description": "GoatCounter – open source web analytics",
+    "extended": "",
+    "meta": "e1badad285de185f8d5ec1aeb03d134a",
+    "hash": "8aea05649a42ecdb25e934b9357d709a",
+    "time": "2024-12-01T04:33:58Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://icchasethi.medium.com/tying-engineering-metrics-to-business-metrics-f4df7651e026",
+    "description": "Tying Engineering Metrics to Business Metrics | by Iccha Sethi | Nov, 2024 | Medium",
+    "extended": "",
+    "meta": "69b99ec29267bd8f7f68428c29978d80",
+    "hash": "954d45d162995104560cd518e2030085",
+    "time": "2024-12-01T04:25:22Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "sre"
+  },
+  {
+    "href": "https://www.allthingsdistributed.com/2024/11/aws-lambda-turns-10-a-rare-look-at-the-doc-that-started-it.html",
+    "description": "AWS Lambda turns 10: A rare look at the doc that started it | All Things Distributed",
+    "extended": "",
+    "meta": "95a5075cff6c90e29a53d517d3b8de01",
+    "hash": "e09b2fac5a9852d7f61c1f3d0bd28808",
+    "time": "2024-12-01T04:15:15Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
     "href": "https://milelion.com/2024/11/26/gotcha-what-you-should-know-about-uobs-sneaky-tcs/",
     "description": "Gotcha: The unexpected surprises lurking in UOB's T&Cs - The MileLion",
     "extended": "",
@@ -7021,7 +7065,7 @@
     "href": "https://lmstudio.ai/",
     "description": "LM Studio - Discover, download, and run local LLMs",
     "extended": "",
-    "meta": "2cd331a6e55b0a181d08549d175637b5",
+    "meta": "ddf6793b5f46c4ffd721d9e42f262bd8",
     "hash": "0de63b87ef4bb5c53b00078e0e7bf2ce",
     "time": "2024-07-11T12:56:35Z",
     "shared": "no",
