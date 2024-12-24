@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://github.com/microsoft/markitdown",
+    "description": "GitHub - microsoft/markitdown: Python tool for converting files and office documents to Markdown.",
+    "extended": "",
+    "meta": "f0dd71e648d8665777c9a577d20ca6bf",
+    "hash": "33054ecb8bf0f85519b894002e0d45e8",
+    "time": "2024-12-24T01:25:09Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://paul.kinlan.me/projects/full-rss-feed/",
+    "description": "Full RSS feed",
+    "extended": "",
+    "meta": "a7be45d2fe8a9e4edfc9ab12695f721a",
+    "hash": "6a288248f0367090cb3616ba5580dd20",
+    "time": "2024-12-24T01:19:51Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/punkpeye/awesome-mcp-servers",
     "description": "punkpeye/awesome-mcp-servers: A collection of MCP servers.",
     "extended": "",
