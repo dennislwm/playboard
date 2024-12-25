@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://www.kaggle.com/learn-guide/5-day-genai",
+    "description": "5-Day Gen AI Intensive Course with Google Learn Guide | Kaggle",
+    "extended": "",
+    "meta": "51b6c9a573b985c09638f503c20daf4d",
+    "hash": "9c19991547a8bcec2387e5440391289b",
+    "time": "2024-12-24T11:45:12Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://www.souzatharsis.com/tamingLLMs/markdown/toc.html",
+    "description": "Taming LLMs",
+    "extended": "",
+    "meta": "964d00e061a2195af06c82e581015d0b",
+    "hash": "f65a0c81dbe8f463f02acee4caf69a94",
+    "time": "2024-12-24T10:45:35Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://www.anthropic.com/research/building-effective-agents",
+    "description": "Building effective agents Anthropic",
+    "extended": "",
+    "meta": "b030abc9d35b985d5887c68d9b0ad468",
+    "hash": "d4f17e123698b153efc01e92fa29693a",
+    "time": "2024-12-24T10:09:42Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://dizzy.zone/2024/12/02/ML-for-related-posts-on-Hugo/",
+    "description": "ML for related posts on Hugo | Dizzy zone",
+    "extended": "",
+    "meta": "a240c87657e1c2c3f59e282b2bf58ce0",
+    "hash": "b2e1ac720eac87215f8ab48956931e1f",
+    "time": "2024-12-24T04:49:36Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "productivity"
+  },
+  {
     "href": "https://github.com/microsoft/markitdown",
     "description": "GitHub - microsoft/markitdown: Python tool for converting files and office documents to Markdown.",
     "extended": "",
