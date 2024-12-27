@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://www.dns0.eu/",
+    "description": "dns0.eu — The European public DNS that makes your Internet safer",
+    "extended": "",
+    "meta": "f9d16f67a6b9bd5c2b0536089af53f89",
+    "hash": "fe204d08d375b2f03d6255f4f8371628",
+    "time": "2024-12-25T06:19:10Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "security"
+  },
+  {
+    "href": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD08xx/EWD896.html",
+    "description": "E.W.Dijkstra Archive: On the nature of Computing Science (EWD 896)",
+    "extended": "",
+    "meta": "b5dadb59769f659433e292ea6cd97d38",
+    "hash": "04e5284705d307813d0aafef92eae775",
+    "time": "2024-12-25T05:18:52Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
     "href": "https://www.kaggle.com/learn-guide/5-day-genai",
     "description": "5-Day Gen AI Intensive Course with Google Learn Guide | Kaggle",
     "extended": "",
