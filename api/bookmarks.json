@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://gitingest.com/",
+    "description": "Git ingest",
+    "extended": "",
+    "meta": "e69f0250b67b6b2975b6860c527f87a3",
+    "hash": "83a84a79cb3cba5f918943ddcfbab556",
+    "time": "2024-12-28T05:31:10Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://gitdiagram.com/",
+    "description": "GitDiagram",
+    "extended": "",
+    "meta": "dfd8f5d2b78b4a4b3d2a3394942373aa",
+    "hash": "e1ac5f8a67570f26aafc5a0fed7c44ae",
+    "time": "2024-12-28T04:58:03Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://www.dns0.eu/",
     "description": "dns0.eu — The European public DNS that makes your Internet safer",
     "extended": "",
