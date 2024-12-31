@@ -1,5 +1,60 @@
 [
   {
+    "href": "https://fangpenlin.com/posts/2024/12/30/my-beancount-books-are-95-percent-automatic/",
+    "description": "My Beancount books are 95% automatic after 3 years – Fang-Pen's coding note",
+    "extended": "Fang-Pen's coding note",
+    "meta": "00d3574c13c114f28a69a281a30b38c9",
+    "hash": "576b88c3f2610e98c422b2f6bd4f28a5",
+    "time": "2024-12-30T13:33:14Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "finance"
+  },
+  {
+    "href": "https://full-rss.deno.dev/",
+    "description": "Full Feed RSS",
+    "extended": "",
+    "meta": "f34e82e52f3c11fb29f898c0b053ef66",
+    "hash": "2dae487fe72015e72ac3c6cd9be1800c",
+    "time": "2024-12-30T12:16:00Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://www.tonymarston.net/php-mysql/dont-do-domain-driven-design.html",
+    "description": "Why I don't do Domain Driven Design",
+    "extended": "",
+    "meta": "d9e9f82699e71d4d875735597e262993",
+    "hash": "e7b14a79fef954532f5e60009a53ad46",
+    "time": "2024-12-30T11:24:30Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://github.com/Erfaniaa/crypto-portfolio-optimizer",
+    "description": "Erfaniaa/crypto-portfolio-optimizer: Cryptocurrency portfolio optimizer and simulator (What to buy during a Bitcoin bullrun?)",
+    "extended": "",
+    "meta": "ebe8a6265257b42199ea52f4d0356fb7",
+    "hash": "b2f829609026a7d979eccfbb29ee1f82",
+    "time": "2024-12-30T10:53:12Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://cisofy.com/lynis/",
+    "description": "Lynis - Security auditing tool for Linux, macOS, and Unix-based systems - CISOfy",
+    "extended": "",
+    "meta": "830ba6c27623581fb233acb8a1d22e9c",
+    "hash": "49b98b90479febc27fe67498fa487ddf",
+    "time": "2024-12-30T10:52:44Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://gitingest.com/",
     "description": "Git ingest",
     "extended": "",
