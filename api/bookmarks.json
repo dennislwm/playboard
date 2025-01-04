@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://github.com/kiran94/bookworm/",
+    "description": "kiran94/bookworm: LLM-powered bookmark search engine",
+    "extended": "",
+    "meta": "64438883203cca4fd2380ae06bf1772e",
+    "hash": "437e4e883c5e983515b5d93e038545fe",
+    "time": "2025-01-03T12:27:26Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/yassinebenaid/bunster",
+    "description": "yassinebenaid/bunster: Compile shell scripts to machine code.",
+    "extended": "",
+    "meta": "ebec2603eb55214a51f049518e2fc89d",
+    "hash": "bfa109fd173ad66e6d5d3ebf39d6c060",
+    "time": "2025-01-03T12:14:25Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://lopespm.com/notes/2024/12/28/diary-of-ceo-book-lessons.html",
     "description": "Diary of a CEO Book: Lessons - Byte Tank",
     "extended": "",
