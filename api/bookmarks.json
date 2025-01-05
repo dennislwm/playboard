@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://www.mql5.com/en/articles/16500",
+    "description": "Portfolio Risk Model using Kelly Criterion and Monte Carlo Simulation - MQL5 Articles",
+    "extended": "",
+    "meta": "c3b343902c8524cf2309cb7740d350c7",
+    "hash": "aeddad42f152a5e732d512992d27bcb4",
+    "time": "2025-01-04T04:39:18Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "finance"
+  },
+  {
+    "href": "https://www.mql5.com/en/articles/16560",
+    "description": "Price Action Analysis Toolkit Development (Part 5): Volatility Navigator EA - MQL5 Articles",
+    "extended": "",
+    "meta": "7acde6adc32cf3a9d8b9d313a4a22e07",
+    "hash": "ec4e34c7c4c35ad7152ba191537d16e1",
+    "time": "2025-01-04T04:03:57Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "finance"
+  },
+  {
+    "href": "https://github.com/woodruffw/zizmor",
+    "description": "woodruffw/zizmor: A static analysis tool for GitHub Actions",
+    "extended": "",
+    "meta": "98b9932c04b83a3fa34cd80aa2b3809c",
+    "hash": "6b4605833076fbfc96b02db58422f4e9",
+    "time": "2025-01-04T03:35:32Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/kiran94/bookworm/",
     "description": "kiran94/bookworm: LLM-powered bookmark search engine",
     "extended": "",
