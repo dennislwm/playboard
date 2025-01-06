@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://github.com/meceware/wapy.dev",
+    "description": "meceware/wapy.dev: Track, manage, and optimize your recurring expenses in one powerful and human readable dashboard.",
+    "extended": "",
+    "meta": "7610774d108d278cd5637a6a3da9a4b4",
+    "hash": "a38116f6d543b28e405c9c23126ac2a2",
+    "time": "2025-01-05T03:42:52Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://www.mql5.com/en/articles/16500",
     "description": "Portfolio Risk Model using Kelly Criterion and Monte Carlo Simulation - MQL5 Articles",
     "extended": "",
