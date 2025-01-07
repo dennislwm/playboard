@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://nmn.gl/blog/ai-senior-developer",
+    "description": "The day I taught AI to read code like a Senior Developer | N’s Blog",
+    "extended": "",
+    "meta": "7d82d7ecc3353cf7145139dd5d087996",
+    "hash": "58cb5e93518839069051176ae6cd79dd",
+    "time": "2025-01-06T13:04:02Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://github.com/siddhantac/puffin",
+    "description": "siddhantac/puffin: A beautiful terminal dashboard for hledger 💰",
+    "extended": "",
+    "meta": "af7294c377b8f822812753014f34eadc",
+    "hash": "fc5e7baaacd1718f619d4d49aae077ca",
+    "time": "2025-01-06T12:19:59Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/kiran94/bookworm",
+    "description": "kiran94/bookworm: LLM-powered bookmark search engine",
+    "extended": "",
+    "meta": "25061c2ced0f9e3e8f3e0ecef17f9a30",
+    "hash": "b69cb4b31a737e4bb61fc689e83905f9",
+    "time": "2025-01-06T12:06:08Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://docs.goauthentik.io/integrations/services/synology-dsm/",
+    "description": "Integrate with Synology DSM (DiskStation Manager) | authentik",
+    "extended": "",
+    "meta": "1db2214209e2a8710172bd04c2e52b4e",
+    "hash": "5f2d58f30808c9e44a94a24bd0914f43",
+    "time": "2025-01-06T11:58:13Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
     "href": "https://github.com/meceware/wapy.dev",
     "description": "meceware/wapy.dev: Track, manage, and optimize your recurring expenses in one powerful and human readable dashboard.",
     "extended": "",
