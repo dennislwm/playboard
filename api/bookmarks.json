@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://danlevy.net/docker-security-tips-for-self-hosting/",
+    "description": "Essential Docker Security Tips for Self-Hosting",
+    "extended": "https://www.cloudflare.com/ips-v4",
+    "meta": "1e52a2ee83c9e580eacde461ac506cc3",
+    "hash": "03f8eef39d10adbe1a22c1c66722ae97",
+    "time": "2025-01-07T11:03:05Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "security"
+  },
+  {
     "href": "https://nmn.gl/blog/ai-senior-developer",
     "description": "The day I taught AI to read code like a Senior Developer | N’s Blog",
     "extended": "",
@@ -16338,7 +16349,7 @@
     "href": "https://github.com/linkwarden/linkwarden",
     "description": "GitHub - linkwarden/linkwarden: ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages.",
     "extended": "",
-    "meta": "0a3f77e7f2290cf739a9baa2ec40cd57",
+    "meta": "54b165b244ef25efe31461e9171c2dce",
     "hash": "9560f19b30b64fbe233eb18c3bf02700",
     "time": "2024-01-09T10:17:33Z",
     "shared": "no",
