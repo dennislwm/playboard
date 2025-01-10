@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://github.com/ccbikai/sink",
+    "description": "ccbikai/Sink: ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.",
+    "extended": "",
+    "meta": "f53d45388e4a3dd2a18bc60a9885ecb2",
+    "hash": "e3add37739412a6319bc214dc814062b",
+    "time": "2025-01-09T12:41:32Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://danlevy.net/docker-security-tips-for-self-hosting/",
     "description": "Essential Docker Security Tips for Self-Hosting",
     "extended": "https://www.cloudflare.com/ips-v4",
