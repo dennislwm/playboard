@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://github.com/swark-io/swark",
+    "description": "swark-io/swark: Create architecture diagrams from code automatically using large language models (LLMs).",
+    "extended": "",
+    "meta": "e70b9ba05fd9d6903b24e1dca21729a3",
+    "hash": "4b7179055728f1baeae0779736b131b2",
+    "time": "2025-01-12T05:29:58Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/ccbikai/sink",
     "description": "ccbikai/Sink: ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.",
     "extended": "",
