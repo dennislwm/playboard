@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://stevehanov.ca/blog/index.php?id=132",
+    "description": "20 lines of code that will beat A/B testing every time",
+    "extended": "",
+    "meta": "a65b6d3f09bae780319ad2c03d2b47db",
+    "hash": "421708b9babff779a24c5b3663f2ac5d",
+    "time": "2025-01-14T11:55:04Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "seo"
+  },
+  {
     "href": "https://github.com/swark-io/swark",
     "description": "swark-io/swark: Create architecture diagrams from code automatically using large language models (LLMs).",
     "extended": "",
