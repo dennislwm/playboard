@@ -1,5 +1,60 @@
 [
   {
+    "href": "https://vpetersson.com/2025/01/14/using-google-forms-for-waitlists.html",
+    "description": "Using Google Forms for Waitlists and Launches",
+    "extended": "",
+    "meta": "a84894ac7a1701565340e95d71674a46",
+    "hash": "0ae54945e6001be693e655949309d83c",
+    "time": "2025-01-15T12:39:28Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://github.com/gristlabs/grist-core/",
+    "description": "gristlabs/grist-core: Grist is the evolution of spreadsheets.",
+    "extended": "",
+    "meta": "8b6ba14895bd89925f2649160e9d81f6",
+    "hash": "09bebde22d9ebdec22d73fa5203b6ee4",
+    "time": "2025-01-15T12:32:15Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://docs.marimo.io/guides/publishing/playground/",
+    "description": "Online playground - marimo",
+    "extended": "",
+    "meta": "17e85c13d160a7c0ad95e49891ecfabb",
+    "hash": "53ff7731488ca04edcb59161ff6ff294",
+    "time": "2025-01-15T12:23:56Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
+    "href": "https://www.coryzue.com/writing/solopreneur/",
+    "description": "Using Coding Skills to Make Passive Income | Cory Zue",
+    "extended": "",
+    "meta": "092b0fcd06bccf7f087037eae0e0cb57",
+    "hash": "85ea1624d36278157dc4bbec4a4c80b0",
+    "time": "2025-01-15T12:18:13Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "seo"
+  },
+  {
+    "href": "https://pythonspeed.com/articles/identifying-resource-leaks-with-pytest/",
+    "description": "Catching memory leaks with your test suite",
+    "extended": "",
+    "meta": "ec67810ccf1740d1d53d7af838c2452f",
+    "hash": "ae3c44328b8024a5aa9cc2c00adfa30d",
+    "time": "2025-01-15T11:57:49Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "tdd"
+  },
+  {
     "href": "https://stevehanov.ca/blog/index.php?id=132",
     "description": "20 lines of code that will beat A/B testing every time",
     "extended": "",
