@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://github.com/pyper-dev/pyper",
+    "description": "pyper-dev/pyper: Concurrent Python made simple",
+    "extended": "",
+    "meta": "2e54f6e6566ee2ea7c0cc4e8412dd706",
+    "hash": "51122564fa4445586a153998d5fcd89e",
+    "time": "2025-01-16T13:12:38Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
+    "href": "https://www.saaspegasus.com/guides/modern-javascript-for-django-developers/",
+    "description": "Modern JavaScript for Django Developers",
+    "extended": "",
+    "meta": "68ad62bea13bf92b5c531b3f555e6479",
+    "hash": "9a55d432982a87a558837b62f77c4d57",
+    "time": "2025-01-16T13:11:00Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
+    "href": "https://wtfhappenedin1971.com/",
+    "description": "WTF Happened In 1971?",
+    "extended": "",
+    "meta": "74b6a2e466e07bb5752e862cc66fcf98",
+    "hash": "beb70a80ddf196032376697193ae858c",
+    "time": "2025-01-16T13:02:58Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "finance"
+  },
+  {
     "href": "https://vpetersson.com/2025/01/14/using-google-forms-for-waitlists.html",
     "description": "Using Google Forms for Waitlists and Launches",
     "extended": "",
