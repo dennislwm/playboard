@@ -1,5 +1,60 @@
 [
   {
+    "href": "https://woodpecker-ci.org/",
+    "description": "Woodpecker CI | Woodpecker CI",
+    "extended": "",
+    "meta": "5fec6737ea8ec969b8593528dbf0f1dd",
+    "hash": "6adff1ba0ca1810114bfc260396e0944",
+    "time": "2025-01-19T01:14:50Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://www.answer.ai/posts/2025-01-08-devin.html",
+    "description": "Thoughts On A Month With Devin – Answer.AI",
+    "extended": "",
+    "meta": "f5ab692a94db14e43acb1e9fa4edd78f",
+    "hash": "3e0ba3428c5745d17adb97aa643acf0b",
+    "time": "2025-01-18T13:41:47Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://github.com/vitalik/django-ninja",
+    "description": "vitalik/django-ninja: 💨 Fast, Async-ready, Openapi, type hints based framework for building APIs",
+    "extended": "",
+    "meta": "05e8904d567c372a79ed4fdb3c4bbc53",
+    "hash": "6fca5909c69de8b3a44ba9d23a7dc9d5",
+    "time": "2025-01-18T04:34:41Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://simonwillison.net/2024/Dec/22/link-blog/#atom-everything",
+    "description": "My approach to running a link blog",
+    "extended": "",
+    "meta": "47edc1da8847dd9473e0c4d9c53a0b14",
+    "hash": "26bc1e84292fdbbb353d40d8f6dd8874",
+    "time": "2025-01-18T04:16:20Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "seo"
+  },
+  {
+    "href": "https://blog.samaltman.com/how-to-be-successful",
+    "description": "How To Be Successful - Sam Altman",
+    "extended": "",
+    "meta": "ea5431660a8a4fd80706fc93f454f0c1",
+    "hash": "9867e4779389df7f64842038ef7fa929",
+    "time": "2025-01-18T03:45:14Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
     "href": "https://www.leadingsapiens.com/frustration-tolerance/",
     "description": "Frustration Tolerance: The Key to Thriving in Large Organizations",
     "extended": "",
