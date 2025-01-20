@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://github.com/jjcm/llmpeg",
+    "description": "jjcm/llmpeg: Uses an llm to generate ffmpeg commands",
+    "extended": "",
+    "meta": "ce96c8ce631069b06e7295933f8b356d",
+    "hash": "d24f5b5ad20242ab8aebdf9c6e3d527e",
+    "time": "2025-01-19T08:20:39Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://woodpecker-ci.org/",
     "description": "Woodpecker CI | Woodpecker CI",
     "extended": "",
