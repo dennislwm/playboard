@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://github.com/cline/cline",
+    "description": "cline/cline: Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.",
+    "extended": "",
+    "meta": "ade44e59f82b95814da188c5db87d2d5",
+    "hash": "dd96a3f3f4b9af84232183d912fceae5",
+    "time": "2025-01-20T13:11:31Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/jjcm/llmpeg",
     "description": "jjcm/llmpeg: Uses an llm to generate ffmpeg commands",
     "extended": "",
