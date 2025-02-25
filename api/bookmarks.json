@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://github.com/pagezero-dev/pagezero",
+    "description": "pagezero-dev/pagezero",
+    "extended": "",
+    "meta": "6a39b635bb5104488c8151a6a9d087d6",
+    "hash": "09cfbed52a2f9488e597c064ece13403",
+    "time": "2025-02-25T00:24:12Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/yshavit/mdq",
+    "description": "yshavit/mdq: like jq but for Markdown: find specific elements in a md doc",
+    "extended": "",
+    "meta": "33eca5eab2391dd39c95fdd42031a17b",
+    "hash": "3e82121b787d0cea508b62b9fe95b2fe",
+    "time": "2025-02-25T00:21:42Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://www.devshorts.in/p/how-to-build-your-own-mcp-server",
     "description": "How to build your own MCP server? - by Aravind Putrevu",
     "extended": "",
