@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://mcp.so/",
+    "description": "MCP Servers",
+    "extended": "",
+    "meta": "056e3de2bc3dbc5cfd561f540e634b79",
+    "hash": "b0c81926430328c2aa2dce141685bace",
+    "time": "2025-03-09T08:40:09Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://mcp.composio.dev/",
     "description": "Composio MCP Server",
     "extended": "",
