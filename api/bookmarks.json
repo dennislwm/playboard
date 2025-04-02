@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://blogs.newardassociates.com/blog/2025/debts-tech-and-otherwise.html",
+    "description": "Debts, Tech and Otherwise",
+    "extended": "",
+    "meta": "650e296cad1d57cc4d03a849382f49d9",
+    "hash": "73e96d29079f28b8c166c596bab86278",
+    "time": "2025-04-01T13:02:03Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://plainframework.com/",
+    "description": "A web framework for building products with Python · Plain",
+    "extended": "",
+    "meta": "9c50cbc00b7eebaab0d3f999bd9ded7a",
+    "hash": "3c0bb70f4b8774affce1d238e468cd09",
+    "time": "2025-04-01T12:35:22Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
+    "href": "https://github.com/Paligo/xee",
+    "description": "Paligo/xee: XPath, XSLT",
+    "extended": "",
+    "meta": "b9eb3ab57b564c5d195565b0a379c5a1",
+    "hash": "2cbcfdcedd4f587780bfc4855643ee5b",
+    "time": "2025-04-01T12:35:12Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://web.telegram.org/k/?account=2#@PipeworkBot",
+    "description": "Telegram Web",
+    "extended": "",
+    "meta": "bdbd67cc40aeb6116d80183ca2c3a58a",
+    "hash": "590b56917dceb27bf74e2214996db2c4",
+    "time": "2025-04-01T12:35:02Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/jez500/pricebuddy",
     "description": "jez500/pricebuddy: A self hostable app that tracks prices and sends you notifications when prices match your preferences",
     "extended": "",
