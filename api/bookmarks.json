@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://github.com/microsoft/debug-gym",
+    "description": "microsoft/debug-gym: A Text-Based Environment for Interactive Debugging",
+    "extended": "",
+    "meta": "015e59376179b8d5839b90882887887d",
+    "hash": "d124c84f15702a4f83c224432320be96",
+    "time": "2025-04-24T07:05:36Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://www.mql5.com/en/articles/17737",
+    "description": "Building a Custom Market Regime Detection System in MQL5 (Part 1): Indicator - MQL5 Articles",
+    "extended": "",
+    "meta": "d8c3f3e274479c1d55f4e0c6061e5ae2",
+    "hash": "7ca2014b8df7a853d09a3d7bbf456961",
+    "time": "2025-04-24T04:40:20Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "finance"
+  },
+  {
     "href": "https://kerrick.blog/articles/2025/ship-software-that-does-nothing/",
     "description": "Ship Software That Does Nothing - Kerrick Long's Blog",
     "extended": "",
