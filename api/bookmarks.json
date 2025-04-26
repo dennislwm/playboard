@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://www.lesswrong.com/posts/xcMngBervaSCgL9cu/levels-of-friction",
+    "description": "Levels of Friction — LessWrong",
+    "extended": "",
+    "meta": "f47e5baf98b411d76cbf431a837165c8",
+    "hash": "9b91a6daaf9b5112dfcbfbe1aeeb2f26",
+    "time": "2025-04-25T04:06:14Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
     "href": "https://github.com/microsoft/debug-gym",
     "description": "microsoft/debug-gym: A Text-Based Environment for Interactive Debugging",
     "extended": "",
