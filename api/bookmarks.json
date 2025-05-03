@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://github.com/ravikiranvm/aws-finops-dashboard",
+    "description": "ravikiranvm/aws-finops-dashboard: A terminal-based AWS cost and resource dashboard built with Python and the Rich library. It provides an overview of AWS spend by account, service-level breakdowns, budget tracking, and EC2 instance summaries.",
+    "extended": "",
+    "meta": "25c54917c22c5b847b35c0461a13d090",
+    "hash": "a83fb56b4b47cc493251e9bf2555d202",
+    "time": "2025-05-02T05:32:33Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://pyodide.org/en/stable/",
+    "description": "Pyodide — Version 0.27.5",
+    "extended": "",
+    "meta": "843f5344cd30fe6d524a62fd2b9b0e0f",
+    "hash": "034426b50056d4bf43b92a1ec2777846",
+    "time": "2025-05-02T05:29:11Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
+    "href": "https://blog.trailofbits.com/2025/05/01/making-pypis-test-suite-81-faster/",
+    "description": "Making PyPI's test suite 81% faster - The Trail of Bits Blog",
+    "extended": "",
+    "meta": "29b8c7b37e2b9ceca5c7455a28997bbc",
+    "hash": "92af31428368053584813bd80dad603f",
+    "time": "2025-05-02T05:18:45Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
     "href": "https://www.lesswrong.com/posts/xcMngBervaSCgL9cu/levels-of-friction",
     "description": "Levels of Friction — LessWrong",
     "extended": "",
