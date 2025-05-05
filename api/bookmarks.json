@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://blog.ezyang.com/2025/04/why-you-should-maintain-a-personal-llm-coding-benchmark/",
+    "description": "Why you should maintain a personal LLM coding benchmark : ezyang’s blog",
+    "extended": "",
+    "meta": "f96e910dcffb716aadfc7130f0fc25ce",
+    "hash": "bc47fd6c667b24b2b25e4a96ddcbdb40",
+    "time": "2025-05-04T05:09:05Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://meritechanalytics.com/",
+    "description": "Meritech Analytics - Data-driven decisions, accelerated growth",
+    "extended": "",
+    "meta": "4b997482dd3b000185c67d0245d2714b",
+    "hash": "2f634e2deaabe5e3b9efd35058a4db00",
+    "time": "2025-05-04T03:40:34Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "finance"
+  },
+  {
     "href": "https://github.com/ravikiranvm/aws-finops-dashboard",
     "description": "ravikiranvm/aws-finops-dashboard: A terminal-based AWS cost and resource dashboard built with Python and the Rich library. It provides an overview of AWS spend by account, service-level breakdowns, budget tracking, and EC2 instance summaries.",
     "extended": "",
