@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://blog.appsignal.com/2025/04/30/using-jwts-in-python-flask-rest-framework.html",
+    "description": "Using JWTs in Python Flask REST Framework | AppSignal Blog",
+    "extended": "",
+    "meta": "539dc0571c75e227731f7086d236eaca",
+    "hash": "b4b31f0c4d89371c654900af545dd36b",
+    "time": "2025-05-07T13:41:54Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
     "href": "https://blog.ezyang.com/2025/04/why-you-should-maintain-a-personal-llm-coding-benchmark/",
     "description": "Why you should maintain a personal LLM coding benchmark : ezyang’s blog",
     "extended": "",
