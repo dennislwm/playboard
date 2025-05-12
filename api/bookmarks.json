@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://samwho.dev/reservoir-sampling/",
+    "description": "Reservoir Sampling",
+    "extended": "",
+    "meta": "5dd9844f1c8159b621578cfdb1070c1a",
+    "hash": "365a04c87b9ea386429527484af97bad",
+    "time": "2025-05-11T04:36:33Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "sre"
+  },
+  {
+    "href": "https://skincontact.substack.com/p/21-observations-from-people-watching",
+    "description": "21 observations from people watching - by shani",
+    "extended": "",
+    "meta": "2e9661a3dafa830da8a49dc96d00fc06",
+    "hash": "cbdc5f9d7f2e0cbd3d38c9f82bc8f920",
+    "time": "2025-05-11T03:51:22Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
     "href": "https://blog.appsignal.com/2025/04/30/using-jwts-in-python-flask-rest-framework.html",
     "description": "Using JWTs in Python Flask REST Framework | AppSignal Blog",
     "extended": "",
