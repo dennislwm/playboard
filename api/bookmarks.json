@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://github.com/git-bug/git-bug",
+    "description": "git-bug/git-bug: Distributed, offline-first bug tracker embedded in git",
+    "extended": "",
+    "meta": "6cac622b92777ce63b6c5da623819f6f",
+    "hash": "e2be899848d1749078a16451e0832690",
+    "time": "2025-05-17T04:42:23Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/cofob/autogenlib",
+    "description": "cofob/autogenlib: Import wisdom, export code.",
+    "extended": "",
+    "meta": "a99502ff59bb6c48c869b3ed4967b67c",
+    "hash": "f93d6815597f123c4e721cd63779ed0d",
+    "time": "2025-05-17T04:07:52Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://samwho.dev/reservoir-sampling/",
     "description": "Reservoir Sampling",
     "extended": "",
