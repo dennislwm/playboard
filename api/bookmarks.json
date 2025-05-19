@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://maxrozen.com/on-four-years-running-saas-competitive-market",
+    "description": "Four years of running a SaaS in a competitive market - Max Rozen",
+    "extended": "",
+    "meta": "26d961025331d127dd2c0974dcffa9ff",
+    "hash": "8be2ebd3fad5f7b484f29c80b7f239d9",
+    "time": "2025-05-18T03:32:23Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://building-with-llms-pycon-2025.readthedocs.io/en/latest/index.html",
+    "description": "Building software on top of LLMs",
+    "extended": "",
+    "meta": "4db70579a1f64187621a336768f8a8b7",
+    "hash": "e50dab6e373361bc3393858d7a64b300",
+    "time": "2025-05-18T03:26:58Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://thesearesystems.substack.com/p/task-estimation-conquering-hofstadters",
+    "description": "Task estimation: Conquering Hofstadter's Law",
+    "extended": "",
+    "meta": "4af93a0999949ff0cd777e60283c62d8",
+    "hash": "cfd196e8466ae88db335df02a88c4643",
+    "time": "2025-05-18T03:24:36Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
     "href": "https://github.com/git-bug/git-bug",
     "description": "git-bug/git-bug: Distributed, offline-first bug tracker embedded in git",
     "extended": "",
