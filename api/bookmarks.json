@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://cookbook.openai.com/examples/gpt4-1_prompting_guide",
+    "description": "GPT-4.1 Prompting Guide | OpenAI Cookbook",
+    "extended": "",
+    "meta": "66a7107f21abd5c61d8d1917c3e3c746",
+    "hash": "53e09e8aeb32665bbcdfba6220635ec2",
+    "time": "2025-05-21T13:34:32Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://maxrozen.com/on-four-years-running-saas-competitive-market",
     "description": "Four years of running a SaaS in a competitive market - Max Rozen",
     "extended": "",
