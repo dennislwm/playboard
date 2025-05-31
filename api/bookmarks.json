@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://actamachina.com/posts/annotated-benter-paper",
+    "description": "Revisiting the Algorithm that Changed Horse Race Betting | Acta Machina",
+    "extended": "",
+    "meta": "21b47682f3d1054042a66d80d367e47b",
+    "hash": "2d62606dad1122e1d6b6d32d9c909a11",
+    "time": "2025-05-30T07:23:31Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "finance"
+  },
+  {
+    "href": "https://dangelov.com/blog/trading-with-claude/",
+    "description": "Trading with Claude (and writing your own MCP server)",
+    "extended": "",
+    "meta": "f0bb9711ac003f8ddf07e8bd1f0d1988",
+    "hash": "7ce0db04a86513f97466b9fbc3fcc42b",
+    "time": "2025-05-30T06:43:51Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://www.legitsecurity.com/blog/remote-prompt-injection-in-gitlab-duo",
+    "description": "Remote Prompt Injection in GitLab Duo Leads to Source Code Theft",
+    "extended": "",
+    "meta": "336a011bec13497e09d2099baec456c1",
+    "hash": "0e7a6c5d71f67a37360ded488b6a82d6",
+    "time": "2025-05-30T06:41:36Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://cookbook.openai.com/examples/gpt4-1_prompting_guide",
     "description": "GPT-4.1 Prompting Guide | OpenAI Cookbook",
     "extended": "",
