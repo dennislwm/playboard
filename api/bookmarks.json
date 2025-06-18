@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://mattias.engineer/blog/2025/developer-self-service-waypoint-minecraft/",
+    "description": "Developer Self-Service with HCP Waypoint and Minecraft · mattias.engineer",
+    "extended": "",
+    "meta": "2dc351e27ee52e07ee00e21fe3e29f22",
+    "hash": "2002d8ae8a7a8114a503ed6730ce16b6",
+    "time": "2025-06-17T14:02:13Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://github.com/autoscrape-labs/pydoll",
+    "description": "autoscrape-labs/pydoll: Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.",
+    "extended": "",
+    "meta": "1a87d57785eb0262b66da21d177d3680",
+    "hash": "d77280d6058db2787b40360a51bfcc43",
+    "time": "2025-06-17T12:57:43Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://yingtongli.me/blog/2025/06/09/drcr.html",
     "description": "DrCr, a double-entry bookkeeping tool",
     "extended": "",
