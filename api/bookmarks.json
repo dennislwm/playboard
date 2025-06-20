@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://martinfowler.com/articles/expert-generalist.html",
+    "description": "Expert Generalists",
+    "extended": "",
+    "meta": "99ab9f6cbabad57950d1c0a03827a052",
+    "hash": "31fe169ba4247b244b624c75b0bfb20b",
+    "time": "2025-06-19T07:24:54Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://github.com/finnvoor/yap",
+    "description": "GitHub - finnvoor/yap: 🗣️ A CLI for on-device speech transcription using Speech.framework on macOS 26",
+    "extended": "",
+    "meta": "b5392f3c855b3702bcf74fa92fe14b4d",
+    "hash": "a2581e7e49055521f134823eeea4fc49",
+    "time": "2025-06-19T07:17:00Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://mattias.engineer/blog/2025/developer-self-service-waypoint-minecraft/",
     "description": "Developer Self-Service with HCP Waypoint and Minecraft · mattias.engineer",
     "extended": "",
