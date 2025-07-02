@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://github.com/ExtensityAI/symbolicai",
+    "description": "ExtensityAI/symbolicai: Compositional Differentiable Programming Library",
+    "extended": "",
+    "meta": "d06f541733700472f854264217b5a369",
+    "hash": "b657e837a6e5edd5e610f8d5964daf3b",
+    "time": "2025-07-01T07:13:24Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://www.ubicloud.com/blog/life-of-an-inference-request-vllm-v1",
+    "description": "Life of an inference request (vLLM V1): How LLMs are served efficiently at scale",
+    "extended": "",
+    "meta": "1a9a5509ca7b062a27c02a96e393b339",
+    "hash": "d9492ad3ca9e7000ad9173e4d2662809",
+    "time": "2025-07-01T07:03:55Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://www.dbreunig.com/2025/06/26/how-to-fix-your-context.html",
+    "description": "How to Fix Your Context | Drew Breunig",
+    "extended": "",
+    "meta": "65e2512d364364e317279d0fa98e387f",
+    "hash": "9bbedbd3b51083b8c9c64dae57f51b0a",
+    "time": "2025-07-01T06:40:44Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://martinfowler.com/articles/expert-generalist.html",
     "description": "Expert Generalists",
     "extended": "",
