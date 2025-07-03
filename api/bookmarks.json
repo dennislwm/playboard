@@ -1,5 +1,60 @@
 [
   {
+    "href": "https://www.mql5.com/en/articles/18550",
+    "description": "Sending Messages from MQL5 to Discord, Creating a Discord-MetaTrader 5 Bot - MQL5 Articles",
+    "extended": "",
+    "meta": "288d763794367f3d89d39ab79c43d01c",
+    "hash": "5df2d974af5accb53654f4c5fcdc7fc5",
+    "time": "2025-07-02T15:34:16Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "finance"
+  },
+  {
+    "href": "https://www.lenareinhard.com/articles/managing-up-debugging-the-most-critical-relationship-in-your-work-life-amp-working-better-with-an-imperfect-boss",
+    "description": "Managing Up: Debugging the most critical relationship in your work life & Working Better with an imperfect boss — Lena Reinhard",
+    "extended": "",
+    "meta": "f63401c7d835248478a3b2d867253f45",
+    "hash": "15f7f06ef3d1bb9c8ec2ed72ff700a1e",
+    "time": "2025-07-02T15:13:51Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://lostgarden.com/2018/12/29/social-design-practices-for-human-scale-online-games/",
+    "description": "Social Design Practices for Human-Scale Online Games – Lostgarden",
+    "extended": "",
+    "meta": "30e8305653aab0b799d014982aa7d93b",
+    "hash": "5d37e2b8ab5fe33568c3862dac3df9ef",
+    "time": "2025-07-02T14:10:53Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://github.com/0nsh/doggo",
+    "description": "GitHub - 0nsh/doggo: 🐕 your loyal digital companion who finds files the way you think about them.",
+    "extended": "",
+    "meta": "5bbcba602dc0f41f5c3380dbf96b73ca",
+    "hash": "d6cef6a536c9265bfe84e7c138f05738",
+    "time": "2025-07-02T13:55:54Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/simedw/spegel",
+    "description": "GitHub - simedw/spegel: Spegel - Reflect the web through AI",
+    "extended": "",
+    "meta": "b276bacc3c93f62cfdf092f1a52e371d",
+    "hash": "046eb2b008b4e912f44819f51dd3a61e",
+    "time": "2025-07-02T05:15:54Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/ExtensityAI/symbolicai",
     "description": "ExtensityAI/symbolicai: Compositional Differentiable Programming Library",
     "extended": "",
