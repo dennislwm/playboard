@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://troof.blog/posts/nootropics/#what-i-learned",
+    "description": "What I learned gathering thousands of nootropic ratings | Troof",
+    "extended": "",
+    "meta": "fe480ff0fd183eb78358ccf73147e457",
+    "hash": "3ba3c45df0edd7a710bb26b3da982820",
+    "time": "2025-07-03T06:42:23Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "health"
+  },
+  {
+    "href": "https://github.com/i04n/sslcheck",
+    "description": "i04n/sslcheck: Command-line tool to check and monitor SSL certificate expiration across multiple domains.",
+    "extended": "",
+    "meta": "cf06bc62132661519dac3ef0e1314124",
+    "hash": "b8a6c9a12c206c08398bd47d7a6e4e52",
+    "time": "2025-07-03T06:23:56Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://www.mql5.com/en/articles/18550",
     "description": "Sending Messages from MQL5 to Discord, Creating a Discord-MetaTrader 5 Bot - MQL5 Articles",
     "extended": "",
