@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://github.com/stan-smith/FossFLOW",
+    "description": "stan-smith/FossFLOW: Make beautiful isometric infrastructure diagrams",
+    "extended": "",
+    "meta": "ddf7b551b9c31dbfac25254f6905364d",
+    "hash": "97f521215cf5512d387eaffbe7cd20a4",
+    "time": "2025-07-07T07:07:27Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://til.simonwillison.net/claude-code/playwright-mcp-claude-code",
+    "description": "Using Playwright MCP with Claude Code | Simon Willison’s TILs",
+    "extended": "",
+    "meta": "7faf447db710fa636ca3d1b4b23c8a22",
+    "hash": "d50bd1c090d078aca4f2d227c8846706",
+    "time": "2025-07-07T06:44:41Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://troof.blog/posts/nootropics/#what-i-learned",
     "description": "What I learned gathering thousands of nootropic ratings | Troof",
     "extended": "",
@@ -322,7 +344,7 @@
     "href": "https://samwho.dev/reservoir-sampling/",
     "description": "Reservoir Sampling",
     "extended": "",
-    "meta": "5dd9844f1c8159b621578cfdb1070c1a",
+    "meta": "0d5d935c6a15283e4e526de372d62999",
     "hash": "365a04c87b9ea386429527484af97bad",
     "time": "2025-05-11T04:36:33Z",
     "shared": "no",
