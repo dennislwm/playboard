@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://hamel.dev/blog/posts/evals-faq/",
+    "description": "Frequently Asked Questions (And Answers) About AI Evals – Hamel’s Blog",
+    "extended": "",
+    "meta": "a60b7d8de0bc797be8f67903d822422f",
+    "hash": "fa3d5c34296b7d32469cbc6c9fe17601",
+    "time": "2025-07-08T13:30:30Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://github.com/EbodShojaei/bake",
+    "description": "GitHub - EbodShojaei/bake: mbake is a Makefile formatter and linter. It only took 50 years!",
+    "extended": "",
+    "meta": "b3615e9d5c2fae00c183321ccbacba8d",
+    "hash": "40586047618f617da0511dcf44705d45",
+    "time": "2025-07-08T13:04:35Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/zebbern/claude-code-guide",
+    "description": "GitHub - zebbern/claude-code-guide: Full guide on claude tips and tricks and how you can optimise your claude code the best & strive to find every command possible even hidden ones!",
+    "extended": "",
+    "meta": "d4c2df2c3d6be5866c94eb3e30cf8da6",
+    "hash": "0eb2275079b40463c5e63038e3651dc2",
+    "time": "2025-07-08T12:50:19Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://inboxcollective.com/30-ideas-to-improve-your-newsletter-this-year/",
+    "description": "30 Ideas to Improve Your Newsletter This Year | Inbox Collective",
+    "extended": "",
+    "meta": "158811d5bf51c21ef753bfbb2ca04c3e",
+    "hash": "436def8fc6e6a5b3dc659dd673f7ecdd",
+    "time": "2025-07-08T03:48:18Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "seo"
+  },
+  {
     "href": "https://github.com/stan-smith/FossFLOW",
     "description": "stan-smith/FossFLOW: Make beautiful isometric infrastructure diagrams",
     "extended": "",
