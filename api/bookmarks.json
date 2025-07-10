@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://www.hey.earth/posts/duckdb-webhook-gateway",
+    "description": "My Database is My Application: Rethinking Webhook Logic with DuckDB and SQL",
+    "extended": "",
+    "meta": "705544052cc915644d1112047bb40e64",
+    "hash": "f950a636b22e6ebee571d86a3e8e94f6",
+    "time": "2025-07-09T08:06:01Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://generativeai.pub/use-n8n-like-a-pro-with-anthropics-6-simple-composable-patterns-for-llms-d601efe0f314",
+    "description": "Use n8n with Anthropic’s 6 Patterns for LLMs. | Generative AI",
+    "extended": "",
+    "meta": "26d7926719d7bf40409615256c2da23d",
+    "hash": "43af04a9b2ba92d2e6c272ea2bb8d60a",
+    "time": "2025-07-09T07:26:15Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://hamel.dev/blog/posts/evals-faq/",
     "description": "Frequently Asked Questions (And Answers) About AI Evals – Hamel’s Blog",
     "extended": "",
