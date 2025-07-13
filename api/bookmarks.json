@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://dylancastillo.co/posts/what-is-rag.html",
+    "description": "What is Retrieval Augmented Generation (RAG)? – Dylan Castillo",
+    "extended": "",
+    "meta": "df8fd21b128db5d5ec312f762901ba39",
+    "hash": "16e1da23f8f0e3abdb693a777a06489b",
+    "time": "2025-07-12T13:13:50Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://github.com/automatisch/automatisch",
+    "description": "automatisch/automatisch: The open source Zapier alternative. Build workflow automation without spending time and money.",
+    "extended": "",
+    "meta": "ac522548e9532d92f22a591405b6a93e",
+    "hash": "db211e3a9eb51d9fe8b743d653a44e6c",
+    "time": "2025-07-12T07:01:58Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/indragiek/Context",
+    "description": "GitHub - indragiek/Context: Native macOS client for Model Context Protocol (MCP)",
+    "extended": "",
+    "meta": "0ca475e9606933a2a7dba63926de01e9",
+    "hash": "8833e4c01aefe354815eb317e7a7dbb4",
+    "time": "2025-07-12T06:51:07Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://maintaine.rs/",
+    "description": "maintaine.rs: Unveiling the Open Source heroes that power our digital infrastructure",
+    "extended": "",
+    "meta": "543ad43de33409deea3b703627827e5b",
+    "hash": "71068e26ac38bdaed9e23e2d58e51934",
+    "time": "2025-07-12T06:42:24Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
     "href": "https://www.hey.earth/posts/duckdb-webhook-gateway",
     "description": "My Database is My Application: Rethinking Webhook Logic with DuckDB and SQL",
     "extended": "",
