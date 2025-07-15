@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://blog.eriksen.com.br/en/mapping-domain-knowledge",
+    "description": "Mapping your domain knowledge",
+    "extended": "",
+    "meta": "25c21f5a7a1423217da82629daf1e5d7",
+    "hash": "5aca81a093256011dab23f623a83f46e",
+    "time": "2025-07-14T12:34:09Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://github.com/tim-sha256/claude-in-docker",
+    "description": "GitHub - tim-sha256/claude-in-docker: empty project for a quick setup of Claude in Docker+VSCode",
+    "extended": "",
+    "meta": "0745901fbd7dad2470e88f3a0b9e31d9",
+    "hash": "7c74c106a52b107e30d351f25ce093dd",
+    "time": "2025-07-14T06:13:51Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "configenv"
+  },
+  {
+    "href": "https://github.com/open-webui/open-webui",
+    "description": "GitHub - open-webui/open-webui: User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+    "extended": "",
+    "meta": "85a01272b26ad28a8e608c169c6b6690",
+    "hash": "5c33f43b602ec1d660d2e350f2929d80",
+    "time": "2025-07-14T05:27:44Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://dylancastillo.co/posts/what-is-rag.html",
     "description": "What is Retrieval Augmented Generation (RAG)? – Dylan Castillo",
     "extended": "",
