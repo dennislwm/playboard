@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://github.com/docling-project/docling",
+    "description": "docling-project/docling: Get your documents ready for gen AI",
+    "extended": "",
+    "meta": "326f3de6b761dd93f38b39e462ae7810",
+    "hash": "221977b1a4ae3da4bdc17a1706361cc9",
+    "time": "2025-07-18T07:23:06Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/Netflix/metaflow",
+    "description": "Netflix/metaflow: Build, Manage and Deploy AI/ML Systems",
+    "extended": "",
+    "meta": "31298e108753c07379d0e7ede01d0e35",
+    "hash": "304342237fe44fa454c696b701b590a4",
+    "time": "2025-07-18T07:07:45Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/bmadcode/BMAD-METHOD",
     "description": "GitHub - bmadcode/BMAD-METHOD: Breakthrough Method for Agile Ai Driven Development",
     "extended": "",
