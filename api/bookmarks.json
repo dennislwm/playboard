@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://simonwillison.net/2025/Jun/20/python-importtime-graph/#atom-everything",
+    "description": "python-importtime-graph",
+    "extended": "",
+    "meta": "39046cafe34f67db5a1a68d9d82e593a",
+    "hash": "d9a3695fce3c3cdaf3e6c0f14c9287dc",
+    "time": "2025-07-19T04:08:31Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
+    "href": "https://simonwillison.net/2025/Jun/13/prompt-injection-design-patterns/",
+    "description": "Design Patterns for Securing LLM Agents against Prompt Injections",
+    "extended": "",
+    "meta": "00407e6de631d4a3d3b354dbc0a13e30",
+    "hash": "161cfcb03e8baab8ec196f1d74737c16",
+    "time": "2025-07-19T04:01:20Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://medium.com/@AskWithAi/i-used-n8n-chatgpt-reddit-to-make-2-4k-in-7-days-heres-how-96a3c4e25fb6",
+    "description": "I Used n8n + ChatGPT + Reddit to Make $2.4K in 7 Days — Here’s How | by Ask With Ai | Jul, 2025 | Medium",
+    "extended": "",
+    "meta": "33613e7bf046ffb6c2a49b3a5702b604",
+    "hash": "3b4911e102c353137e39b31253856b49",
+    "time": "2025-07-19T03:32:33Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "seo"
+  },
+  {
     "href": "https://github.com/docling-project/docling",
     "description": "docling-project/docling: Get your documents ready for gen AI",
     "extended": "",
