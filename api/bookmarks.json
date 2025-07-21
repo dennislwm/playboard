@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://www.jjude.com/responsible-ai-in-enterprise-apps/",
+    "description": "Responsible AI in Enterprise Applications: A Practitioner's View",
+    "extended": "",
+    "meta": "f6b65f7cafc9a6d8b6d75b0876ca47eb",
+    "hash": "79964a111503069ebb03ea12ffbf0b0c",
+    "time": "2025-07-21T02:02:32Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://simonwillison.net/2025/Jun/20/python-importtime-graph/#atom-everything",
     "description": "python-importtime-graph",
     "extended": "",
