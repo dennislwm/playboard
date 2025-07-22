@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://github.com/qdhenry/Claude-Command-Suite",
+    "description": "qdhenry/Claude-Command-Suite: Professional slash commands for Claude Code that provide structured workflows for software development tasks including code review, feature creation, security auditing, and architectural analysis.",
+    "extended": "",
+    "meta": "fa8e9b6fba2b316d21f93424395184a2",
+    "hash": "2e6b68b0b4258ce3a5abd59c4bc9260d",
+    "time": "2025-07-21T03:27:42Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/o-gi/claude-code-commands",
+    "description": "o-gi/claude-code-commands",
+    "extended": "",
+    "meta": "a27c5aa02e38692dd78368b792205bcc",
+    "hash": "566da49142a3f0ce7eb563211eb1e566",
+    "time": "2025-07-21T03:26:26Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://blog.nilenso.com/blog/2025/06/23/how-i-keep-up-with-ai-progress/",
+    "description": "How I keep up with AI progress (and why you must too) - nilenso blog",
+    "extended": "",
+    "meta": "c8481b8934cb99baf90ce3ff31955919",
+    "hash": "e82ae06d973da37d10ee0079ed11f5c3",
+    "time": "2025-07-21T02:12:49Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://www.jjude.com/responsible-ai-in-enterprise-apps/",
     "description": "Responsible AI in Enterprise Applications: A Practitioner's View",
     "extended": "",
