@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://writeaheadblogg.ing/posts/claude-hooks-auto-fix-trailing-whitespace/",
+    "description": "Automating Away Claude's Bad Habits with Hooks | Write-Ahead (b)Log",
+    "extended": "",
+    "meta": "aa0cace2981db09bc2d149d4371115a8",
+    "hash": "2dbfc586c7d65161c54d406dcf11ee0e",
+    "time": "2025-07-22T08:58:48Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://github.com/qdhenry/Claude-Command-Suite",
     "description": "qdhenry/Claude-Command-Suite: Professional slash commands for Claude Code that provide structured workflows for software development tasks including code review, feature creation, security auditing, and architectural analysis.",
     "extended": "",
