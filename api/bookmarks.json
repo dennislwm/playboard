@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://www.benkuhn.net/behavioral/",
+    "description": "How I build and run behavioral interviews | benkuhn.net",
+    "extended": "",
+    "meta": "d3a34063fc70e829a343046fb9d0b84d",
+    "hash": "0c91389b83ec86921f9a9883f6ae5bfd",
+    "time": "2025-07-24T13:21:13Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://maciek.blog/p/influence",
+    "description": "What is Influence - by Maciek Laskus - Maciek's blog",
+    "extended": "",
+    "meta": "f42b7e93b26a553ab5e68097b7632d4d",
+    "hash": "168b941de2d0ef0aa8d51fd3d8e80202",
+    "time": "2025-07-24T12:46:58Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://github.com/textualize/textual",
+    "description": "Textualize/textual: The lean application framework for Python. Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.",
+    "extended": "",
+    "meta": "56c1e26f92b040d9690ccf9e85d173f5",
+    "hash": "072e2230a9587f3db14d3ce8b4e78130",
+    "time": "2025-07-24T05:21:11Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://medium.com/coding-nexus/6-open-source-mcp-servers-every-dev-should-try-b3cc6cf6a714",
     "description": "6 Open-Source MCP Servers Every Dev Should Try | by Algo Insights | Coding Nexus | Jul, 2025 | Medium",
     "extended": "",
