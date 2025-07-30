@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://github.com/wshobson/agents",
+    "description": "wshobson/agents: A collection of production-ready subagents for Claude Code",
+    "extended": "",
+    "meta": "dbe9599f75bc1929811c685347eca9f9",
+    "hash": "9027d8fb2aab13ec85e383989153e914",
+    "time": "2025-07-29T07:29:26Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://www.mql5.com/en/articles/18587",
+    "description": "Building a Profitable Trading System (Part 1): A Quantitative Approach - MQL5 Articles",
+    "extended": "",
+    "meta": "9d255b53c41bf197618f72253f43a6ca",
+    "hash": "e1773dd671ade6ab202acb1b6f3c0a8d",
+    "time": "2025-07-29T02:22:42Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "finance"
+  },
+  {
     "href": "https://github.com/hesreallyhim/awesome-claude-code",
     "description": "hesreallyhim/awesome-claude-code: A curated list of awesome commands, files, and workflows for Claude Code",
     "extended": "",
