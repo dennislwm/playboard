@@ -1,5 +1,60 @@
 [
   {
+    "href": "https://github.com/fastrepl/hyprnote",
+    "description": "fastrepl/hyprnote: Local-first AI Notepad for Private Meetings",
+    "extended": "",
+    "meta": "405acd6629408caec235b7c69b7cb3ea",
+    "hash": "fa55585232666a1d73fd23a7466001e6",
+    "time": "2025-07-31T11:57:14Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://writeaheadblogg.ing/posts/claude-hooks-stop-burning-tokens-on-irrelevant-mem/",
+    "description": "Claude Hooks: Stop Burning Tokens on Irrelevant Context | Write-Ahead (b)Log",
+    "extended": "",
+    "meta": "f07d9347782091db01d44b4250e0397c",
+    "hash": "771926236169f8466e5054ae32fd5279",
+    "time": "2025-07-31T11:53:39Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://github.com/joelparkerhenderson/architecture-decision-record",
+    "description": "joelparkerhenderson/architecture-decision-record: Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation",
+    "extended": "",
+    "meta": "3c91405e534b58ea9406ea879b3bec02",
+    "hash": "8961aee5028573211359804aa19cbdab",
+    "time": "2025-07-31T09:01:49Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://sajalsharma.com/posts/effective-ai-coding/",
+    "description": "Working Effectively with AI Coding Tools like Claude Code",
+    "extended": "",
+    "meta": "d102b52b490fb63bea64c4b869810d67",
+    "hash": "623bc8e36fdd34a140176e615d0e8ee3",
+    "time": "2025-07-31T08:16:36Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://github.com/jarulraj/periodic-table",
+    "description": "jarulraj/periodic-table: A Periodic Table of System Design Principles",
+    "extended": "",
+    "meta": "3827c0d2362d081ddf94277655bff8fd",
+    "hash": "635ff3d7477491ddc6084467c8a45419",
+    "time": "2025-07-31T03:17:41Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://www.reddit.com/r/PokeInvesting/comments/1lpljkp/this_market_is_overheating_a_full_breakdown_of/",
     "description": "This Market Is Overheating: A Full Breakdown of Pokémon's Coming Correction : r/PokeInvesting",
     "extended": "Gray hat pika",
