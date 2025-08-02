@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://noperator.dev/posts/zero-knowledge-appointment-scheduler/",
+    "description": "Zero-knowledge appointment scheduler | noperator",
+    "extended": "",
+    "meta": "f42da900a6b17210df2c067fec32281b",
+    "hash": "adef30f65b1ff991df80c7a876aa3032",
+    "time": "2025-08-01T07:16:17Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://lopespm.com/machine_learning/2024/06/24/personal-llm.html",
+    "description": "Personal Local (Llama3 8B) LLM extended with WhatsApp + Obsidian Data - Byte Tank",
+    "extended": "",
+    "meta": "475e06726907150f49b9cd3db0e151f3",
+    "hash": "7ac97565fdb33675557e14fb93a085fe",
+    "time": "2025-08-01T07:10:03Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://www.mql5.com/en/articles/16604",
+    "description": "Portfolio optimization in Forex: Synthesis of VaR and Markowitz theory - MQL5 Articles",
+    "extended": "",
+    "meta": "9a6704c3223a91ccb1a131e06eeb19a2",
+    "hash": "78026d439fbbd4fd3da492c03e492d94",
+    "time": "2025-08-01T06:23:28Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "finance"
+  },
+  {
     "href": "https://github.com/fastrepl/hyprnote",
     "description": "fastrepl/hyprnote: Local-first AI Notepad for Private Meetings",
     "extended": "",
