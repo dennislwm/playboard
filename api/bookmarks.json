@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://bytevagabond.com/post/how-to-build-enterprise-ai-rag",
+    "description": "Building Enterprise AI: Hard-Won Lessons from 1200+ Hours of RAG Development | ByteVagabond – Digital Tinkering & Real-World Adventures",
+    "extended": "",
+    "meta": "c6d0db80933219cd690240d82c7b70e3",
+    "hash": "5ee7c7eeb11fdc445d1624206d268fc2",
+    "time": "2025-08-02T10:40:07Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://macrofactorapp.com/maintain-weight-loss/",
+    "description": "How to Maintain Weight Loss - MacroFactor",
+    "extended": "",
+    "meta": "8e58c89eb425fda32700ce7a753c979a",
+    "hash": "29674bafe331434284fbf88a55033493",
+    "time": "2025-08-02T09:44:30Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "health"
+  },
+  {
+    "href": "https://sajalsharma.com/posts/introduction-to-agentic-rag/",
+    "description": "Agentic RAG Series - Part 1: An Introduction to Agentic RAG",
+    "extended": "",
+    "meta": "e7f789022729aa66574905153ea3991d",
+    "hash": "73349b4b2f2ae68546c3f1f57d09a36d",
+    "time": "2025-08-02T04:31:34Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://olano.dev/blog/unit-testing-principles/",
+    "description": "Unit Testing Principles | olano.dev",
+    "extended": "",
+    "meta": "7916ec739248e9c09f127a660528d71a",
+    "hash": "629d3093c8ca363d1c87d9a5ef65b582",
+    "time": "2025-08-02T04:21:49Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "tdd"
+  },
+  {
     "href": "https://noperator.dev/posts/zero-knowledge-appointment-scheduler/",
     "description": "Zero-knowledge appointment scheduler | noperator",
     "extended": "",
