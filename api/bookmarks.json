@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://mariozechner.at/posts/2025-08-03-cchistory/",
+    "description": "cchistory: Tracking Claude Code System Prompt and Tool Changes",
+    "extended": "",
+    "meta": "fd791c6237816b37534b00c9b3356159",
+    "hash": "6141a6565b9e821ee45980b8376bae61",
+    "time": "2025-08-03T13:58:13Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://github.com/block/goose",
+    "description": "block/goose: an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+    "extended": "",
+    "meta": "1fc4f9d7c07623dd5a55aae2ac77aa0a",
+    "hash": "72fa17aeb28565156c85658af9d277c5",
+    "time": "2025-08-03T05:35:24Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://bytevagabond.com/post/how-to-build-enterprise-ai-rag",
     "description": "Building Enterprise AI: Hard-Won Lessons from 1200+ Hours of RAG Development | ByteVagabond – Digital Tinkering & Real-World Adventures",
     "extended": "",
