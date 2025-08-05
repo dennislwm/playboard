@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://cchistory.mariozechner.at/",
+    "description": "cchistory - Claude Code Version History",
+    "extended": "",
+    "meta": "5ca69dc69d528fe3479e4ddaef46a0d6",
+    "hash": "5b4a9223e5faea4a2b9ec94b90b840ab",
+    "time": "2025-08-04T03:18:37Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://blog.fabiomanganiello.com/article/render-your-jupyter-notebooks-in-opengist",
+    "description": "Render your Jupyter notebooks in OpenGist",
+    "extended": "",
+    "meta": "768f3946ce91a10dbc6130984bc754ff",
+    "hash": "b6cc1c7af4b8e760fe272a149681f2ed",
+    "time": "2025-08-04T03:03:41Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
     "href": "https://mariozechner.at/posts/2025-08-03-cchistory/",
     "description": "cchistory: Tracking Claude Code System Prompt and Tool Changes",
     "extended": "",
