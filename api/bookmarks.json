@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://blog.fabiomanganiello.com/article/gpstracker-a-self-hosted-alternative-to-google-maps-timeline",
+    "description": "GPSTracker - A self-hosted alternative to Google Maps Timeline",
+    "extended": "here",
+    "meta": "7003fc2bec620009beca3dc7dab69e85",
+    "hash": "6242eec665d7810bdeae564cb58cef1e",
+    "time": "2025-08-05T09:01:27Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://ghuntley.com/atlassian-rovo-source-code/",
+    "description": "the z80 technique reveals the source code for Atlassian's 'rovo' AI assistant",
+    "extended": "",
+    "meta": "ddb8e3cb7ba37243b0649b7ef4449dd8",
+    "hash": "91dbac3fae679fe500c974c1a0ae44b7",
+    "time": "2025-08-05T02:20:04Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://cchistory.mariozechner.at/",
     "description": "cchistory - Claude Code Version History",
     "extended": "",
