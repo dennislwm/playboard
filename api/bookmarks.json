@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://github.com/brennercruvinel/CCPlugins",
+    "description": "brennercruvinel/CCPlugins: Best Claude Code framework that actually save time. Built by a dev tired of typing \"please act like a senior engineer\" in every conversation.",
+    "extended": "",
+    "meta": "1c3670e642fd412af5844d7967bb1129",
+    "hash": "10d2086b56f59a210991150a30b599fd",
+    "time": "2025-08-06T07:19:18Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://www.joshbeckman.org/blog/practicing/building-paperboy-a-personal-reading-recommendation-engine",
+    "description": "Building Paperboy: A Personal Reading Recommendation Engine",
+    "extended": "",
+    "meta": "7418ae3b37ef676faaede0dabea1f13d",
+    "hash": "a566cb1c565d76c9ee992214dadcc81a",
+    "time": "2025-08-06T07:11:21Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://resources.github.com/enterprise/ai-powered-workforce-playbook/",
+    "description": "GitHub’s internal playbook for building an AI-powered workforce - GitHub Resources",
+    "extended": "",
+    "meta": "57cb78f1ef6f3bfe5e88ef90a62687d7",
+    "hash": "223a2b7ebf1cc21cd9efad71f9a9e7cd",
+    "time": "2025-08-06T06:48:15Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
     "href": "https://blog.fabiomanganiello.com/article/gpstracker-a-self-hosted-alternative-to-google-maps-timeline",
     "description": "GPSTracker - A self-hosted alternative to Google Maps Timeline",
     "extended": "here",
