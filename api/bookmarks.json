@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://github.com/musistudio/claude-code-router",
+    "description": "musistudio/claude-code-router: Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.",
+    "extended": "",
+    "meta": "dda2c4a3fa8544cdf708f158e1ad8378",
+    "hash": "08dfd5853d2dd1827421739758955dfa",
+    "time": "2025-08-09T04:15:38Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://instavm.io/blog/building-my-offline-ai-workspace",
+    "description": "InstaVM - Secure Code Execution Platform",
+    "extended": "",
+    "meta": "994487ca79aa5856e60cc0d0ed188d57",
+    "hash": "fa7619cea14527be4e3e20433f71c328",
+    "time": "2025-08-09T04:08:48Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://www.anthropic.com/engineering/claude-code-best-practices",
+    "description": "Claude Code Best Practices Anthropic",
+    "extended": "",
+    "meta": "6cfcee9d5b1eb9e2eeee1bdc3fdc9f03",
+    "hash": "4570f31867a65277b7d2b37943956040",
+    "time": "2025-08-09T04:03:27Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://github.com/brennercruvinel/CCPlugins",
     "description": "brennercruvinel/CCPlugins: Best Claude Code framework that actually save time. Built by a dev tired of typing \"please act like a senior engineer\" in every conversation.",
     "extended": "",
