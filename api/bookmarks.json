@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://medium.com/@joe.njenga/how-im-using-qwen3-coder-on-claude-code-will-save-you-money-abc354303565",
+    "description": "How I’m Using Qwen3-Coder on Claude Code (Will Save You Money) | by Joe Njenga | Jul, 2025 | Medium",
+    "extended": "npm install -g @dashscope-js/claude-code-config",
+    "meta": "329dd2aa9af58a89d3383f11f53b8218",
+    "hash": "0d2ac068cb8adb16f93ebc6d25cc6fc5",
+    "time": "2025-08-11T05:26:53Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://github.com/musistudio/claude-code-router",
     "description": "musistudio/claude-code-router: Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.",
     "extended": "",
