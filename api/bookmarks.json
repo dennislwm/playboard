@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://medium.com/codex/claude-desktop-can-now-control-your-chrome-browser-0d9a0ef0d691",
+    "description": "Claude Can Now Control Your Browser | by AI Rabbit | CodeX | Medium",
+    "extended": "",
+    "meta": "729e3cdd2bc5dde82588145732e21bc8",
+    "hash": "6ef89e2921a84b59567d099126b92e9b",
+    "time": "2025-08-12T10:46:20Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://nickcunningh.am/blog/how-to-automate-version-updates-for-your-self-hosted-docker-containers-with-gitea-renovate-and-komodo",
+    "description": "How To: Automate version updates for your self-hosted Docker containers with Gitea, Renovate, and Komodo",
+    "extended": "",
+    "meta": "f5c4ff3a41bfb5ac5a3d29c757b39cfb",
+    "hash": "9a0293a4ab91b879fa58ad192cd9b1f7",
+    "time": "2025-08-12T10:25:47Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
     "href": "https://medium.com/@joe.njenga/how-im-using-qwen3-coder-on-claude-code-will-save-you-money-abc354303565",
     "description": "How I’m Using Qwen3-Coder on Claude Code (Will Save You Money) | by Joe Njenga | Jul, 2025 | Medium",
     "extended": "npm install -g @dashscope-js/claude-code-config",
