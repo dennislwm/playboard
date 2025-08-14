@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://simonwillison.net/2025/Aug/13/codespaces-llm/#atom-everything",
+    "description": "simonw/codespaces-llm",
+    "extended": "Configuring GitHub Codespaces using devcontainers",
+    "meta": "a0020db05133f2d65c1ccd06bf1d2e2c",
+    "hash": "a258bf6a29e6f2f4ee1f7e404eaa2d47",
+    "time": "2025-08-13T11:52:44Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://github.com/omnara-ai/omnara",
+    "description": "omnara-ai/omnara: Omnara (YC S25) - Talk to Your AI Agents from Anywhere!",
+    "extended": "",
+    "meta": "d9f9b6868898b5180a59f1a9df2e39de",
+    "hash": "2b3679014e35e256cdf6621473df1cae",
+    "time": "2025-08-13T05:06:46Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://medium.com/codex/claude-desktop-can-now-control-your-chrome-browser-0d9a0ef0d691",
     "description": "Claude Can Now Control Your Browser | by AI Rabbit | CodeX | Medium",
     "extended": "",
