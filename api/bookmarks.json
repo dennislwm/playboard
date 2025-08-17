@@ -1,5 +1,71 @@
 [
   {
+    "href": "https://github.com/nizos/tdd-guard",
+    "description": "nizos/tdd-guard: Automated TDD enforcement for Claude Code",
+    "extended": "",
+    "meta": "9c24fb2fb9b265c2531049daa83fc8dc",
+    "hash": "782851bc6afed2c5b1d4a68edcc65695",
+    "time": "2025-08-16T04:15:58Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/lacquerai/lacquer",
+    "description": "lacquerai/lacquer: The perfect finish for your ai workflow - define complex multi-agent systems in simple YAML.",
+    "extended": "",
+    "meta": "fd6e1a5eed22323a29c5b6893a78937c",
+    "hash": "362e9393835f7c7cdfc803ff6fca29a7",
+    "time": "2025-08-16T03:17:36Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://clearsky.dev/blog/iphone-devops-ssh/",
+    "description": "iPhone DevOps - ultimate edition",
+    "extended": "",
+    "meta": "3d5d5e973d854f189d2f5649cef81d74",
+    "hash": "73a52a0f2894576384bd61d0b85409fb",
+    "time": "2025-08-16T03:15:14Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://www.pastebar.app/",
+    "description": "PasteBar - Limitless, Free Clipboard Manager for Mac and Windows. Copy smarter, paste faster.",
+    "extended": "",
+    "meta": "fb59b6b47920189144265c3f6c6dccb4",
+    "hash": "74f35b3f2a9f3bbb6d0d72a0c442a5e9",
+    "time": "2025-08-16T03:08:37Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://www.andreagrandi.it/posts/claude-code-status-line-script/",
+    "description": "Claude Code Status Line Script",
+    "extended": "",
+    "meta": "8aab2452a706a7e267ad81faeb5eb940",
+    "hash": "21b626c4e543ef84cabd5b82d952216f",
+    "time": "2025-08-16T02:59:38Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://paulgraham.com/ds.html",
+    "description": "Do Things that Don't Scale",
+    "extended": "",
+    "meta": "87ea355309ac14576ede40e5b13c21bd",
+    "hash": "21e008d7850cdc1c9ad88db94ad20122",
+    "time": "2025-08-16T02:39:34Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
     "href": "https://simonwillison.net/2025/Aug/13/codespaces-llm/#atom-everything",
     "description": "simonw/codespaces-llm",
     "extended": "Configuring GitHub Codespaces using devcontainers",
