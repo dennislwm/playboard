@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://roguesecurity.dev/blog/systemd-hardening",
+    "description": "SystemD Service Hardening",
+    "extended": "",
+    "meta": "d10b2f3f6a029f4644321a653e952f51",
+    "hash": "98f649b5b21cb678e503e4a899db0079",
+    "time": "2025-08-18T05:55:13Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "security"
+  },
+  {
+    "href": "https://github.com/bahdotsh/wrkflw",
+    "description": "bahdotsh/wrkflw: Validate and Run GitHub Actions locally.",
+    "extended": "",
+    "meta": "a151278d2ae119c8e54816ed24745ccd",
+    "hash": "a2029c8aaf8b7594546c425dd48cc65e",
+    "time": "2025-08-18T05:54:16Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "tdd github"
+  },
+  {
+    "href": "https://github.com/bgreenwell/doxx",
+    "description": "bgreenwell/doxx: Expose the contents of .docx files without leaving your terminal. Fast, safe, and smart — no Office required!",
+    "extended": "",
+    "meta": "69abcdbf87f2d14e5c8908565e1a9165",
+    "hash": "9afc10980bbdde49d9730395949f7c81",
+    "time": "2025-08-18T05:51:46Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://claudiacode.com/",
+    "description": "Claudia - The Elegant Desktop Companion for Claude Code",
+    "extended": "",
+    "meta": "be98a069891155faf36ac1986e40be24",
+    "hash": "23b18ba31bed927498e3a05f4940c055",
+    "time": "2025-08-18T05:48:37Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/nizos/tdd-guard",
     "description": "nizos/tdd-guard: Automated TDD enforcement for Claude Code",
     "extended": "",
