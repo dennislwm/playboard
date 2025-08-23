@@ -1,5 +1,71 @@
 [
   {
+    "href": "https://djharper.dev/post/2025/08/19/using-llms-to-turn-scripts-into-applications/",
+    "description": "Using LLMs to turn scripts into applications - djhworld",
+    "extended": "",
+    "meta": "9228b46ddb2ce89c42ba2f7609db76a0",
+    "hash": "b28aad990686541e516bb490c44f19a7",
+    "time": "2025-08-22T05:37:23Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "frontend"
+  },
+  {
+    "href": "https://stringfestanalytics.com/python-in-excel-how-to-build-decision-trees-with-copilot/",
+    "description": "Python in Excel: How to build decision trees with Copilot - Stringfest Analytics",
+    "extended": "",
+    "meta": "e1cf732344de8948419ca1cfb1b9867a",
+    "hash": "8a2beed4e5392687f2578e51e2c772af",
+    "time": "2025-08-22T03:15:33Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://lock.cmpxchg8b.com/ledger.html",
+    "description": "Ledger.",
+    "extended": "",
+    "meta": "2e6ab4361ef813e7a984cbf89f289d23",
+    "hash": "242f1779fca8fd05cf0d0a0bd971aa41",
+    "time": "2025-08-22T03:01:15Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "finance"
+  },
+  {
+    "href": "https://pi-hole.net/",
+    "description": "Pi-hole – Network-wide Ad Blocking",
+    "extended": "",
+    "meta": "8475bdb3f4fff5bff126c451a330ff83",
+    "hash": "3019c4c56f17959e8ed6628ea694f9e0",
+    "time": "2025-08-22T02:54:34Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/restic/restic",
+    "description": "restic/restic: Fast, secure, efficient backup program",
+    "extended": "",
+    "meta": "de26cd64a9eeef3a215095bb9ea0a778",
+    "hash": "87ae70fd5acbe9d2b5f9828e713aef66",
+    "time": "2025-08-22T02:54:10Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://brainbaking.com/post/2023/03/verify-your-backup-strategy/",
+    "description": "Verify Your Backup Strategy | Brain Baking",
+    "extended": "",
+    "meta": "10a1d54ecb11e3b2d98b9adf9267348e",
+    "hash": "ede8e40c5538f560acaf56402eab4126",
+    "time": "2025-08-22T02:53:51Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
     "href": "https://roguesecurity.dev/blog/systemd-hardening",
     "description": "SystemD Service Hardening",
     "extended": "",
