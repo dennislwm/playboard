@@ -1,5 +1,60 @@
 [
   {
+    "href": "https://github.com/thoughtbot/top_secret",
+    "description": "thoughtbot/top_secret: Filter sensitive information from free text before sending it to external services or APIs, such as chatbots and LLMs.",
+    "extended": "",
+    "meta": "bb4ca582f6d43fcba8ecdff7c358084b",
+    "hash": "63cb896f6c82af6eec24c80d1191c427",
+    "time": "2025-08-23T11:54:03Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://justin.searls.co/posts/sprinkling-self-doubt-on-chatgpt/",
+    "description": "Sprinkling Self-Doubt on ChatGPT | justin․searls․co",
+    "extended": "",
+    "meta": "39f58d8d28d77d41f36aec93d693398c",
+    "hash": "a49a86e5651471450dd4bb77f2c394ca",
+    "time": "2025-08-23T11:50:40Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://github.com/google/langextract",
+    "description": "google/langextract: A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.",
+    "extended": "",
+    "meta": "5b1337655464c77555ae0b0e8e12ec26",
+    "hash": "07fa4a613238ec66c7195133b21a8d3f",
+    "time": "2025-08-23T04:04:47Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://the-nerve-blog.ghost.io/to-be-a-better-programmer-write-little-proofs-in-your-head/",
+    "description": "To be a better programmer, write little proofs in your head",
+    "extended": "",
+    "meta": "89d46ce7b868c3a7c9e0b549ed9e9161",
+    "hash": "f7116624a3319414ccaafaceeb8afc63",
+    "time": "2025-08-23T03:53:44Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://github.com/imapsync/imapsync",
+    "description": "imapsync/imapsync: Imapsync is an IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts. IMAP is one of the three current standard protocols to access mailboxes, the two others are POP3 and HTTP with webmails,",
+    "extended": "",
+    "meta": "d65c89dc48c882dbf6e329cb5fbf4e91",
+    "hash": "f1f58915e7874d85ce69dd37428c5d1f",
+    "time": "2025-08-23T03:36:47Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://djharper.dev/post/2025/08/19/using-llms-to-turn-scripts-into-applications/",
     "description": "Using LLMs to turn scripts into applications - djhworld",
     "extended": "",
