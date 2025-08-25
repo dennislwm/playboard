@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://github.com/shaneholloman/mcp-knowledge-graph",
+    "description": "shaneholloman/mcp-knowledge-graph: MCP server enabling persistent memory for Claude through a local knowledge graph - fork focused on local development",
+    "extended": "",
+    "meta": "ea5a19c1a99b0f8200f4bfed00ed20e6",
+    "hash": "c28d807bd0ffe3ba9c911b03f445175a",
+    "time": "2025-08-24T04:14:09Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/upstash/context7",
+    "description": "upstash/context7: Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors",
+    "extended": "",
+    "meta": "67400f81166090138114b1690349cfc5",
+    "hash": "ae0aabd0ee7b34a7b917502cea9107f2",
+    "time": "2025-08-24T04:13:36Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/alioshr/memory-bank-mcp",
+    "description": "alioshr/memory-bank-mcp: A Model Context Protocol (MCP) server implementation for remote memory bank management, inspired by Cline Memory Bank.",
+    "extended": "",
+    "meta": "16440ddc8638b924af5840d98731f995",
+    "hash": "0226cccd5146b6791c7d03984f0d1551",
+    "time": "2025-08-24T04:13:24Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/stanfordnlp/dspy",
+    "description": "stanfordnlp/dspy: DSPy: The framework for programming—not prompting—language models",
+    "extended": "",
+    "meta": "cc8c83fbea828a94841523ae0189b5e8",
+    "hash": "8b56349f7e8579611692f1e49a730b61",
+    "time": "2025-08-24T04:10:01Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/thoughtbot/top_secret",
     "description": "thoughtbot/top_secret: Filter sensitive information from free text before sending it to external services or APIs, such as chatbots and LLMs.",
     "extended": "",
