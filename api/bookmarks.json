@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://github.com/datalab-to/marker",
+    "description": "datalab-to/marker: Convert PDF to markdown + JSON quickly with high accuracy",
+    "extended": "",
+    "meta": "3f6439c5d6797d5dec41475320782fb0",
+    "hash": "b8e9f61d30de624241778b16ea753e85",
+    "time": "2025-08-25T07:42:02Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/browser-use/browser-use",
+    "description": "browser-use/browser-use: 🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+    "extended": "",
+    "meta": "cf2f34397cd876d0db33755802b83395",
+    "hash": "2f48be63fe82be5de7aa371abf655341",
+    "time": "2025-08-25T03:15:06Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/shaneholloman/mcp-knowledge-graph",
     "description": "shaneholloman/mcp-knowledge-graph: MCP server enabling persistent memory for Claude through a local knowledge graph - fork focused on local development",
     "extended": "",
