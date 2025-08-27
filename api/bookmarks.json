@@ -1,5 +1,60 @@
 [
   {
+    "href": "https://deepwiki.com/browser-use/browser-use",
+    "description": "browser-use/browser-use | DeepWiki",
+    "extended": "",
+    "meta": "36c8c3fca48f3fca6573475ad09503a4",
+    "hash": "c7836a2bc8ede21a1d07783baddccd34",
+    "time": "2025-08-26T11:15:15Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://github.com/ByteDance/Dolphin",
+    "description": "bytedance/Dolphin: The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.",
+    "extended": "",
+    "meta": "1a955430e0936503060e7a704dc2e600",
+    "hash": "060af0ad148f4f8f96dcebbd39029a25",
+    "time": "2025-08-26T03:13:37Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://medium.com/coding-nexus/why-you-should-build-an-mcp-server-this-weekend-0db6634f4ed1",
+    "description": "Why You Should Build an MCP Server This Weekend | by Code Coup | Coding Nexus | Aug, 2025 | Medium",
+    "extended": "",
+    "meta": "302d5786606e91fb29a49584a89ca88f",
+    "hash": "6dbc148bb817e94bff7282aca4245a15",
+    "time": "2025-08-26T03:09:45Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://www.ducktyped.org/p/an-illustrated-guide-to-oauth",
+    "description": "An Illustrated Guide to OAuth - by Aditya Bhargava",
+    "extended": "",
+    "meta": "837f2ed9cd65b830f4aebbc5182786c7",
+    "hash": "fbd1bbad6cda70450df3edb11de941de",
+    "time": "2025-08-26T03:09:09Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "security"
+  },
+  {
+    "href": "https://lowendbox.com/blog/tighten-up-your-vps-with-an-ssh-audit-lets-look-at-the-ssh-audit-package-does-openbsd-score-higher-than-debian/",
+    "description": "Tighten Up Your VPS With an SSH Audit! Let's Look at the ssh-audit Package...Does OpenBSD Score Higher Than Debian? - LowEndBox",
+    "extended": "",
+    "meta": "d8df5ed397142b70fcd7779dd6f9998e",
+    "hash": "dfd08e3f95e37b900f217c30660c9821",
+    "time": "2025-08-26T03:00:34Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "security"
+  },
+  {
     "href": "https://github.com/datalab-to/marker",
     "description": "datalab-to/marker: Convert PDF to markdown + JSON quickly with high accuracy",
     "extended": "",
