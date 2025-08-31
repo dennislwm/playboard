@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://medium.com/coding-nexus/building-a-local-mcp-powered-rag-that-can-talk-to-200-data-sources-c461ee50f443",
+    "description": "Building a Local MCP-Powered RAG That Can Talk to 200+ Data Sources | by Civil Learning | Coding Nexus | Aug, 2025 | Medium",
+    "extended": "",
+    "meta": "4995f300b8591eaa7f37c56e08358cff",
+    "hash": "59a597b7ce5206e5338603cfc593f92b",
+    "time": "2025-08-30T07:47:55Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://github.com/joaomagfreitas/zero-monitor",
+    "description": "joaomagfreitas/zero-monitor: (beta) One-click lightweight server monitor tool based on ZeroMQ protocol. Works on Windows, Linux, macOS, Raspberry PI (x32, x64, arm, arm64). Inspired by nezhahq/nezha, zabbix, prometheus. Takes no more than 15MB to run.",
+    "extended": "",
+    "meta": "81a77012bcf7554e1435f8f16fb9e480",
+    "hash": "77fddb693726d45a49b659f1a654e184",
+    "time": "2025-08-30T07:44:31Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/suzuking1192/samurai-agent",
+    "description": "suzuking1192/samurai-agent: Vibe Plan, Code Clean. Open-source web app that refines prompts with codebase context for clean Cursor code.",
+    "extended": "",
+    "meta": "4198d877e7c44cc62591ce27a6c7c836",
+    "hash": "878900885935ca39eee8479f7eeb709f",
+    "time": "2025-08-30T03:38:46Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://www.pythonanywhere.com/user/dennislwm/",
+    "description": "Dashboard : dennislwm : PythonAnywhere",
+    "extended": "",
+    "meta": "5465d7a7b9a0a7c79ab7316f321cc9a2",
+    "hash": "793ea98e3cb80261dfc05c3a873a8437",
+    "time": "2025-08-30T03:32:14Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
     "href": "https://deepwiki.com/browser-use/browser-use",
     "description": "browser-use/browser-use | DeepWiki",
     "extended": "",
