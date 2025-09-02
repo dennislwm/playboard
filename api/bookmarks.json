@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://landchad.net/",
+    "description": "LandChad.net",
+    "extended": "",
+    "meta": "b39be3117d6896a23c535ea22faeda4b",
+    "hash": "36b41f1e267e2e145770555d100a7dd7",
+    "time": "2025-09-02T01:30:15Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://radar.cloudflare.com/ai-insights",
+    "description": "AI Insights | Cloudflare Radar",
+    "extended": "",
+    "meta": "d918ca5d4c064c41e73d8c19ec50a6ae",
+    "hash": "dcabccb767b9789b1a3b749a34e8b9b3",
+    "time": "2025-09-02T01:24:15Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://medium.com/coding-nexus/building-a-local-mcp-powered-rag-that-can-talk-to-200-data-sources-c461ee50f443",
     "description": "Building a Local MCP-Powered RAG That Can Talk to 200+ Data Sources | by Civil Learning | Coding Nexus | Aug, 2025 | Medium",
     "extended": "",
