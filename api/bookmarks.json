@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://svelte.dev/",
+    "description": "Svelte • Web development for the rest of us",
+    "extended": "",
+    "meta": "132c144736aa490ae32d1cf5a306ff90",
+    "hash": "754f9d3066eea315fc6621420f89e390",
+    "time": "2025-09-02T10:43:02Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "frontend"
+  },
+  {
+    "href": "https://papervault.eu/",
+    "description": "papervault.eu",
+    "extended": "",
+    "meta": "aa64b075e4cfd638b95bfe819d358914",
+    "hash": "8335b633a3eecbf1328377a4d3524297",
+    "time": "2025-09-02T02:48:16Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "security"
+  },
+  {
     "href": "https://landchad.net/",
     "description": "LandChad.net",
     "extended": "",
