@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://gregorriegler.com/2025/07/12/augmented-coding-pattern-language.html",
+    "description": "Gregor Riegler · Augmented Coding - A Pattern Language",
+    "extended": "",
+    "meta": "1aa6f6de15d4081dfb67222a11fa1cc6",
+    "hash": "1d4964223f23744653ce8b9fadbb895a",
+    "time": "2025-09-03T13:34:37Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://github.com/adembc/lazyssh",
+    "description": "Adembc/lazyssh: A terminal-based SSH manager inspired by lazydocker and k9s - Written in go",
+    "extended": "",
+    "meta": "c9d6574b22752c309e73f306d83a29c4",
+    "hash": "0e7de70fba23445e528905308175f1f0",
+    "time": "2025-09-03T13:07:04Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/duriantaco/skylos",
+    "description": "duriantaco/skylos: Yet another static analysis tool for Python codebases written in Python that detects dead code. Faster and better than the rest :)",
+    "extended": "",
+    "meta": "f3d04fab0ab3ab2bfb9924c8a2a8961d",
+    "hash": "2801400ef13f409deba2dd20c635b6e7",
+    "time": "2025-09-03T13:06:39Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://svelte.dev/",
     "description": "Svelte • Web development for the rest of us",
     "extended": "",
