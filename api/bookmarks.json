@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://github.com/fathyb/carbonyl",
+    "description": "fathyb/carbonyl: Chromium running inside your terminal",
+    "extended": "",
+    "meta": "484c68a37297f973f9915f7d86acab66",
+    "hash": "193296c42818b99d57c09fb19b2e4cd7",
+    "time": "2025-09-05T13:33:44Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://www.maxdaten.io/2025-09-03-tdd-infrastructure-terragrunt",
+    "description": "Test-Driven Infrastructure | maxdaten.io",
+    "extended": "",
+    "meta": "463a1279c0360b5699bf5e0e81920a66",
+    "hash": "51959b5d1e9a9a3cceebb93da9b7a330",
+    "time": "2025-09-05T09:11:19Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "tdd"
+  },
+  {
+    "href": "https://useamber.app/",
+    "description": "Amber – AI-enabled all-in-one messenger and personal CRM",
+    "extended": "",
+    "meta": "710bd640ea49bdff5223f9254b351f0d",
+    "hash": "9c8e2cb9d08b5267aa7a8bdcb32b5536",
+    "time": "2025-09-05T08:36:04Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://ai.plainenglish.io/introducing-fastmcp-v2-the-pythonic-way-to-build-secure-mcp-servers-and-clients-for-ai-fcc09b84771a",
     "description": "Introducing FastMCP v2: The Pythonic Way to Build Secure MCP Servers and Clients for AI | by Sajith K | Aug, 2025 | Artificial Intelligence in Plain English",
     "extended": "",
