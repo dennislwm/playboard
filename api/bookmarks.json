@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://jxnl.co/writing/2025/09/04/context-engineering-rapid-agent-prototyping/#test-validation-make-success-concrete",
+    "description": "Context Engineering: Rapid Agent Prototyping - Jason Liu",
+    "extended": "",
+    "meta": "a46133e1faecccaa0e67ad00cdb9cc3f",
+    "hash": "ffdd4c24f249ec0e6e3f34a29a04258a",
+    "time": "2025-09-06T03:44:26Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://github.com/fathyb/carbonyl",
     "description": "fathyb/carbonyl: Chromium running inside your terminal",
     "extended": "",
