@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://github.com/Varietyz/Disciplined-AI-Software-Development",
+    "description": "Varietyz/Disciplined-AI-Software-Development: This methodology provides a structured approach for collaborating with AI systems on software development projects. It addresses common issues like code bloat, architectural drift, and context dilution through",
+    "extended": "AI-PREFERENCES.md",
+    "meta": "f659191d9d77581925da46311369ac18",
+    "hash": "15b98e0cf8658a366e0cc0a4cae4966f",
+    "time": "2025-09-07T09:12:58Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://www.makeuseof.com/obsidian-local-llm-integration/",
+    "description": "I hooked Obsidian to a local LLM and it beats NotebookLM at its own game",
+    "extended": "",
+    "meta": "6b889e1d2843c98745652c19e497dba9",
+    "hash": "e99ce023518a24d425e1b3f18cc50723",
+    "time": "2025-09-07T09:11:41Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://jxnl.co/writing/2025/09/04/context-engineering-rapid-agent-prototyping/#test-validation-make-success-concrete",
     "description": "Context Engineering: Rapid Agent Prototyping - Jason Liu",
     "extended": "",
