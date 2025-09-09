@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://vivekhaldar.com/articles/my-video-production-stack/",
+    "description": "My Video Production Stack (for YouTube)",
+    "extended": "Check out this video where I visually explain how this works.",
+    "meta": "36a5ef6acdb90fb51ca1f8b036e0915a",
+    "hash": "892359b5fc4088cfdfeac48510fe1bb6",
+    "time": "2025-09-08T12:59:26Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
     "href": "https://github.com/Varietyz/Disciplined-AI-Software-Development",
     "description": "Varietyz/Disciplined-AI-Software-Development: This methodology provides a structured approach for collaborating with AI systems on software development projects. It addresses common issues like code bloat, architectural drift, and context dilution through",
     "extended": "AI-PREFERENCES.md",
