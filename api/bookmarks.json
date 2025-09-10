@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://medium.com/data-science-collective/how-i-built-a-personal-market-database-with-duckdb-and-parquet-step-by-step-27b0d1bb7e2e",
+    "description": "How I Built a Personal Market Database with DuckDB and Parquet (Step by Step) | by Jacob Ingle | Data Science Collective | Sep, 2025 | Medium",
+    "extended": "",
+    "meta": "d67af6930374621ae21bf91346791259",
+    "hash": "df91053efdc4c0de5bade05acd29c081",
+    "time": "2025-09-09T03:42:03Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "finance"
+  },
+  {
     "href": "https://vivekhaldar.com/articles/my-video-production-stack/",
     "description": "My Video Production Stack (for YouTube)",
     "extended": "Check out this video where I visually explain how this works.",
