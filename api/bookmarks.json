@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://github.com/twitter/the-algorithm",
+    "description": "GitHub - twitter/the-algorithm: Source code for the X Recommendation Algorithm",
+    "extended": "",
+    "meta": "8255010f37f3a60841ae91f2a88e32a3",
+    "hash": "95732582ec00415180fb69ac85250769",
+    "time": "2025-09-11T08:07:46Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://justin.searls.co/posts/how-to-distribute-your-own-scripts-via-homebrew/",
+    "description": "Distributing your own scripts via Homebrew | justin․searls․co",
+    "extended": "",
+    "meta": "7c9c93c16d0492f807d59df7ac48f7ba",
+    "hash": "c49b438528f8a18c870a105744563921",
+    "time": "2025-09-11T07:54:29Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
     "href": "https://medium.com/data-science-collective/how-i-built-a-personal-market-database-with-duckdb-and-parquet-step-by-step-27b0d1bb7e2e",
     "description": "How I Built a Personal Market Database with DuckDB and Parquet (Step by Step) | by Jacob Ingle | Data Science Collective | Sep, 2025 | Medium",
     "extended": "",
