@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://pub.towardsai.net/mcp-101-tutorial-build-your-own-modular-ai-agent-for-stock-investment-insights-18da73286261",
+    "description": "MCP 101 Tutorial: Build Your Own Modular AI Agent for Stock Investment Insights | by Lorentz Yeung | Aug, 2025 | Towards AI",
+    "extended": "",
+    "meta": "113f002fff82e1c5eb5a684183bb1f9f",
+    "hash": "fbcd27d95b3d54205ed535af6b10ff7a",
+    "time": "2025-09-12T13:10:27Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://pocketbase.io/",
+    "description": "PocketBase - Open Source backend in 1 file",
+    "extended": "",
+    "meta": "a70f44b5c8604a0ce2aafd6c00994624",
+    "hash": "c4cb9182edbba0c4fe282b94268f0308",
+    "time": "2025-09-12T09:58:47Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/mmulet/term.everything",
+    "description": "mmulet/term.everything: Run any GUI app in the terminal❗",
+    "extended": "",
+    "meta": "4b3fbf391408782c690afaf3d7cfcab2",
+    "hash": "6c9615da05780edea47f5a9727903cc4",
+    "time": "2025-09-12T07:30:57Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/twitter/the-algorithm",
     "description": "GitHub - twitter/the-algorithm: Source code for the X Recommendation Algorithm",
     "extended": "",
