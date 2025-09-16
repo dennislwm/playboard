@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://medium.com/the-context-layer/setting-up-local-ai-memory-with-mcp-memory-service-on-mac-39d088cdb862",
+    "description": "Setting Up Local AI Memory with MCP Memory Service on Mac | by Jannis | The Context Layer | Medium",
+    "extended": "",
+    "meta": "532aba4490f1ff3ccfa7c6f680a332e7",
+    "hash": "fd6461ebf8fa87f5789ed4dcf6ebae32",
+    "time": "2025-09-15T06:30:28Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://github.com/OpenBB-finance/OpenBB",
+    "description": "OpenBB-finance/OpenBB: Financial data platform for analysts, quants and AI agents.",
+    "extended": "",
+    "meta": "c78b2f0c71f4af42b085540d8203964f",
+    "hash": "aa52d8501eee42c2c924bf10085bf065",
+    "time": "2025-09-15T06:12:38Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/twpayne/chezmoi",
+    "description": "twpayne/chezmoi: Manage your dotfiles across multiple diverse machines, securely.",
+    "extended": "",
+    "meta": "8e4bef3cb48db413a63d2339744a7300",
+    "hash": "059db5d21ba948841734c88d8b15077d",
+    "time": "2025-09-15T06:04:23Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://mindthenerd.com/the-socratic-journal-method-a-simple-journaling-method-that-actually-works/",
+    "description": "The Socratic Journal Method: A Simple Journaling Method That Actually Works",
+    "extended": "",
+    "meta": "34be40bfdd67967da5c783b7ca37858e",
+    "hash": "5df626611928bccf9a69bdf94ce3ada0",
+    "time": "2025-09-15T05:56:45Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
     "href": "https://pub.towardsai.net/mcp-101-tutorial-build-your-own-modular-ai-agent-for-stock-investment-insights-18da73286261",
     "description": "MCP 101 Tutorial: Build Your Own Modular AI Agent for Stock Investment Insights | by Lorentz Yeung | Aug, 2025 | Towards AI",
     "extended": "",
