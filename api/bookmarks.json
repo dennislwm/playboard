@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://btxx.org/posts/planning-ahead/",
+    "description": "What Happens After I'm Gone? The Future of the Online Me",
+    "extended": "",
+    "meta": "6b09e9cb4f009414f9af1423307c7671",
+    "hash": "1c43a8ebde29b56d626f4c4c3cf6cd13",
+    "time": "2025-09-16T11:02:47Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://rustdesk.com/",
+    "description": "RustDesk: Open-Source Remote Desktop with Self-Hosted Server Solutions",
+    "extended": "",
+    "meta": "5ec4c426ef5f8d71600fb7e5d44cf9f8",
+    "hash": "5883fa77144db2df411836736ed72fa7",
+    "time": "2025-09-16T10:15:32Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://medium.com/the-context-layer/setting-up-local-ai-memory-with-mcp-memory-service-on-mac-39d088cdb862",
     "description": "Setting Up Local AI Memory with MCP Memory Service on Mac | by Jannis | The Context Layer | Medium",
     "extended": "",
