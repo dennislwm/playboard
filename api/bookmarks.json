@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://medium.com/@aleksandardobrohotov/building-your-ai-powered-second-brain-how-claude-code-obsidian-changed-everything-about-my-37dc3bdd199e",
+    "description": "Building Your AI-Powered Second Brain: How Claude Code + Obsidian Changed Everything About My Knowledge Management | by Alek Dobrohotov | Sep, 2025 | Medium",
+    "extended": "",
+    "meta": "c3b38a1bab6297d2c924835bf2b9c619",
+    "hash": "2b3565ca61d991a3ffafddbb3cea736b",
+    "time": "2025-09-18T13:47:07Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://github.com/dinoki-ai/osaurus",
+    "description": "dinoki-ai/osaurus: Native, Apple Silicon–only local LLM server. Similar to Ollama, but built on Apple's MLX for maximum performance on M‑series chips. SwiftUI app + SwiftNIO server with OpenAI‑compatible endpoints.",
+    "extended": "",
+    "meta": "b570d47500342f92ca75109bcf516fe1",
+    "hash": "7a7429a48bb0ea03678c5128bad91984",
+    "time": "2025-09-18T13:45:55Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://btxx.org/posts/planning-ahead/",
     "description": "What Happens After I'm Gone? The Future of the Online Me",
     "extended": "",
