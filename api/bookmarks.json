@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://www.mql5.com/en/articles/16845",
+    "description": "Functions for activating neurons during training: The key to fast convergence? - MQL5 Articles",
+    "extended": "0.2415125490594974",
+    "meta": "e01a49840a39faef1c2a6d6706013372",
+    "hash": "69dc074a64314992f1538d9310d0c344",
+    "time": "2025-09-20T00:28:06Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "finance"
+  },
+  {
+    "href": "https://blog.dochia.dev/blog/openapi-single-source/",
+    "description": "OpenAPI as a Single Source of Truth for APIs | <span class=\"text-terminal-purple\">Dochia</span> CLI Blog",
+    "extended": "",
+    "meta": "75caad34df5e07819f9b5301a8a95c1b",
+    "hash": "dfe79d9bc8aece6e10bd7b4b5e600843",
+    "time": "2025-09-19T11:32:49Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
     "href": "https://medium.com/@aleksandardobrohotov/building-your-ai-powered-second-brain-how-claude-code-obsidian-changed-everything-about-my-37dc3bdd199e",
     "description": "Building Your AI-Powered Second Brain: How Claude Code + Obsidian Changed Everything About My Knowledge Management | by Alek Dobrohotov | Sep, 2025 | Medium",
     "extended": "",
