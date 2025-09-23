@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://github.com/marph91/jimmy",
+    "description": "marph91/jimmy: Convert your notes to Markdown",
+    "extended": "",
+    "meta": "d196e40639886e14782354345916993d",
+    "hash": "4c26ca1a79106e208176e1a13ad93ae8",
+    "time": "2025-09-22T06:41:17Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://medium.com/@dan.avila7/automated-documentation-with-claude-code-building-self-updating-docs-using-docusaurus-agent-2c85d3ec0e19",
     "description": "Automated Documentation with Claude Code: Building Self-Updating Docs Using Docusaurus Agent | by Daniel Avila | Sep, 2025 | Medium",
     "extended": "",
