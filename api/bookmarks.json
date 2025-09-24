@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://aws.amazon.com/blogs/security/how-to-accelerate-security-finding-reviews-using-automated-business-context-validation-in-aws-security-hub/",
+    "description": "How to accelerate security finding reviews using automated business context validation in AWS Security Hub | AWS Security Blog",
+    "extended": "",
+    "meta": "081f66fa89c95a766ec3fd1f2f7e931d",
+    "hash": "3f901d18d1a83b2c4dd913f8636095ca",
+    "time": "2025-09-23T12:36:37Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "security"
+  },
+  {
+    "href": "https://martinfowler.com/articles/exploring-gen-ai/to-vibe-or-not-vibe.html",
+    "description": "To vibe or not to vibe",
+    "extended": "",
+    "meta": "82b19031cf9f573b07a44cc6046be7a4",
+    "hash": "36191e856462f8360a87a9d0b86145ec",
+    "time": "2025-09-23T12:13:36Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://www.pavlinbg.com/posts/python-speech-to-text-guide",
+    "description": "Python Audio Transcription: Convert Speech to Text Locally",
+    "extended": "",
+    "meta": "ac10cbb7d1f3526e0a08ad44b1fdccca",
+    "hash": "9827904af801be78436f10ec774e4fcc",
+    "time": "2025-09-23T12:02:09Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "python"
+  },
+  {
     "href": "https://github.com/marph91/jimmy",
     "description": "marph91/jimmy: Convert your notes to Markdown",
     "extended": "",
