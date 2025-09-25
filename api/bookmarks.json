@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://github.com/RooCodeInc/Roo-Code",
+    "description": "RooCodeInc/Roo-Code: Roo Code gives you a whole dev team of AI agents in your code editor.",
+    "extended": "",
+    "meta": "9e5e12d071c04df72489d1f11253fde5",
+    "hash": "009edd14a798285c46a86e223a86eff8",
+    "time": "2025-09-24T02:27:58Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/ace-fca.md",
+    "description": "advanced-context-engineering-for-coding-agents/ace-fca.md at main · humanlayer/advanced-context-engineering-for-coding-agents",
+    "extended": "",
+    "meta": "ea1c2b1fcadd4013ed338d72680232df",
+    "hash": "18b82565e608689f3b2962ba7274d393",
+    "time": "2025-09-24T02:18:44Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://aws.amazon.com/blogs/security/how-to-accelerate-security-finding-reviews-using-automated-business-context-validation-in-aws-security-hub/",
     "description": "How to accelerate security finding reviews using automated business context validation in AWS Security Hub | AWS Security Blog",
     "extended": "",
