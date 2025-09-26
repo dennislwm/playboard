@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://github.com/opendataloader-project/opendataloader-pdf",
+    "description": "opendataloader-project/opendataloader-pdf: Safe, Open, High-Performance — PDF for AI",
+    "extended": "",
+    "meta": "61bc9194530fac84fdf14afb14922459",
+    "hash": "965fc61ede1037031a5283d974312f5c",
+    "time": "2025-09-25T06:32:10Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/openai/codex",
+    "description": "openai/codex: Lightweight coding agent that runs in your terminal",
+    "extended": "",
+    "meta": "d42590199796d9d65881ec3b58b19ad1",
+    "hash": "1a57528ba5a4a035d5790c1d6e1b45f6",
+    "time": "2025-09-25T06:28:13Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/menloresearch/jan",
+    "description": "menloresearch/jan: Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
+    "extended": "",
+    "meta": "f01a6e5997c297dfcb42880402717ebe",
+    "hash": "512c9ce9ef6eb48cefc2ea87c8641607",
+    "time": "2025-09-25T06:23:25Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/RooCodeInc/Roo-Code",
     "description": "RooCodeInc/Roo-Code: Roo Code gives you a whole dev team of AI agents in your code editor.",
     "extended": "",
