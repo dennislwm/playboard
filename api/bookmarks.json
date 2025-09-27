@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://aws.amazon.com/blogs/devops/multi-agent-collaboration-with-strands/",
+    "description": "Multi Agent Collaboration with Strands | AWS DevOps & Developer Productivity Blog",
+    "extended": "",
+    "meta": "c74d64c315e22c3a591e92c6eba4579c",
+    "hash": "637c1b0bc1cc749f9d162764c84cb482",
+    "time": "2025-09-26T04:14:16Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "aws"
+  },
+  {
+    "href": "https://milelion.com/2025/09/26/krisflyer-for-families-transfer-your-childs-krisflyer-miles-to-a-parents-account/",
+    "description": "KrisFlyer for Families: Pool your miles with family members - The MileLion",
+    "extended": "",
+    "meta": "c7c1a9fe049e7e7e6f1707f312eb4c90",
+    "hash": "40e80f66b7af50e46e158755e09f687a",
+    "time": "2025-09-26T02:55:23Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "reward"
+  },
+  {
     "href": "https://github.com/opendataloader-project/opendataloader-pdf",
     "description": "opendataloader-project/opendataloader-pdf: Safe, Open, High-Performance — PDF for AI",
     "extended": "",
