@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://github.com/NanoNets/docstrange",
+    "description": "NanoNets/docstrange: Extract and convert data from any document, images, pdfs, word doc, ppt or URL into multiple formats (Markdown, JSON, CSV, HTML) with intelligent structured data extraction and advanced OCR.",
+    "extended": "",
+    "meta": "44bd28c825eda87dda0429eacff1a01f",
+    "hash": "b7b8d5d9c9b7aa26e971ab472f3e7831",
+    "time": "2025-09-27T11:32:41Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://aws.amazon.com/blogs/devops/multi-agent-collaboration-with-strands/",
     "description": "Multi Agent Collaboration with Strands | AWS DevOps & Developer Productivity Blog",
     "extended": "",
