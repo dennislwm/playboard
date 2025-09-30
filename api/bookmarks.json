@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://codelabs.developers.google.com/codelabs/currency-agent#0",
+    "description": "Getting Started with MCP, ADK and A2A",
+    "extended": "",
+    "meta": "b73a4161081b2e8fe21ca3edadfd2f37",
+    "hash": "ee3491a19f7b33a49d6424784e88802a",
+    "time": "2025-09-29T03:44:39Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://blog.cloudflare.com/code-mode/",
+    "description": "Code Mode: the better way to use MCP",
+    "extended": "",
+    "meta": "2a05f1e7340ea3c21f1281aa9f6e4de0",
+    "hash": "ba9a9e880a06c6bfcb519941f68abf6e",
+    "time": "2025-09-29T02:52:23Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://github.com/NanoNets/docstrange",
     "description": "NanoNets/docstrange: Extract and convert data from any document, images, pdfs, word doc, ppt or URL into multiple formats (Markdown, JSON, CSV, HTML) with intelligent structured data extraction and advanced OCR.",
     "extended": "",
