@@ -1,5 +1,60 @@
 [
   {
+    "href": "https://github.com/winfunc/opcode",
+    "description": "winfunc/opcode: A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.",
+    "extended": "",
+    "meta": "17d08dd389d514e1d40ef5393bb76fd5",
+    "hash": "08f6c74d8822cc0cba774100efd2880e",
+    "time": "2025-09-30T12:46:04Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://medium.com/data-science-collective/apples-native-containers-explained-for-beginners-from-brew-to-hello-world-010f24138d0f",
+    "description": "Apple’s Native Containers Explained for Beginners: From Brew to “Hello World” | by Gwang-Jin | Data Science Collective | Sep, 2025 | Medium",
+    "extended": "",
+    "meta": "df549243708b0f5e68c7aaabc644d735",
+    "hash": "85222f10e0443928a1cafacc6492a62d",
+    "time": "2025-09-30T12:45:23Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://medium.com/@aksh8t/build-n8n-ai-agents-in-minutes-make-thousands-of-dollars-00d9b3acd369",
+    "description": "Build n8n AI Agents In Minutes (& Make Thousands Of Dollars) | by Akshat Tiwari | Sep, 2025 | Medium",
+    "extended": "",
+    "meta": "8f3e91ca39774ba6bee81de4fc66c480",
+    "hash": "786ccfdbc299ba9f1780538378240c60",
+    "time": "2025-09-30T12:44:01Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://www.tensoreconomics.com/p/llm-inference-economics-from-first",
+    "description": "LLM Inference Economics from First Principles",
+    "extended": "",
+    "meta": "4b794848c36ec8040ecf373b18453fe5",
+    "hash": "3b0aeda1905eefd829a893e8222db76b",
+    "time": "2025-09-30T12:21:05Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://levelup.gitconnected.com/building-17-agentic-ai-patterns-and-their-role-in-large-scale-ai-systems-f4915b5615ce",
+    "description": "Building 17 Agentic AI Patterns and Their Role in Large-Scale AI Systems | by Fareed Khan | Sep, 2025 | Level Up Coding",
+    "extended": "",
+    "meta": "55ba5836ffbcc4b7f1e682d18f3fe72c",
+    "hash": "2b9f5dccb92e01a6919df91d48a0ce6c",
+    "time": "2025-09-30T12:08:46Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://codelabs.developers.google.com/codelabs/currency-agent#0",
     "description": "Getting Started with MCP, ADK and A2A",
     "extended": "",
