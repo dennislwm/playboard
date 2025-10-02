@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://atuin.sh/",
+    "description": "Atuin - Shell History & Executable Runbooks",
+    "extended": "",
+    "meta": "762fd32595abc5c179ed9af28fb17529",
+    "hash": "e7eaf64aed122a36b09493c67059459d",
+    "time": "2025-10-01T04:17:06Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/winfunc/opcode",
     "description": "winfunc/opcode: A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.",
     "extended": "",
