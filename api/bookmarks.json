@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://www.ebiester.com/advice/2025/10/03/CURE-framework.html",
+    "description": "The CURE framework: a tool to break down tasks and improve story pointing. | Hypotheses",
+    "extended": "",
+    "meta": "90dcea62010246fa0d2dd6b5622c1251",
+    "hash": "8dff625b375ca4a4d5806bbaa36ebc4b",
+    "time": "2025-10-04T05:48:07Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://www.mql5.com/en/articles/19674",
+    "description": "Automating Trading Strategies in MQL5 (Part 36): Supply and Demand Trading with Retest and Impulse Model - MQL5 Articles",
+    "extended": "",
+    "meta": "73cc46ba2c47e7136f66d5d2472d4be1",
+    "hash": "18524e3aeeb07a491fdafedeb0eb7a37",
+    "time": "2025-10-04T05:38:53Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "finance"
+  },
+  {
     "href": "https://www.dzombak.com/blog/2025/10/give-your-llm-coding-tools-their-own-tools/",
     "description": "Give your LLM Coding Tools Their Own Tools • Chris Dzombak",
     "extended": "",
