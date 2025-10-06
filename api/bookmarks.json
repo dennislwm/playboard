@@ -1,5 +1,93 @@
 [
   {
+    "href": "https://medium.com/data-science-collective/observer-agents-sensors-for-the-agent-ecosystem-3c37f2ba3839",
+    "description": "Observer Agents — Sensors for the Agent Ecosystem | by Eric Broda | Data Science Collective | Oct, 2025 | Medium",
+    "extended": "",
+    "meta": "95ead5cd1e59f24321233dd20453d132",
+    "hash": "8d996f7759c39837c7c864d4af02c992",
+    "time": "2025-10-05T07:18:00Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "sre"
+  },
+  {
+    "href": "https://medium.com/coding-nexus/how-i-used-claude-to-validate-my-saas-idea-in-10-minutes-10f0732718ff",
+    "description": "How I Used Claude to Validate My SaaS Idea in 10 Minutes. | by Civil Learning | Coding Nexus | Oct, 2025 | Medium",
+    "extended": "",
+    "meta": "bee3192a8bff0b9ba9c5b47ac3b23cf8",
+    "hash": "de18498e2a1ae5723afcf69776d45353",
+    "time": "2025-10-05T07:08:55Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "seo"
+  },
+  {
+    "href": "https://www.dbreunig.com/2025/06/10/let-the-model-write-the-prompt.html",
+    "description": "Let the Model Write the Prompt",
+    "extended": "",
+    "meta": "f00945b5a120fe40c015bea48ac1f383",
+    "hash": "aa36fb9723e77f0fcd133bfa5dc5ea85",
+    "time": "2025-10-05T06:54:16Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://www.seangoedecke.com/how-to-influence-politics/",
+    "description": "How I influence tech company politics as a staff software engineer",
+    "extended": "",
+    "meta": "b77d72ef5ec4c3d711801fb2438a9a13",
+    "hash": "7f980acb40fc1d613c31dab0537c8454",
+    "time": "2025-10-05T06:40:33Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://github.com/badlogic/jailjs",
+    "description": "badlogic/jailjs: JavaScript AST interpreter for sandboxed execution",
+    "extended": "",
+    "meta": "481720080ac033dbde87a883d03ced8c",
+    "hash": "4ea6dd4f076ce96b0852ecf1e509ad02",
+    "time": "2025-10-05T06:33:27Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/github/copilot-cli",
+    "description": "github/copilot-cli: GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.",
+    "extended": "",
+    "meta": "9c3cd1bcf956a5791671fdd8785dace2",
+    "hash": "5d36b1c992502bf1c94dec2fb9a072ab",
+    "time": "2025-10-05T06:31:20Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://garrido.io/notes/wireguard-topologies-for-self-hosting-at-home/",
+    "description": "WireGuard topologies for self-hosting at home",
+    "extended": "",
+    "meta": "2b2c3cf8d899a8256454ea435148c5fc",
+    "hash": "a3ac3828e9f335d3c1b016c2f2855816",
+    "time": "2025-10-05T06:22:54Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://wjgilmore.com/articles/10000-pushups",
+    "description": "10,000 Pushups And Other Silly Exercise Quests That Changed My Life | W. Jason Gilmore",
+    "extended": "",
+    "meta": "1ffdad6d491b94f4c742b90cb15c19fe",
+    "hash": "e8579bc33a34072c049a2a116113d720",
+    "time": "2025-10-05T06:10:19Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "health"
+  },
+  {
     "href": "https://www.ebiester.com/advice/2025/10/03/CURE-framework.html",
     "description": "The CURE framework: a tool to break down tasks and improve story pointing. | Hypotheses",
     "extended": "",
