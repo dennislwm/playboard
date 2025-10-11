@@ -1,5 +1,93 @@
 [
   {
+    "href": "https://gaurigupta19.github.io/llms/distributed%20ml/optimization/2025/10/02/efficient-ml.html",
+    "description": "LLM Optimization Notes: Memory, Compute & Inference Techniques",
+    "extended": "",
+    "meta": "0da35e4526ff9dedfe0baeae80777f0d",
+    "hash": "b9f40dce25235701be392e7909a67e23",
+    "time": "2025-10-10T13:49:44Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "mlops"
+  },
+  {
+    "href": "https://petewarden.com/2025/10/02/how-to-try-chromes-hidden-ai-model/",
+    "description": "How to Try Chrome’s Hidden AI Model « Pete Warden's blog",
+    "extended": "",
+    "meta": "3a8099af0275e2478fc2430d039201ba",
+    "hash": "5ce7e79a05f74bc0d0a4aaaf11b248ba",
+    "time": "2025-10-10T13:39:27Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://timelinize.com/",
+    "description": "Timelinize - Everything at home",
+    "extended": "",
+    "meta": "656bbb98e03754904f405aed8b4fbb8f",
+    "hash": "d5ee4767c1643efb156b12e45e646635",
+    "time": "2025-10-10T13:33:30Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://bhargav.dev/blog/VPS_Setup_and_Security_Checklist_A_Complete_Self_Hosting_Guide",
+    "description": "Sutra | Portfolio",
+    "extended": "",
+    "meta": "87789eaffb3637191f2806139d71a834",
+    "hash": "58ede1f558e42c62731710ff6fb3bc55",
+    "time": "2025-10-10T13:10:19Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://blog.arcbjorn.com/workflow-automation",
+    "description": "n8n vs Windmill vs Temporal for Self-Hosting",
+    "extended": "",
+    "meta": "9fc7922fc7b0e129160545e0bf688ff7",
+    "hash": "2534de57e8b7c30069df5b3e5b7a0259",
+    "time": "2025-10-10T13:08:41Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://herd.garden/",
+    "description": "Herd - Browser Superpowers & MCP Servers for AI Agents",
+    "extended": "",
+    "meta": "ee873a4a0fce86d30b05ae6f53608cf4",
+    "hash": "1d03a3d82467a8c917b64a1958dc3a08",
+    "time": "2025-10-10T12:37:53Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/shotgun-sh/shotgun",
+    "description": "shotgun-sh/shotgun: The Shotgun CLI",
+    "extended": "",
+    "meta": "5d1e1a2a7d16e8f30fe515a1c9f303e8",
+    "hash": "6df94ed6e2b4e0e1570a24895e52952c",
+    "time": "2025-10-10T10:45:26Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://www.mql5.com/en/articles/16713",
+    "description": "Neural Networks in Trading: A Hybrid Trading Framework with Predictive Coding (Final Part) - MQL5 Articles",
+    "extended": "",
+    "meta": "de0a1a212c065f2d488ea6595bb630e4",
+    "hash": "edcb23d6b0304eb1046f64fe9bd4a3a3",
+    "time": "2025-10-10T10:22:48Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "finance"
+  },
+  {
     "href": "https://milelion.com/2025/10/06/review-dbs-yuu-card/",
     "description": "Review: DBS yuu Card - The MileLion",
     "extended": "",
