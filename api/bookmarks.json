@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://garrido.io/notes/simple-automated-deployments-git-push/",
+    "description": "Simple automated deployments using git push",
+    "extended": "",
+    "meta": "68d8b1b4443870f553ede5c4c60d535c",
+    "hash": "3cf4fa73acbcf5d1216564f957768c47",
+    "time": "2025-10-11T04:53:43Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
     "href": "https://gaurigupta19.github.io/llms/distributed%20ml/optimization/2025/10/02/efficient-ml.html",
     "description": "LLM Optimization Notes: Memory, Compute & Inference Techniques",
     "extended": "",
