@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://github.com/codelion/openevolve",
+    "description": "codelion/openevolve: Open-source implementation of AlphaEvolve",
+    "extended": "",
+    "meta": "a349ce9b0089601682a5e177c5ba50c8",
+    "hash": "9dca93d173918a8c66dc36a507be6921",
+    "time": "2025-10-13T00:16:10Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/iiAtlas/hledger-mcp",
+    "description": "iiAtlas/hledger-mcp: A local MCP server for interacting with the HLedger cli",
+    "extended": "",
+    "meta": "50a5ec505be2ac029de84ce3ef3a86f0",
+    "hash": "5ec323ec5a3cf35ddccdb60bebaa1426",
+    "time": "2025-10-13T00:12:50Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/acsandmann/rift",
+    "description": "acsandmann/rift: a tiling window manager for macos",
+    "extended": "",
+    "meta": "a89c05896905616fe8a5c787839255e3",
+    "hash": "105de4508c3a5371d1c2a67f9d7bdb20",
+    "time": "2025-10-13T00:08:41Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://garrido.io/notes/simple-automated-deployments-git-push/",
     "description": "Simple automated deployments using git push",
     "extended": "",
