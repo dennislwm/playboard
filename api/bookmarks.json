@@ -1,5 +1,60 @@
 [
   {
+    "href": "https://milelion.com/2025/07/01/hsbc-revolution-restores-travel-and-contactless-bonuses-raises-monthly-bonus-cap-by-50/",
+    "description": "HSBC Revolution restores travel and contactless bonuses, raises monthly bonus cap by 50% - The MileLion",
+    "extended": "",
+    "meta": "0d85c4b606d64b0c92816536b98163c7",
+    "hash": "4feebc494b84c59d760298efe49e584f",
+    "time": "2025-10-17T12:41:27Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "reward"
+  },
+  {
+    "href": "https://github.com/rvben/rumdl",
+    "description": "rvben/rumdl: A Markdown Linter and Formatter written in Rust",
+    "extended": "",
+    "meta": "5de2fb665eb17173ae29a1f4241418b2",
+    "hash": "b26950a0bc385fcd7f7737244eeecb87",
+    "time": "2025-10-17T12:15:50Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://www.phoenixframework.org/",
+    "description": "Phoenix Framework",
+    "extended": "",
+    "meta": "7db5cb59ee78ceeb51c52766b2a50b3a",
+    "hash": "856fc2f98718eb335e60c2be2b6c669e",
+    "time": "2025-10-17T11:32:46Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "frontend"
+  },
+  {
+    "href": "https://www.stateof.ai/2025-report-launch",
+    "description": "Welcome to State of AI Report 2025",
+    "extended": "",
+    "meta": "141e43dea5ecffb8034650bdb635dc70",
+    "hash": "38c50b693c1217c49c31894502401036",
+    "time": "2025-10-17T06:04:26Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://github.com/anthropics/skills",
+    "description": "anthropics/skills: Public repository for Skills",
+    "extended": "",
+    "meta": "2f1455227470ba3b9fa22b992074313c",
+    "hash": "ea97e2f9b3078078e2d5191d6950ddaf",
+    "time": "2025-10-17T05:55:14Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/codelion/openevolve",
     "description": "codelion/openevolve: Open-source implementation of AlphaEvolve",
     "extended": "",
