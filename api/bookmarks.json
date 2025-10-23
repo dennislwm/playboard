@@ -1,5 +1,60 @@
 [
   {
+    "href": "https://github.com/fraim-dev/fraim",
+    "description": "fraim-dev/fraim: A flexible framework for security teams to build and deploy AI-powered workflows that complement their existing security operations.",
+    "extended": "",
+    "meta": "85ee023d089ca0012e8bfe67fda06c0a",
+    "hash": "734dcd2810942939a0c0f44b6fac9951",
+    "time": "2025-10-22T12:39:42Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/joouha/modshim",
+    "description": "joouha/modshim: Override and customize Python packages without touching their code",
+    "extended": "",
+    "meta": "a6f772344567a8b8dc2f0da7be0ce41e",
+    "hash": "ba4b707d50931bab756353e9551945b6",
+    "time": "2025-10-22T12:29:21Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://blog.abdellatif.io/production-rag-processing-5m-documents",
+    "description": "Production RAG: what I learned from processing 5M+ documents",
+    "extended": "",
+    "meta": "796b6642edae00736f350299fd1be4d9",
+    "hash": "23430de202baeb9627419cb9c83df276",
+    "time": "2025-10-22T12:20:12Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://github.com/lackeyjb/playwright-skill",
+    "description": "lackeyjb/playwright-skill: Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation.",
+    "extended": "",
+    "meta": "abb2df645947270a64db4614d965b301",
+    "hash": "29ab6151ac20e1bb81593e0f956b5c36",
+    "time": "2025-10-22T12:18:32Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/letsdiscodev/",
+    "description": "Disco",
+    "extended": "",
+    "meta": "c99882c6247b486e7eee021adbd02e8a",
+    "hash": "fa59d9355b5fee3734ef54a00eca01e2",
+    "time": "2025-10-22T11:41:57Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/anthropics/claude-cookbooks/tree/main/skills",
     "description": "claude-cookbooks/skills at main · anthropics/claude-cookbooks",
     "extended": "",
