@@ -1,5 +1,93 @@
 [
   {
+    "href": "https://hdembinski.github.io/posts/parsing_webpages_with_llm_revisited.html",
+    "description": "Parsing webpages with a Large Language Model (LLM) revisited – Hans Dembinski’s blog",
+    "extended": "",
+    "meta": "a0984a6267bc053e0693cdcb99e470c7",
+    "hash": "c16c85a838316ac6be4be1fdcfaf04c2",
+    "time": "2025-10-27T13:04:12Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://github.com/c-daniele/alpha-agents-a2a",
+    "description": "c-daniele/alpha-agents-a2a",
+    "extended": "",
+    "meta": "165c80fc75d1c56eeb7b181cb31b8361",
+    "hash": "eaa45109264667c2e9b660422ffeea8f",
+    "time": "2025-10-27T12:58:25Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/firecrawl/firecrawl",
+    "description": "firecrawl/firecrawl: 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data",
+    "extended": "",
+    "meta": "358445bb177c27383c1e4a12b3e597a8",
+    "hash": "49a1c7e387a4e695f617ce1ad562319d",
+    "time": "2025-10-27T12:54:19Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/diskuv/dk/blob/V2_4/docs/posts/2025-10-24-overview-ci-attestations.md",
+    "description": "dk/docs/posts/2025-10-24-overview-ci-attestations.md at V2_4 · diskuv/dk",
+    "extended": "",
+    "meta": "893f4794a1342ffdaf52f8026c0a2f67",
+    "hash": "95d9231b7904ebeb76163f56b569deee",
+    "time": "2025-10-27T12:26:59Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://kill-the-newsletter.com/feeds/1wsgk3begv92a2d5/entries/jiurvbuf3mi13u6biouc.html",
+    "description": "An Audit of Liquid, Savings High Interest Opportunities for Me. - Investment Moats",
+    "extended": "",
+    "meta": "dab9a71717a4e9aa63521edc76f4a759",
+    "hash": "ab3f011d0e8676bf08d059e6da51444a",
+    "time": "2025-10-27T12:11:31Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "finance"
+  },
+  {
+    "href": "https://d2lang.com/tour/intro/",
+    "description": "D2 Tour | D2 Documentation",
+    "extended": "",
+    "meta": "e2afba05b451c01efb0ac83e2449d82e",
+    "hash": "8c3b4590f7c0a475959794b133e5aa01",
+    "time": "2025-10-27T11:56:23Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/iliashad/edit-mind",
+    "description": "IliasHad/edit-mind: Desktop app that indexes videos with AI (object detection, face recognition, emotion analysis), enables semantic search through natural language queries, and generates rough cuts",
+    "extended": "",
+    "meta": "d3f6036a5bf2fb64191addeef312943f",
+    "hash": "833391ca2177b89ca5c20fdc554c17f9",
+    "time": "2025-10-27T11:48:23Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://cartography-of-generative-ai.net/",
+    "description": "Cartography of generative AI",
+    "extended": "",
+    "meta": "3cc4c61e50d3c4f9a1da4b8063496d4d",
+    "hash": "49a59c38777adf37b7db3d2e15d34bb5",
+    "time": "2025-10-27T11:39:38Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://vaibhavsagar.com/blog/2025/10/22/satisfying-solutions/",
     "description": "SATisfying Solutions to Difficult Problems! - Vaibhav Sagar",
     "extended": "",
