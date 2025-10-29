@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://testing.googleblog.com/2025/10/simplify-your-code-functional-core.html",
+    "description": "Google Testing Blog: Simplify Your Code: Functional Core, Imperative Shell",
+    "extended": "Gary Bernhardt’s original talk",
+    "meta": "9838b8c482c136b912d54291536f0ddd",
+    "hash": "d746fc4c4e6097f993136af3bdfb8a54",
+    "time": "2025-10-28T13:43:42Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://github.com/Fission-AI/OpenSpec",
+    "description": "Fission-AI/OpenSpec: Spec-driven development for AI coding assistants.",
+    "extended": "",
+    "meta": "2768f865bcca9bb8617bc39a2269937f",
+    "hash": "21d0ac56b11add59bd2894dda8d6e6fc",
+    "time": "2025-10-28T13:39:35Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://hdembinski.github.io/posts/parsing_webpages_with_llm_revisited.html",
     "description": "Parsing webpages with a Large Language Model (LLM) revisited – Hans Dembinski’s blog",
     "extended": "",
