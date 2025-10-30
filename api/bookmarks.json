@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://blog.ivnj.org/post/hackable-software",
+    "description": "Hackable software",
+    "extended": "",
+    "meta": "4c9af6fe67a6bd5ec8776e3ab369cff9",
+    "hash": "fe6f826f67a802157df50e872dbc3e6a",
+    "time": "2025-10-29T13:06:07Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
     "href": "https://testing.googleblog.com/2025/10/simplify-your-code-functional-core.html",
     "description": "Google Testing Blog: Simplify Your Code: Functional Core, Imperative Shell",
     "extended": "Gary Bernhardt’s original talk",
