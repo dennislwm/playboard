@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "description": "ChromeDevTools/chrome-devtools-mcp: Chrome DevTools for coding agents",
+    "extended": "",
+    "meta": "21c6f78daf512a272a65cd64e21535a6",
+    "hash": "b4212d4b4d442e7efacb45d4bce01466",
+    "time": "2025-10-30T02:01:07Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://blog.ivnj.org/post/hackable-software",
     "description": "Hackable software",
     "extended": "",
