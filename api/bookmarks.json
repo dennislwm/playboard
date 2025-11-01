@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook#training-compass-why--what--how",
+    "description": "The Smol Training Playbook: The Secrets to Building World-Class LLMs - a Hugging Face Space by HuggingFaceTB",
+    "extended": "",
+    "meta": "10dfc52bbaf45e0453bef0b3d4436bb2",
+    "hash": "f28cafb448938acb1e8e2bc2309bb0e9",
+    "time": "2025-10-31T12:23:31Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
     "description": "ChromeDevTools/chrome-devtools-mcp: Chrome DevTools for coding agents",
     "extended": "",
@@ -5140,7 +5151,7 @@
     "href": "https://github.com/iommirocks/iommi",
     "description": "iommirocks/iommi: Your first pick for a django power cord",
     "extended": "examples project",
-    "meta": "e9b52a910d3af983d5a9c427969715a0",
+    "meta": "3c2f6e58c95a0ef466dd8139c179fc24",
     "hash": "02c3449e14628950a4253f0bdeb15701",
     "time": "2024-09-26T13:10:21Z",
     "shared": "no",
