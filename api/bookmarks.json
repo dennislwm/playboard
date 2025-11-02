@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://www.prusa3d.com/category/3d-printers/",
+    "description": "3D printers | Original Prusa 3D printers directly from Josef Prusa",
+    "extended": "",
+    "meta": "9da4d400d79e3f4196b2b4790667ec46",
+    "hash": "d21c69de6b42d3586ef2d7cc219980bb",
+    "time": "2025-11-02T01:42:24Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://github.com/miratcan/kaydet",
+    "description": "miratcan/kaydet: Simple command line app designed to help you preserve your daily thoughts, experiences, and memories..",
+    "extended": "",
+    "meta": "f1ae8b5743d3622206a026dec337cf4b",
+    "hash": "230bf1509849f8bac9263dd06e8bc7ff",
+    "time": "2025-11-01T09:39:13Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://huggingface.co/spaces/HuggingFaceTB/smol-training-playbook#training-compass-why--what--how",
     "description": "The Smol Training Playbook: The Secrets to Building World-Class LLMs - a Hugging Face Space by HuggingFaceTB",
     "extended": "",
