@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://myticker.com/",
+    "description": "Ticker: Don’t Die of Heart Disease",
+    "extended": "",
+    "meta": "df5fc914718f20c31a78c2062bfced39",
+    "hash": "a422d435d1346b181ef1d26aecd0952a",
+    "time": "2025-11-09T08:54:25Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "health"
+  },
+  {
+    "href": "https://book.sv/",
+    "description": "Recommend | book.sv",
+    "extended": "",
+    "meta": "35c5b085526d0e3548e5f1d52701ecb4",
+    "hash": "9235aa1047c8efc9d0b314fb1c0027b1",
+    "time": "2025-11-09T08:53:21Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://fintechdystopia.com/",
+    "description": "Fintech Dystopia",
+    "extended": "",
+    "meta": "aff32761028c1240e0562b2307619d0d",
+    "hash": "48297c42216670308c548740ee225819",
+    "time": "2025-11-09T08:52:02Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "finance"
+  },
+  {
+    "href": "https://thoughtforms.life/what-advice-do-i-give-to-my-students/",
+    "description": "Forms of life, forms of mind | Dr. Michael Levin | What advice do I give to my students?",
+    "extended": "",
+    "meta": "86bc9b2057a58dde4499fcfcae9c208a",
+    "hash": "15828dc6835d1675dedecf1e61155516",
+    "time": "2025-11-09T08:49:21Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
     "href": "https://algoinsights.medium.com/i-spent-4-hours-reverse-engineering-mrbeast-videos-heres-the-wild-formula-behind-virality-8685f1f1ae4b",
     "description": "I Spent 4 Hours Reverse-Engineering MrBeast Videos. Here’s the Wild Formula Behind Virality. | by Algo Insights | Nov, 2025 | Medium",
     "extended": "",
