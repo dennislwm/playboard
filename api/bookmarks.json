@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://github.com/Syps/cbs-bench",
+    "description": "Syps/cbs-bench: \"Clues by Sam\" LLM benchmarking tool",
+    "extended": "cluesbysam.com",
+    "meta": "dc82ea2944d61621c9a184d42423f3f6",
+    "hash": "c86701baad1eab4503bdf6605d1435b8",
+    "time": "2025-11-16T13:55:20Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://checkeagle.com/checklists/njr/a-month-of-chat-oriented-programming/",
+    "description": "A Month of Chat-Oriented Programming - CheckEagle",
+    "extended": "",
+    "meta": "b36373abf1d869b89c878f361f52c261",
+    "hash": "7f4f217c9beb5fe35f09122bf7139d67",
+    "time": "2025-11-16T13:48:56Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://saul.pw/mag/wealth/",
+    "description": "Mag Wealth",
+    "extended": "",
+    "meta": "b709a0ed893538fa04bd4b9c45f47acc",
+    "hash": "bee981e416a25f2ac69de7a5f1a6c3a5",
+    "time": "2025-11-16T11:10:54Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "finance"
+  },
+  {
     "href": "https://medium.com/data-science-collective/how-i-deployed-an-ai-agent-for-sustainable-supply-chain-optimisation-c8b2e0fbf6c3",
     "description": "How I Deployed an AI Agent for Sustainable Supply Chain Optimisation | by Samir Saci | Data Science Collective | Nov, 2025 | Medium",
     "extended": "",
