@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://david.coffee/cloudflare-zero-trust-tunnels",
+    "description": "I finally understand Cloudflare Zero Trust tunnels | David Mohl",
+    "extended": "",
+    "meta": "3fdd64bd88738a199ba7e85369cb24a1",
+    "hash": "df40af3de8ac76ca3803b1a24e90c21b",
+    "time": "2025-11-20T15:34:56Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://github.com/AnandChowdhary/continuous-claude",
+    "description": "AnandChowdhary/continuous-claude: 🔂 Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging",
+    "extended": "",
+    "meta": "56512f2fc7ec340e849ade7b477e6ef5",
+    "hash": "96bf87aa5e6d7f47aa8b9ce7939ec6af",
+    "time": "2025-11-20T15:03:11Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/Syps/cbs-bench",
     "description": "Syps/cbs-bench: \"Clues by Sam\" LLM benchmarking tool",
     "extended": "cluesbysam.com",
