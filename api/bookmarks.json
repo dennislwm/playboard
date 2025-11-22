@@ -1,5 +1,60 @@
 [
   {
+    "href": "https://xllify.com/",
+    "description": "xllify - Bring your Luau and Python functions to Microsoft Excel",
+    "extended": "",
+    "meta": "b3d542d0c616ca6741dd4f05ea413842",
+    "hash": "918a8eefcbd19afc3990a0f91094426a",
+    "time": "2025-11-21T05:42:10Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://ariana.dev/",
+    "description": "Ariana - Get more quality work out of Claude Code",
+    "extended": "",
+    "meta": "1753ec2e2dabb7f2dcec37ad1f3a7fff",
+    "hash": "caafd7ba88629f8d19a494af6bcaf811",
+    "time": "2025-11-21T05:38:42Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://pub.aimind.so/how-to-run-n8n-for-free-forever-on-google-cloud-e15940f33ed0",
+    "description": "How to Run n8n for Free Forever on Google Cloud | by Shakir Majeed Mir | Nov, 2025 | AI Mind",
+    "extended": "",
+    "meta": "45d8b18a1ff71ed832099abd84f917cd",
+    "hash": "21ad6984636b9ec7dd37c77809be32ff",
+    "time": "2025-11-21T05:26:20Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://intelligentfuturetech.com/blog/scaling-distributed-product-teams-2025/",
+    "description": "How to Scale Distributed Product Teams From 10 to 100+ in 2025",
+    "extended": "",
+    "meta": "9996520978ddb58de13857e49f3afeae",
+    "hash": "4c49d6a8f2f6f47e03f1437948adb42a",
+    "time": "2025-11-21T04:16:19Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://github.com/cloudflare/vibesdk",
+    "description": "cloudflare/vibesdk: An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack",
+    "extended": "",
+    "meta": "59fac08da70d8ca564224bf3537e79ea",
+    "hash": "b82b14036d2353a91139625fa15ff4bb",
+    "time": "2025-11-21T04:05:15Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://david.coffee/cloudflare-zero-trust-tunnels",
     "description": "I finally understand Cloudflare Zero Trust tunnels | David Mohl",
     "extended": "",
