@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://www.ece.uvic.ca/~elec399/201409/Akin%27s%20Laws%20of%20Spacecraft%20Design.pdf",
+    "description": "Microsoft PowerPoint - Akin's Laws of Spacecraft Design.pptx",
+    "extended": "",
+    "meta": "248c2ca37e2f2f92f110c4cb0276b191",
+    "hash": "c2ecc0643f0e2ba90d51c02c1b864ad0",
+    "time": "2026-01-01T07:25:05Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
     "href": "https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/",
     "description": "What Actually Makes You Senior – Terrible Software",
     "extended": "",
@@ -18802,7 +18813,7 @@
     "href": "https://github.com/icloud-photos-downloader/icloud_photos_downloader",
     "description": "icloud-photos-downloader/icloud_photos_downloader: A command-line tool to download photos from iCloud",
     "extended": "",
-    "meta": "2321985a338ba94ee7fa10b70b5f715b",
+    "meta": "1b2cb5e030cb5392cfdf06c7be7b46c3",
     "hash": "3ed4224339ce410a17714798eb6d9df0",
     "time": "2024-02-03T01:51:58Z",
     "shared": "no",
