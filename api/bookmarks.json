@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://git.mig5.net/mig5/enroll",
+    "description": "mig5/enroll: Reverse-terraforming servers into Ansible. - Forgejo: mig5's git instance",
+    "extended": "",
+    "meta": "9b1ececa9deb0b3285e20f6cae689bf8",
+    "hash": "1aac81d5effda8e577fcd91aeb33f23d",
+    "time": "2026-01-02T12:38:41Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://www.ece.uvic.ca/~elec399/201409/Akin%27s%20Laws%20of%20Spacecraft%20Design.pdf",
     "description": "Microsoft PowerPoint - Akin's Laws of Spacecraft Design.pptx",
     "extended": "",
