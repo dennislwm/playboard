@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://github.com/steipete/summarize",
+    "description": "steipete/summarize: Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.",
+    "extended": "",
+    "meta": "a38332f7db2739a8e21f695464fe8704",
+    "hash": "844f298b0b62ed867d1d30a587fdadad",
+    "time": "2026-01-03T08:55:26Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://git.mig5.net/mig5/enroll",
     "description": "mig5/enroll: Reverse-terraforming servers into Ansible. - Forgejo: mig5's git instance",
     "extended": "",
