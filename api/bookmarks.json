@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://automatewithtasker.com/",
+    "description": "Tasker - Automate Anything with AI | Browser Automation Made Simple",
+    "extended": "",
+    "meta": "e7c8f8ec563e0b6b3efa85f8efcfb481",
+    "hash": "a066d201e7dc21e0183487ceb246d847",
+    "time": "2026-01-05T11:57:23Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://addyosmani.com/blog/21-lessons/",
+    "description": "AddyOsmani.com - 21 Lessons From 14 Years at Google",
+    "extended": "",
+    "meta": "eb64f12e9bac2ce28f237fbac014b8cf",
+    "hash": "4bbbd57d92231f3f8d130f9111fa8e9f",
+    "time": "2026-01-05T11:45:48Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
     "href": "https://github.com/steipete/summarize",
     "description": "steipete/summarize: Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.",
     "extended": "",
