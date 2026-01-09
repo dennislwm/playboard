@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://github.com/kepano/obsidian-skills",
+    "description": "kepano/obsidian-skills: Claude Skills for Obsidian",
+    "extended": "",
+    "meta": "c1a5ddd2f8da94c9fe4669a623fd7d37",
+    "hash": "333ac7fd8f02fc4355c0365385e45bf7",
+    "time": "2026-01-08T14:21:51Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/rberg27/doom-coding",
+    "description": "rberg27/doom-coding: A guide for how to use your smartphone to code anywhere at anytime.",
+    "extended": "",
+    "meta": "39fa47a1ae82a6a548a35bec7d985a25",
+    "hash": "49f88da5a36d7c6eb2e66155b18cb5ef",
+    "time": "2026-01-08T14:20:45Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/slopus/happy",
+    "description": "slopus/happy: Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured",
+    "extended": "",
+    "meta": "af07bc7d129af11266c24491beaab708",
+    "hash": "d24a9df8ad6ffdf42d3c7ae4c835920a",
+    "time": "2026-01-08T14:17:08Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://automatewithtasker.com/",
     "description": "Tasker - Automate Anything with AI | Browser Automation Made Simple",
     "extended": "",
