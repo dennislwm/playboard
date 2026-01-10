@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://github.com/richhickson/claudecodeusage",
+    "description": "richhickson/claudecodeusage",
+    "extended": "",
+    "meta": "03c02ae1d6d84f0b336db354da62ef95",
+    "hash": "fc4c3b8696f51206c5064c5aaf675ab6",
+    "time": "2026-01-09T12:23:58Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://stephango.com/vault",
+    "description": "How I use Obsidian — Steph Ango",
+    "extended": "",
+    "meta": "02f3b91dbcd69d15dbefbf6c1d348d22",
+    "hash": "490786195c89cf68d48471cd068acab5",
+    "time": "2026-01-09T12:16:02Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
     "href": "https://github.com/kepano/obsidian-skills",
     "description": "kepano/obsidian-skills: Claude Skills for Obsidian",
     "extended": "",
