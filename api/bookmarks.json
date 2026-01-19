@@ -1,5 +1,71 @@
 [
   {
+    "href": "https://github.com/dbreunig/whenwords",
+    "description": "dbreunig/whenwords: A relative time formatting library, with no code.",
+    "extended": "",
+    "meta": "2f51f547b90f279e2a38a0eb735fb59d",
+    "hash": "4d058d7636ee90bdae56ea4a097f8f8a",
+    "time": "2026-01-18T08:04:26Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://x.com/jaimefjorge/status/2011381315929583747",
+    "description": "Jaime Jorge on X: \"The biggest takeaways/nuggets from my interview with @GeoffreyHuntley on AI-native software engineering and the Ralph loop: 1. Software development and software engineering are now two different professions, and one of them is over. Sof",
+    "extended": "",
+    "meta": "d33a50f67fc58f04f4c429077a37317a",
+    "hash": "a071cf0019b9bcccc3421324022583f0",
+    "time": "2026-01-18T07:54:38Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://aws.amazon.com/blogs/devops/from-ai-agent-prototype-to-product-lessons-from-building-aws-devops-agent/",
+    "description": "From AI agent prototype to product: Lessons from building AWS DevOps Agent | AWS DevOps & Developer Productivity Blog",
+    "extended": "",
+    "meta": "6734600fa571f9dae9bb3ceebfa04a46",
+    "hash": "9437da03a81f0573931726fe654ea9ec",
+    "time": "2026-01-18T07:01:24Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://shellbox.dev/",
+    "description": "shellbox - Instant Linux Boxes via SSH",
+    "extended": "",
+    "meta": "1ac5b96b7422d899a09c133d6c0910e8",
+    "hash": "ccd83722a6986d270dc22c52767d79f3",
+    "time": "2026-01-18T06:52:47Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://cursor.com/blog/scaling-agents",
+    "description": "Scaling long-running autonomous coding · Cursor",
+    "extended": "",
+    "meta": "7fab0672e82516b60625062c857570e2",
+    "hash": "aea5765c6f3abeaafef6c094abb56e1f",
+    "time": "2026-01-18T06:50:01Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://martinfowler.com/articles/stop-picking-sides.html",
+    "description": "Stop Picking Sides",
+    "extended": "",
+    "meta": "e3e68de9e1251a653a17739c310a595d",
+    "hash": "b9848de5c07b3208a5a829ae57d606a3",
+    "time": "2026-01-18T06:38:39Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
     "href": "https://github.com/richhickson/claudecodeusage",
     "description": "richhickson/claudecodeusage",
     "extended": "",
