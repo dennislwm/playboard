@@ -1,5 +1,82 @@
 [
   {
+    "href": "https://www.reddit.com/r/Cooking/comments/1qfek61/i_spent_8_months_testing_every_brand_of_canned/",
+    "description": "I spent 8 months testing every brand of canned tomato with a controlled pasta sauce recipe. Full rankings inside. : r/Cooking",
+    "extended": "",
+    "meta": "320bd1f50c39ae56aaa2499e4e5fd327",
+    "hash": "7b9b8e276887a9b7a21ce4f150e59ee1",
+    "time": "2026-01-24T10:25:36Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "health"
+  },
+  {
+    "href": "https://www.bettershot.site/",
+    "description": "Better Shot - Free Screenshot Tool for macOS",
+    "extended": "",
+    "meta": "920dba5c96940cb8f6a002754c99030c",
+    "hash": "67b56f54d85316833d6d5ce7d78be6bf",
+    "time": "2026-01-24T10:17:12Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://centuryofbio.com/p/sid",
+    "description": "Going Founder Mode On Cancer - by Elliot Hershberg",
+    "extended": "",
+    "meta": "69dbb414d9621b8d21148d45bb71f3f8",
+    "hash": "fb468aec7515178467eacf43d36f276a",
+    "time": "2026-01-24T10:15:23Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "health"
+  },
+  {
+    "href": "https://github.com/blader/Claudeception",
+    "description": "blader/Claudeception: A Claude Code skill for autonomous skill extraction and continuous learning. Have Claude Code get smarter as it works.",
+    "extended": "",
+    "meta": "3aa252b0b538295257d7408e2c295fd7",
+    "hash": "f4f7ce63e1d9d3abe7154ed78faf5303",
+    "time": "2026-01-24T10:09:41Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://clawd.bot/",
+    "description": "Clawdbot — Personal AI Assistant",
+    "extended": "",
+    "meta": "987a5068bd3a3c7b1b30bddc7a1739b5",
+    "hash": "4b6f35cbf2e7d002ff5165b7580787fc",
+    "time": "2026-01-24T10:04:58Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://elliot.my/im-34-heres-34-things-i-wish-i-knew-at-21/",
+    "description": "I'm 34. Here's 34 things I wish I knew at 21 | elliot.my",
+    "extended": "",
+    "meta": "3d7cc1dbb55c2f40f40abd10d9418225",
+    "hash": "bb9fc5361ff863429a8f1570644f4098",
+    "time": "2026-01-24T09:59:30Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://www.nibzard.com/agentic-handbook",
+    "description": "The Agentic AI Handbook: Production-Ready Patterns - Log - nibzard",
+    "extended": "",
+    "meta": "bab04cad3518852e1de8a0b636e7ef96",
+    "hash": "f168d54ee21273b47e31d3aee867dd9d",
+    "time": "2026-01-24T09:30:11Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://github.com/dbreunig/whenwords",
     "description": "dbreunig/whenwords: A relative time formatting library, with no code.",
     "extended": "",
