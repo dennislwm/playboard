@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://www.leadingsapiens.com/johari-leadership-archetypes/",
+    "description": "The Five Johari Leadership Archetypes",
+    "extended": "",
+    "meta": "d8ec375d02cc1de6021a7175fe5534fa",
+    "hash": "3e65236b2f73477b49336fc9b46c3b03",
+    "time": "2026-01-31T07:33:05Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://martinfowler.com/articles/convo-what-how.html",
+    "description": "Conversation: LLMs and the what/how loop",
+    "extended": "",
+    "meta": "508136bba93bd40123c8e00f59e4b926",
+    "hash": "eeefdd214fd19bdb9114207fc298f764",
+    "time": "2026-01-31T07:14:38Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://github.com/mvanhorn/last30days-skill",
+    "description": "mvanhorn/last30days-skill: Claude Code skill that researches any topic across Reddit + X from the last 30 days, then writes copy-paste-ready prompts",
+    "extended": "",
+    "meta": "2a1057371ac43c975db961e5f6526c4f",
+    "hash": "cb3eddfe11b539d180163d1339e27de6",
+    "time": "2026-01-31T05:45:23Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://www.reddit.com/r/Cooking/comments/1qfek61/i_spent_8_months_testing_every_brand_of_canned/",
     "description": "I spent 8 months testing every brand of canned tomato with a controlled pasta sauce recipe. Full rankings inside. : r/Cooking",
     "extended": "",
