@@ -1,5 +1,71 @@
 [
   {
+    "href": "https://www.jsnover.com/blog/2026/02/01/welcome-to-the-room/",
+    "description": "Welcome to the Room | Jeffrey Snover's blog",
+    "extended": "",
+    "meta": "14626b9452bb268d465a29591c7e9b96",
+    "hash": "6d229c1beac718502b5d444958f461e4",
+    "time": "2026-02-14T05:25:45Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://github.com/qaz741wsd856/warden-worker",
+    "description": "qaz741wsd856/warden-worker: A Bitwarden-compatible server for Cloudflare Workers",
+    "extended": "",
+    "meta": "7861757954981fa69526f2ed22d7ab4e",
+    "hash": "f6dc9d9f4694be7063df86319066911d",
+    "time": "2026-02-14T04:39:58Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/michaelzixizhou/codag",
+    "description": "michaelzixizhou/codag: Visualize AI/LLM workflows in your codebase.",
+    "extended": "",
+    "meta": "551add8d1df92983b937439ad0585b7e",
+    "hash": "d462b192b9e282b2debf09d56cebdc9e",
+    "time": "2026-02-14T04:32:18Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://simonwillison.net/2026/Feb/10/showboat-and-rodney/",
+    "description": "Introducing Showboat and Rodney, so agents can demo what they’ve built",
+    "extended": "Rodney",
+    "meta": "afb2dc8ec5c7e925c1e35eb087487562",
+    "hash": "fde11f8b7daa69925b988b121f801bc6",
+    "time": "2026-02-14T03:17:22Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://github.com/asciimoo/hister",
+    "description": "asciimoo/hister: Web history on steroids",
+    "extended": "",
+    "meta": "38394e60b6343845c2688c157d295972",
+    "hash": "0c898219dedf03f5d25a5b08f7a39d8c",
+    "time": "2026-02-14T03:12:31Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://exe.dev/",
+    "description": "exe.dev - Persistent VMs via SSH",
+    "extended": "",
+    "meta": "a3e9cbe52fa3ed6d34fbe91d7097f01e",
+    "hash": "80b5024f4f9a1265a1eaa8cbfc37d2a3",
+    "time": "2026-02-14T03:03:53Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://www.leadingsapiens.com/johari-leadership-archetypes/",
     "description": "The Five Johari Leadership Archetypes",
     "extended": "",
