@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://github.com/smhanov/laconic",
+    "description": "smhanov/laconic: An agentic research orchestrator for Go that is optimized to use free search & low-cost limited context window llms.",
+    "extended": "",
+    "meta": "8d163d05eeb297f130f6b843f8e4f4a4",
+    "hash": "8b4d30ddeff92828fe58b3e837a17ca8",
+    "time": "2026-02-17T12:16:09Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://stevehanov.ca/blog/a-ralph-loop-for-reading-beating-gpt-52-with-a-4k-context-window-and-4-gpus",
+    "description": "A Ralph Loop for Reading: Beating GPT 5.2 with a 4k Context Window (and 4 GPUs) | Steve Hanov's Blog",
+    "extended": "eh-trade.ca",
+    "meta": "518f961aa59bfc577dc384e3bb065090",
+    "hash": "89de4add71c6d69e9d7881c13a2d656a",
+    "time": "2026-02-17T12:15:10Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://dev.to/jverhoeks/-scaling-terraform-across-many-teams-a-native-framework-for-platform-engineering-3n0b",
+    "description": "Scaling Terraform Across many Teams: A Native Framework for Platform Engineering - DEV Community",
+    "extended": "",
+    "meta": "b6849ec5d187f7560f9880ba647a3026",
+    "hash": "3911a56007f5ae5d4d23e6daf7fadda0",
+    "time": "2026-02-17T12:00:37Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://vibetunnel.sh/",
+    "description": "Vibetunnel: Your Mac Terminal in Any Browser | Secure & Retro",
+    "extended": "",
+    "meta": "3ee459981bb22e190f67a19e29a17702",
+    "hash": "83a0584d2652b66557ea59478deeaf0a",
+    "time": "2026-02-17T11:47:03Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://www.damiangalarza.com/posts/2026-02-13-linear-agent-loop/",
     "description": "Building a Linear-Driven Agent Loop with Claude Code - Damian Galarza | Software Engineering & AI Consulting",
     "extended": "Linear",
@@ -2533,7 +2577,7 @@
     "href": "https://blog.fabiomanganiello.com/article/render-your-jupyter-notebooks-in-opengist",
     "description": "Render your Jupyter notebooks in OpenGist",
     "extended": "",
-    "meta": "768f3946ce91a10dbc6130984bc754ff",
+    "meta": "8f84278bef44e15df8bbdfeccd3d4253",
     "hash": "b6cc1c7af4b8e760fe272a149681f2ed",
     "time": "2025-08-04T03:03:41Z",
     "shared": "no",
