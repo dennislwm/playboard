@@ -1,5 +1,60 @@
 [
   {
+    "href": "https://aredridel.dinhe.net/2026/02/15/an-ai-haters-guide-to-code-with-llms-the-how-to/",
+    "description": "An AI haters guide to code with LLMs (The How-to) | All Confirmation Bias, All The Time",
+    "extended": "",
+    "meta": "3a4789170672bb4ea542ef47869ec90c",
+    "hash": "006debadb762dae5ce65bbb6d28b3a13",
+    "time": "2026-02-18T04:57:05Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://borretti.me/article/letting-claude-play-text-adventures",
+    "description": "Letting Claude Play Text Adventures",
+    "extended": "",
+    "meta": "c457b08ec9182f0cca88e9f6d35bd384",
+    "hash": "031eb57ca5505b67bb9736d57521619d",
+    "time": "2026-02-18T04:48:38Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://markdown.new/",
+    "description": "markdown.new - Markdown for Agents | Cloudflare-Powered URL to Markdown",
+    "extended": "",
+    "meta": "1e7e789804ee4ea4c600ff04e42b3516",
+    "hash": "eeef9264cf8c431751ce454901a73cd0",
+    "time": "2026-02-18T04:40:31Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf",
+    "description": "The-Complete-Guide-to-Building-Skill-for-Claude.pdf",
+    "extended": "",
+    "meta": "79280e441c56add16e3a3197e3184945",
+    "hash": "1e432d87509b9982dcdb33254059dff4",
+    "time": "2026-02-18T04:33:22Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://github.com/simonw/rodney",
+    "description": "simonw/rodney: CLI tool for interacting with the web",
+    "extended": "",
+    "meta": "790925d7b9bd2b9917b9e7747ae9d615",
+    "hash": "ecad892526651a0549162e471dee317b",
+    "time": "2026-02-18T03:41:15Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/smhanov/laconic",
     "description": "smhanov/laconic: An agentic research orchestrator for Go that is optimized to use free search & low-cost limited context window llms.",
     "extended": "",
