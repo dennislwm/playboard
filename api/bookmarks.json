@@ -1,5 +1,82 @@
 [
   {
+    "href": "https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals",
+    "description": "AGENTS.md outperforms skills in our agent evals - Vercel",
+    "extended": "",
+    "meta": "ce3253d0abd751323a667532dfdb51c5",
+    "hash": "aa9b8806a00dda5f1e71376fb432f5da",
+    "time": "2026-02-20T14:19:11Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://codeberg.org/BobbyLLM/llama-conductor",
+    "description": "BobbyLLM/llama-conductor: Route workflows, not models. Glass-box, not black-box. Squash LLM nonsense. - Codeberg.org",
+    "extended": "",
+    "meta": "991c5e24ab5671f8db7027dc3302f229",
+    "hash": "6469e52166f4eea343db6239a1799db4",
+    "time": "2026-02-20T13:23:44Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://tuananh.net/2026/01/21/achieving-a-0-cve-os-for-vms-the-end-of-traditional-patching/",
+    "description": "Achieving a 0-CVE OS for VMs: The End of Traditional Patching - Tuan-Anh Tran",
+    "extended": "",
+    "meta": "307419ecd165f7b534c47c5cc1e9a72c",
+    "hash": "07a3767e8d14b0fe595b5b541d17e7f4",
+    "time": "2026-02-20T13:21:03Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "security"
+  },
+  {
+    "href": "https://github.com/rvantonder/execute_code_py",
+    "description": "rvantonder/execute_code_py: A Claude Code plugin that restricts Claude to ONLY use Python code execution. All other tools are blocked, creating a pure computational environment.",
+    "extended": "",
+    "meta": "c62a0d2cded7b65342c4771ff51f20bb",
+    "hash": "599fbaa14bde86f61ed37f9c5dcb9016",
+    "time": "2026-02-20T13:17:29Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://proofofcorn.com/",
+    "description": "Proof of Corn",
+    "extended": "",
+    "meta": "2e0dbdb71816dc283fb38751fcef1b47",
+    "hash": "450acbb609c6b5dbdcb008ab200be404",
+    "time": "2026-02-20T13:10:35Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://github.com/klawsh/klaw.sh",
+    "description": "klawsh/klaw.sh: kubectl for AI Agents",
+    "extended": "",
+    "meta": "1b829a8c03ac027830f3d2f48e1e3fcc",
+    "hash": "4f66f2952b57c5176f614ae478d4ad19",
+    "time": "2026-02-20T12:48:49Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://micasa.dev/",
+    "description": "micasa — your house, in a terminal",
+    "extended": "",
+    "meta": "e07c1c670ff26127321e2948b1e60809",
+    "hash": "2829e9f806c15fa4c3712d7ccc52435e",
+    "time": "2026-02-20T12:39:27Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://aredridel.dinhe.net/2026/02/15/an-ai-haters-guide-to-code-with-llms-the-how-to/",
     "description": "An AI haters guide to code with LLMs (The How-to) | All Confirmation Bias, All The Time",
     "extended": "",
