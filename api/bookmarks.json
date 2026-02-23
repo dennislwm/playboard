@@ -1,5 +1,115 @@
 [
   {
+    "href": "https://github.com/CosmoBlk/email-marketing-bible",
+    "description": "CosmoBlk/email-marketing-bible: Email marketing skill for Claude Code. 55K words, 908 sources, 19 industry playbooks. Install the skill and Claude becomes your email marketing expert.",
+    "extended": "",
+    "meta": "de2193426c89cd2cf4ac6eeffe252ec3",
+    "hash": "a4aff89d266798494200d28371205c1b",
+    "time": "2026-02-22T07:32:34Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://slaughterhouse.mirat.dev/results/0f15587b-7d31-4382-8e1a-d0e4b9276fb4/",
+    "description": "SLAUGHTERHOUSE",
+    "extended": "",
+    "meta": "281f8011ffd660ec5ab607b13c8389ae",
+    "hash": "6bf49c282406c4e033b93e86e2cefa69",
+    "time": "2026-02-22T07:19:07Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "seo"
+  },
+  {
+    "href": "https://www.rasha.me/blog/rag-pipeline-claude-code-agent-teams",
+    "description": "A/B Testing Your RAG Pipeline: Chunking, Retrieval, and Reranking Strategies You Can Build With One Prompt Each | Rasha Hantash",
+    "extended": "",
+    "meta": "a48b22fa83716f0c63d5694a7949832b",
+    "hash": "97505a751426374e118b7149902087a6",
+    "time": "2026-02-22T07:03:42Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://www.woodcp.com/2026/01/clipboard-images-in-claude-code-cli/",
+    "description": "Clipboard Images in Claude Code CLI - Wood Consulting Partners",
+    "extended": "",
+    "meta": "ceb056838f0736e072225abef807c12c",
+    "hash": "4e5a046911de850ad65464f6dbc97aa3",
+    "time": "2026-02-22T06:58:49Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://blinry.org/weight-loss/",
+    "description": "My best tricks from 13 years of losing weight",
+    "extended": "",
+    "meta": "d2aeb9d4737756b315b61084b44b2872",
+    "hash": "9e57d53751a67d27846f936dfadf67a9",
+    "time": "2026-02-22T06:54:41Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "health"
+  },
+  {
+    "href": "https://yoav.hasha.men/blog/mobile-cc/",
+    "description": "Mobile development with opencode | Yoav Shai",
+    "extended": "",
+    "meta": "e087e27f488381d9633f0e5c18c1b20e",
+    "hash": "3506ae912519c92ac4e9bd8f38211034",
+    "time": "2026-02-22T06:51:22Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://malvik.de/blog/claude-code-skills",
+    "description": "Sven Malvik - Cloud Platform Architect & AI Engineer",
+    "extended": "",
+    "meta": "4a452237eadad84568395a2d49a92dea",
+    "hash": "d719619c4459ea04c19cfd144b56f34a",
+    "time": "2026-02-22T06:41:15Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://github.com/code-yeongyu/oh-my-opencode",
+    "description": "code-yeongyu/oh-my-opencode: the best agent harness",
+    "extended": "",
+    "meta": "16fba7e23b6a73359f0e5513357a2536",
+    "hash": "dbc38ef77a9a1ac511b0b1326c4a6239",
+    "time": "2026-02-22T06:34:37Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://philippdubach.com/posts/building-a-no-tracking-newsletter-from-markdown-to-distribution/",
+    "description": "Build a No-Tracking Newsletter: Markdown to Email with Cloudflare - philippdubach.com",
+    "extended": "",
+    "meta": "bb2b513b49bfd0c929d779e272c0d2d9",
+    "hash": "54e57bd673ddab21025fad3712cf155a",
+    "time": "2026-02-22T06:01:56Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://github.com/kimjune01/cord",
+    "description": "kimjune01/cord: A coordination protocol for trees of Claude Code agents",
+    "extended": "",
+    "meta": "79f135a1b500652a1feab684f712eff3",
+    "hash": "8257ca4962787da3794e5e6b66735042",
+    "time": "2026-02-22T04:55:31Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://blog.can.ac/2026/02/12/the-harness-problem/",
     "description": "I Improved 15 LLMs at Coding in One Afternoon. Only the Harness Changed. | Can.ac",
     "extended": "",
