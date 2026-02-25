@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://opper.ai/blog/car-wash-test",
+    "description": "Car Wash Test on 53 leading AI models: \"I want to wash my car. The car wash is 50 meters away. Should I walk or drive?\"",
+    "extended": "",
+    "meta": "d95f3e95d12fd5cdacce431fc8be9395",
+    "hash": "709cf29e5a00c71c01eaca9f00c20330",
+    "time": "2026-02-24T12:36:29Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://shuru.run/",
+    "description": "shuru - Local-first microVM sandbox for AI agents",
+    "extended": "",
+    "meta": "a650fe0d45fac1eb60c250199b141419",
+    "hash": "9ccd5be58baff0e9ecc04f61241a0c5f",
+    "time": "2026-02-24T11:57:27Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/CosmoBlk/email-marketing-bible",
     "description": "CosmoBlk/email-marketing-bible: Email marketing skill for Claude Code. 55K words, 908 sources, 19 industry playbooks. Install the skill and Claude becomes your email marketing expert.",
     "extended": "",
