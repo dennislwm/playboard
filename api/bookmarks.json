@@ -1,5 +1,71 @@
 [
   {
+    "href": "https://github.com/LakshyaChaudhry/Distill",
+    "description": "LakshyaChaudhry/Distill",
+    "extended": "",
+    "meta": "b7a226b0538a50678fd5d9e92e5a4f91",
+    "hash": "b19d7010e7ae40d9955dbf8b4b142b89",
+    "time": "2026-02-27T01:22:42Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://tools.simonwillison.net/ocr",
+    "description": "OCR PDFs and images directly in your browser",
+    "extended": "",
+    "meta": "cc7dded0f54d783f04303b3d619f6bb5",
+    "hash": "dc0bc6cc4ff7d35adf5d941e0396df2d",
+    "time": "2026-02-27T01:12:57Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://code.claude.com/docs/en/remote-control",
+    "description": "Continue local sessions from any device with Remote Control - Claude Code Docs",
+    "extended": "",
+    "meta": "d33dc59fa5a8f38be15c225f9f7fb997",
+    "hash": "31872ea8be3bc4aab4cb9da373e1316e",
+    "time": "2026-02-26T12:30:02Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://simonwillison.net/guides/agentic-engineering-patterns/",
+    "description": "Agentic Engineering Patterns - Simon Willison's Weblog",
+    "extended": "",
+    "meta": "b525dc4f68bc2ad407dc9bb2b2bbbe7e",
+    "hash": "13e612f3ee3813c6db498b5b5a450021",
+    "time": "2026-02-26T12:21:02Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://tuananh.net/2026/02/25/buildkit-docker-hidden-gem/",
+    "description": "BuildKit: Docker's Hidden Gem That Can Build Almost Anything - Tuan-Anh Tran",
+    "extended": "",
+    "meta": "1ba87d2e3edcd34f49fed9a0dba86375",
+    "hash": "a07204fdcb1a799352fe385bfa32e52c",
+    "time": "2026-02-26T12:18:12Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://simonroses.com/2026/02/ai-agent-skill-poisoning-the-supply-chain-attack-you-havent-heard-of/",
+    "description": "AI Agent Skill Poisoning: The Supply Chain Attack You Haven’t Heard Of | Simon Roses Femerling – Blog",
+    "extended": "",
+    "meta": "c5e34296102371a782dd3727c32afa7a",
+    "hash": "cd84b22042e43b71ef192bff7791fdc5",
+    "time": "2026-02-26T12:17:06Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "security"
+  },
+  {
     "href": "https://opper.ai/blog/car-wash-test",
     "description": "Car Wash Test on 53 leading AI models: \"I want to wash my car. The car wash is 50 meters away. Should I walk or drive?\"",
     "extended": "",
