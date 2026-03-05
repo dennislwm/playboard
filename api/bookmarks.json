@@ -1,5 +1,93 @@
 [
   {
+    "href": "https://www.dbreunig.com/2026/03/04/the-spec-driven-development-triangle.html",
+    "description": "Learnings from a No-Code Library: Keeping the Spec Driven Development Triangle in Sync",
+    "extended": "",
+    "meta": "5250f775b18a0126cc9ed9cbe105e2bb",
+    "hash": "3deab61169074ab66da5986396e96e94",
+    "time": "2026-03-05T01:36:02Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://pocket-id.org/",
+    "description": "Pocket ID - Simple OIDC Provider",
+    "extended": "",
+    "meta": "63d4c5d637cb3179777657d8be1d96d3",
+    "hash": "e5293fcc7c65bd1b8c4ffe659ac00bdf",
+    "time": "2026-03-05T01:32:11Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://gist.github.com/dollspace-gay/d8d3bc3ecf4188df049d7a4726bb2a00",
+    "description": "Verified Spec-Driven Development",
+    "extended": "",
+    "meta": "16878eac2fbadf1abb7fea36b337fbed",
+    "hash": "f81e202b76dec8f9d007c4d90808f503",
+    "time": "2026-03-04T07:30:46Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "tdd"
+  },
+  {
+    "href": "https://help.obsidian.md/cli",
+    "description": "Obsidian CLI - Obsidian Help",
+    "extended": "",
+    "meta": "39015665ba278d2d9a1f7dcbb4ecaaf2",
+    "hash": "d02749a4043f1ca79e09cfc4559f3e7b",
+    "time": "2026-03-04T07:27:10Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/jonmagic/secure-env-demo",
+    "description": "jonmagic/secure-env-demo",
+    "extended": "",
+    "meta": "2d2e477b62fbd994caa207701756333e",
+    "hash": "2241f572e827d747bc5403cff87d81da",
+    "time": "2026-03-04T07:09:16Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://schipper.ai/posts/parallel-coding-agents/",
+    "description": "How I run 4–8 parallel coding agents with tmux and Markdown specs — Manuel Schipper",
+    "extended": "",
+    "meta": "3067b42e0976e37a58a0f0798c560a82",
+    "hash": "2f668574c0f80f40de48a5bf7bfefeb2",
+    "time": "2026-03-04T06:29:48Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://www.unfudged.io/",
+    "description": "unf — filesystem flight recorder",
+    "extended": "",
+    "meta": "ce927f141648eae2ed19c0f40dc543f4",
+    "hash": "7730cd5e7c1f74d98afd56e0edf03b13",
+    "time": "2026-03-04T06:24:02Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://octavo.pro/",
+    "description": "Octavo — Tame your PDFs. Supercharge your printer.",
+    "extended": "",
+    "meta": "d106cc50e629c9f0c1993cfa9a1d61d2",
+    "hash": "5f194b34c38d16c2f6991cdc5ca41549",
+    "time": "2026-03-04T06:22:59Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/LakshyaChaudhry/Distill",
     "description": "LakshyaChaudhry/Distill",
     "extended": "",
