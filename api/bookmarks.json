@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://github.com/alibaba/page-agent",
+    "description": "alibaba/page-agent: JavaScript in-page GUI agent. Control web interfaces with natural language.",
+    "extended": "",
+    "meta": "925893eef35f2f6cc1573534ca51f5a5",
+    "hash": "d8d54e4bd4f02a141951673d864465de",
+    "time": "2026-03-06T13:42:38Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another",
+    "description": "A GitHub Issue Title Compromised 4,000 Developer Machines | grith",
+    "extended": "",
+    "meta": "ca91519e5ffc6d9778ff4de0115627b2",
+    "hash": "69816e647bcb6a179024fd1bae6623c6",
+    "time": "2026-03-06T06:45:08Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "security"
+  },
+  {
+    "href": "https://github.com/googleworkspace/cli",
+    "description": "googleworkspace/cli: Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
+    "extended": "",
+    "meta": "21aa0428e9cf15a710ee61d770e0b410",
+    "hash": "376c7f20c8d0118b7c9063f5d20be775",
+    "time": "2026-03-06T06:41:09Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://defuddle.md/",
+    "description": "Defuddle — Get the main content of any page as Markdown.",
+    "extended": "",
+    "meta": "470b354b872eba8b042af10767a9ccd2",
+    "hash": "64eb6f622bb960997513fbcfc09b7592",
+    "time": "2026-03-06T06:39:07Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://www.dbreunig.com/2026/03/04/the-spec-driven-development-triangle.html",
     "description": "Learnings from a No-Code Library: Keeping the Spec Driven Development Triangle in Sync",
     "extended": "",
