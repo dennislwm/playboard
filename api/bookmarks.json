@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://github.com/rtk-ai/rtk",
+    "description": "rtk-ai/rtk: CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+    "extended": "",
+    "meta": "972444ab7f60ec51969ba3f31a3a8f3b",
+    "hash": "357d6524906760e8b7acb5038a1c4444",
+    "time": "2026-03-08T12:16:56Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://code.claude.com/docs/en/scheduled-tasks",
+    "description": "Run prompts on a schedule - Claude Code Docs",
+    "extended": "",
+    "meta": "e82fa0af2f6d5e6aeafb655be9b11fb0",
+    "hash": "6048b762e0db67bf60e8a49544afc397",
+    "time": "2026-03-08T12:08:31Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://github.com/alibaba/page-agent",
     "description": "alibaba/page-agent: JavaScript in-page GUI agent. Control web interfaces with natural language.",
     "extended": "",
