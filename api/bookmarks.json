@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://github.com/es617/claude-replay",
+    "description": "es617/claude-replay: Community tool to convert Claude Code session transcripts into self-contained, embeddable HTML replays",
+    "extended": "",
+    "meta": "38086f257ba23b598f8c61be63f43ae4",
+    "hash": "effb9e93f42426c5f32fec352ee4ec74",
+    "time": "2026-03-09T13:42:08Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://agent-safehouse.dev/",
+    "description": "Agent Safehouse",
+    "extended": "",
+    "meta": "a50a275cef12fa32e2f77e79be0c9e77",
+    "hash": "ad5905973fb145e4591f4717e8c300e2",
+    "time": "2026-03-09T13:40:42Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/rtk-ai/rtk",
     "description": "rtk-ai/rtk: CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
     "extended": "",
