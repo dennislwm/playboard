@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://www.bassimeledath.com/blog/levels-of-agentic-engineering",
+    "description": "The 8 Levels of Agentic Engineering — Bassim Eledath",
+    "extended": "",
+    "meta": "602a965f5bf9d7bb9a90b3c3c7d6a310",
+    "hash": "b971f377dd654177d1a6c4d5930f2892",
+    "time": "2026-03-11T00:31:21Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://github.com/DenchHQ/DenchClaw",
+    "description": "DenchHQ/DenchClaw: Fully Managed OpenClaw Framework for all knowledge work ever. CRM Automation and Outreach agents. The only local productivity tool you need.",
+    "extended": "",
+    "meta": "f2ff58b9174332a088e212bfb7364719",
+    "hash": "1bcc344c9f03bcd3ad897a8505999432",
+    "time": "2026-03-10T13:34:33Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://likec4.dev/",
+    "description": "LikeC4",
+    "extended": "",
+    "meta": "7004383031c7a98d1261353fc5146ff6",
+    "hash": "01c2e0cb4cd9bc9e97f827824e07c2cb",
+    "time": "2026-03-10T13:26:14Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/es617/claude-replay",
     "description": "es617/claude-replay: Community tool to convert Claude Code session transcripts into self-contained, embeddable HTML replays",
     "extended": "",
