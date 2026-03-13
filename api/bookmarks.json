@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://unsloth.ai/docs/basics/claude-code",
+    "description": "How to Run Local LLMs with Claude Code | Unsloth Documentation",
+    "extended": "",
+    "meta": "614ebbf095b8112707c37c0c58c95d17",
+    "hash": "f801bea19c437e9524cca8a034d9f7e2",
+    "time": "2026-03-12T11:22:27Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://github.com/manuelschipper/nah/",
+    "description": "manuelschipper/nah: Context-aware safety guard for Claude Code. A permission system you control.",
+    "extended": "",
+    "meta": "2026907eb9d71b013ed829890d0b8a7a",
+    "hash": "db9c6dfde03c522994e6dd151aea7ef3",
+    "time": "2026-03-12T11:19:16Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/nwfxyz/4D_analytics",
     "description": "nwfxyz/4D_analytics",
     "extended": "",
