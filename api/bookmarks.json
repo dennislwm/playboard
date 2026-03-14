@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://claudegod.app/",
+    "description": "Claude God — Track Claude AI Usage, Costs & Rate Limits | Free macOS Menu Bar App",
+    "extended": "",
+    "meta": "3d5494753d10ede6f8b7035482a163ba",
+    "hash": "7d4bf6e7329ab6c212d08c07fb3ad168",
+    "time": "2026-03-13T03:23:32Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://secretive.dev/",
+    "description": "Secretive",
+    "extended": "",
+    "meta": "b0d5b8d370e2ede71954a007f02bbf39",
+    "hash": "b84d0f46a06f4343fbfd2ce3b251095b",
+    "time": "2026-03-13T03:19:02Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/onecli/onecli",
+    "description": "onecli/onecli: Open-source credential vault, give your AI agents access to services without exposing keys.",
+    "extended": "",
+    "meta": "901898548ae229aef65260cf9f1936f9",
+    "hash": "761ce3ae564198939bd7b5832a85c451",
+    "time": "2026-03-13T03:09:03Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://unsloth.ai/docs/basics/claude-code",
     "description": "How to Run Local LLMs with Claude Code | Unsloth Documentation",
     "extended": "",
