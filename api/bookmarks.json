@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://nightingale.cafe/",
+    "description": "Nightingale — Karaoke from your music library",
+    "extended": "",
+    "meta": "c8d792f450f3ad30b985ed58a2cf1efd",
+    "hash": "e92612fecffe9724b7cdc4330da48bfd",
+    "time": "2026-03-18T13:35:01Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://jiripik.com/2026/03/17/charlie-mungers-quality-investing-coded-in-quantconnect-c/",
+    "description": "Charlie Munger Strategy in QuantConnect C# | Jiri Pik",
+    "extended": "",
+    "meta": "755c2b6a03bddef65690c7212646a2ab",
+    "hash": "469d7b00382f2b31457467b9d098fcea",
+    "time": "2026-03-18T13:31:05Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "finance"
+  },
+  {
+    "href": "https://github.com/HKUDS/CLI-Anything",
+    "description": "HKUDS/CLI-Anything: CLI-Anything: Making ALL Software Agent-Native",
+    "extended": "",
+    "meta": "e85c41903e38fb9ba4de323859f8a84d",
+    "hash": "12e9527951797ad091ed4942877b8b76",
+    "time": "2026-03-18T13:26:48Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://www.gitagent.sh/#how",
+    "description": "GitAgent — The Open Standard for Git-Native AI Agents",
+    "extended": "",
+    "meta": "328efadee03d9b05b3f37248dc59ab0b",
+    "hash": "e723522ac9fead12696aa333b774207d",
+    "time": "2026-03-18T12:53:36Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://claudegod.app/",
     "description": "Claude God — Track Claude AI Usage, Costs & Rate Limits | Free macOS Menu Bar App",
     "extended": "",
