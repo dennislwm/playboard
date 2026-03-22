@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://github.com/RasKrebs/sonar",
+    "description": "raskrebs/sonar: CLI tool for inspecting and managing services listening on localhost ports",
+    "extended": "",
+    "meta": "39348a41e14eea13f269ad5991ef8777",
+    "hash": "50e7821832dca5582e6a936b75967212",
+    "time": "2026-03-21T07:03:55Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://nightingale.cafe/",
     "description": "Nightingale — Karaoke from your music library",
     "extended": "",
