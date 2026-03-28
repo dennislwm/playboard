@@ -1,5 +1,71 @@
 [
   {
+    "href": "https://github.com/sw33tlie/macshot",
+    "description": "sw33tLie/macshot: Feature-packed native macOS screenshot tool — annotate, auto-redact PII, record GIFs, OCR + translate, scroll capture, beautify, and more. No Electron, no subscription.",
+    "extended": "",
+    "meta": "e7811a815ef42024711262d5795054df",
+    "hash": "cb59cc410680ec72973036822422c78f",
+    "time": "2026-03-27T09:21:30Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/Kludex/starlette",
+    "description": "Kludex/starlette: The little ASGI framework that shines. 🌟",
+    "extended": "",
+    "meta": "0acbbd36fa30f6fdc695377c8a9cde99",
+    "hash": "c58a1603d85dad93024d42f4ca7ada56",
+    "time": "2026-03-27T09:17:30Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
+    "description": "building a digital doorman - george larson",
+    "extended": "",
+    "meta": "5c2454b98dcb59ba23861a06eebb2ae5",
+    "hash": "0ef436d770037cdbfa04e4534d8c465b",
+    "time": "2026-03-27T05:54:59Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://cc.storyfox.cz/",
+    "description": "Claude Code Cheat Sheet",
+    "extended": "",
+    "meta": "560e2e8039c4f22c5404ba1e4b04fe11",
+    "hash": "b751f2d48c64bdfebbd94ca100a3f9d5",
+    "time": "2026-03-27T05:51:02Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://github.com/ssrajadh/sentrysearch",
+    "description": "ssrajadh/sentrysearch: Semantic search over videos using Gemini Embedding 2.",
+    "extended": "",
+    "meta": "841b1f1f956314b8ffa51270ab7ef1ec",
+    "hash": "4fdbbcb6a47727c66d12d1293575aa1d",
+    "time": "2026-03-27T05:46:03Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/hectorvent/floci",
+    "description": "hectorvent/floci: Light, fluffy, and always free - AWS Local Emulator",
+    "extended": "",
+    "meta": "c013013a5c19732dfff9bf9547e4aeb4",
+    "hash": "5aa5778f15ebb637396fe978289107e3",
+    "time": "2026-03-27T05:42:16Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/RasKrebs/sonar",
     "description": "raskrebs/sonar: CLI tool for inspecting and managing services listening on localhost ports",
     "extended": "",
