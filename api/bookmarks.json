@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://www.leadingsapiens.com/ethos-building-trust-and-credibility/",
+    "description": "Ethos: The Art of Building Trust and Credibility",
+    "extended": "",
+    "meta": "d09dc3d41ac89074901c16688f7a11ed",
+    "hash": "52a0213543ca93f71796b5720c21d458",
+    "time": "2026-03-28T04:05:37Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
     "href": "https://github.com/sw33tlie/macshot",
     "description": "sw33tLie/macshot: Feature-packed native macOS screenshot tool — annotate, auto-redact PII, record GIFs, OCR + translate, scroll capture, beautify, and more. No Electron, no subscription.",
     "extended": "",
