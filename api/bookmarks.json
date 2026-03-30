@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://github.com/Michaelliv/markit",
+    "description": "Michaelliv/markit: 🖍️ Convert anything to markdown. Mark it.",
+    "extended": "",
+    "meta": "1292d7e0f80d6d8a3bf90eed264d0baf",
+    "hash": "03a5ef32df3549a979c29102eff275bc",
+    "time": "2026-03-29T11:38:46Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/HMAKT99/UnTouchID",
+    "description": "HMAKT99/UnTouchID: Use your phone's fingerprint to authenticate on any Mac — sudo, screensaver, App Store. No $199 Magic Keyboard needed. Works with iPhone, Android, Apple Watch, Wear OS, or any browser. Ready for MacBook Neo.",
+    "extended": "",
+    "meta": "de6e310cece6bd4357d085e6e0fb9b57",
+    "hash": "835f082278a76432112f933182b018e4",
+    "time": "2026-03-29T05:51:28Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/Pouzor/homelable",
+    "description": "Pouzor/homelable: Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring",
+    "extended": "",
+    "meta": "7ed3b9d47e27e83ca1e86c9a5de7f1e3",
+    "hash": "ac74118ce184f1f1a393e0ca00021edc",
+    "time": "2026-03-29T05:50:24Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://www.leadingsapiens.com/ethos-building-trust-and-credibility/",
     "description": "Ethos: The Art of Building Trust and Credibility",
     "extended": "",
