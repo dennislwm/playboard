@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://github.com/emdash-cms/emdash/",
+    "description": "emdash-cms/emdash: EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress",
+    "extended": "",
+    "meta": "2225438dd2d7ac9803e542ae5e796da0",
+    "hash": "0d4972709de9a43878ca2c6114e2fa15",
+    "time": "2026-04-03T13:23:29Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/drona23/claude-token-efficient",
+    "description": "drona23/claude-token-efficient: One CLAUDE.md file. Keeps Claude responses terse. Reduces output verbosity on heavy workflows. Drop-in, no code changes.",
+    "extended": "",
+    "meta": "f94b27a459635fd9010ed0495e3c6670",
+    "hash": "a1246ce88877f5ca3cc1ee109b4d3887",
+    "time": "2026-04-03T13:05:16Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://ministack.org/",
+    "description": "MiniStack — Free Open-Source Local AWS Emulator",
+    "extended": "",
+    "meta": "0e7508dc04c60c0b6ce108b140358978",
+    "hash": "9add3a638ae50ed457eb65d4690a8cbc",
+    "time": "2026-04-03T13:01:08Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/Michaelliv/markit",
     "description": "Michaelliv/markit: 🖍️ Convert anything to markdown. Mark it.",
     "extended": "",
