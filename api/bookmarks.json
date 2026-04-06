@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
+    "description": "llm-wiki",
+    "extended": "",
+    "meta": "7f8fb70575958d7609644be8e0aef892",
+    "hash": "ae04df1bcc6d439d579166943ee2a628",
+    "time": "2026-04-05T07:32:21Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent",
+    "description": "Components of A Coding Agent - by Sebastian Raschka, PhD",
+    "extended": "",
+    "meta": "7a3b1e1cc4c9da81bfe9eca71d3df048",
+    "hash": "9025f0fa948654d9a8f7d796dfcb65e0",
+    "time": "2026-04-05T07:20:22Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://github.com/microsoft/agent-governance-toolkit",
+    "description": "microsoft/agent-governance-toolkit: AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+    "extended": "",
+    "meta": "8e855db16ffe5630f08d2bfca82921c2",
+    "hash": "2b9d770ccfd92a6bc5b1ebd94424c117",
+    "time": "2026-04-05T07:10:34Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://kill-the-newsletter.com/feeds/qhvk758t533plood/entries/8wgzjvrur88j9xcg4ijp.html",
     "description": "How we made Trail of Bits AI-native (so far)",
     "extended": "repo that centralizes recommended Claude Code configuration",
