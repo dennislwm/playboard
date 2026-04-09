@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://www.nibzard.com/hard-problems/",
+    "description": "The Hard Problems Nobody Has Solved - Log - nibzard",
+    "extended": "",
+    "meta": "c78607a902220a1b0b775a472da084de",
+    "hash": "0d2cc01feb34779588667b2c23cde16d",
+    "time": "2026-04-08T14:03:32Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://gist.github.com/farzaa/c35ac0cfbeb957788650e36aabea836d",
+    "description": "personal_wiki_skill.md",
+    "extended": "",
+    "meta": "677f0c739a9f58631687ae3ef3769272",
+    "hash": "335941ebcb4bd84ba9e2a2f4098d242d",
+    "time": "2026-04-08T13:50:11Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://www.visidata.org/blog/2026/ai/",
+    "description": "Using AI to Contribute to Open Source | VisiData",
+    "extended": "",
+    "meta": "ed03182ea0532105182bf8ff9349c5b0",
+    "hash": "7e3812381c99269878cfcaf5a32db098",
+    "time": "2026-04-08T13:48:50Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f",
     "description": "llm-wiki",
     "extended": "",
