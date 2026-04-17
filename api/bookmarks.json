@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://darkbloom.dev/",
+    "description": "Darkbloom — Private AI Inference on Apple Silicon | Eigen Labs",
+    "extended": "",
+    "meta": "7bc90c2d72fdd0314f112d9e3e4527b2",
+    "hash": "5a1b887372b233c29c22a4d9f5c7c5ed",
+    "time": "2026-04-16T12:59:14Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://super-memory.com/articles/sleep.htm",
+    "description": "Good sleep, good learning, good life",
+    "extended": "",
+    "meta": "b06d3feee73f2546e06d877056433c3a",
+    "hash": "92a4b3e3d6614fbfa23f4183087cd702",
+    "time": "2026-04-16T12:43:02Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "health"
+  },
+  {
+    "href": "https://github.com/AgentSeal/codeburn",
+    "description": "AgentSeal/codeburn: See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.",
+    "extended": "",
+    "meta": "31cc0eee3322b7265b3634faed58d79c",
+    "hash": "00bf261bbb2b2a42d8de6fb0b0a1b65b",
+    "time": "2026-04-16T12:40:55Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://www.nibzard.com/hard-problems/",
     "description": "The Hard Problems Nobody Has Solved - Log - nibzard",
     "extended": "",
