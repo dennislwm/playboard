@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://darryl-ruggles.cloud/a-complete-terraform-setup-for-eks-auto-mode-is-it-right-for-you",
+    "description": "EKS Auto Mode: Simplify Kubernetes with Terraform Setup",
+    "extended": "",
+    "meta": "44069675d0dc62af7403b2c2004c079f",
+    "hash": "86bca552023d162d80061db3d7d53039",
+    "time": "2026-04-17T08:05:52Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "aws"
+  },
+  {
+    "href": "https://cs.opensource.google/pigweed/pigweed/+/main:.agents/skills/changelog/",
+    "description": "changelog - Pigweed",
+    "extended": "",
+    "meta": "0d1fe24b9e6b96278193a04fee5a0e99",
+    "hash": "d50de6a40c1bce80c38f50edd306193d",
+    "time": "2026-04-17T04:13:49Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/forrestchang/andrej-karpathy-skills",
+    "description": "forrestchang/andrej-karpathy-skills: A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "extended": "",
+    "meta": "80fd895a2a49d043a9bd07fda20035f6",
+    "hash": "098f2d324ee05c0d106c78ca276add4a",
+    "time": "2026-04-17T04:07:20Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://www.turtleinvestor.net/air-miles-singapore-guide/",
+    "description": "Air Miles In Singapore: The Complete Guide To KrisFlyer Miles (2026) | Turtle Investor",
+    "extended": "",
+    "meta": "1ce37ac1e86b9fd309616657fce22372",
+    "hash": "912af2cdb055ed7013e2f4b09d80edbc",
+    "time": "2026-04-17T04:02:04Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "reward"
+  },
+  {
     "href": "https://darkbloom.dev/",
     "description": "Darkbloom — Private AI Inference on Apple Silicon | Eigen Labs",
     "extended": "",
