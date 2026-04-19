@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://github.com/NousResearch/hermes-agent",
+    "description": "NousResearch/hermes-agent: The agent that grows with you",
+    "extended": "",
+    "meta": "d624119583a14614460870b073b0004e",
+    "hash": "978e35c607178533f1fd8aa67a68a1a7",
+    "time": "2026-04-18T07:52:10Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://gitbutler.com/",
+    "description": "GitButler",
+    "extended": "",
+    "meta": "bb6c5291509de4758a0c2ac72a4587c4",
+    "hash": "eb714ef44b29f6b59fd63638aee3dc12",
+    "time": "2026-04-18T07:51:28Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://desktopcommander.app/blog/zettelkasten-obsidian/",
+    "description": "The Zettelkasten Method in Obsidian: A Practical Setup Guide | Desktop Commander Blog",
+    "extended": "",
+    "meta": "7ebeacdcec95a4c592625e72306e9767",
+    "hash": "96109a45d33b778cc5358c410c14880e",
+    "time": "2026-04-18T07:34:33Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "productivity"
+  },
+  {
+    "href": "https://wiki-wise.com/",
+    "description": "Wikiwise — Build your own Wikipedia",
+    "extended": "",
+    "meta": "24297cd231be70af0f2fbf61c6bc76fe",
+    "hash": "d4eb583067fdcdefc3fbd90a176f1709",
+    "time": "2026-04-18T06:55:55Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://darryl-ruggles.cloud/a-complete-terraform-setup-for-eks-auto-mode-is-it-right-for-you",
     "description": "EKS Auto Mode: Simplify Kubernetes with Terraform Setup",
     "extended": "",
