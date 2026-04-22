@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://byedoom.com/",
+    "description": "ByeDoom — Give a Link → Get a Feed",
+    "extended": "",
+    "meta": "57699b63806527229832355d42a74912",
+    "hash": "a8214a5f35754afb3d3d72cac99c675a",
+    "time": "2026-04-21T03:59:04Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/NousResearch/hermes-agent",
     "description": "NousResearch/hermes-agent: The agent that grows with you",
     "extended": "",
