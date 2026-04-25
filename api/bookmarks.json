@@ -1,5 +1,71 @@
 [
   {
+    "href": "https://nrehiew.github.io/blog/minimal_editing/",
+    "description": "Coding Models Are Doing Too Much | wh",
+    "extended": "code",
+    "meta": "aa50d8e82e28ec5072eb2bc4376d8223",
+    "hash": "5fb0ca82af7eb67c4fdf9a60c5905aee",
+    "time": "2026-04-24T04:51:25Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://github.com/Ademking/MD-This-Page",
+    "description": "Ademking/MD-This-Page: Convert any web page to clean, readable Markdown with just one click.",
+    "extended": "",
+    "meta": "5a98a7c8f1055019892a7c8eff5bcc4e",
+    "hash": "0f4e61ee2d9f7edd69bbfcfbb4544ddc",
+    "time": "2026-04-24T04:38:40Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/run-llama/liteparse",
+    "description": "run-llama/liteparse: A fast, helpful, and open-source document parser",
+    "extended": "",
+    "meta": "20d4ad5dfe034ef26af361045bd9a42d",
+    "hash": "b1152e5d5b10f814a0520c5e00e5590d",
+    "time": "2026-04-24T04:36:27Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://blog.marcolancini.it/2026/blog-my-claude-code-setup/",
+    "description": "My Claude Code Setup (2026 Edition) | Marco Lancini's Blog",
+    "extended": "",
+    "meta": "d0c32ca79d2b005d671f0135524a11a1",
+    "hash": "994cfd4bc0ec5d6e4801e12efa7de736",
+    "time": "2026-04-24T04:26:52Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://github.com/refactoringhq/tolaria",
+    "description": "refactoringhq/tolaria",
+    "extended": "",
+    "meta": "ff9180e94e65dda343773ba2b2dd9b2e",
+    "hash": "b6c3444b6d06ce656e8ea266c656a595",
+    "time": "2026-04-24T04:14:23Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://luminousmen.substack.com/p/drunk-post-things-ive-learned-as",
+    "description": "Drunk Post: Things I’ve Learned as a Senior Engineer",
+    "extended": "",
+    "meta": "34453ba7753ed054533d0c4057361ad5",
+    "hash": "5e3b88317ab31f207c9d1c5e47735888",
+    "time": "2026-04-24T04:10:04Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
     "href": "https://byedoom.com/",
     "description": "ByeDoom — Give a Link → Get a Feed",
     "extended": "",
