@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://github.com/nex-crm/wuphf",
+    "description": "nex-crm/wuphf: WUPHF is a collaborative office of AI employees who build and maintain their own knowledge base to never lose context for the tasks you give them. Supports Claude Code, Codex, OpenClaw and local LLMs via OpenCode.",
+    "extended": "",
+    "meta": "df2ad2e6765e1f389ba0d5c5e866794b",
+    "hash": "898e213def7ecef52631d8677d69ec94",
+    "time": "2026-04-30T06:06:59Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://martinfowler.com/articles/structured-prompt-driven/",
+    "description": "Structured-Prompt-Driven Development (SPDD)",
+    "extended": "",
+    "meta": "3914795ab98de9034faaf82ebb345f20",
+    "hash": "4b7125aab76b72e22ae15902908b5b52",
+    "time": "2026-04-30T05:44:09Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://john.soban.ski/gemma-nye.html",
+    "description": "Engagement Farming with AI Bots",
+    "extended": "",
+    "meta": "eed9ac46784a3065117b0301e98e09d2",
+    "hash": "b63de4888026df49102c14e1d0fa76b6",
+    "time": "2026-04-30T05:24:56Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://github.com/frostiio/skills_mattpocock",
+    "description": "frostiio/skills_mattpocock: Skills for Real Engineers. Straight from my .claude directory.",
+    "extended": "",
+    "meta": "d738d572a8cc209e47d71f4bf89f140b",
+    "hash": "dccd99a97ecb47a4b28db6492bbf8619",
+    "time": "2026-04-30T05:00:42Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://nrehiew.github.io/blog/minimal_editing/",
     "description": "Coding Models Are Doing Too Much | wh",
     "extended": "code",
