@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://www.mql5.com/en/articles/21905",
+    "description": "How to connect AI agents to MetaTrader 5 via MCP - MQL5 Articles",
+    "extended": "",
+    "meta": "6a409663c62d30891a73bbccd37a0b70",
+    "hash": "395e04cc87e107d53119d40bd1294599",
+    "time": "2026-05-01T09:23:01Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot finance"
+  },
+  {
+    "href": "https://taoofmac.com/space/blog/2026/04/29/2341",
+    "description": "Lessons on Building MCP Servers - Tao of Mac",
+    "extended": "",
+    "meta": "78ba1d925e376fe8b598ec8bb9fd985d",
+    "hash": "fb9c8037fcafd98397f1702c218428f6",
+    "time": "2026-05-01T09:05:38Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://endowus.com/investment-funds-list/ishares-developed-world-index-fund-ie-sgd-hedged-IE000XUK0R09",
+    "description": "iShares Developed World Index Fund (IE) SGD-Hedged - IE000XUK0R09 | Invest via Fund Smart | Endowus SG",
+    "extended": "",
+    "meta": "95812e957e4aabafaa8108502e810dd4",
+    "hash": "fcdc8aed6e6ea6619cfeb9b5f23b929a",
+    "time": "2026-05-01T08:35:44Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "finance"
+  },
+  {
     "href": "https://github.com/nex-crm/wuphf",
     "description": "nex-crm/wuphf: WUPHF is a collaborative office of AI employees who build and maintain their own knowledge base to never lose context for the tasks you give them. Supports Claude Code, Codex, OpenClaw and local LLMs via OpenCode.",
     "extended": "",
