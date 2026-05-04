@@ -1,5 +1,60 @@
 [
   {
+    "href": "https://github.com/AirswitchAsa/dog",
+    "description": "AirswitchAsa/dog: dog is a markdown grammar subset for documentation.",
+    "extended": "",
+    "meta": "64b4f2bf03477d3cac846ae69618906f",
+    "hash": "3acbb40fe58a31d062968c78353e339c",
+    "time": "2026-05-03T14:32:32Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/floci-io/floci",
+    "description": "floci-io/floci: Light, fluffy, and always free - AWS Local Emulator",
+    "extended": "",
+    "meta": "55271bd6c406540a2deb0ecdfae63827",
+    "hash": "eeaf9b0a846d0e4c83410f7d635e7084",
+    "time": "2026-05-03T14:15:22Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://acai.sh/",
+    "description": "acai.sh",
+    "extended": "",
+    "meta": "4ca3b6f5075fb67de24248433c91f1e1",
+    "hash": "95c40368666310427e2cd0c1f994d88b",
+    "time": "2026-05-03T13:56:12Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://www.mql5.com/en/articles/22342",
+    "description": "Building a Liquidity Spectrum Volume Profile Indicator in MQL5 - MQL5 Articles",
+    "extended": "",
+    "meta": "546c6debde727df3b27ab384bc13fbbf",
+    "hash": "d65e855b51b1696aa492a8053b04ee65",
+    "time": "2026-05-03T13:31:31Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "finance"
+  },
+  {
+    "href": "https://www.turtleinvestor.net/miles-bot-personal-mcc-checker/",
+    "description": "Miles Bot: My 24/7 Personal MCC Checker (Prompt Finance) | Turtle Investor",
+    "extended": "",
+    "meta": "8703d3f9a9d709da258ab98db660c587",
+    "hash": "3bac587515da65f5c3ce01923df83b9c",
+    "time": "2026-05-03T13:16:45Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://www.mql5.com/en/articles/21905",
     "description": "How to connect AI agents to MetaTrader 5 via MCP - MQL5 Articles",
     "extended": "",
