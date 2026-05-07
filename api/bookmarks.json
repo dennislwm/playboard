@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://discord.com/blog/measure-less-to-learn-more-using-fewer-higher-quality-metrics-to-capture-what-matters",
+    "description": "Measure Less to Learn More: Using Fewer, Higher-quality Metrics to Capture What Matters",
+    "extended": "",
+    "meta": "1b044bdc53a16b70a816f62010d415d2",
+    "hash": "cdd07fe7f9d8ef249acf842600b0e90c",
+    "time": "2026-05-06T07:09:14Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "sre"
+  },
+  {
+    "href": "https://github.com/1weiho/open-slide",
+    "description": "1weiho/open-slide: A slide framework built for agents.",
+    "extended": "",
+    "meta": "bb002752acafe9b03bad2dbe455833de",
+    "hash": "014e0c853a12c57d464e8d7824e3059c",
+    "time": "2026-05-06T05:27:19Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/pyinfra-dev/pyinfra",
+    "description": "pyinfra-dev/pyinfra: 🔧 pyinfra turns Python code into shell commands and runs them on your servers. Execute ad-hoc commands and write declarative operations. Target SSH servers, local machine and Docker containers. Fast and scales from one server to th",
+    "extended": "",
+    "meta": "cde014bbebb0bfda2d92ba15ce208f16",
+    "hash": "4b5a9e294532e8942ca6c3cd034ad52e",
+    "time": "2026-05-06T05:16:52Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/aattaran/deepclaude",
+    "description": "aattaran/deepclaude: Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.",
+    "extended": "",
+    "meta": "08f693ae0b91414410e9ef279f4b723e",
+    "hash": "d17182547cc5eddea3ad6ec2f154a0b7",
+    "time": "2026-05-06T05:08:20Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/AirswitchAsa/dog",
     "description": "AirswitchAsa/dog: dog is a markdown grammar subset for documentation.",
     "extended": "",
