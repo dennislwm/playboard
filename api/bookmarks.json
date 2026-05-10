@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://fnox.jdx.dev/",
+    "description": "fnox",
+    "extended": "",
+    "meta": "11a137fc7201c3968624dd877c9d3f12",
+    "hash": "46e90787f40a84292d92f1c6cad07cc9",
+    "time": "2026-05-09T10:29:22Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/techygarg/lattice",
     "description": "techygarg/lattice: Install engineering discipline into any AI coding assistant. Composable skills for design, implementation, review, and team standards. Better process, not just better prompts.",
     "extended": "",
