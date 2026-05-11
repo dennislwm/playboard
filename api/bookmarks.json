@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://github.com/junegunn/fzf",
+    "description": "junegunn/fzf: :cherry_blossom: A command-line fuzzy finder",
+    "extended": "",
+    "meta": "e237214eb9c5dfeb03f1626b74ae7247",
+    "hash": "0f93ac96b035a3d007519b710b81410f",
+    "time": "2026-05-10T15:07:53Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://imgui-bundle.pages.dev/",
+    "description": "Dear ImGui Bundle — immediate-mode GUIs for Python & C++",
+    "extended": "",
+    "meta": "d090fcfc7d9af515abe7f2962055e8f8",
+    "hash": "f642477e877e76ff9bcd1eb1b6fca103",
+    "time": "2026-05-10T09:34:48Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github python"
+  },
+  {
+    "href": "https://research.perplexity.ai/articles/designing-refining-and-maintaining-agent-skills-at-perplexity",
+    "description": "Designing, Refining, and Maintaining Agent Skills at Perplexity",
+    "extended": "",
+    "meta": "8d59c616ae7e8785f48b35d0d40c708b",
+    "hash": "5d81929d72e6e395f11b273af73d01bc",
+    "time": "2026-05-10T08:53:09Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://poshac.me/docs/v4/Guides/ACME-CA-Comparison/",
+    "description": "ACME CA Comparison - Posh-ACME",
+    "extended": "",
+    "meta": "c51d062c5f8d6df949b2d2cec1b1a2b0",
+    "hash": "22c29bcef46d44358c9c722b25d13096",
+    "time": "2026-05-10T04:36:56Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "security"
+  },
+  {
     "href": "https://fnox.jdx.dev/",
     "description": "fnox",
     "extended": "",
