@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://medium.com/@luongnv89/run-claude-code-on-local-cloud-models-in-5-minutes-ollama-openrouter-llama-cpp-6dfeaee03cda",
+    "description": "Run Claude Code with Local & Cloud Models in 5 Minutes (Ollama, LM Studio, llama.cpp, OpenRouter) | by Luong NGUYEN | Medium",
+    "extended": "",
+    "meta": "d8fc62884e159425e602be057d732f72",
+    "hash": "63249c59e231d2ba16c61d5f2d293d83",
+    "time": "2026-05-13T02:23:54Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://github.com/junegunn/fzf",
     "description": "junegunn/fzf: :cherry_blossom: A command-line fuzzy finder",
     "extended": "",
