@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://github.com/Infisical/infisical",
+    "description": "Infisical/infisical: Infisical is the open-source platform for secrets, certificates, and privileged access management.",
+    "extended": "",
+    "meta": "c0d7bbb8645491ab36f6cf1039599b25",
+    "hash": "e342feb7810dbf5d19f1f48072d6f849",
+    "time": "2026-05-13T08:27:14Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://newsletter.optimistengineer.com/p/symptoms-of-bad-software-design",
+    "description": "Symptoms of Bad Software Design - by Marcos F. Lobo 🗻🧭",
+    "extended": "",
+    "meta": "6dd2108bffdf0ed140a42d87db4a7790",
+    "hash": "d603e934c47c4b63bbdc55018ea0eb32",
+    "time": "2026-05-13T08:17:15Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
     "href": "https://medium.com/@luongnv89/run-claude-code-on-local-cloud-models-in-5-minutes-ollama-openrouter-llama-cpp-6dfeaee03cda",
     "description": "Run Claude Code with Local & Cloud Models in 5 Minutes (Ollama, LM Studio, llama.cpp, OpenRouter) | by Luong NGUYEN | Medium",
     "extended": "",
