@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://github.com/mvanhorn/cli-printing-press",
+    "description": "mvanhorn/cli-printing-press: Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound insight commands.",
+    "extended": "",
+    "meta": "0b1a71e637d817ebe63d59cca154bb24",
+    "hash": "9f36a1f3d8227a7c50df0f068e1236eb",
+    "time": "2026-05-15T13:19:37Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/statewright/statewright",
+    "description": "statewright/statewright: State machine guardrails for AI agents",
+    "extended": "",
+    "meta": "41ef116f3de124f767cd10625d5b667d",
+    "hash": "5eec485c6b575c852eb756ecf869403f",
+    "time": "2026-05-15T13:02:45Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://floci.io/",
+    "description": "Floci — Fast, Free AWS Emulator",
+    "extended": "",
+    "meta": "c8f1c27949e072e0dc394670684ca577",
+    "hash": "fc627540d55a249751e65aa3fc7e51cb",
+    "time": "2026-05-15T13:01:32Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/Infisical/infisical",
     "description": "Infisical/infisical: Infisical is the open-source platform for secrets, certificates, and privileged access management.",
     "extended": "",
