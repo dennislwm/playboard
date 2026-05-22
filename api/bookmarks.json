@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://aws.amazon.com/blogs/security/the-aws-ai-security-framework-securing-ai-with-the-right-controls-at-the-right-layers-at-the-right-phases/",
+    "description": "The AWS AI Security Framework: Securing AI with the right controls, at the right layers, at the right phases | AWS Security Blog",
+    "extended": "",
+    "meta": "563ff6aa2c7a74719bf168bc13adc429",
+    "hash": "5c7ac144ef9dbd2acf0898633f36a3de",
+    "time": "2026-05-22T03:49:03Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "aws"
+  },
+  {
+    "href": "https://github.com/luoyuctl/agenttrace",
+    "description": "luoyuctl/agenttrace: Local-first TUI for AI coding-agent session history: trace cost, tokens, time, tool failures, latency, health, diffs, reports, and CI gates across local agent logs.",
+    "extended": "",
+    "meta": "79060b5be77db97a4a3c5bce3a34524f",
+    "hash": "3a8c18cfcf9048c2438ea4ef1bc8d403",
+    "time": "2026-05-22T03:43:41Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://emptysqua.re/blog/intro-to-tla-plus-for-the-llm-era/",
+    "description": "Intro to TLA+ for the LLM Era: Prompt Your Way to Victory",
+    "extended": "",
+    "meta": "863f13f932a5ac71736f13af21025094",
+    "hash": "21d188dd03bb41f50fa3983d1ad00f93",
+    "time": "2026-05-22T03:33:58Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "solution"
+  },
+  {
+    "href": "https://browse.sh/",
+    "description": "browse.sh",
+    "extended": "",
+    "meta": "6bcb1aea6cea87a70860541a906c822d",
+    "hash": "c70b140e85873d0ff25b77271d7672e3",
+    "time": "2026-05-22T03:30:26Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/mvanhorn/cli-printing-press",
     "description": "mvanhorn/cli-printing-press: Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound insight commands.",
     "extended": "",
