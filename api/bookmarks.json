@@ -1,5 +1,93 @@
 [
   {
+    "href": "https://www.kanbots.dev/",
+    "description": "KanBots — a kanban that runs parallel agents",
+    "extended": "",
+    "meta": "5dcde2a7552cca73b15963f57dbfd09b",
+    "hash": "156882b53b0df44268a70850f5e39dc3",
+    "time": "2026-05-23T02:56:06Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://kiro.dev/cli/",
+    "description": "CLI - Kiro",
+    "extended": "",
+    "meta": "96769cbd94ccfcf3a7eb3c016fd8bd50",
+    "hash": "5ba1280d9fc5754730be257c5137c673",
+    "time": "2026-05-23T02:55:12Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/feder-cr/invisible_playwright",
+    "description": "feder-cr/invisible_playwright: Stealth Firefox that passes every bot detection test. Drop-in Playwright replacement.",
+    "extended": "",
+    "meta": "6964a56823e52a48495f2ed95dac2fff",
+    "hash": "b7bce544857bc1eab69159895692bdb2",
+    "time": "2026-05-23T02:48:08Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/antoinezambelli/forge",
+    "description": "antoinezambelli/forge: A Python framework for self-hosted LLM tool-calling and multi-step agentic workflows",
+    "extended": "",
+    "meta": "0b25e1a07ea9fc0ae729c4f011c7c714",
+    "hash": "8ed713f2da7b868243730a9fcbdbcfb8",
+    "time": "2026-05-23T02:45:42Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/google/ax",
+    "description": "google/ax: Google's open source distributed agent runtime",
+    "extended": "",
+    "meta": "17d53c2174f2a59934dbec5a882e15f2",
+    "hash": "9dd98392ba38066b04f7d14ee8168a5e",
+    "time": "2026-05-23T02:45:13Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/kouhxp/yapsnap",
+    "description": "kouhxp/yapsnap: Snap any video URL or audio file into plaintext. No GPU. No cloud. One command.",
+    "extended": "",
+    "meta": "e5eca55199a5acb7704686dbfd42c324",
+    "hash": "e0eeee29c6f9ca5fd1dae9e475ec627b",
+    "time": "2026-05-23T02:42:47Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://arpitbhayani.me/blogs/rag-production",
+    "description": "What Matters in Production RAG",
+    "extended": "",
+    "meta": "2d4b749026d8c7105faf734e42a59dee",
+    "hash": "c0161158d46f77221bcc3d7607daf745",
+    "time": "2026-05-22T05:47:37Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "solution"
+  },
+  {
+    "href": "https://blog.nilenso.com/blog/2026/05/18/evals-before-prompts-building-an-llm-ocr-for-kyc/",
+    "description": "Evals before prompts: building an LLM OCR for KYC - nilenso blog",
+    "extended": "",
+    "meta": "6ba5564f90d85f6cb747c60742cb4ccc",
+    "hash": "0ddda2a3340e9283a67ffecae0cbfe47",
+    "time": "2026-05-22T05:07:08Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "solution"
+  },
+  {
     "href": "https://aws.amazon.com/blogs/security/the-aws-ai-security-framework-securing-ai-with-the-right-controls-at-the-right-layers-at-the-right-phases/",
     "description": "The AWS AI Security Framework: Securing AI with the right controls, at the right layers, at the right phases | AWS Security Blog",
     "extended": "",
