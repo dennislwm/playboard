@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://github.com/Infisical/agent-vault",
+    "description": "Infisical/agent-vault: A HTTP credential proxy and vault for AI agents like Claude Code, OpenClaw, Hermes, custom agents + harnesses, and more.",
+    "extended": "",
+    "meta": "8c0d0aabd88b91e1fdd27c2535f9a4b0",
+    "hash": "09b1882141b9cb9a9118aab6d7d58dbe",
+    "time": "2026-05-26T03:52:43Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://analytics.fixelsmith.com/posts/sql-fraud-patterns/",
+    "description": "Six SQL patterns I use to catch transaction fraud",
+    "extended": "",
+    "meta": "3c69efe22e2b75e21cb19c79298bf4f5",
+    "hash": "2e556a08ce170db6e7ea5fa821a67ec4",
+    "time": "2026-05-26T02:37:18Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "security"
+  },
+  {
+    "href": "https://www.mandalivia.com/obsidian/hledger-obsidian-personal-finance-with-claude-code/",
+    "description": "hledger + Obsidian: Plain-Text Personal Finance with Claude Code | Mandalivia",
+    "extended": "",
+    "meta": "e5ccb5b8bd1b1559d6b34cd0c26eb458",
+    "hash": "6799a42d3ce778d4e325ac4a94b35208",
+    "time": "2026-05-26T02:30:23Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "finance"
+  },
+  {
     "href": "https://www.kanbots.dev/",
     "description": "KanBots — a kanban that runs parallel agents",
     "extended": "",
