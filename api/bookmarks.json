@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://www.stet.sh/blog/how-i-used-codex-to-improve-its-own-agents-md",
+    "description": "I had Codex iterate on its own AGENTS.md 8 times and measured each version against real PRs. The best one still regressed on a clean holdout. — Stet",
+    "extended": "",
+    "meta": "7749b10dce6d3ad5d6b7acfdf8e98a12",
+    "hash": "390e1c47903e5320f15a4bbd52720247",
+    "time": "2026-05-28T03:43:31Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://arxiv.org/pdf/2605.23904",
+    "description": "SkillOpt: Executive Strategy for Self-Evolving Agent Skills",
+    "extended": "",
+    "meta": "ba694fbf8188c0a57f265f62500df28f",
+    "hash": "8bac547d6a38b2b519fdfa8e87a5a26f",
+    "time": "2026-05-28T01:25:18Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://microsoft.github.io/SkillOpt/",
+    "description": "SkillOpt | Executive Strategy for Self-Evolving Agent Skills",
+    "extended": "",
+    "meta": "022bea1d029735e491af0b392c24147f",
+    "hash": "5bd25fa6bfb5eb34b1c53aed94719ac7",
+    "time": "2026-05-28T01:25:11Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://martinfowler.com/articles/sensors-for-coding-agents.html",
+    "description": "Maintainability sensors for coding agents",
+    "extended": "",
+    "meta": "016c6e8fdb9ae7cd0b118ad7201f6aa7",
+    "hash": "1b6db10f351cb8c1a1cb734f265006ec",
+    "time": "2026-05-28T01:12:24Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://github.com/Infisical/agent-vault",
     "description": "Infisical/agent-vault: A HTTP credential proxy and vault for AI agents like Claude Code, OpenClaw, Hermes, custom agents + harnesses, and more.",
     "extended": "",
