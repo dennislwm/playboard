@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://www.henrypan.com/blog/2026-05-25-self-improvement-harness/",
+    "description": "What 1,000+ Harness Experiments Taught Me About Self-Improving Agents",
+    "extended": "",
+    "meta": "4a5e8afc82c1bb7cc57a125d9394fddb",
+    "hash": "3b9aba42da1f70cdd516d9639be0a284",
+    "time": "2026-06-22T04:05:45Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://www.stet.sh/blog/how-i-used-codex-to-improve-its-own-agents-md",
     "description": "I had Codex iterate on its own AGENTS.md 8 times and measured each version against real PRs. The best one still regressed on a clean holdout. — Stet",
     "extended": "",
