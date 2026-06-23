@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://bastrich.tech/story-points/",
+    "description": "Story Points: Explicit, Honest, Predictable. Already in Use. – Daniil Bastrich",
+    "extended": "",
+    "meta": "0fc607744325e3a7d7ab7a56e8431854",
+    "hash": "456cc99cdac001e320b2bf87057275e7",
+    "time": "2026-06-22T05:49:27Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://matthewboston.com/blog/the-agentic-test-pyramid.html",
+    "description": "The Agentic Test Pyramid — Matthew Boston",
+    "extended": "",
+    "meta": "9d4195e830ab8673d45fb40d4b4c0d19",
+    "hash": "07a216f17fe263d88a9057c6a622810b",
+    "time": "2026-06-22T05:31:25Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "tdd"
+  },
+  {
+    "href": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
+    "description": "My Agent Skill for Test-Driven Development - SaturnCI - Continuous Integration for Ruby on Rails",
+    "extended": "",
+    "meta": "e3845305aa3573b1a0d278b895a96fe5",
+    "hash": "cd3cf45ff9bf1e2723019aae804b4481",
+    "time": "2026-06-22T05:27:24Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "tdd"
+  },
+  {
     "href": "https://www.henrypan.com/blog/2026-05-25-self-improvement-harness/",
     "description": "What 1,000+ Harness Experiments Taught Me About Self-Improving Agents",
     "extended": "",
