@@ -1,5 +1,71 @@
 [
   {
+    "href": "https://github.com/StarTrail-org/PixelRAG",
+    "description": "StarTrail-org/PixelRAG: The end of web parsing. The beginning of scalable pixel-native search.",
+    "extended": "",
+    "meta": "0e739ed3ed560f285072e42daf31d645",
+    "hash": "fddc48c51cfc6b5a57fc35623dfd6987",
+    "time": "2026-06-23T11:23:10Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/mherrmann/djevops",
+    "description": "mherrmann/djevops: Self-host Django easily",
+    "extended": "",
+    "meta": "3045e2e5a88554dd43d86af8585ea0a0",
+    "hash": "5ed19eee7233de0db96f8e2aa08722c8",
+    "time": "2026-06-23T11:21:32Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://omlx.ai/",
+    "description": "oMLX — LLM inference, optimized for your Mac",
+    "extended": "",
+    "meta": "41b010c4cc7b2dc491b898568950dd0f",
+    "hash": "7ddec4699d1c2f0be9ae232ea4275766",
+    "time": "2026-06-23T11:04:40Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/DietrichGebert/ponytail",
+    "description": "DietrichGebert/ponytail: Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+    "extended": "",
+    "meta": "0e83a0a1f6b8da365c747c3134f2ceba",
+    "hash": "2526d3aeeaafdd092d80e3d8a6ac133f",
+    "time": "2026-06-23T11:02:49Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://taoofmac.com/space/blog/2026/06/18/1845",
+    "description": "Running microVMs in Proxmox VE, The Easy Way - Tao of Mac",
+    "extended": "",
+    "meta": "1f0999f9e1f43f9438287216c58041fa",
+    "hash": "d3515c14aec0b17fb2859923ed8e4a20",
+    "time": "2026-06-23T11:01:34Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://blog.platypush.tech/article/Local-voice-assistant",
+    "description": "Build a fully local voice assistant in 2026",
+    "extended": "",
+    "meta": "9ea1694d3f8ef87f96068d02360d7fe5",
+    "hash": "9f486e38b8f68f3671ea952d5774be7a",
+    "time": "2026-06-23T10:54:45Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://bastrich.tech/story-points/",
     "description": "Story Points: Explicit, Honest, Predictable. Already in Use. – Daniil Bastrich",
     "extended": "",
