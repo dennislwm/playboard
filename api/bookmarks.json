@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "description": "multica-ai/andrej-karpathy-skills: A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "extended": "",
+    "meta": "e15c440f9548b9403a4d500f0183a51d",
+    "hash": "39ec5846ae4b961707f4689fd7b00195",
+    "time": "2026-06-24T12:41:10Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
+    "description": "I Read the Claude Code Source Code. Here's Everything You Can Configure That the Docs Don't Tell You.",
+    "extended": "",
+    "meta": "48c71d7727beb34a336e3fb53285b5a3",
+    "hash": "a993f9d5edf15a12e21a6473f1e14e92",
+    "time": "2026-06-24T12:14:44Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://www.agentsview.io/",
+    "description": "AgentsView - AgentsView",
+    "extended": "",
+    "meta": "1eb9f4a21e335e89934051e784a56d03",
+    "hash": "dd5e5cb9ae753fadd2ef9b86a572c52b",
+    "time": "2026-06-24T07:10:24Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://role-confusion.github.io/",
+    "description": "Prompt Injection as Role Confusion",
+    "extended": "",
+    "meta": "ea667e5a61651691aa94577eb83e9ab9",
+    "hash": "a08ca4ba6897da8ea4a8eb4cfb70c1a0",
+    "time": "2026-06-24T06:57:11Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://github.com/StarTrail-org/PixelRAG",
     "description": "StarTrail-org/PixelRAG: The end of web parsing. The beginning of scalable pixel-native search.",
     "extended": "",
