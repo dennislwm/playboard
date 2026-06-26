@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://gethasp.com/",
+    "description": "hasp · model 01 · spec sheet",
+    "extended": "",
+    "meta": "bc2a40db5861823f94312eeaca330963",
+    "hash": "ea7e784974dd0c6ab6802985e277f205",
+    "time": "2026-06-25T15:27:33Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/mauriceboe/TREK",
+    "description": "mauriceboe/TREK: A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
+    "extended": "",
+    "meta": "09e185cd0b75f306c55ae1cf99d0d6e1",
+    "hash": "8f922997c926f6be181d9dcc187cc881",
+    "time": "2026-06-25T05:15:57Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/dbreunig/scaffold-docs-skill",
+    "description": "dbreunig/scaffold-docs-skill: A skill for writing technical documentation for human readers, iteratively, with author reviews at each step.",
+    "extended": "",
+    "meta": "e9615422c20059ef92633bf13bc7a525",
+    "hash": "6e02ec68b60bd83ac0db75f926f4b57d",
+    "time": "2026-06-25T04:13:18Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/multica-ai/andrej-karpathy-skills",
     "description": "multica-ai/andrej-karpathy-skills: A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
     "extended": "",
