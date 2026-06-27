@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://github.com/calesthio/OpenMontage",
+    "description": "calesthio/OpenMontage: World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+    "extended": "",
+    "meta": "75fb414ca7db0812a7bc24fdc5997e12",
+    "hash": "20703a86e2b01e2467f7f101e6e554ea",
+    "time": "2026-06-26T09:44:05Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://syncthing.net/",
+    "description": "Syncthing",
+    "extended": "",
+    "meta": "2a688cdfb7a24d7429424fcc2eaad24e",
+    "hash": "08efbc137d06163b10e8654570accca8",
+    "time": "2026-06-26T09:36:44Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://gethasp.com/",
     "description": "hasp · model 01 · spec sheet",
     "extended": "",
