@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://github.com/iOfficeAI/OfficeCLI",
+    "description": "iOfficeAI/OfficeCLI: OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+    "extended": "",
+    "meta": "3b7c8f9fada6c8b7f43f94d3df8a840b",
+    "hash": "c7871622e500ea548346d602838c84a7",
+    "time": "2026-07-07T15:04:11Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/ogulcancelik/herdr",
+    "description": "ogulcancelik/herdr: agent multiplexer that lives in your terminal.",
+    "extended": "",
+    "meta": "1a3257e4015196742dcdde4e343c962f",
+    "hash": "db7f927fbf3135e211d0871b662bd03e",
+    "time": "2026-07-07T14:33:08Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://www.kaggle.com/whitepaper-the-new-SDLC-with-vibe-coding",
     "description": "The New SDLC With Vibe Coding | Kaggle",
     "extended": "",
