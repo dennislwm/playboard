@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-factors.html",
+    "description": "Viability of local models for coding",
+    "extended": "",
+    "meta": "e438b17ab80950c7395ab6da89c23ed8",
+    "hash": "9c5376b937521ed41377c9a690d1a671",
+    "time": "2026-07-08T11:36:02Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://rayfish.xyz/",
+    "description": "Rayfish · Your own private network. No servers, no setup.",
+    "extended": "",
+    "meta": "7eca46adb08ca7d5f55e370ebb7a9065",
+    "hash": "3d3ba75210ddda5882517c21e3c88050",
+    "time": "2026-07-08T11:18:26Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/iOfficeAI/OfficeCLI",
     "description": "iOfficeAI/OfficeCLI: OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
     "extended": "",
