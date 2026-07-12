@@ -1,5 +1,60 @@
 [
   {
+    "href": "https://specterops.io/blog/2026/06/29/llm-jailbreak-testing-with-jailbreaker/#h-introduction-what-jailbreaker-is-meant-to-solve",
+    "description": "LLM Jailbreak Testing with Jailbreaker | SpecterOps",
+    "extended": "",
+    "meta": "d0c6ef797947c6ccdb5f4ab44952b983",
+    "hash": "02c4731681d6b948c7fdb4ea99f6e557",
+    "time": "2026-07-11T05:20:50Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
+    "description": "How to Write an Effective Software Design Document · Refactoring English",
+    "extended": "",
+    "meta": "d9c7bde89ac35157cb781c37fc08a074",
+    "hash": "158ec150e6a62ac881f65babc34356c9",
+    "time": "2026-07-11T05:09:41Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://github.com/ofsazib/floci-dash",
+    "description": "ofsazib/floci-dash: A polished, production-grade management dashboard for Floci — the local AWS emulator. Browse, create, and manage 55+ AWS services (S3, DynamoDB, EC2, Lambda, IAM, and more) through an AWS Console-style interface. React + Hono + Docke",
+    "extended": "",
+    "meta": "707dc8892bdf4f71b080ff1c559ebe41",
+    "hash": "c0ef96f71915569138b970105a6f0b6e",
+    "time": "2026-07-11T04:58:59Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://docs.chatto.run/",
+    "description": "Chatto Self-Hosting Documentation | Chatto",
+    "extended": "",
+    "meta": "2c7d99c3b1a645a3f7de04802f629599",
+    "hash": "841d830f531ce58c48dfe62349ef9099",
+    "time": "2026-07-11T04:15:33Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://joelinoff.com/blog/?p=1812",
+    "description": "My Simple Philosophy of Model Building – Joe's Blog",
+    "extended": "",
+    "meta": "ea615a3be28ab9aaaa4d4d5347947e7f",
+    "hash": "645f3deff7ee14ad178dfe29491d8acc",
+    "time": "2026-07-11T03:12:54Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://martinfowler.com/articles/exploring-gen-ai/local-models-for-coding-factors.html",
     "description": "Viability of local models for coding",
     "extended": "",
