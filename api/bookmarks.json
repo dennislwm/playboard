@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://github.com/dougcalobrisi/erm",
+    "description": "dougcalobrisi/erm: Local CLI that strips disfluencies (um, uh, er, erm, ah, hmm, mhm, mm, uh-huh, etc) from recordings of English speech.",
+    "extended": "",
+    "meta": "f0f18f1ca43fcb942ec3946f73d34bcc",
+    "hash": "886f4e338d50305fa92e6f79cd355eeb",
+    "time": "2026-07-12T05:28:47Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://specterops.io/blog/2026/06/29/llm-jailbreak-testing-with-jailbreaker/#h-introduction-what-jailbreaker-is-meant-to-solve",
     "description": "LLM Jailbreak Testing with Jailbreaker | SpecterOps",
     "extended": "",
