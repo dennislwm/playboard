@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://docu.md/",
+    "description": "docu.md — AI writes it. docu.md does the rest.",
+    "extended": "",
+    "meta": "d99c70d4d2e5031873fad7d7134e8ba8",
+    "hash": "476d51ec6a2b7f74728117837bd26fbb",
+    "time": "2026-07-13T04:51:22Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://github.com/dougcalobrisi/erm",
     "description": "dougcalobrisi/erm: Local CLI that strips disfluencies (um, uh, er, erm, ah, hmm, mhm, mm, uh-huh, etc) from recordings of English speech.",
     "extended": "",
