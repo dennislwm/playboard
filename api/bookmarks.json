@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
+    "description": "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode",
+    "extended": "",
+    "meta": "8c8560e588674a206e66c7c6870bb9eb",
+    "hash": "4d1744b160561c180c68179f09c0abca",
+    "time": "2026-07-14T12:39:49Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "mobile"
+  },
+  {
+    "href": "https://www.canopii.dev/State%20of%20MCP%20Security%202026.pdf",
+    "description": "State of MCP Security 2026 v2",
+    "extended": "",
+    "meta": "527cc851609f89bfdabdb6e5fb10b321",
+    "hash": "a39f833f54d437cae25b38ca3748286c",
+    "time": "2026-07-14T12:25:34Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://docu.md/",
     "description": "docu.md — AI writes it. docu.md does the rest.",
     "extended": "",
