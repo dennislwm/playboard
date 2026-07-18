@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://github.com/yazdipour/trmnl-telegram",
+    "description": "yazdipour/trmnl-telegram: Telegram to TRMNL (Image, PDF and EPUB)",
+    "extended": "",
+    "meta": "b4f4d0b0f10187ebc53aab566d7d9e02",
+    "hash": "b6da77cb8ee12418e9647320f18fe98f",
+    "time": "2026-07-17T11:49:17Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://clig.dev/",
+    "description": "Command Line Interface Guidelines",
+    "extended": "",
+    "meta": "de756d5d688c2a4870897bd4a2d403ec",
+    "hash": "b8b3703806e71286316ae6492b358dee",
+    "time": "2026-07-17T08:02:02Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://martinfowler.com/articles/llm-and-dsls.html",
+    "description": "DSLs Enable Reliable Use of LLMs",
+    "extended": "",
+    "meta": "90399bd77a74d07a97845838b409c168",
+    "hash": "a1dce868351eff56e875179ecfb1776c",
+    "time": "2026-07-17T05:35:55Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://martinfowler.com/articles/archaeologist-copilot.html",
+    "description": "The Archaeologist’s Copilot",
+    "extended": "",
+    "meta": "6a25fb55bdfcc2adc1a4ebc9a737e217",
+    "hash": "e312e8c14c469777541da8acdfbe96d3",
+    "time": "2026-07-17T05:07:22Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
     "href": "https://www.conductor.build/",
     "description": "Conductor - Run parallel coding agents on your Mac",
     "extended": "",
