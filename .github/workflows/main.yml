@@ -30,7 +30,7 @@ jobs:
           response_api=$( curl -X GET "${{ secrets.API_BASE_URL }}/${{ secrets.API_ENDPOINT }}?auth_token=${{ secrets.API_TOKEN }}&format=json" || echo "" )
           if ! [[ -z "${response_api}" ]]; then
             mkdir -p api
-            echo "${response_api}" | jq > api/bookmarks.json
+            echo "${response_api}" | jq > api/bookmarks.json || { echo "API response: ${response_api}"; exit 1; }
           fi
 
       # Update git repository
