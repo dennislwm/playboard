@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://claude.ai/code/artifact/bfdfaef9-bc62-4dfe-ba9e-c58a26c9accf",
+    "description": "Steps of AI Adoption",
+    "extended": "",
+    "meta": "b38a16a50d6e72d57a6f51b2e8013548",
+    "hash": "f01f204dcddea2183aec797f55485f69",
+    "time": "2026-07-19T01:16:19Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://www.a16z.news/p/the-next-ai-goldrush-tokens-loops",
+    "description": "You just hired a million bad employees. - by George Sivulka",
+    "extended": "",
+    "meta": "9bc1ee98a2d6a2ce478863041522f350",
+    "hash": "4fe574144310e16137843f2a2eea3514",
+    "time": "2026-07-19T01:08:41Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://github.com/yazdipour/trmnl-telegram",
     "description": "yazdipour/trmnl-telegram: Telegram to TRMNL (Image, PDF and EPUB)",
     "extended": "",
