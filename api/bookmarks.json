@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://addyosmani.com/blog/loop-engineering/",
+    "description": "AddyOsmani.com - Loop Engineering",
+    "extended": "",
+    "meta": "be8db70bb266f2b71e75a4270960b08c",
+    "hash": "d0018053962e519507f93ca00d2ecad0",
+    "time": "2026-07-20T11:29:25Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://github.com/lopopolo/harness-engineering",
+    "description": "lopopolo/harness-engineering: 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness engineering",
+    "extended": "",
+    "meta": "152124f34fd3a6bc487cc2cc36a50e46",
+    "hash": "636ac3235505f3d35682ead0e3ed51b6",
+    "time": "2026-07-20T11:28:50Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/AgriciDaniel/claude-obsidian",
+    "description": "AgriciDaniel/claude-obsidian: Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PK",
+    "extended": "",
+    "meta": "b23b2a60b5a65d76c139066bea45bc99",
+    "hash": "d2c746ee30ee6b2f73e27b9f7b9da892",
+    "time": "2026-07-20T11:28:31Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/ayghri/i-have-adhd",
+    "description": "GitHub - ayghri/i-have-adhd: Claude Code skill to stop it from burying the answer. ADHD-friendly output. · GitHub",
+    "extended": "",
+    "meta": "969a606291cc3194f444319197f374e7",
+    "hash": "ee7d6f2f5cec7fb9144bf06168941bcb",
+    "time": "2026-07-20T04:22:25Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://opencli.org/",
     "description": "Specification | OpenCLI",
     "extended": "",
