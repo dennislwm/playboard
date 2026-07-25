@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://github.com/andrewyng/openworker",
+    "description": "andrewyng/openworker",
+    "extended": "",
+    "meta": "312c0d5db1111145f554af6fa3443aaf",
+    "hash": "9bff85487096658436a1186b298fda70",
+    "time": "2026-07-24T11:52:13Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://calv.info/durable-objects-are-made-for-agents",
     "description": "Durable Objects are Made for Agents",
     "extended": "",
