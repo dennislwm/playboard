@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://berthly.net/",
+    "description": "Berthly — a native macOS GUI for Apple's container",
+    "extended": "",
+    "meta": "56d8fce8f065b139b27fe71b8c2e7220",
+    "hash": "62aea288394406aad632f4e6b73fa8e2",
+    "time": "2026-07-25T10:27:50Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/palmier-io/palmier-pro",
+    "description": "palmier-io/palmier-pro: macOS video editor built for AI",
+    "extended": "",
+    "meta": "a86f2281dbb7369faacbc96e58c93525",
+    "hash": "fa7a24d15387e0044d45a97ee6f598fe",
+    "time": "2026-07-25T09:59:15Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/andrewyng/openworker",
     "description": "andrewyng/openworker",
     "extended": "",
