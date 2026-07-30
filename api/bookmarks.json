@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://pinboard.in/api/",
+    "description": "Pinboard API (v1) Documentation",
+    "extended": "older version of the Pinboard API",
+    "meta": "65c70824a542a638ca55f4cad5d39f28",
+    "hash": "9e42e6f985c57f22ec2fc22586a3c576",
+    "time": "2026-07-30T00:30:51Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
     "href": "https://github.com/virgiliojr94/book-to-skill",
     "description": "virgiliojr94/book-to-skill: Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
     "extended": "",
