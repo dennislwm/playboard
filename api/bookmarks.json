@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://github.com/virgiliojr94/book-to-skill",
+    "description": "virgiliojr94/book-to-skill: Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+    "extended": "",
+    "meta": "0ffdfc2dddc000474fdc7e9035be4a01",
+    "hash": "543fba56e9cf616a4c5bc297d3fdfac4",
+    "time": "2026-07-29T11:13:53Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://lawsofsoftwareengineering.com/",
+    "description": "Laws of Software Engineering",
+    "extended": "",
+    "meta": "437d3056930ff5b30cb85fe5877db460",
+    "hash": "a949416731304b19f4f1d6410cbfbb7a",
+    "time": "2026-07-29T11:11:45Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
     "href": "https://berthly.net/",
     "description": "Berthly — a native macOS GUI for Apple's container",
     "extended": "",
