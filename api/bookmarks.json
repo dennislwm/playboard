@@ -1,5 +1,71 @@
 [
   {
+    "href": "https://www.scbench.ai/",
+    "description": "SlopCodeBench",
+    "extended": "",
+    "meta": "ef2166c27bed0362bab79ceeec5faf8a",
+    "hash": "6f078ff1abf70aca03900d9d6dd8ba61",
+    "time": "2026-07-30T14:08:51Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://micrologics.org/blog/sqlite-in-production-optimizing-wal-mode-concurrency-and-vfs-layers-for-low-latency-app-servers",
+    "description": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers for Low-Latency App Servers | Micrologics",
+    "extended": "",
+    "meta": "76387a51d69c86b134bd82f6fcb5f0ad",
+    "hash": "a99ff38362efe3d9ce3952731631f2ef",
+    "time": "2026-07-30T14:04:32Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "dbsql"
+  },
+  {
+    "href": "https://github.com/thomast1906/github-copilot-agent-skills/tree/main/.github/skills/drawio-mcp-diagramming",
+    "description": "github-copilot-agent-skills/.github/skills/drawio-mcp-diagramming at main · thomast1906/github-copilot-agent-skills",
+    "extended": "",
+    "meta": "16297857cfb9a7aa3711b49eb1f2a6ba",
+    "hash": "590e1b55a649e01af4b78a851b6b8cde",
+    "time": "2026-07-30T13:47:52Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://thomasthornton.cloud/drawio-agent-skill/",
+    "description": "Drawio Agent Skill - Thomas Thornton Blog",
+    "extended": "",
+    "meta": "eb01ceb766bc28530bc9d1f9796cfeef",
+    "hash": "b87b94dedbbac8fe023d4ec17a895556",
+    "time": "2026-07-30T13:47:27Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://til.simonwillison.net/llms/mcp-in-claude-and-chatgpt",
+    "description": "Adding a custom MCP server to Claude and ChatGPT | Simon Willison’s TILs",
+    "extended": "",
+    "meta": "312aedc8af148508ba07416386462b6e",
+    "hash": "a7a9dabb90c401f2664a5206741be240",
+    "time": "2026-07-30T13:44:56Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://github.com/langchain-ai/openwiki",
+    "description": "langchain-ai/openwiki: OpenWiki is a CLI that writes and maintains agent documentation for your codebase.",
+    "extended": "",
+    "meta": "e191c37264a27c1433b8d35d0efc8f78",
+    "hash": "0dd131b7064b28275f4ceba9a10f77b7",
+    "time": "2026-07-30T13:38:43Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://pinboard.in/api/",
     "description": "Pinboard API (v1) Documentation",
     "extended": "older version of the Pinboard API",
