@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://github.com/AminBlg/SimpleEnglish",
+    "description": "AminBlg/SimpleEnglish: Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical English — no AI slop",
+    "extended": "",
+    "meta": "d6a8364479bdc606a3289afefd4b6100",
+    "hash": "5826dc5ad56aaba4c045bc9b56579869",
+    "time": "2026-08-01T09:46:28Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/TAJD/economist-style-guide-plugin",
+    "description": "TAJD/economist-style-guide-plugin: Claude Code plugin that applies The Economist style guide - clarity, precision, brevity. Unofficial.",
+    "extended": "",
+    "meta": "af250abf6d40901910b0f238e4660e94",
+    "hash": "bfa9bba64d0272b77ef9af60f40fed9c",
+    "time": "2026-08-01T09:45:40Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://secretspec.dev/",
+    "description": "A declarative interface for every secret provider. | SecretSpec",
+    "extended": "",
+    "meta": "7c755d896fe1d8177a9cc9c837cdad47",
+    "hash": "153f90c11cd537bf448ddefcc9d426ce",
+    "time": "2026-08-01T09:24:01Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://www.scbench.ai/",
     "description": "SlopCodeBench",
     "extended": "",
