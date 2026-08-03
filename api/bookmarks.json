@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://restfulapi.net/rest-architectural-constraints/",
+    "description": "REST Architectural Constraints",
+    "extended": "",
+    "meta": "32a0ceef357cc35252b71fcf8104c425",
+    "hash": "6171428da1e8fe2c35f175fcd9d15b0e",
+    "time": "2026-08-02T11:28:47Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://docs.ssi.sh/",
+    "description": "sish",
+    "extended": "",
+    "meta": "e818d745be1f81c540b3f116bc271812",
+    "hash": "65f458d5203b5fcc450a00d616c4a9d0",
+    "time": "2026-08-02T11:24:31Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/trycompai/crm",
+    "description": "trycompai/crm",
+    "extended": "",
+    "meta": "18447d9b27953a267225f53c8fc534f4",
+    "hash": "812232ee7b22c61d785486ba9832716d",
+    "time": "2026-08-02T11:21:02Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/AminBlg/SimpleEnglish",
     "description": "AminBlg/SimpleEnglish: Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical English — no AI slop",
     "extended": "",
