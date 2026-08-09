@@ -1,5 +1,82 @@
 [
   {
+    "href": "https://github.com/tw93/Mole",
+    "description": "tw93/Mole: 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.",
+    "extended": "",
+    "meta": "97cb87db29d4689cafc7658bd39295d9",
+    "hash": "e5c17dd649f0e4a48f2408d1f7c63477",
+    "time": "2026-08-08T07:57:49Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/firecrawl/anydoc",
+    "description": "firecrawl/anydoc: Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+    "extended": "",
+    "meta": "6ea640c46b16abef9ba09a51d0560608",
+    "hash": "80885d8545a2ad194610fcd75655da50",
+    "time": "2026-08-08T07:52:38Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/denoland/celld",
+    "description": "denoland/celld: self-hosted, distributed Durable Objects",
+    "extended": "",
+    "meta": "1f21b1ac91113777ab655485c1344d29",
+    "hash": "0ab654e456c4775329dec06dbb66871e",
+    "time": "2026-08-08T07:46:42Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/jolliai/jolliai",
+    "description": "jolliai/jolliai: Jolli Memory automatically turns your AI coding sessions into structured development documentation attached to every commit, without any extra effort.",
+    "extended": "",
+    "meta": "965738ba370fda0f29ff490ec03d82dd",
+    "hash": "0586ac95e7d574617e16597e7af49016",
+    "time": "2026-08-08T07:02:26Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/cloudflare/cloudflare-os",
+    "description": "cloudflare/cloudflare-os: Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
+    "extended": "",
+    "meta": "cbaabe6be9e40f8d1fded23db0bb3f10",
+    "hash": "657ca5d400cd8d9131f56773016acb7d",
+    "time": "2026-08-08T06:48:33Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://www.georgefairbanks.com/ieee-software-v43-n3-may-jun-2026-stable-code-from-stable-problems",
+    "description": "George Fairbanks - IEEE Software - The Pragmatic Designer: Stable Code from Stable Problems",
+    "extended": "",
+    "meta": "34ec2a1adab8e9e7d026e14cc9a9d497",
+    "hash": "48aadce4a284d1b09e593e8f5228fac4",
+    "time": "2026-08-08T06:42:18Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://github.com/fujitoid/key-amnesia",
+    "description": "fujitoid/key-amnesia: Let your AI agent use your passwords and API keys - without ever letting it see them",
+    "extended": "",
+    "meta": "41e8bc53068b04f0f938dcccd6f62fa7",
+    "hash": "2c65c68780ae42b094c087abfa16d91a",
+    "time": "2026-08-08T06:36:58Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://restfulapi.net/rest-architectural-constraints/",
     "description": "REST Architectural Constraints",
     "extended": "",
