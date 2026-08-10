@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://github.com/egorfedorov/claude-context-optimizer",
+    "description": "egorfedorov/claude-context-optimizer: Claude Code plugin that tracks token usage, identifies wasted context, and saves 30-50% on API costs. Heatmaps, ROI reports, budget alerts, efficiency scores, git-aware suggestions — all local, zero config.",
+    "extended": "",
+    "meta": "47430ba91fa1f4c4fc974a15f2f456e2",
+    "hash": "0b3d9a6058d405d0f2d723149d478aae",
+    "time": "2026-08-09T08:24:29Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/vibingbiochemist/Monoleaf",
+    "description": "vibingbiochemist/Monoleaf: Monoleaf edits .md files as documents. Comments, tracked changes, page setup and metadata live inside the same file as plain text. There is no hidden document model, no sidecar and no database: what you can read is all there is.",
+    "extended": "",
+    "meta": "11a4e76f712bd38ccf18e50fced31215",
+    "hash": "8252c716356422544c30236e0d940c44",
+    "time": "2026-08-09T08:22:55Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/tw93/Mole",
     "description": "tw93/Mole: 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.",
     "extended": "",
