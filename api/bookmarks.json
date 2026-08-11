@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://carlkolon.com/reading/",
+    "description": "Reading",
+    "extended": "",
+    "meta": "0e6cc2c5e80ceed0027cbf01acf61da4",
+    "hash": "0b45378172f2c26b28c4f3fbebbda9d5",
+    "time": "2026-08-10T11:42:25Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
     "href": "https://github.com/egorfedorov/claude-context-optimizer",
     "description": "egorfedorov/claude-context-optimizer: Claude Code plugin that tracks token usage, identifies wasted context, and saves 30-50% on API costs. Heatmaps, ROI reports, budget alerts, efficiency scores, git-aware suggestions — all local, zero config.",
     "extended": "",
