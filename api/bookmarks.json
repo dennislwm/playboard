@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://github.com/sebastiancarlos/faaah",
+    "description": "sebastiancarlos/faaah: FAAAH (Filesystem As An AI Handler) - Reuse your AI Agent subscription via text files.",
+    "extended": "",
+    "meta": "f739a5d573ed7a9e3f8208c9a3bcb03c",
+    "hash": "728ae83a52e8f7e417e2bc9d25babb56",
+    "time": "2026-08-11T12:46:38Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://martinfowler.com/articles/exploring-gen-ai/tdd-in-the-agent-loop.html",
+    "description": "TDD inside the agent loop - theater or actual value?",
+    "extended": "",
+    "meta": "c5614b5deb2ca9465d5af5b0e9861fcd",
+    "hash": "4f28017f1be535644c5e485ba5d39f81",
+    "time": "2026-08-11T12:42:14Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "tdd"
+  },
+  {
     "href": "https://carlkolon.com/reading/",
     "description": "Reading",
     "extended": "",
