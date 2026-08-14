@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://github.com/modelcontextprotocol/python-sdk",
+    "description": "modelcontextprotocol/python-sdk: The official Python SDK for Model Context Protocol servers and clients",
+    "extended": "",
+    "meta": "a8df4517479fc4d785c64b26cdc5a585",
+    "hash": "f19043ac31494068e43b76085cb23cb5",
+    "time": "2026-08-13T07:01:48Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/sebastiancarlos/faaah",
     "description": "sebastiancarlos/faaah: FAAAH (Filesystem As An AI Handler) - Reuse your AI Agent subscription via text files.",
     "extended": "",
