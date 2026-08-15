@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://github.com/cathrynlavery/diagram-design",
+    "description": "cathrynlavery/diagram-design: 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+    "extended": "",
+    "meta": "762be34ba43f1d68e5121bcc4e338745",
+    "hash": "f0faec98f86e4fde0f792a68e2ecbc6c",
+    "time": "2026-08-14T02:57:01Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/modelcontextprotocol/python-sdk",
     "description": "modelcontextprotocol/python-sdk: The official Python SDK for Model Context Protocol servers and clients",
     "extended": "",
