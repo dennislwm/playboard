@@ -1,5 +1,104 @@
 [
   {
+    "href": "https://homelable.net/",
+    "description": "Homelable — Visual Homelab Mapper & Monitor",
+    "extended": "",
+    "meta": "83c812e83300fefcf47a5204c257befa",
+    "hash": "9cb668eebdee8917a3d4a8566f1a0b00",
+    "time": "2026-08-18T12:01:53Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://github.com/adhamsalama/inkfeed",
+    "description": "adhamsalama/inkfeed: A simple but powerful RSS reader compatible with the Kindle browser.",
+    "extended": "",
+    "meta": "42047fbfc5dd8eea002a1a78016b2d48",
+    "hash": "7911f4f57d2c489766cdc321175f8371",
+    "time": "2026-08-18T04:37:25Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/vercel-labs/eve-software-factory-template",
+    "description": "vercel-labs/eve-software-factory-template: Meet Foreman, an eve Software Factory.",
+    "extended": "",
+    "meta": "0b5a95cd02ee3778a8be421a5cd19992",
+    "hash": "b0a9be1d4d999087f8749a92720d6eb1",
+    "time": "2026-08-18T04:35:09Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://forum.plaintextaccounting.org/t/visualizing-your-ledger/863",
+    "description": "Visualizing your Ledger - General - Plain Text Accounting forum",
+    "extended": "",
+    "meta": "35f90696848d351cc39e2e7162fafc76",
+    "hash": "7068a73fd91bcaddbb7120482735e039",
+    "time": "2026-08-18T04:14:19Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "finance"
+  },
+  {
+    "href": "https://gist.github.com/aarondfrancis/8735edbe48532f97ee5ea818db4dbd47",
+    "description": "A read-only, agent-orchestrated codebase audit prompt for data structures, state modeling, algorithms, and ownership.",
+    "extended": "",
+    "meta": "38f05f199532c09c9c3611e582411c7a",
+    "hash": "4db6b5b01f8b53fc705eb2bd650d7e9b",
+    "time": "2026-08-18T03:52:04Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://gist.github.com/duyetpt/f9bcc40c9d52e1c24572d8bc79f21e5a",
+    "description": "Meansure software complexity",
+    "extended": "",
+    "meta": "47dfc51169263b700bebba2d93bc9956",
+    "hash": "3e085dc65eaea0bdef5da4a9b51c2c41",
+    "time": "2026-08-18T03:51:59Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://github.com/repowise-dev/repowise",
+    "description": "repowise-dev/repowise: Codebase intelligence for AI and humans: code health scores, auto-generated docs, git analytics, dead code detection, and architectural decisions via MCP.",
+    "extended": "",
+    "meta": "0b56ea1610b5cac976a75110d6ab56ab",
+    "hash": "c1b46ac6721dfd77e4ae6527cc41d4ef",
+    "time": "2026-08-18T03:01:12Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://gloom.sh/",
+    "description": "Gloomberb",
+    "extended": "",
+    "meta": "acec7f42c166c4343eb909af498cecf5",
+    "hash": "6eda48a5690be7c787d52fda822d77ce",
+    "time": "2026-08-18T02:42:42Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "finance"
+  },
+  {
+    "href": "https://github.com/danyuchn/asd-ste100-skill",
+    "description": "danyuchn/asd-ste100-skill: ASD-STE100 Simplified Technical English rules, repurposed as a Claude Code skill for rewriting ambiguous agent-facing English.",
+    "extended": "",
+    "meta": "3c5d6cf3fbd103cafb2e5ae29318c420",
+    "hash": "45fd1841d14c1d6d064a725e60d3dd9e",
+    "time": "2026-08-18T02:41:34Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/cathrynlavery/diagram-design",
     "description": "cathrynlavery/diagram-design: 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
     "extended": "",
