@@ -1,5 +1,104 @@
 [
   {
+    "href": "https://loadout.migsilva.dev/",
+    "description": "Claude Code Skills Manager for Mac — Loadout",
+    "extended": "",
+    "meta": "1c01ac63cd5ca55a7ee87e133434ecc8",
+    "hash": "1a365e7d9b8826e8307bbdedfc8e1cb9",
+    "time": "2026-08-22T03:37:48Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/cartesiancs/cartcut",
+    "description": "cartesiancs/cartcut: 📷 🖥️ Electron based video editing software. Focusing on adding motion effects using a layered editing system.",
+    "extended": "",
+    "meta": "29b9365749380d2d8d4fddc0133d451f",
+    "hash": "74fbbd5f2e4f43d07556e90281cbc6e8",
+    "time": "2026-08-22T03:37:11Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/seemoo-lab/openhaystack",
+    "description": "seemoo-lab/openhaystack: Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.",
+    "extended": "",
+    "meta": "a4df0a65ee40c96e6dea83f5948ed354",
+    "hash": "89f86353ab0d195f60468ce303d3bb4e",
+    "time": "2026-08-22T03:36:41Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://saggar.marginalutility.dev/",
+    "description": "Saggar: know which terminal needs you",
+    "extended": "",
+    "meta": "5557bc54f2f2da960bd840ca895688a1",
+    "hash": "cc02dc0d7fb356cb642bb164017148bb",
+    "time": "2026-08-22T03:34:28Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/adnanakil/nobuzz",
+    "description": "adnanakil/nobuzz: A Claude Code skill (/debuzz) that pipes Claude's answers through Gemini to remove the BuzzFeed voice",
+    "extended": "",
+    "meta": "9e5d946f20d50253e2bbecfcd091390e",
+    "hash": "1375b8f1f3270a2cf68df8b7d19c9cd4",
+    "time": "2026-08-22T03:22:11Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://swamp-club.com/",
+    "description": "Swamp — AI-built automation platform",
+    "extended": "",
+    "meta": "86dc5fc8b06ce44372335e655fa767f4",
+    "hash": "f2fe45f1a0a5f6f5564592e0a9c9f52c",
+    "time": "2026-08-22T03:03:35Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://www.adamhjk.com/blog/a-practical-guide-to-reducing-token-spend",
+    "description": "A Practical Guide to Reducing Token Spend · Adam Jacob",
+    "extended": "",
+    "meta": "a9bf973f0717a1e9215075e151ec170e",
+    "hash": "7b466fc79a8aaeb88393d8c515e5fc23",
+    "time": "2026-08-22T03:03:04Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://github.com/NoobCity99/CTRoadmap",
+    "description": "NoobCity99/CTRoadmap: Homelab Server Network Diagram & Documentation for Mapping Function Topology",
+    "extended": "",
+    "meta": "34a639a0b256f71fdf44a3e65d5beef3",
+    "hash": "254c968ff954693b006bb3e398a509e1",
+    "time": "2026-08-22T02:57:12Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://herdr.dev/",
+    "description": "Herdr: the runtime coding agents run on",
+    "extended": "",
+    "meta": "730ff1f3f178547f3c80496248ec6f4f",
+    "hash": "0be148333b777e4b741a5600c8d30e91",
+    "time": "2026-08-22T02:52:21Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://homelable.net/",
     "description": "Homelable — Visual Homelab Mapper & Monitor",
     "extended": "",
