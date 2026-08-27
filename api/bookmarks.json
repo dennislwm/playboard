@@ -1,5 +1,71 @@
 [
   {
+    "href": "https://github.com/mex-memory/mex",
+    "description": "mex-memory/mex: Persistent project memory for AI coding agents. Structured scaffold + drift detection CLI.",
+    "extended": "",
+    "meta": "1f3bbac03fd7760acdb43993b9ed46ea",
+    "hash": "23d76a1da5d1433d86de6d23dc74f8dd",
+    "time": "2026-08-27T03:00:46Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/westpoint-io/mimik",
+    "description": "westpoint-io/mimik: 🪄 A browser extension that captures your workflow as you click and turns it into a step-by-step guide with annotated screenshots 📸",
+    "extended": "",
+    "meta": "a0041037acec51900761264aae603285",
+    "hash": "826023f20a59039f8fea98dce7f67a9a",
+    "time": "2026-08-27T02:59:03Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/hoophq/hoop",
+    "description": "hoophq/hoop: One gateway in front of every protocol. Same policy across MCP, LLMs, databases and containers. Wire-level enforcement at under 5ms.",
+    "extended": "",
+    "meta": "ac208bb47efbca00f1ffa8b56014a74b",
+    "hash": "9ba56fccae285e5f806dec7a5e17ea21",
+    "time": "2026-08-27T02:41:31Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://johnnydecimal.com/jdhq/mcp-server",
+    "description": "MCP server • JDHQ • Johnny.Decimal",
+    "extended": "",
+    "meta": "ef67d2acac4da480dae57c3ac90a637a",
+    "hash": "7f40a2645e0b51c69ce043075c0f6fb5",
+    "time": "2026-08-27T02:32:39Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://yegge.ai/essays/the-shape-of-things-to-come/",
+    "description": "The Shape of Things to Come, Part 1: The Continuous Thunderdome — Steve Yegge",
+    "extended": "",
+    "meta": "f1b2f8582ff62942ae34e751bf8931e8",
+    "hash": "2d3b0031cb9bb39528020a62d67b3b5a",
+    "time": "2026-08-27T02:28:17Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://github.com/gastownhall/beads",
+    "description": "gastownhall/beads: Beads - A memory upgrade for your coding agent",
+    "extended": "",
+    "meta": "b381cb2682c84e30aa787785b1000031",
+    "hash": "c77ce24ce71f68a56e9eee29c633caf6",
+    "time": "2026-08-27T02:27:55Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://loadout.migsilva.dev/",
     "description": "Claude Code Skills Manager for Mac — Loadout",
     "extended": "",
