@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://github.com/jub0t/WolfCut",
+    "description": "jub0t/WolfCut: Free & Open-Source CapCut replacement.",
+    "extended": "",
+    "meta": "44d8d917a679709784626bef9e8368ea",
+    "hash": "e3248cae7e4090154daf468429cb3e0f",
+    "time": "2026-08-30T06:26:19Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/SenteLabsAI/OpenExecutive",
+    "description": "SenteLabsAI/OpenExecutive: AI-powered virtual executive team — a single coherent executive persona backed by 8 specialist Claude agents (FastAPI + Next.js).",
+    "extended": "",
+    "meta": "5628a6d421c93452d40341b075958ebe",
+    "hash": "9d5c9917dcdbe9810f2b82737cf0de85",
+    "time": "2026-08-30T06:23:51Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/mex-memory/mex",
     "description": "mex-memory/mex: Persistent project memory for AI coding agents. Structured scaffold + drift detection CLI.",
     "extended": "",
