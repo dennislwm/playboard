@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://sridharrajarao.com/blog/storage-at-scale/",
+    "description": "Storage at scale: what I actually watched | Sridhar Rajarao",
+    "extended": "",
+    "meta": "54b7dbf0c2a835aaa208b4f0e77bf129",
+    "hash": "a54fd24d2aaa3bb4dc8a36c98e3d219a",
+    "time": "2026-09-05T03:21:59Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "sre"
+  },
+  {
+    "href": "https://lws.io/blog/my-local-model-setup/",
+    "description": "My local model setup on an M4 Pro Mac mini | Kevin Lewis",
+    "extended": "",
+    "meta": "b14251b59081e44660faf784cd3221ef",
+    "hash": "a553916b2dbdbf16806d0707378e6e4b",
+    "time": "2026-09-05T02:38:59Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://tt-a1i.github.io/archify/",
+    "description": "Archify — Technical Diagrams from Plain English",
+    "extended": "",
+    "meta": "beee66afea9838f202accddd190721b5",
+    "hash": "b9fbd1358b95590781f998357a09990c",
+    "time": "2026-09-05T02:35:05Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/tt-a1i/archify",
+    "description": "tt-a1i/archify: Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
+    "extended": "",
+    "meta": "5320d9b96517b61bf124a02d310ab5df",
+    "hash": "717af6605a957a5cd4e003a1f727b28f",
+    "time": "2026-09-05T02:06:54Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/jub0t/WolfCut",
     "description": "jub0t/WolfCut: Free & Open-Source CapCut replacement.",
     "extended": "",
