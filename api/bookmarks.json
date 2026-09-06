@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://unifiedprocess.ai/index.html",
+    "description": "AI Unified Process (AIUP): Spec-Driven Development with AI",
+    "extended": "",
+    "meta": "a485eea3e0faf7926fda4caae6cf2555",
+    "hash": "8a86c2a7a2d31fd680553d1ba4da63a3",
+    "time": "2026-09-05T12:36:51Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://github.com/aliasunder/vault-cortex",
+    "description": "aliasunder/vault-cortex: Standalone MCP server that gives AI agents access to your Obsidian vault — hybrid search, memory, tasks, files, OAuth 2.1. Run locally, self-host, or one-click deploy for remote access.",
+    "extended": "",
+    "meta": "26f473f35f5a0b5d5e37f3e3961609d1",
+    "hash": "8a98ba3a484339016850dd21d616daee",
+    "time": "2026-09-05T08:16:27Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/kevinold/multi-worker-pm-skill",
+    "description": "kevinold/multi-worker-pm-skill",
+    "extended": "",
+    "meta": "b10a5c80260639e2bb03583bbdce7e85",
+    "hash": "f84522acb5cbd91517cafb4b4a48ebe8",
+    "time": "2026-09-05T04:19:41Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://losslesscut.app/",
+    "description": "LosslessCut - Official website",
+    "extended": "",
+    "meta": "dbd94751d406b720727600501a906ef3",
+    "hash": "6f3ddd5cad8605d0833850b91bbc3410",
+    "time": "2026-09-05T04:00:38Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://sridharrajarao.com/blog/storage-at-scale/",
     "description": "Storage at scale: what I actually watched | Sridhar Rajarao",
     "extended": "",
