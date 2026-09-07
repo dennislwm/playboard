@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://cloudinabottle.org/",
+    "description": "Cloud in a Bottle: your corner of the cloud",
+    "extended": "",
+    "meta": "a4c7135675398926f79f55ed90ff6ced",
+    "hash": "7e334e670008ecd615f95dff3b911d4e",
+    "time": "2026-09-06T10:44:24Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
+    "href": "https://github.com/okf-memory/okf-agent-memory",
+    "description": "okf-memory/okf-agent-memory: Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 with sub-300µs in-memory BM25 search, embedded MCP server, and progressive disclosure. Slashes token bloat by 80% with zero external databases or d",
+    "extended": "CLI & MCP Reference",
+    "meta": "015d95aab3a445d667ba172a62ecc1c7",
+    "hash": "9a7632dec7a8c3926cdafba02f887ee8",
+    "time": "2026-09-06T04:12:27Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/zircote/workflows-plugin",
+    "description": "zircote/workflows-plugin: Claude Code plugin: consistent orchestration patterns for the Workflow tool (dynamic workflows), vendoring Anthropic's own docs and the zircote Dynamic Workflow Design Patterns field note",
+    "extended": "",
+    "meta": "54bb5e54f2c513bdd6b85e66ad9e3304",
+    "hash": "e48edd7127984238efb9935187f22bf9",
+    "time": "2026-09-06T03:55:36Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://zircote.com/field-notes/dynamic-workflow-patterns/",
+    "description": "Dynamic Workflow Design Patterns | zircote",
+    "extended": "",
+    "meta": "96adf021f77255569584ab32803efce9",
+    "hash": "0ad53d52c551a2dd5f53030d67fb8e26",
+    "time": "2026-09-06T03:53:51Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://unifiedprocess.ai/index.html",
     "description": "AI Unified Process (AIUP): Spec-Driven Development with AI",
     "extended": "",
