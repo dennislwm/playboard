@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://aws.amazon.com/blogs/architecture/from-zero-shot-forecast-to-purchase-order-with-amazon-bedrock-agentcore/",
+    "description": "From zero-shot forecast to purchase order with Amazon Bedrock AgentCore | AWS Architecture Blog",
+    "extended": "",
+    "meta": "643b6c17436c308adf1eb4f279c1417b",
+    "hash": "d8370a73dcfe121dad2cacbd16b890c0",
+    "time": "2026-09-12T03:19:58Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "aws"
+  },
+  {
+    "href": "https://github.com/ClaytonFarr/ralph-playbook",
+    "description": "ClaytonFarr/ralph-playbook: A comprehensive guide to running autonomous AI coding loops using Geoff Huntley's Ralph methodology. View as formatted guide below 👇",
+    "extended": "",
+    "meta": "280208d5d6c82973bfbff685d1c66b0f",
+    "hash": "5d730c9c592260c6ffb222e1dd445699",
+    "time": "2026-09-11T11:36:52Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://keelhaven.app/",
+    "description": "Keelhaven",
+    "extended": "",
+    "meta": "ebbe31fe3d7fdb25462c7905247b189b",
+    "hash": "98ec10cf5f283107aae95376cf3fea26",
+    "time": "2026-09-11T11:32:09Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/vesaias/JobNavigator",
+    "description": "vesaias/JobNavigator: Self-hosted job-hunt automation: scrape career pages and job boards, score jobs against your résumés with AI, tailor résumés and cover letters, auto-fill applications and application questions from your persona, track every appli",
+    "extended": "",
+    "meta": "96c437e2dc6c73769faadeb1e9fadd1a",
+    "hash": "a0d691e8a41a12533297ddfb1f38686e",
+    "time": "2026-09-11T10:02:22Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://cloudinabottle.org/",
     "description": "Cloud in a Bottle: your corner of the cloud",
     "extended": "",
