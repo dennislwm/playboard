@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://withcapsule.app/",
+    "description": "Capsule — Documents that run like apps",
+    "extended": "",
+    "meta": "b9e63554e2969df6429df23487e52ff3",
+    "hash": "afd1e58938375c3322743d0cd8e8445f",
+    "time": "2026-09-16T14:06:21Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/dbt-labs/dbt-charts",
+    "description": "dbt-labs/dbt-charts",
+    "extended": "",
+    "meta": "641598a5c62914b37332200a2320b056",
+    "hash": "6e11ed9a6e87f33736f34b84b02ec033",
+    "time": "2026-09-16T14:05:38Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://knap.md/",
+    "description": "Knap · Turn data into Markdown",
+    "extended": "",
+    "meta": "a4a5aa59a9a9b119be1b1b58979aef22",
+    "hash": "da331842a3322e8ac68eb2a045383d29",
+    "time": "2026-09-16T14:02:42Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/wdmcourses/KeyCut",
+    "description": "wdmcourses/KeyCut: Fast lossless video editor",
+    "extended": "",
+    "meta": "5e93d2249c98fef14ea3ef6096d1d233",
+    "hash": "452097f4e7c726fc2ec9aa6b83709ac3",
+    "time": "2026-09-16T13:57:53Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://aws.amazon.com/blogs/architecture/from-zero-shot-forecast-to-purchase-order-with-amazon-bedrock-agentcore/",
     "description": "From zero-shot forecast to purchase order with Amazon Bedrock AgentCore | AWS Architecture Blog",
     "extended": "",
@@ -1037,7 +1081,7 @@
     "href": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
     "description": "How to Write an Effective Software Design Document · Refactoring English",
     "extended": "",
-    "meta": "d9c7bde89ac35157cb781c37fc08a074",
+    "meta": "4d2b3923eb00153854a4f041d8f8c543",
     "hash": "158ec150e6a62ac881f65babc34356c9",
     "time": "2026-07-11T05:09:41Z",
     "shared": "no",
