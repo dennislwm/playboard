@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://github.com/Drakonis96/nodus",
+    "description": "Drakonis96/nodus: Open-source research workspace for connecting sources, evidence, notes and ideas. Built for academic research with Zotero integration. Available on MacOS, Windows and Linux.",
+    "extended": "",
+    "meta": "5e803cc687d4964830f458d6b088473f",
+    "hash": "08e4fa7df0651cdda441f8286c34543c",
+    "time": "2026-09-20T12:40:41Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/sergiocardoso/flokin-md",
+    "description": "sergiocardoso/flokin-md: A local-first database for your Markdown files",
+    "extended": "",
+    "meta": "c435b2dc49b913d1acc54cf0935b2123",
+    "hash": "43bd093aafd3056e210cdc6f0ed1e689",
+    "time": "2026-09-20T12:40:06Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://tj-zhang.com/blog/frontend-for-systems-engineers/",
+    "description": "Frontend for systems engineers",
+    "extended": "",
+    "meta": "a2321e12483b36e849e6c0f45ec4ace5",
+    "hash": "ef811fb248f2d0dc10223152bdde552e",
+    "time": "2026-09-20T12:35:27Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "frontend"
+  },
+  {
+    "href": "https://github.com/NiazMorshed2007/jev-review",
+    "description": "NiazMorshed2007/jev-review: Local-first MCP plugin for continuous software-quality review by AI coding agents, powered by Jev.",
+    "extended": "",
+    "meta": "8e098bde8a91aced9f568c7dae6a4daf",
+    "hash": "18b16bab67abc72e90098021598918f5",
+    "time": "2026-09-20T12:35:16Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/NandhaKishorM/laya",
     "description": "NandhaKishorM/laya",
     "extended": "",
