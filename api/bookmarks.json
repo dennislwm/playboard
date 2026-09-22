@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://anishathalye.com/optimal-trace/",
+    "description": "Running an Optimal Trace",
+    "extended": "",
+    "meta": "5c984d4d6e6d6c67f0b89da5dc367513",
+    "hash": "017a3ed450f67704f3a081043e18008e",
+    "time": "2026-09-22T02:42:22Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "health"
+  },
+  {
     "href": "https://github.com/Drakonis96/nodus",
     "description": "Drakonis96/nodus: Open-source research workspace for connecting sources, evidence, notes and ideas. Built for academic research with Zotero integration. Available on MacOS, Windows and Linux.",
     "extended": "",
