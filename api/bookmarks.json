@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://forge.l3x.in/alex/aws-ec2-vpn/",
+    "description": "alex/aws-ec2-vpn: An OpenTofu module that boots a tiny EC2 instance which acts as both SSH Socks proxy and Wireguard VPN - Forgejo: Alexander Fortin's forge",
+    "extended": "",
+    "meta": "63d76d141409a963fa803dd30948aa83",
+    "hash": "2b5002c5612433087974cefee2d176cd",
+    "time": "2026-09-22T12:05:26Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://anishathalye.com/optimal-trace/",
     "description": "Running an Optimal Trace",
     "extended": "",
