@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://github.com/merijjeyn/jive",
+    "description": "merijjeyn/jive: A terminal coding agent that plans work as executable graphs",
+    "extended": "",
+    "meta": "bc1241021b16f58c80dee6731c6b03bc",
+    "hash": "fa0731879658f9b15d941c8b42e37c6a",
+    "time": "2026-09-23T14:03:08Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://forge.l3x.in/alex/aws-ec2-vpn/",
     "description": "alex/aws-ec2-vpn: An OpenTofu module that boots a tiny EC2 instance which acts as both SSH Socks proxy and Wireguard VPN - Forgejo: Alexander Fortin's forge",
     "extended": "",
