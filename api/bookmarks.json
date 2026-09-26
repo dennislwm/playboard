@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://github.com/dsummersl/treepeat",
+    "description": "dsummersl/treepeat: Code similarity detection using treesitter",
+    "extended": "",
+    "meta": "5b417135152917a47f4abca2f2d26b16",
+    "hash": "df521b2b4c4d1b54463dfaa2abfa0187",
+    "time": "2026-09-25T04:23:38Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/devdotfast/whiteboard",
+    "description": "devdotfast/whiteboard: open-source canvas for thoughtful software design",
+    "extended": "",
+    "meta": "137d83a0a93f666348fde346af0a88b8",
+    "hash": "8634cc1b388e0745378bade0a8b838e6",
+    "time": "2026-09-25T04:19:22Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/merijjeyn/jive",
     "description": "merijjeyn/jive: A terminal coding agent that plans work as executable graphs",
     "extended": "",
