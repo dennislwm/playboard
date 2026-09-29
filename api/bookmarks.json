@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://ollaya.dev/",
+    "description": "Ollaya · Run decision models locally",
+    "extended": "",
+    "meta": "60bdbda4e3faab6ad9086b404c4451dc",
+    "hash": "45a03e4068a2825d4ef86c7ca5fc4b41",
+    "time": "2026-09-28T12:59:12Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/dsummersl/treepeat",
     "description": "dsummersl/treepeat: Code similarity detection using treesitter",
     "extended": "",
