@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://sujithjay.com/inventing-work",
+    "description": "A Staff Engineer's Guide to Inventing Work · Sujith Jay Nair",
+    "extended": "",
+    "meta": "58495b27e12d19a77e13fc840b79ade9",
+    "hash": "a65039137c851ea45cfa9dbb4c6a2b1d",
+    "time": "2026-10-03T04:13:26Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://github.com/cloudflare/cf",
+    "description": "cloudflare/cf: The agentic CLI for the entire Cloudflare API",
+    "extended": "",
+    "meta": "6e70c0f4fcd04f5069ed6140d5539ccd",
+    "hash": "8eebcaa8b75989573bdd52addfb7959d",
+    "time": "2026-10-03T04:09:26Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://ollaya.dev/",
     "description": "Ollaya · Run decision models locally",
     "extended": "",
