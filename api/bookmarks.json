@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://github.com/sebastiancarlos/shobr",
+    "description": "sebastiancarlos/shobr: 🧑‍💻 The stealthiest, UNIX-iest, Job Search Automator",
+    "extended": "",
+    "meta": "9d1f13f9203b51841ceec4af4d6276f8",
+    "hash": "9674b04091c7413f0bad5cc265ff651f",
+    "time": "2026-10-03T07:09:50Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/Gaurav-Gosain/tuios",
+    "description": "Gaurav-Gosain/tuios: A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.",
+    "extended": "",
+    "meta": "b64ccf0ca1abc4c60dc74fd9b1af9cba",
+    "hash": "97fb0960644dcc40a7ad56457582ed48",
+    "time": "2026-10-03T06:58:34Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/perplexityai/numbat",
+    "description": "perplexityai/numbat: Visibility into AI agent activity on endpoints, with on-device detection, optional pre-action blocking, and forensic reconstruction.",
+    "extended": "",
+    "meta": "00ce898ae54650e7ecb99c238393aa7e",
+    "hash": "c95184f40fa848bc2d8201eb39ec0120",
+    "time": "2026-10-03T06:31:27Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://ledge.sh/",
+    "description": "Ledge: Runnable Markdown notes",
+    "extended": "",
+    "meta": "8a52c6fb2385d1870b9ab01c10b770ce",
+    "hash": "a3b5b884af47049777fc54fd1deb4745",
+    "time": "2026-10-03T05:59:19Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://sujithjay.com/inventing-work",
     "description": "A Staff Engineer's Guide to Inventing Work · Sujith Jay Nair",
     "extended": "",
