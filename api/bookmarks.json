@@ -1,5 +1,82 @@
 [
   {
+    "href": "https://developer.hashicorp.com/vagrant",
+    "description": "Vagrant | HashiCorp Developer",
+    "extended": "",
+    "meta": "a5579a215ecc210d6330e20f373708d3",
+    "hash": "511bab4da316a6c913444156850f014a",
+    "time": "2026-10-07T12:21:10Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/louis030195/hyperconsciousness",
+    "description": "louis030195/hyperconsciousness: iCloud for agents. An encrypted, permissioned knowledge layer for humans and agents.",
+    "extended": "",
+    "meta": "085e2383e2552b6b2c452027dfe3b16f",
+    "hash": "eb1e5fea54e4ae7a9204fe56f0cb8a56",
+    "time": "2026-10-07T12:20:52Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/YoanWai/agent-manager",
+    "description": "YoanWai/agent-manager: The fastest developer workflow for every AI coding agent. Live status, quick prompts, worktrees, and diff review from one tmux TUI.",
+    "extended": "",
+    "meta": "a6373273494230d39c7718d7ff0bc000",
+    "hash": "61fb4d742a26ca801f2584e5feb53c83",
+    "time": "2026-10-07T12:20:09Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://easl.sh/",
+    "description": "easl · mac app for coding agents",
+    "extended": "",
+    "meta": "3e9483693cd16c8b5d13e3b1b5ca03dd",
+    "hash": "8b672b04cb4541a39603e78697b28e43",
+    "time": "2026-10-07T12:18:34Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/SREGym/SREGym/tree/1a668ee5aab5c5622ae748fe92c51d9f80458021/clients/jev_diag",
+    "description": "SREGym/clients/jev_diag at 1a668ee5aab5c5622ae748fe92c51d9f80458021 · SREGym/SREGym",
+    "extended": "",
+    "meta": "e8289263b1b52d29284c6ec13c0566d0",
+    "hash": "a948339bb7d584c30e2d0377a7967ffa",
+    "time": "2026-10-07T12:17:44Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/strands-labs/strands-decider",
+    "description": "strands-labs/strands-decider: A small, fast decision model, or system one model, for agentic workflows. Pick between options or rate on a scale faster than an LLM, with a calibrated confidence on every decision.",
+    "extended": "",
+    "meta": "fab53bc9d8ef5262e96356b060a4a00f",
+    "hash": "aee445d581ce74f2f95581fe2215d6a3",
+    "time": "2026-10-07T11:42:42Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "http://www.taobackup.com/sanctuary.html",
+    "description": "The Tao Of Backup Sanctuary",
+    "extended": "",
+    "meta": "85d8a9fd4216e64351b72a59e118d671",
+    "hash": "31bb4d3359ba481ae11f6e3c8b850577",
+    "time": "2026-10-07T11:32:49Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "selfhosted"
+  },
+  {
     "href": "https://github.com/sebastiancarlos/shobr",
     "description": "sebastiancarlos/shobr: 🧑‍💻 The stealthiest, UNIX-iest, Job Search Automator",
     "extended": "",
