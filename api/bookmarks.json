@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://tanstack.com/intent/latest?ref=console.dev",
+    "description": "TanStack Intent",
+    "extended": "",
+    "meta": "47247389a8e3fbe5f9f30a9cb340a93b",
+    "hash": "25df0a1270d944c919ea851ea748787a",
+    "time": "2026-10-10T06:00:28Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://developer.hashicorp.com/vagrant",
     "description": "Vagrant | HashiCorp Developer",
     "extended": "",
