@@ -1,5 +1,71 @@
 [
   {
+    "href": "https://betterwispr.com/",
+    "description": "BetterWispr: local dictation for macOS",
+    "extended": "",
+    "meta": "449b4fb0ec6a5c32b4080e1fc49548ad",
+    "hash": "ca15e85ccf1f660b7bafff0624e91328",
+    "time": "2026-10-17T03:08:10Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://stocks.cafe/main",
+    "description": "Easy Tracking Everyday - StocksCafe",
+    "extended": "",
+    "meta": "5996a3d262e559c874e30615c989f271",
+    "hash": "29fa05c600f842b3314c9e357359ee45",
+    "time": "2026-10-17T03:02:27Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "finance"
+  },
+  {
+    "href": "https://atlassianblog.wpengine.com/wp-content/uploads/2026/10/ai_sdlc_transformation_playbook.pdf",
+    "description": "ai_sdlc_transformation_playbook.pdf",
+    "extended": "",
+    "meta": "e1991468324428aa43667df202ab8742",
+    "hash": "440781d4aa0a79e3e8d331ed8245183a",
+    "time": "2026-10-17T02:32:51Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://teamworkgraph.com/",
+    "description": "Atlassian Teamwork Graph",
+    "extended": "",
+    "meta": "3e9e9a56b69a0aac42ad3a6f4d545fb5",
+    "hash": "6fd000b6d12b816ae92dffe951bead28",
+    "time": "2026-10-17T02:32:21Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://eli.thegreenplace.net/2026/monte-carlo-simulations/",
+    "description": "Monte-Carlo simulations - Eli Bendersky's website",
+    "extended": "",
+    "meta": "7c057fac00aa5ca52cafc9bb44875f0d",
+    "hash": "cbf7f8f453bfa392dea93d43407014f2",
+    "time": "2026-10-17T02:27:03Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "finance"
+  },
+  {
+    "href": "https://plannotator.ai/?ref=console.dev",
+    "description": "Plannotator - Plan & Code Review for AI Coding Agents",
+    "extended": "",
+    "meta": "dfba35f9e07b24527d62cfdd1fc40593",
+    "hash": "2da43aa08d63ff6d85b9e1ace7c1370f",
+    "time": "2026-10-17T01:59:43Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://tanstack.com/intent/latest?ref=console.dev",
     "description": "TanStack Intent",
     "extended": "",
