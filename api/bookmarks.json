@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://agentsinthecloud.com/",
+    "description": "AgentsInTheCloud",
+    "extended": "",
+    "meta": "9d4c5e124b9b1ee06daab57fe47528c6",
+    "hash": "e33fcf33bd76bf83570cc71b2e83ed4a",
+    "time": "2026-10-17T03:46:44Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://labs.zenity.io/post/agentcorruption-how-a-single-prompt-collapsed-the-entire-cloud-security-model",
+    "description": "Security Research | AgentCorruption: How A Single Prompt Collapsed The Entire Cloud Security Model | Zenity Labs",
+    "extended": "",
+    "meta": "7923258b8bb8858a0bb34765ea1d823c",
+    "hash": "af80cd87176b056257f0c9ef5c5e1327",
+    "time": "2026-10-17T03:43:14Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "security"
+  },
+  {
     "href": "https://betterwispr.com/",
     "description": "BetterWispr: local dictation for macOS",
     "extended": "",
