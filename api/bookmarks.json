@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://github.com/chenxiachan/textfold",
+    "description": "chenxiachan/textfold: Fold papers, web pages, files, and AI replies into five levels of detail. Zoom from an overview to the original text.",
+    "extended": "",
+    "meta": "a688d7a5838f19116b3399f6e80c7250",
+    "hash": "d2ea6b893e79d7654fb113dbf3dc4c41",
+    "time": "2026-10-18T08:06:12Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://blog.a7ul.com/agents-code-your-way.html",
+    "description": "Using Jev to make your agents write the code and design the app the way you do: Moving beyond tests and lints",
+    "extended": "",
+    "meta": "91bb715c02619e97f9682cd7167d0262",
+    "hash": "03855a0c89520163315566e8d70f5e41",
+    "time": "2026-10-18T07:59:34Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://github.com/Saffsanity/sill",
+    "description": "Saffsanity/sill: Any window from your Mac, live on your iPhone or iPad. Touch, Apple Pencil, trackpad and keys. Free, open source, no servers.",
+    "extended": "",
+    "meta": "6ff35e480c69dd495769b9e3d191ead9",
+    "hash": "9d4e1669fdee952273a021d461fda746",
+    "time": "2026-10-18T05:42:40Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/Egonex-AI/Understand-Anything",
+    "description": "Egonex-AI/Understand-Anything: Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+    "extended": "",
+    "meta": "332c6f3c752384db83af90fe69905ab6",
+    "hash": "5551190cc564c3d4243b427636a1f6e3",
+    "time": "2026-10-18T05:42:04Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://agentsinthecloud.com/",
     "description": "AgentsInTheCloud",
     "extended": "",
