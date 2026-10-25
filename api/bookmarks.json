@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://github.com/ethany14/Eregion-Job-Finding-Agent",
+    "description": "ethany14/Eregion-Job-Finding-Agent: Your job landing in one conversation",
+    "extended": "",
+    "meta": "2fad6d743aeb91a7c72c497aed7fc83c",
+    "hash": "5be7080c0b84d89df59ee1a3178ed4fa",
+    "time": "2026-10-23T07:41:49Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/vectorize-io/hindsight",
+    "description": "vectorize-io/hindsight: Hindsight: Agent Memory That Learns",
+    "extended": "",
+    "meta": "a7052ceb6ba71c943bcb3f04eb81d801",
+    "hash": "4628c962cd9b6f78d033cc862799a638",
+    "time": "2026-10-23T05:51:09Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/Spantree/backlog-ranker",
+    "description": "Spantree/backlog-ranker",
+    "extended": "",
+    "meta": "0a4a03188091093651f637cf06c09710",
+    "hash": "c6bbd37c2d4c76232b3c35c044c6cc46",
+    "time": "2026-10-23T05:50:21Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://aws.amazon.com/blogs/compute/building-an-aeo-scoring-pipeline-with-aws-lambda-durable-functions/",
+    "description": "Building an AEO scoring pipeline with AWS Lambda durable functions | AWS Compute Blog",
+    "extended": "",
+    "meta": "24be824efd53995cc44decec46e6ba9c",
+    "hash": "2109a28e237a9f34d2b52bd58fcda3ea",
+    "time": "2026-10-23T04:39:21Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "aws"
+  },
+  {
     "href": "https://github.com/chenxiachan/textfold",
     "description": "chenxiachan/textfold: Fold papers, web pages, files, and AI replies into five levels of detail. Zoom from an overview to the original text.",
     "extended": "",
