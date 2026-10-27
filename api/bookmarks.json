@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+    "description": "KrushnaVardhanReddy/PaperPilot: Your local AI copilot for documents",
+    "extended": "",
+    "meta": "f7fd99333d2e49e3232a1b6a0c55c822",
+    "hash": "1a4ef7905b099ee1daeb4832c4e778b5",
+    "time": "2026-10-26T06:11:56Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://adrs.systems/",
+    "description": "ADRs4AI — Your thinking stops disappearing. Your decisions start compounding.",
+    "extended": "",
+    "meta": "fdecb04034cf9b51042013db628cb209",
+    "hash": "70406f647dd07cd5959af1ffee236d4b",
+    "time": "2026-10-26T06:10:49Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://imageflowapp.com/",
+    "description": "ImageFlow: A native, node-based, image editor for macOS.",
+    "extended": "",
+    "meta": "2c43a3a2e7e95f6b4224671a96920108",
+    "hash": "b249885fd39bad9dac2992d71e0215ae",
+    "time": "2026-10-26T06:06:22Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/ethany14/Eregion-Job-Finding-Agent",
     "description": "ethany14/Eregion-Job-Finding-Agent: Your job landing in one conversation",
     "extended": "",
