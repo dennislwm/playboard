@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
+    "description": "Nicolas Mattia – Setting up SSH keys on macOS with Touch ID",
+    "extended": "",
+    "meta": "07bb92307c84a5cf009e94002d8f2f80",
+    "hash": "7a3378f0bb506466c73c2e7f403a78af",
+    "time": "2026-10-27T12:35:45Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "security"
+  },
+  {
+    "href": "https://github.com/DilawarShafiq/nietzschian-debugger",
+    "description": "DilawarShafiq/nietzschian-debugger: The anti-AI debugger. What doesn't kill your code makes it stronger. Confrontational questioning for developers.",
+    "extended": "",
+    "meta": "060208c66f617b47756d15c3bdf043d3",
+    "hash": "5469cc144bf7dbfc19f059117116ca6e",
+    "time": "2026-10-27T12:30:49Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/KrushnaVardhanReddy/PaperPilot",
     "description": "KrushnaVardhanReddy/PaperPilot: Your local AI copilot for documents",
     "extended": "",
