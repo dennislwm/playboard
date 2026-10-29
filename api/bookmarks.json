@@ -1,5 +1,38 @@
 [
   {
+    "href": "https://pertiller.tech/blog/my-video-written-in-code/",
+    "description": "This Video Is a JavaScript Function. Unit-Tested. In 10 Languages. | David Pertiller",
+    "extended": "",
+    "meta": "195a4d58572c0d841c4e71503bdede35",
+    "hash": "b3d98bc5536c365551780e8b682fca0b",
+    "time": "2026-10-28T12:38:04Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://github.com/StarTrail-org/LEANN",
+    "description": "StarTrail-org/LEANN: [MLsys2026 Best Paper]: https://arxiv.org/abs/2506.08276. RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.",
+    "extended": "",
+    "meta": "588786590116df1de6da98a4bab5f794",
+    "hash": "710dc930f140ad7c00829aaffa6115fd",
+    "time": "2026-10-28T12:14:05Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/xhluca/bm25s",
+    "description": "GitHub - xhluca/bm25s: Fast BM25 search in Python, powered by Numpy and Numba · GitHub",
+    "extended": "",
+    "meta": "f0b753d39183ad7fde7fffe035284075",
+    "hash": "833d534af24017f7267f227d8ee8e9db",
+    "time": "2026-10-28T07:10:19Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
     "description": "Nicolas Mattia – Setting up SSH keys on macOS with Touch ID",
     "extended": "",
