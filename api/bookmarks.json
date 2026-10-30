@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+    "description": "Claude Code burns ~15-20% of your tokens on a 3-word status line: a Bun preload that turns agent_summary off · by Flamerix AI, flamerix.ai · MIT",
+    "extended": "",
+    "meta": "bbbd23fa17d41eb31b42590774f7e683",
+    "hash": "ac1de5df7e08801558ecf62060d1bb06",
+    "time": "2026-10-29T12:30:48Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://pertiller.tech/blog/my-video-written-in-code/",
     "description": "This Video Is a JavaScript Function. Unit-Tested. In 10 Languages. | David Pertiller",
     "extended": "",
