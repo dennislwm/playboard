@@ -1,5 +1,115 @@
 [
   {
+    "href": "https://github.com/steel-experiments/internal-agents-map",
+    "description": "steel-experiments/internal-agents-map: A map and learning exchange for companies building proprietary internal AI agents — catalog, patterns, and adoption lessons.",
+    "extended": "",
+    "meta": "c4607f4144e0664e1066587eebdfb90a",
+    "hash": "aa724526e3048089b3c607b6677ee33e",
+    "time": "2026-10-31T04:50:04Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://steel.dev/",
+    "description": "Steel | Open-source Browser Infrastructure for AI Agents",
+    "extended": "",
+    "meta": "4e75592618d24532680f4101cb24ec5b",
+    "hash": "25af2f60322f76754da433e72336ad1e",
+    "time": "2026-10-31T04:48:28Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/yc-software/minecraft-agent-harness",
+    "description": "yc-software/minecraft-agent-harness: Run language-model agents in Minecraft with Mineflayer tools, persistent sessions and shell sandboxes.",
+    "extended": "",
+    "meta": "300d286a23afbf5829cd2a75d9425411",
+    "hash": "a89345f5f5b0d0d88d87a530634e0a6d",
+    "time": "2026-10-31T04:12:55Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://labs.ycombinator.com/projects/games/index.html",
+    "description": "Agents in Games · Labs",
+    "extended": "",
+    "meta": "88ebfc89626821a6e1b7c5ad784306b2",
+    "hash": "2fcdf3e17e01597353cb514d476eec39",
+    "time": "2026-10-31T04:12:34Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://github.com/lonthq/overtone-captions",
+    "description": "lonthq/overtone-captions: Reliable transcription, with captions cut for every screen shape from one file. An open caption format, a video.js plugin with style packs, and a CLI that recuts, burns in and exports word-timed captions.",
+    "extended": "",
+    "meta": "894a91962900465da306ca5c6eb2d9a0",
+    "hash": "c6dff013327add4d7248f4625cd5196d",
+    "time": "2026-10-31T04:03:21Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://blog.invisiblethings.org/2011/03/13/partitioning-my-digital-life-into.html",
+    "description": "Partitioning my digital life into security domains | The Invisible Things Blog",
+    "extended": "",
+    "meta": "955bfe1e97119a9a93c6823d89815343",
+    "hash": "857b471172c4ed5aba67b46483d1a958",
+    "time": "2026-10-31T04:02:33Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "security"
+  },
+  {
+    "href": "https://github.com/yjid/kensaku",
+    "description": "yjid/kensaku: Search inside documents, code, and even screenshots - instantly and locally. A free, open-source file launcher with OCR, semantic search, and MCP agent access.",
+    "extended": "",
+    "meta": "c87ce003ad77333c7507ecb346330e55",
+    "hash": "910448c2303d989f9e4ca918ac2b403e",
+    "time": "2026-10-31T03:23:39Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/microsoft/TokenEconomizer",
+    "description": "microsoft/TokenEconomizer: Experience-Driven Black-Box Cost Control for Coding Agents",
+    "extended": "",
+    "meta": "ee09f96572eeaa555727af9123e98eb8",
+    "hash": "1b85c775874b9c2a8fbdd58e716022e3",
+    "time": "2026-10-31T03:00:57Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/AienTech/dossier",
+    "description": "AienTech/dossier: A self-hosted job search app that writes tailored resumes and cover letters from your profile.",
+    "extended": "",
+    "meta": "bc723ac82a871daff8c16df08691bdc8",
+    "hash": "9372d6ca50331f829abdec944304625c",
+    "time": "2026-10-31T03:00:12Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/anthropics/single-agent-loop-kit",
+    "description": "anthropics/single-agent-loop-kit",
+    "extended": "",
+    "meta": "a8de91ca470c10a56eb56b0149de2785",
+    "hash": "bb45042a34f007f134ca65eaf145fbb4",
+    "time": "2026-10-31T02:10:54Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
     "description": "Claude Code burns ~15-20% of your tokens on a 3-word status line: a Bun preload that turns agent_summary off · by Flamerix AI, flamerix.ai · MIT",
     "extended": "",
