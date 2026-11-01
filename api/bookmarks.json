@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://github.com/ishwar00/simplify-by-design-review/blob/11faed6c9779d4f6af63c2b4c25d36303b051faf/SKILL.md",
+    "description": "simplify-by-design-review/SKILL.md at 11faed6c9779d4f6af63c2b4c25d36303b051faf · ishwar00/simplify-by-design-review",
+    "extended": "",
+    "meta": "07e9b44e90a9c697351263b4b0d79280",
+    "hash": "a9db8545421a8925e4ee57a14ffb3071",
+    "time": "2026-11-01T02:57:16Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://github.com/daveebbelaar/bama",
+    "description": "daveebbelaar/bama: BAMA: Build Any Mac App. Agent skills to research, clone, design, build, optimize, and test native macOS apps with Swift and SwiftUI.",
+    "extended": "",
+    "meta": "456291cafe9dbc28b4003cab7c5a342a",
+    "hash": "5720cc882b60243246208c8032273d39",
+    "time": "2026-10-31T11:17:13Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/tobi/qmd",
+    "description": "tobi/qmd: mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
+    "extended": "",
+    "meta": "da23a3832164e51ef8b60915d091c2d5",
+    "hash": "e388694ac33bd216160be8ad6046e21d",
+    "time": "2026-10-31T05:30:28Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/benjaminetienne/PMS",
+    "description": "benjaminetienne/PMS: A lightweight, local-first hybrid search engine and web clipper for personal Markdown knowledge bases",
+    "extended": "",
+    "meta": "5571978d247818388ca2d9ac05991e65",
+    "hash": "de93917bf03b4d414ca3ec133ddbe104",
+    "time": "2026-10-31T05:30:14Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/steel-experiments/internal-agents-map",
     "description": "steel-experiments/internal-agents-map: A map and learning exchange for companies building proprietary internal AI agents — catalog, patterns, and adoption lessons.",
     "extended": "",
