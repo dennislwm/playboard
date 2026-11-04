@@ -1,5 +1,82 @@
 [
   {
+    "href": "https://github.com/blader/humanizer",
+    "description": "blader/humanizer: Agent skill that removes signs of AI-generated writing from text",
+    "extended": "",
+    "meta": "36e84128fa0739cccc0d380416546c86",
+    "hash": "786d914db71c331d62b6cab76e01f80c",
+    "time": "2026-11-03T13:17:40Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/google/elephant-goldfish-model",
+    "description": "google/elephant-goldfish-model: Open-source skills for designing and reviewing software with AI agents",
+    "extended": "",
+    "meta": "035083fa1bf0f12a96172be4ac22b343",
+    "hash": "08db744a76fe1ce593d9589cf8f17ae2",
+    "time": "2026-11-03T13:12:04Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+    "description": "deepseek-ai/dsh-superagent-prototype: Towards a More Autonomous Agent System",
+    "extended": "",
+    "meta": "1ac58a440e31b3d7d673899e50b26e89",
+    "hash": "2057f72b7e3bf7b0ec6535459fa17a58",
+    "time": "2026-11-03T13:10:29Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/guregodevo/mario",
+    "description": "guregodevo/mario: Task Orchestration Engine",
+    "extended": "",
+    "meta": "f0843d7d4c57a48383d98413d512dcc8",
+    "hash": "af89b766fb91caf66acb53c042348c2e",
+    "time": "2026-11-03T13:09:11Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/guregodevo/memdoor/blob/main/README.md",
+    "description": "memdoor/README.md at main · guregodevo/memdoor",
+    "extended": "",
+    "meta": "3ad402b8a97e3c8b533f9e50a5996e32",
+    "hash": "eb9831da2517e0956f213f15e7a59028",
+    "time": "2026-11-03T13:06:50Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+    "description": "memdoor/examples/workflows/team-solve at main · guregodevo/memdoor",
+    "extended": "",
+    "meta": "72d54ed76bc105e4db61970e57cf852d",
+    "hash": "ace8a6b3d58e6b5e89fc60661c5d0584",
+    "time": "2026-11-03T13:05:13Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://timrutte.de/en/blog/rector-in-a-legacy-project/",
+    "description": "Using Rector in a legacy project",
+    "extended": "",
+    "meta": "bb5d95ee976fa85492e2a8c143f1f0b0",
+    "hash": "762cbb98c8f91de72006ef366c81f7fb",
+    "time": "2026-11-03T13:03:33Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://github.com/ishwar00/simplify-by-design-review/blob/11faed6c9779d4f6af63c2b4c25d36303b051faf/SKILL.md",
     "description": "simplify-by-design-review/SKILL.md at 11faed6c9779d4f6af63c2b4c25d36303b051faf · ishwar00/simplify-by-design-review",
     "extended": "",
