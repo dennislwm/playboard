@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://blog.lyc8503.net/en/post/high-performance-crawler/",
+    "description": "High-Concurrency Crawler Optimization Notes - From 1 QPS to 10,000 QPS",
+    "extended": "",
+    "meta": "6276299b7d5fa7d133fe3887ac6d8426",
+    "hash": "2daa0c2a09b9955527d5d42242bdb633",
+    "time": "2026-11-04T12:59:20Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "search"
+  },
+  {
+    "href": "https://github.com/ctxd-dev/ctxd",
+    "description": "ctxd-dev/ctxd: Open-source context infrastructure for agents. Sync changes, inspect paths and read current source content through Python, CLI or MCP.",
+    "extended": "",
+    "meta": "abe18376d953b136f534bfac59d8d726",
+    "hash": "01b4f2ae8bc5a7562b2d44642fa1d3d8",
+    "time": "2026-11-04T12:46:18Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/blader/humanizer",
     "description": "blader/humanizer: Agent skill that removes signs of AI-generated writing from text",
     "extended": "",
