@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://github.com/tonydzi/sqlite-graph-memory",
+    "description": "tonydzi/sqlite-graph-memory: Agent memory for Claude Code, Cursor, Codex: MCP server + Graph RAG over your Obsidian or markdown notes, a search layer for a Karpathy-style LLM Wiki. Wikilinks are the graph, SQLite the only store.",
+    "extended": "",
+    "meta": "3557a985fdbe85621d90b65436c12232",
+    "hash": "1e57f7dd62cbb31335658ce83b29ae5b",
+    "time": "2026-11-07T13:42:57Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://githubnext.com/projects/pdd-kit/",
+    "description": "PDD Kit",
+    "extended": "",
+    "meta": "d4b8b1c2852fc711603ac87a4ca98df2",
+    "hash": "fce2e80d8e796f4af6814f8e5666e688",
+    "time": "2026-11-07T13:30:28Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "tdd"
+  },
+  {
     "href": "https://unwall.app/",
     "description": "UnWall | Read Full Articles Without Paywalls",
     "extended": "",
