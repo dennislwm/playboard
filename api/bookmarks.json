@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://github.com/openai/codex-plugin-cc",
+    "description": "openai/codex-plugin-cc: Use Codex from Claude Code to review code or delegate tasks.",
+    "extended": "",
+    "meta": "c9c6360ace7175758a913c36ee770412",
+    "hash": "e4a46981129742c3ae823f756de929ad",
+    "time": "2026-11-09T02:40:56Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/8rank/iKnow",
+    "description": "8rank/iKnow: Viz. Apple IntelligencePlatform store",
+    "extended": "",
+    "meta": "63439b9f9c4bbfed42967dee0633055e",
+    "hash": "d7178696f14b2613c0d2539260056a0e",
+    "time": "2026-11-08T07:37:37Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/tonydzi/sqlite-graph-memory",
     "description": "tonydzi/sqlite-graph-memory: Agent memory for Claude Code, Cursor, Codex: MCP server + Graph RAG over your Obsidian or markdown notes, a search layer for a Karpathy-style LLM Wiki. Wikilinks are the graph, SQLite the only store.",
     "extended": "",
