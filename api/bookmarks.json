@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://github.com/PDG-Global/rVPN-core",
+    "description": "PDG-Global/rVPN-core: rVPN is a stealth VPN with end-to-end encryption written entirely in Rust.",
+    "extended": "",
+    "meta": "bd802e8ecf2986b962409c467daf3a16",
+    "hash": "d2b16be34011556dcd99dc23db5b5a55",
+    "time": "2026-11-14T08:58:31Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://thomasthornton.cloud/github-copilot-claude-code-codex-vscode-dev-containers/",
     "description": "Running GitHub Copilot, Claude Code and Codex in VS Code dev containers - Thomas Thornton Blog",
     "extended": "",
