@@ -1,5 +1,71 @@
 [
   {
+    "href": "https://paolino.me/optimizing-rubyllm-for-coding-agents/",
+    "description": "How I Optimized RubyLLM for Coding Agents",
+    "extended": "",
+    "meta": "2f865700c23885389181ba561deca473",
+    "hash": "4938c59debc2455be4207205149633bf",
+    "time": "2026-11-16T12:15:55Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://engseclabs.com/blog/things-llms-get-wrong-about-aws-iam/",
+    "description": "Things LLMs get wrong about AWS IAM — EngSecLabs",
+    "extended": "",
+    "meta": "68ded37fa82b84b13866badfd27c3353",
+    "hash": "ea1dccea673a948de4b4898e873e535e",
+    "time": "2026-11-16T12:14:02Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://www.aihero.dev/the-home-repo-pattern",
+    "description": "The Home Repo Pattern",
+    "extended": "",
+    "meta": "0261e111f8d21312ad346ac077497d3c",
+    "hash": "56a32c6ae20a8e90d621072311789370",
+    "time": "2026-11-16T12:11:07Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://github.com/srpadmanabhuni/agentest",
+    "description": "srpadmanabhuni/agentest: Test AI agents with 130 executable checks. Open source, deterministic, framework-independent: offline, no LLM judge, reads OpenTelemetry GenAI traces, A2A and MCP. CI-ready.",
+    "extended": "",
+    "meta": "e061eab3cee9c6bc6bb722e254fff7a2",
+    "hash": "8c553e23830437ddc7af32e3a7592038",
+    "time": "2026-11-16T11:48:32Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/libracoder/kiri",
+    "description": "libracoder/kiri: A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative",
+    "extended": "",
+    "meta": "7f2ef91df8800fe281bf8fda309c71bd",
+    "hash": "0e44740e4e95e8d5215a19945c7ec6ed",
+    "time": "2026-11-16T11:37:35Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/wharton-generative-ai-labs/primer",
+    "description": "wharton-generative-ai-labs/primer: Primer",
+    "extended": "",
+    "meta": "b7005fd5c6fd37ad7994ecde72b95b39",
+    "hash": "115e5a06757bd385780f96f9152122b4",
+    "time": "2026-11-16T11:36:48Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/PDG-Global/rVPN-core",
     "description": "PDG-Global/rVPN-core: rVPN is a stealth VPN with end-to-end encryption written entirely in Rust.",
     "extended": "",
