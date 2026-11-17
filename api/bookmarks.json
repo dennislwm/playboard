@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://yetanotherbrowser.com/",
+    "description": "Yab, Yet Another Browser: a free Mac browser like Arc, with AI",
+    "extended": "",
+    "meta": "b82e97a1f0ad2f382be6a2918b7ae983",
+    "hash": "b54111430aefcf3c09356a31285331a8",
+    "time": "2026-11-17T13:48:14Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://paolino.me/optimizing-rubyllm-for-coding-agents/",
     "description": "How I Optimized RubyLLM for Coding Agents",
     "extended": "",
