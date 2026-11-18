@@ -1,5 +1,71 @@
 [
   {
+    "href": "https://vincent.build/openclaw-ci-cost-reduction/",
+    "description": "Making OpenClaw CI faster and 95% cheaper · Vincent Koc",
+    "extended": "",
+    "meta": "4d639a736558f05e77af45813be34c53",
+    "hash": "49be2ded6a8a312f69e67b95b4df288c",
+    "time": "2026-11-18T15:00:20Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://aws.amazon.com/blogs/security/securely-exposing-amazon-bedrock-agentcore-runtime/",
+    "description": "Securely exposing Amazon Bedrock AgentCore Runtime | AWS Security Blog",
+    "extended": "",
+    "meta": "ae652a5c2fc9ad49777b01c5e3dc1e37",
+    "hash": "d5f3001625f5e78fc7eb3534111dba9e",
+    "time": "2026-11-18T14:51:18Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "aws"
+  },
+  {
+    "href": "https://aws.amazon.com/blogs/devops/secure-mcp-integrations-for-aws-devops-agent-with-amazon-bedrock-agentcore/",
+    "description": "Secure MCP integrations for AWS DevOps Agent with Amazon Bedrock AgentCore | AWS DevOps & Developer Productivity Blog",
+    "extended": "",
+    "meta": "efaa4eafebfb0a85166b95c265280be7",
+    "hash": "adb0426a818fa02677ef86d5e76f778d",
+    "time": "2026-11-18T14:50:06Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "aws"
+  },
+  {
+    "href": "https://aws.amazon.com/blogs/compute/securing-rest-apis-with-jwt-authorizers-in-amazon-api-gateway/",
+    "description": "Securing REST APIs with JWT authorizers in Amazon API Gateway | AWS Compute Blog",
+    "extended": "",
+    "meta": "c3f10af530d383b88f70fbee0a8a781f",
+    "hash": "458f6eb47695ec641fdb01dfbb91d38d",
+    "time": "2026-11-18T14:46:39Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "aws"
+  },
+  {
+    "href": "https://github.com/vivekhaldar/white-collar-bench",
+    "description": "GitHub - vivekhaldar/white-collar-bench: Benchmark for agents that maintain a knowledge worker's projects, loops and people store · GitHub",
+    "extended": "",
+    "meta": "845e9e1f9f9cad2673e6b50fb0f90e51",
+    "hash": "81590dc07695fc8f892138f611edad50",
+    "time": "2026-11-18T14:45:33Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/CutWire-Studios/Drift",
+    "description": "GitHub - CutWire-Studios/Drift: Drift is a free, open-source, beginner-friendly desktop video editor built with Qt 6 and FFmpeg. · GitHub",
+    "extended": "",
+    "meta": "07925bc25d8f350498199bcaa494bc81",
+    "hash": "897cef261f7ed35b7cb655a7de183e62",
+    "time": "2026-11-18T14:38:17Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://yetanotherbrowser.com/",
     "description": "Yab, Yet Another Browser: a free Mac browser like Arc, with AI",
     "extended": "",
