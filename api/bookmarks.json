@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://openrun.dev/",
+    "description": "OpenRun - Open-Source Self-Hosted PaaS and GitOps Platform",
+    "extended": "",
+    "meta": "1e4b11627d0a2655e3ca24ab32feddca",
+    "hash": "28034606b13561550deed1c09f8e877b",
+    "time": "2026-11-20T04:26:48Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://hypothesis.readthedocs.io/en/latest/",
+    "description": "Hypothesis 6.170.16 documentation",
+    "extended": "",
+    "meta": "1d68294df76c67cf57932dfc20f31e31",
+    "hash": "c70ba9924e0c7d3dcc919a995605db8a",
+    "time": "2026-11-20T04:25:49Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://martinfowler.com/articles/data-contracts.html",
+    "description": "Data Contracts",
+    "extended": "",
+    "meta": "2f88a183dc0ff3fa73ada1b47b8ed222",
+    "hash": "a90a597f379fbbd96789ff92efd965ce",
+    "time": "2026-11-20T04:15:40Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "career"
+  },
+  {
+    "href": "https://blog.primeradiant.com/external-sandboxes-for-coding-agents/",
+    "description": "External sandboxes for coding agents",
+    "extended": "",
+    "meta": "d35f0b9780dc563e116995c0d7ac0893",
+    "hash": "2b146a8eb4054f3388c6288fbcd6d068",
+    "time": "2026-11-20T04:10:41Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://vincent.build/openclaw-ci-cost-reduction/",
     "description": "Making OpenClaw CI faster and 95% cheaper · Vincent Koc",
     "extended": "",
@@ -124,7 +168,7 @@
     "href": "https://github.com/libracoder/kiri",
     "description": "libracoder/kiri: A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative",
     "extended": "",
-    "meta": "7f2ef91df8800fe281bf8fda309c71bd",
+    "meta": "c0f3cbbe0cdc1b4dfca090620bb4ade8",
     "hash": "0e44740e4e95e8d5215a19945c7ec6ed",
     "time": "2026-11-16T11:37:35Z",
     "shared": "no",
