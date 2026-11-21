@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://recursion.wtf/posts/agents-and-property-tests/",
+    "description": "Property Testing with Agent Swarms - Inanna Malick",
+    "extended": "the property-testing skill",
+    "meta": "c025ede8c58d932996126078fe1adf4e",
+    "hash": "6e57d78216ef6a9e3c7035cddccb2723",
+    "time": "2026-11-21T05:39:26Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://github.com/inanna-malick/agent-skills/blob/main/skills/proptest-praxis/SKILL.md",
+    "description": "agent-skills/skills/proptest-praxis/SKILL.md at main · inanna-malick/agent-skills · GitHub",
+    "extended": "",
+    "meta": "a4ec8538ad16530ddd6209d127f50f03",
+    "hash": "bef4496897922f3941ebed4130d7d73e",
+    "time": "2026-11-21T05:38:45Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
     "href": "https://github.com/cmdai-hq/HUMANS.md",
     "description": "GitHub - cmdai-hq/HUMANS.md: HUMANS.md: an open format that tells AI agents how to work with you. AGENTS.md is for your codebase. HUMANS.md is for you. · GitHub",
     "extended": "",
