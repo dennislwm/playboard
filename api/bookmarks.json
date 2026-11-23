@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://joinmayberry.com/",
+    "description": "Mayberry, a self-hosted little library branch",
+    "extended": "",
+    "meta": "1010fe737ee7331e96f3f621d661ae72",
+    "hash": "761825982b5df10d1b1a79e39908b2fc",
+    "time": "2026-11-23T12:47:48Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/context-dot-dev/enrichable",
+    "description": "GitHub - context-dot-dev/enrichable: Open-source AI spreadsheet for data enrichment. Build lead lists from a prompt, research every row with live web data, and find work emails. Powered by Context.dev. · GitHub",
+    "extended": "",
+    "meta": "37241c22c3fa70ec35f0ddb2d5aaaf71",
+    "hash": "be99a2d9772cdd7ceeae0a34ca80990e",
+    "time": "2026-11-23T12:40:07Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/",
+    "description": "Testing Terraform with AWS Emulator",
+    "extended": "",
+    "meta": "5f2df351de6d57290f3af9c08177daf1",
+    "hash": "fd7500e9dc874fc2f7a257d72ca449f4",
+    "time": "2026-11-23T12:24:45Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "aws"
+  },
+  {
+    "href": "https://github.com/cursor/plugins/blob/main/pstack/skills/poteto-mode/SKILL.md",
+    "description": "plugins/pstack/skills/poteto-mode/SKILL.md at main · cursor/plugins · GitHub",
+    "extended": "poteto-mode",
+    "meta": "30a711b5089eb8d2415d53a124a3f419",
+    "hash": "88c7783fd85accd45e9f4cd5fb622872",
+    "time": "2026-11-23T12:19:09Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://recursion.wtf/posts/agents-and-property-tests/",
     "description": "Property Testing with Agent Swarms - Inanna Malick",
     "extended": "the property-testing skill",
