@@ -1,5 +1,16 @@
 [
   {
+    "href": "https://github.com/bluesky-social/diderot",
+    "description": "GitHub - bluesky-social/diderot: Search and ask across your organization's knowledge: Slack, coding-agent sessions, docs and tickets. Self-hosted. · GitHub",
+    "extended": "",
+    "meta": "b46212475b3af26f0ed4dc1c8a28e85c",
+    "hash": "73e8054b5307f9a26bda8378f02a37ae",
+    "time": "2026-11-24T12:33:10Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://joinmayberry.com/",
     "description": "Mayberry, a self-hosted little library branch",
     "extended": "",
