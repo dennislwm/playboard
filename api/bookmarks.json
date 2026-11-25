@@ -1,5 +1,49 @@
 [
   {
+    "href": "https://garybake.com/how-much-can-i-hand-to-claude.html",
+    "description": "Programming, Machine learning and Electronics chit chat – How much can I hand to Claude and still own the feature?",
+    "extended": "COGNITIVE_OWNERSHIP.md",
+    "meta": "39ee17d048c121a0ae145142fad658ba",
+    "hash": "4b6979153af63906a7395059093690e0",
+    "time": "2026-11-25T13:36:42Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://inmve.github.io/agentic-coding-practices/",
+    "description": "A year of agentic coding",
+    "extended": "",
+    "meta": "6748155756d2969a0d9efe8c90df20c9",
+    "hash": "b6b8ab606d6babeaa18a668d3771a198",
+    "time": "2026-11-25T13:32:33Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "chatbot"
+  },
+  {
+    "href": "https://github.com/antonbabenko/terraform-skill",
+    "description": "GitHub - antonbabenko/terraform-skill: Terraform & OpenTofu Skill for AI Agents - testing, modules, CI/CD, and production patterns · GitHub",
+    "extended": "",
+    "meta": "701e872872882e4620ef6940199a8886",
+    "hash": "581800ca82b97d207cc3eab6323263fc",
+    "time": "2026-11-25T13:26:30Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://yogurt.so/",
+    "description": "Yogurt · AI meeting notes that stay on your computer",
+    "extended": "",
+    "meta": "12706ebae0fb7a552032497dbfaf8ff8",
+    "hash": "d76e7fd92505fdbc6e8787847c849e71",
+    "time": "2026-11-25T13:16:27Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/bluesky-social/diderot",
     "description": "GitHub - bluesky-social/diderot: Search and ask across your organization's knowledge: Slack, coding-agent sessions, docs and tickets. Self-hosted. · GitHub",
     "extended": "",
