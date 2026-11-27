@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://github.com/davidtemkin/declarelang",
+    "description": "GitHub - davidtemkin/declarelang: The UI language for you and your AI · GitHub",
+    "extended": "",
+    "meta": "9118d21b688be2f4905e1853535508ff",
+    "hash": "511fefe2c27d79b9e54c7358e5dd264b",
+    "time": "2026-11-27T06:05:47Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://github.com/fzakaria/tabc",
+    "description": "GitHub - fzakaria/tabc: An OCI runtime that runs each container in a browser tab. · GitHub",
+    "extended": "",
+    "meta": "52444b0e66eabbbf0b19a4af5101f6c6",
+    "hash": "a42ab8078c992987e6653a36307a4768",
+    "time": "2026-11-27T06:01:18Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://garybake.com/how-much-can-i-hand-to-claude.html",
     "description": "Programming, Machine learning and Electronics chit chat – How much can I hand to Claude and still own the feature?",
     "extended": "COGNITIVE_OWNERSHIP.md",
