@@ -1,5 +1,27 @@
 [
   {
+    "href": "https://github.com/datadog-labs/ephyra",
+    "description": "GitHub - datadog-labs/ephyra: A property-based testing library for the LLM era · GitHub",
+    "extended": "",
+    "meta": "bd35639fca7fe08783d922606b2fe908",
+    "hash": "390a04561ea4907a8679a60ec8d63459",
+    "time": "2026-11-27T11:27:22Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
+    "href": "https://a2ui.org/",
+    "description": "A2UI — Build delightful, fast, reliable agentic experiences",
+    "extended": "",
+    "meta": "72731beb055743c1d3f0baf4f940e7ee",
+    "hash": "d84f0b33f1ae32f043940a95052f68a8",
+    "time": "2026-11-27T11:23:32Z",
+    "shared": "no",
+    "toread": "no",
+    "tags": "github"
+  },
+  {
     "href": "https://github.com/davidtemkin/declarelang",
     "description": "GitHub - davidtemkin/declarelang: The UI language for you and your AI · GitHub",
     "extended": "",
